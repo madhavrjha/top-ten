@@ -1,0 +1,106 @@
+:root {
+  --bg: #f6f5f1;
+  --surface: #ffffff;
+  --text: #1d1d1f;
+  --muted: #6b6b70;
+  --border: #e2e0da;
+  --accent: #3b5bdb;
+  --accent-text: #ffffff;
+  --good: #2b8a3e;
+  --good-bg: #e6f4ea;
+  --bad: #c92a2a;
+  --bad-bg: #fdecec;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #141416;
+    --surface: #1e1e22;
+    --text: #ececef;
+    --muted: #9a9aa2;
+    --border: #2f2f35;
+    --accent: #748ffc;
+    --accent-text: #0d0d10;
+    --good: #69db7c;
+    --good-bg: #1b2e20;
+    --bad: #ff8787;
+    --bad-bg: #351c1c;
+  }
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font: 16px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+.app { max-width: 680px; margin: 0 auto; padding: 24px 16px 48px; }
+.top { display: flex; align-items: baseline; justify-content: space-between; margin-bottom: 16px; }
+.top h1 { font-size: 22px; margin: 0; cursor: pointer; }
+.muted { color: var(--muted); }
+.small { font-size: 13px; text-transform: uppercase; letter-spacing: .06em; }
+.hidden { display: none !important; }
+.center { text-align: center; }
+.row { display: flex; gap: 10px; align-items: center; justify-content: center; flex-wrap: wrap; }
+
+button {
+  font: inherit; cursor: pointer; border-radius: 10px;
+  border: 1px solid var(--border); background: var(--surface); color: var(--text);
+  padding: 10px 16px;
+}
+button.primary { background: var(--accent); color: var(--accent-text); border-color: var(--accent); font-weight: 600; }
+button.ghost { background: transparent; }
+button:disabled { cursor: default; }
+
+.levels { display: grid; gap: 12px; margin-top: 16px; }
+.level-card {
+  display: flex; flex-direction: column; align-items: flex-start; gap: 2px;
+  text-align: left; padding: 16px 18px;
+}
+.level-card:hover { border-color: var(--accent); }
+.level-num { font-size: 12px; text-transform: uppercase; letter-spacing: .08em; color: var(--accent); font-weight: 600; }
+
+.progress-row { display: flex; justify-content: space-between; font-size: 14px; margin-bottom: 6px; }
+.bar { height: 6px; background: var(--border); border-radius: 3px; overflow: hidden; margin-bottom: 16px; }
+#bar-fill { height: 100%; width: 0; background: var(--accent); transition: width .3s; }
+
+.card {
+  background: var(--surface); border: 1px solid var(--border); border-radius: 14px;
+  padding: 22px;
+}
+.prompt { font-size: 28px; font-weight: 700; margin: 6px 0 18px; word-break: break-word; }
+.prompt.meaning { font-size: 20px; font-weight: 500; }
+
+.options { display: grid; gap: 10px; }
+.options button { text-align: left; padding: 12px 14px; }
+.options button:hover:not(:disabled) { border-color: var(--accent); }
+.options button.correct { background: var(--good-bg); border-color: var(--good); color: var(--good); }
+.options button.wrong { background: var(--bad-bg); border-color: var(--bad); color: var(--bad); }
+
+.spell { display: flex; gap: 10px; }
+.spell input, #search {
+  flex: 1; min-width: 0; font: inherit; padding: 10px 12px; border-radius: 10px;
+  border: 1px solid var(--border); background: var(--bg); color: var(--text);
+}
+.spell input { font-size: 20px; }
+.hint-row { margin-top: 12px; display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
+.hint { color: var(--muted); }
+.hint .letters { font-family: ui-monospace, Menlo, monospace; letter-spacing: .25em; color: var(--text); }
+
+.feedback { margin-top: 18px; padding: 14px 16px; border-radius: 10px; }
+.feedback.good { background: var(--good-bg); }
+.feedback.bad { background: var(--bad-bg); }
+.feedback .verdict { font-weight: 700; margin-bottom: 6px; }
+.feedback.good .verdict { color: var(--good); }
+.feedback.bad .verdict { color: var(--bad); }
+
+.details h3 { margin: 0 0 4px; font-size: 20px; }
+.details p { margin: 4px 0; }
+.details ul { margin: 6px 0 0; padding-left: 20px; }
+.details .label { font-weight: 600; }
+
+.quiz-actions { display: flex; justify-content: space-between; margin-top: 14px; }
+
+.word-list { display: grid; gap: 10px; margin-top: 16px; }
+.word-list .card { padding: 16px 18px; }
+#search { flex: 1; }

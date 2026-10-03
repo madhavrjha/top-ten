@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Vocab Trainer</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="app">
+    <header class="top">
+      <h1 id="home-link">Vocab Trainer</h1>
+      <span id="word-count" class="muted"></span>
+    </header>
+
+    <!-- Home -->
+    <section id="home" class="screen">
+      <p class="muted">Words are shuffled into rounds of 10. A missed word comes back later in the round — clear all 10 to unlock the next round.</p>
+      <div class="levels">
+        <button class="level-card" data-level="1">
+          <span class="level-num">Level 1</span>
+          <strong>Pick the meaning</strong>
+          <span class="muted">See the word, click the right meaning.</span>
+        </button>
+        <button class="level-card" data-level="2">
+          <span class="level-num">Level 2</span>
+          <strong>Spell the word</strong>
+          <span class="muted">See the meaning, type the exact word. Hints available.</span>
+        </button>
+        <button class="level-card" data-level="browse">
+          <span class="level-num">Library</span>
+          <strong>Browse all words</strong>
+          <span class="muted">Read meanings, tricks and examples.</span>
+        </button>
+      </div>
+    </section>
+
+    <!-- Quiz -->
+    <section id="quiz" class="screen hidden">
+      <div class="progress-row">
+        <span id="round-label"></span>
+        <span id="cleared-label" class="muted"></span>
+      </div>
+      <div class="bar"><div id="bar-fill"></div></div>
+
+      <div class="card">
+        <div id="prompt-kind" class="muted small"></div>
+        <div id="prompt" class="prompt"></div>
+
+        <div id="options" class="options"></div>
+
+        <form id="spell-form" class="spell hidden" autocomplete="off">
+          <input id="spell-input" type="text" spellcheck="false" autocapitalize="off" placeholder="Type the word…">
+          <button type="submit" class="primary">Check</button>
+        </form>
+        <div id="hint-row" class="hint-row hidden">
+          <button id="hint-btn" type="button" class="ghost">Show hint</button>
+          <div id="hint" class="hint"></div>
+        </div>
+
+        <div id="feedback" class="feedback hidden"></div>
+      </div>
+      <div class="quiz-actions">
+        <button id="quit-btn" class="ghost">Quit</button>
+        <button id="next-btn" class="primary hidden">Next ↵</button>
+      </div>
+    </section>
+
+    <!-- Round / session done -->
+    <section id="done" class="screen hidden">
+      <div class="card center">
+        <h2 id="done-title"></h2>
+        <p id="done-text" class="muted"></p>
+        <div class="row">
+          <button id="home-btn" class="ghost">Home</button>
+          <button id="continue-btn" class="primary"></button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Browse -->
+    <section id="browse" class="screen hidden">
+      <div class="row">
+        <button id="browse-back" class="ghost">← Back</button>
+        <input id="search" type="search" placeholder="Search words or meanings…">
+      </div>
+      <div id="word-list" class="word-list"></div>
+    </section>
+  </main>
+
+  <script src="words-data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
