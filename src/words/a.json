@@ -16,7 +16,8 @@
     "examples": [
       "She abhors violence of any kind.",
       "My father abhors wasting food."
-    ]
+    ],
+    "level": "medium"
   },
   {
     "word": "abide",
@@ -25,7 +26,8 @@
     "examples": [
       "I can't abide people who are rude to waiters.",
       "All players must abide by the rules of the game."
-    ]
+    ],
+    "level": "medium"
   },
   {
     "word": "abiding",
@@ -34,7 +36,8 @@
     "examples": [
       "He is a law-abiding citizen who has never broken a rule.",
       "She has an abiding love for old Hindi songs."
-    ]
+    ],
+    "level": "medium"
   },
   {
     "word": "abolish",
@@ -43,7 +46,8 @@
     "examples": [
       "The government decided to abolish the old tax.",
       "Many people campaigned to abolish child labour."
-    ]
+    ],
+    "level": "medium"
   },
   {
     "word": "abolished",
@@ -52,7 +56,8 @@
     "examples": [
       "Slavery was abolished in the British Empire in 1833.",
       "The school abolished its strict uniform rules last year."
-    ]
+    ],
+    "level": "medium"
   },
   {
     "word": "abrupt",
@@ -61,7 +66,8 @@
     "examples": [
       "The bus came to an abrupt stop.",
       "His abrupt reply made her feel unwelcome."
-    ]
+    ],
+    "level": "medium"
   },
   {
     "word": "absolved",
@@ -70,6 +76,25 @@
     "examples": [
       "The court absolved him of all charges.",
       "Her apology absolved her of guilt in her own mind."
+    ],
+    "level": "hard"
+  },
+  {
+    "word": "abstain",
+    "meaning": "To deliberately hold back from doing or enjoying something, especially voting, drinking or eating",
+    "trick": "ab (away) + stain — stay away so you don't get stained.",
+    "examples": [
+      "He decided to abstain from sugar for a month.",
+      "Three members chose to abstain from the vote."
+    ]
+  },
+  {
+    "word": "abstract",
+    "meaning": "Existing as an idea rather than a physical thing; not concrete",
+    "trick": "Abstract art — shapes and colors, not real objects you can touch.",
+    "examples": [
+      "Love and justice are abstract ideas.",
+      "Her explanation was too abstract for the students to follow."
     ]
   },
   {
@@ -79,7 +104,8 @@
     "examples": [
       "The tickets were absurdly expensive.",
       "He was absurdly confident for someone who hadn't studied."
-    ]
+    ],
+    "level": "medium"
   },
   {
     "word": "abundance",
@@ -88,7 +114,8 @@
     "examples": [
       "The garden had an abundance of mangoes this summer.",
       "There is an abundance of evidence against him."
-    ]
+    ],
+    "level": "easy"
   },
   {
     "word": "abundant",
@@ -97,6 +124,16 @@
     "examples": [
       "Fresh water is abundant in this region.",
       "The forest has abundant wildlife."
+    ],
+    "level": "easy"
+  },
+  {
+    "word": "abyss",
+    "meaning": "A very deep hole or chasm that seems bottomless; also a hopeless situation",
+    "trick": "A-BYSS ≈ 'a bottomless' pit — no bottom to be seen.",
+    "examples": [
+      "He stared down into the dark abyss below the cliff.",
+      "The country was on the edge of an economic abyss."
     ]
   },
   {
@@ -106,7 +143,8 @@
     "examples": [
       "An acacia tree gave the only shade in the dry field.",
       "Giraffes nibble leaves from the thorny acacia."
-    ]
+    ],
+    "level": "medium"
   },
   {
     "word": "acclimatization",
@@ -115,6 +153,25 @@
     "examples": [
       "Climbers need a few days of acclimatization before going higher.",
       "Acclimatization to the new office took her about a month."
+    ],
+    "level": "medium"
+  },
+  {
+    "word": "accolades",
+    "meaning": "Awards, praise or honours given for an achievement",
+    "trick": "ACCOLADES ≈ 'a cola' for the champion — a reward for doing well.",
+    "examples": [
+      "The film received accolades from critics around the world.",
+      "Despite all the accolades, she remained humble."
+    ]
+  },
+  {
+    "word": "accommodate",
+    "meaning": "To provide room or space for someone; to adjust to fit someone's needs",
+    "trick": "Spelling: double C, double M — it accommodates two of each.",
+    "examples": [
+      "The hotel can accommodate up to 200 guests.",
+      "The teacher tried to accommodate every student's needs."
     ]
   },
   {
@@ -124,7 +181,8 @@
     "examples": [
       "Her mother accompanied her to the interview.",
       "The singer was accompanied by a guitarist."
-    ]
+    ],
+    "level": "medium"
   },
   {
     "word": "accordion",
@@ -133,7 +191,8 @@
     "examples": [
       "The old man played a cheerful tune on his accordion.",
       "The accordion's sound filled the small café."
-    ]
+    ],
+    "level": "medium"
   },
   {
     "word": "accusatory",
@@ -142,7 +201,8 @@
     "examples": [
       "She gave him an accusatory look when the cake went missing.",
       "His email had an accusatory tone."
-    ]
+    ],
+    "level": "medium"
   },
   {
     "word": "accusing",
@@ -151,7 +211,8 @@
     "examples": [
       "Stop accusing me of lying!",
       "She pointed an accusing finger at her brother."
-    ]
+    ],
+    "level": "medium"
   },
   {
     "word": "accustomed",
@@ -160,6 +221,16 @@
     "examples": [
       "I'm not accustomed to waking up so early.",
       "Her eyes slowly grew accustomed to the dark."
+    ],
+    "level": "easy"
+  },
+  {
+    "word": "aching",
+    "meaning": "Feeling a continuous, dull pain",
+    "trick": "Ache + ing — 'ACHE' sounds like 'ek' pain that keeps going.",
+    "examples": [
+      "My legs were aching after the long hike.",
+      "She had an aching feeling of loneliness."
     ]
   },
   {
@@ -169,6 +240,16 @@
     "examples": [
       "She is acing all her exams this year.",
       "He's acing his new job and already got a promotion."
+    ],
+    "level": "medium"
+  },
+  {
+    "word": "acknowledging",
+    "meaning": "Accepting or admitting that something is true or exists; showing you have noticed someone",
+    "trick": "Ac-KNOWLEDGE-ing — showing you have knowledge of it.",
+    "examples": [
+      "Acknowledging your mistakes is the first step to improving.",
+      "He nodded, acknowledging her presence in the room."
     ]
   },
   {
@@ -178,7 +259,8 @@
     "examples": [
       "The guru was surrounded by his acolytes.",
       "The CEO's acolytes agreed with everything he said."
-    ]
+    ],
+    "level": "hard"
   },
   {
     "word": "acquaintance",
@@ -208,6 +290,24 @@
     ]
   },
   {
+    "word": "adage",
+    "meaning": "A short, well-known saying that expresses a general truth",
+    "trick": "ADAGE ≈ 'AGE-old' saying — wisdom passed down through ages.",
+    "examples": [
+      "The old adage says, 'Practice makes perfect.'",
+      "He lived by the adage that honesty is the best policy."
+    ]
+  },
+  {
+    "word": "adhere",
+    "meaning": "To stick firmly to something; to follow a rule or belief closely",
+    "trick": "AD-HERE — glue it right 'here' so it sticks (like adhesive).",
+    "examples": [
+      "The sticker didn't adhere to the wet surface.",
+      "All players must adhere to the rules of the game."
+    ]
+  },
+  {
     "word": "adjournment",
     "meaning": "A temporary pause or postponement of a meeting, trial, etc.",
     "trick": "Adjournment → a pause in the JOURNey; we'll continue later.",
@@ -226,6 +326,24 @@
     ]
   },
   {
+    "word": "adolescence",
+    "meaning": "The period of life between childhood and adulthood; the teenage years",
+    "trick": "ADOLESCENCE — the 'adult-essence' is still forming.",
+    "examples": [
+      "Adolescence is a time of big physical and emotional change.",
+      "He spent his adolescence in a small village."
+    ]
+  },
+  {
+    "word": "adrenaline",
+    "meaning": "A hormone released in fear or excitement that makes the heart beat faster and gives a burst of energy",
+    "trick": "Adrenaline rush — the energy boost you feel on a roller coaster.",
+    "examples": [
+      "The adrenaline kicked in as the race began.",
+      "Skydiving gave her a huge rush of adrenaline."
+    ]
+  },
+  {
     "word": "adrift",
     "meaning": "Floating without being steered; without purpose or direction",
     "trick": "A-DRIFT → drifting with no direction.",
@@ -235,12 +353,39 @@
     ]
   },
   {
+    "word": "adulation",
+    "meaning": "Excessive admiration or praise",
+    "trick": "ADULATION ≈ 'adore-lation' — adoring someone too much.",
+    "examples": [
+      "The pop star enjoyed the adulation of millions of fans.",
+      "He was uncomfortable with the adulation that followed his win."
+    ]
+  },
+  {
+    "word": "adulterer",
+    "meaning": "A married person who has a sexual relationship with someone other than their spouse",
+    "trick": "Adultery → the person who commits it is an adulterer.",
+    "examples": [
+      "In the novel, the adulterer is eventually exposed.",
+      "She refused to forgive the adulterer who had betrayed her sister."
+    ]
+  },
+  {
     "word": "adultery",
     "meaning": "Sexual relationship between a married person and someone who is not their spouse",
     "trick": "Adultery → 'adult' + 'tery' — an adult cheating on their marriage.",
     "examples": [
       "The novel is about a marriage destroyed by adultery.",
       "Adultery was given as the reason for the divorce."
+    ]
+  },
+  {
+    "word": "adventure",
+    "meaning": "An unusual, exciting and sometimes risky experience or journey",
+    "trick": "AD-VENTURE — 'venture' out into the unknown.",
+    "examples": [
+      "Their trip to the mountains was a real adventure.",
+      "The children read a story full of adventure and mystery."
     ]
   },
   {
@@ -259,6 +404,15 @@
     "examples": [
       "The medicine had no adverse effects.",
       "Adverse weather delayed the flight."
+    ]
+  },
+  {
+    "word": "adversity",
+    "meaning": "Difficulties, hardship or misfortune",
+    "trick": "Adverse (add worse) → adversity: things keep getting worse.",
+    "examples": [
+      "She showed great courage in the face of adversity.",
+      "Adversity often makes people stronger."
     ]
   },
   {
@@ -316,6 +470,15 @@
     ]
   },
   {
+    "word": "aggregating",
+    "meaning": "Collecting or combining many separate items into one group or total",
+    "trick": "AGGREGATE ≈ 'a great gate' where everything gathers together.",
+    "examples": [
+      "The app works by aggregating news from many sources.",
+      "We are aggregating the survey results into one report."
+    ]
+  },
+  {
     "word": "aggrieved",
     "meaning": "Upset or angry because of unfair treatment",
     "trick": "A-GRIEVED → full of grief because of unfair treatment.",
@@ -343,12 +506,30 @@
     ]
   },
   {
+    "word": "agonizes",
+    "meaning": "Worries or thinks very hard about something for a long time, with distress",
+    "trick": "Agony → agonizes: being in agony over a decision.",
+    "examples": [
+      "She agonizes over every small decision.",
+      "He agonizes about what others think of him."
+    ]
+  },
+  {
     "word": "agony",
     "meaning": "Extreme physical or mental pain and suffering",
     "trick": "Agony → 'AGO-NY' → pain that won't go away.",
     "examples": [
       "He was in agony after breaking his leg.",
       "Waiting for the results was pure agony."
+    ]
+  },
+  {
+    "word": "aid",
+    "meaning": "Help or support; to help",
+    "trick": "First AID — help given immediately.",
+    "examples": [
+      "The charity sends food aid to flood victims.",
+      "A map will aid you in finding the way."
     ]
   },
   {
@@ -388,12 +569,39 @@
     ]
   },
   {
+    "word": "airy-fairy",
+    "meaning": "Vague, impractical and not based on reality",
+    "trick": "Made of AIR and FAIRY dust — nothing solid or practical.",
+    "examples": [
+      "His plans sound nice but are a bit airy-fairy.",
+      "We need real figures, not airy-fairy ideas."
+    ]
+  },
+  {
     "word": "aisle",
     "meaning": "A passage between rows of seats or shelves",
     "trick": "Think of the aisle seat on a plane or the aisles in a supermarket.",
     "examples": [
       "I always book an aisle seat so I can stretch my legs.",
       "The bride walked slowly down the aisle."
+    ]
+  },
+  {
+    "word": "akin to",
+    "meaning": "Similar to; of a similar kind",
+    "trick": "AKIN ≈ 'a kin' (family) — related, so similar.",
+    "examples": [
+      "The feeling was akin to falling in love.",
+      "His style of painting is akin to that of the old masters."
+    ]
+  },
+  {
+    "word": "albeit",
+    "meaning": "Although; even though",
+    "trick": "ALBEIT = 'ALl BE IT' so — although it is so.",
+    "examples": [
+      "He agreed, albeit reluctantly.",
+      "It was a good result, albeit a lucky one."
     ]
   },
   {
@@ -424,12 +632,48 @@
     ]
   },
   {
+    "word": "alienating",
+    "meaning": "Making someone feel isolated, unwelcome or unfriendly towards you",
+    "trick": "ALIEN-ating — making someone feel like an alien among you.",
+    "examples": [
+      "His rude comments ended up alienating his friends.",
+      "The new policy risks alienating loyal customers."
+    ]
+  },
+  {
+    "word": "alimony",
+    "meaning": "Money that a person is legally ordered to pay to their former spouse after divorce",
+    "trick": "ALI-MONEY — the money paid after the marriage ends.",
+    "examples": [
+      "The court ordered him to pay monthly alimony.",
+      "She received alimony for several years after the divorce."
+    ]
+  },
+  {
     "word": "allayed",
     "meaning": "Reduced or calmed fears, worries or doubts",
     "trick": "\"All-ayed\" = \"all okay\" — makes the worry go away.",
     "examples": [
       "The doctor's calm words allayed her fears about the surgery.",
       "The bank allayed customer concerns with a clear statement."
+    ]
+  },
+  {
+    "word": "alleviate",
+    "meaning": "To make pain, suffering or a problem less severe",
+    "trick": "ALLEVIATE ≈ 'all elevate' — lift all the weight off and make it lighter.",
+    "examples": [
+      "The medicine helped alleviate her headache.",
+      "New roads were built to alleviate traffic congestion."
+    ]
+  },
+  {
+    "word": "alluring",
+    "meaning": "Very attractive or tempting in a mysterious way",
+    "trick": "A LURE — a fishing lure attracts and tempts the fish.",
+    "examples": [
+      "The alluring smell of fresh bread filled the street.",
+      "She found the offer of a job abroad very alluring."
     ]
   },
   {
@@ -532,6 +776,15 @@
     ]
   },
   {
+    "word": "amigo",
+    "meaning": "A friend (informal, from Spanish)",
+    "trick": "Spanish for friend — 'Hola, amigo!'",
+    "examples": [
+      "He greeted me with a smile: 'Hello, amigo!'",
+      "They have been amigos since school."
+    ]
+  },
+  {
     "word": "ammunition",
     "meaning": "Bullets, shells and bombs fired from weapons",
     "trick": "Ammo-nition = bullets and bombs.",
@@ -613,6 +866,15 @@
     ]
   },
   {
+    "word": "anarcho-communist",
+    "meaning": "A person who believes in a society with no government and no private property, where everything is shared",
+    "trick": "ANARCHY (no government) + COMMUNIST (shared property).",
+    "examples": [
+      "The anarcho-communist argued that the state should be abolished.",
+      "He described himself as an anarcho-communist in his youth."
+    ]
+  },
+  {
     "word": "anchored",
     "meaning": "Held firmly in place (like a ship by its anchor)",
     "trick": "A ship anchored deep cannot drift.",
@@ -637,6 +899,15 @@
     "examples": [
       "The dentist gave him a local anesthetic before pulling the tooth.",
       "She was under general anesthetic for the whole operation."
+    ]
+  },
+  {
+    "word": "angsty",
+    "meaning": "Full of anxiety, worry or teenage-style emotional turmoil",
+    "trick": "ANGST (German for fear/anxiety) + y — moody and anxious.",
+    "examples": [
+      "The band is known for its angsty teenage songs.",
+      "He went through an angsty phase in high school."
     ]
   },
   {
@@ -694,6 +965,15 @@
     ]
   },
   {
+    "word": "apparent",
+    "meaning": "Clearly visible or understood; seeming real but possibly not",
+    "trick": "Spelling: A-PP-A-RENT — it's 'a parent' that is clearly visible, not 'apparant'.",
+    "examples": [
+      "It was apparent that she was tired.",
+      "For no apparent reason, the lights went out."
+    ]
+  },
+  {
     "word": "apparition",
     "meaning": "A ghost or ghostlike image of a person",
     "trick": "Apparition = something that suddenly appears — the spirit of a dead person.",
@@ -748,6 +1028,15 @@
     ]
   },
   {
+    "word": "appropriate",
+    "meaning": "Suitable or proper for a particular situation",
+    "trick": "AP-PROPER-iate — the proper thing for the occasion.",
+    "examples": [
+      "Jeans are not appropriate for a job interview.",
+      "Please choose an appropriate time to call."
+    ]
+  },
+  {
     "word": "apricots",
     "meaning": "Small, soft, orange-yellow fruits with a stone inside",
     "trick": "Apri-cots — a fruit that looks like a tiny peach.",
@@ -784,6 +1073,15 @@
     ]
   },
   {
+    "word": "arbitrary",
+    "meaning": "Based on random choice or personal whim rather than reason or a system",
+    "trick": "ARBITRARY ≈ 'a bit random' — no real reason behind it.",
+    "examples": [
+      "The rules seemed arbitrary and unfair.",
+      "He picked an arbitrary number between one and ten."
+    ]
+  },
+  {
     "word": "arc",
     "meaning": "A curved line or shape, like part of a circle",
     "trick": "Think of a rainbow — it forms an arc across the sky.",
@@ -817,6 +1115,15 @@
     "examples": [
       "The palace was built for members of the aristocracy.",
       "Before the revolution, the aristocracy owned most of the land."
+    ]
+  },
+  {
+    "word": "arose",
+    "meaning": "Came into existence or appeared (past tense of arise); got up",
+    "trick": "A ROSE arose from the ground — it came up.",
+    "examples": [
+      "A problem arose during the meeting.",
+      "She arose early to watch the sunrise."
     ]
   },
   {
@@ -898,6 +1205,15 @@
     "examples": [
       "The workers spread fresh asphalt on the road.",
       "The asphalt was burning hot under the summer sun."
+    ]
+  },
+  {
+    "word": "assessed",
+    "meaning": "Evaluated or judged the quality, value or importance of something",
+    "trick": "Assess — like an exam that tests and grades you.",
+    "examples": [
+      "The damage was assessed by an insurance expert.",
+      "Students are assessed at the end of each term."
     ]
   },
   {
@@ -1000,12 +1316,30 @@
     ]
   },
   {
+    "word": "attempted",
+    "meaning": "Tried to do something, often something difficult",
+    "trick": "AT-TEMPT-ed — tempted to try, so you attempted it.",
+    "examples": [
+      "He attempted to climb the mountain alone.",
+      "She attempted the question but couldn't finish it."
+    ]
+  },
+  {
     "word": "aush",
     "meaning": "A traditional Afghan soup with noodles, vegetables and yogurt",
     "trick": "Aush sounds like 'ash-soup' → a warm Afghan noodle soup.",
     "examples": [
       "Her mother made a pot of aush for dinner.",
       "They shared steaming bowls of aush on the cold winter night."
+    ]
+  },
+  {
+    "word": "autonomy",
+    "meaning": "The freedom to govern yourself or make your own decisions without outside control",
+    "trick": "AUTO (self) + NOMY (law) — making your own laws, like an automatic self-driving car.",
+    "examples": [
+      "The region was granted autonomy from the central government.",
+      "Teenagers often want more autonomy over their lives."
     ]
   },
   {
@@ -1096,6 +1430,15 @@
     "examples": [
       "The children were awestruck by the fireworks.",
       "He stood awestruck in front of the huge mountain."
+    ]
+  },
+  {
+    "word": "awful",
+    "meaning": "Very bad or unpleasant",
+    "trick": "AW-ful — 'aww' full of disappointment; very bad.",
+    "examples": [
+      "The weather was awful all weekend.",
+      "I feel awful about forgetting your birthday."
     ]
   },
   {
