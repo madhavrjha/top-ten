@@ -30,3 +30,7 @@ that rewrites the letter file. It only works under `npm run dev`; the static bui
 - `src/session.js` — pure quiz logic (whole practice set shuffled, missed words requeued until all cleared)
 - `src/components/` — `Home`, `Quiz` (Level 1: pick meaning, Level 2: spell from meaning), `Browse` (expandable word list), `WordDetails`, `LevelPicker`, `LevelFilter`
 - `src/levels.js` — difficulty levels, filters, and the save call
+
+## Deploy
+Pushing to `main` deploys to GitHub Pages (https://madhavrjha.github.io/top-ten/) via
+`.github/workflows/deploy.yml`. The live site is read-only: difficulty marks are only saved under `npm run dev`.

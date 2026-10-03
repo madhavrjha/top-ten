@@ -64,6 +64,8 @@ function wordLevels() {
   };
 }
 
-export default defineConfig({
+export default defineConfig(({ command }) => ({
+  // GitHub Pages serves the site at https://madhavrjha.github.io/top-ten/
+  base: command === 'build' ? '/top-ten/' : '/',
   plugins: [react(), wordLevels()],
-});
+}));
