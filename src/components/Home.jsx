@@ -1,5 +1,6 @@
 import SetPicker from './SetPicker.jsx';
 import LevelFilter from './LevelFilter.jsx';
+import VoicePicker from './VoicePicker.jsx';
 
 const CARDS = [
   { id: 1, tag: 'Level 1', title: 'Pick the meaning', text: 'See the word, click the right meaning.' },
@@ -40,6 +41,9 @@ export default function Home({
           <span className="muted">Expand a word to see its meaning, trick and examples.</span>
         </button>
       </div>
+
+      <h2 className="section-title spaced">Pronunciation</h2>
+      <VoicePicker />
     </section>
   );
 }

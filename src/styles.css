@@ -176,3 +176,22 @@ button:disabled { cursor: default; }
   max-width: calc(100% - 32px); padding: 10px 16px; border-radius: 10px;
   background: var(--bad); color: var(--surface); font-size: 14px; box-shadow: 0 4px 16px rgba(0,0,0,.2);
 }
+.browse-order { display: flex; gap: 8px; margin-top: 12px; }
+
+/* Pronunciation */
+.speak-btn {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 34px; height: 34px; padding: 0; border-radius: 50%; flex-shrink: 0;
+  background: transparent; border: 1px solid var(--border); color: var(--accent); vertical-align: middle;
+}
+.speak-btn:hover { background: var(--bg); border-color: var(--accent); }
+.word-title { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.word-head { display: flex; align-items: center; }
+.word-head .word-toggle { flex: 1; min-width: 0; }
+.row-speak { margin-left: 10px; border-color: transparent; }
+.voice-picker { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.voice-picker label { font-weight: 600; }
+.voice-picker select {
+  flex: 1; min-width: 0; max-width: 360px; font: inherit; padding: 8px 10px; border-radius: 10px;
+  border: 1px solid var(--border); background: var(--surface); color: var(--text);
+}

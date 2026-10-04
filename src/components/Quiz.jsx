@@ -3,6 +3,8 @@ import { newSession, nextQuestion, answer, checkSpelling } from '../session.js';
 import { LEVELS } from '../levels.js';
 import WordDetails from './WordDetails.jsx';
 import LevelPicker from './LevelPicker.jsx';
+import SpeakButton from './SpeakButton.jsx';
+import { speak } from '../speech.js';
 
 export default function Quiz({ level, setWords, setLabel, words, levels, onSetLevel, onQuit }) {
   const [s, setS] = useState(() => newSession(setWords, words, level));
@@ -30,6 +32,9 @@ export default function Quiz({ level, setWords, setLabel, words, levels, onSetLe
       if (s.phase === 'answered' && e.key === 'Enter') {
         e.preventDefault();
         next();
+      } else if (e.key.toLowerCase() === 'p' && (s.phase === 'answered' || level === 1)) {
+        // P pronounces the word — in Level 2 only after answering, so it isn't a giveaway.
+        speak(s.current.word);
       } else if (s.phase === 'answered' && mark) {
         const cur = levels[s.current.lower] || null;
         onSetLevel(s.current, cur === mark.id ? null : mark.id);
@@ -118,7 +123,7 @@ function MeaningQuestion({ s, onPick }) {
   return (
     <>
       <div className="muted small">What does this word mean?</div>
-      <div className="prompt">{s.current.word}</div>
+      <div className="prompt word-title">{s.current.word} <SpeakButton text={s.current.word} /></div>
       <div className="options">
         {s.options.map((o, i) => {
           let cls = '';
