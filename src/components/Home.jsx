@@ -9,13 +9,27 @@ const CARDS = [
 
 export default function Home({
   sets, setId, onSetChange, letterWords, levels, filter, onFilterChange,
-  practiceCount, practiceLabel, onPick, hasWords,
+  practiceCount, practiceLabel, onPick, review, hasWords,
 }) {
   return (
     <section>
       {!hasWords && <p className="bad-text">No words found. Add words to src/words/&lt;letter&gt;.json.</p>}
 
-      <h2 className="section-title">Practice set</h2>
+      {review && hasWords && (
+        <button className="level-card review-card" onClick={() => onPick('review')}>
+          <span className="level-num">Daily review · flashcards</span>
+          <strong>
+            {review.due + review.fresh === 0
+              ? 'All done for today'
+              : `${review.due} due · ${review.fresh} new`}
+          </strong>
+          <span className="muted">
+            Recall the meaning, flip the card, rate yourself. Words come back right before you'd forget them.
+          </span>
+        </button>
+      )}
+
+      <h2 className="section-title spaced">Practice set</h2>
       <SetPicker sets={sets} value={setId} onChange={onSetChange} allLabel="All (random)" />
 
       <h2 className="section-title spaced">Difficulty</h2>

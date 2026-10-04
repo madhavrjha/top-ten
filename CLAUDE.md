@@ -51,6 +51,11 @@ just `Word`, or WhatsApp lines with timestamps (`[7:33 pm, 3/10/2026] Madhav: ..
 - Before building something ambiguous, ask one focused question (e.g. "remove that set of 10" was ambiguous).
 
 ## Features (what exists)
+- **Daily review** (`src/review.js`, `Review.jsx`): flashcards with spaced repetition across all words.
+  Flip (Space), rate Forgot/Hard/Good (1/2/3). Ladder of gaps 1,3,7,14,30,60,120,240 days; Good moves
+  up (first Good = 1 week), Hard = 3 days or repeats the gap, Forgot = tomorrow and the card comes back
+  3 cards later in the same session. Hard-marked words get 25% shorter gaps, Easy-marked 25% longer.
+  Max 10 new words/day, Hard-marked first. Saved in localStorage key `vocab.review` (per device).
 - **Home**: practice set picker (All random, or one letter) + difficulty filter (Any/Unmarked/Easy/Medium/Hard),
   voice picker for pronunciation.
 - **Level 1 – Pick the meaning**: 4 options, distractors have distinct meanings. Keys 1–4, Enter, P (speak).
@@ -70,9 +75,10 @@ just `Word`, or WhatsApp lines with timestamps (`[7:33 pm, 3/10/2026] Madhav: ..
 - `src/session.js` — pure quiz logic + spelling check with a light stemmer.
 - `src/levels.js` — levels, filters, `saveLevel` (POST /api/level).
 - `src/speech.js` — voice ranking and `speak()`.
+- `src/review.js` — pure spaced-repetition logic (plan, rate, intervals, stats) + localStorage.
 - `src/App.jsx` — screens, practice sets, difficulty state (optimistic save + revert on failure), toast.
 - `src/components/` — `Home`, `Quiz`, `Browse`, `WordDetails`, `SetPicker`, `LevelFilter`,
-  `LevelPicker`, `SpeakButton`, `VoicePicker`.
+  `LevelPicker`, `SpeakButton`, `VoicePicker`, `Review`.
 - `vite.config.js` — `base: '/top-ten/'` for builds; `word-levels` dev plugin that saves marks into
   letter files and suppresses HMR reloads for its own writes.
 

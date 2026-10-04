@@ -4,6 +4,8 @@ import { matchesFilter, saveLevel, FILTERS } from './levels.js';
 import Home from './components/Home.jsx';
 import Quiz from './components/Quiz.jsx';
 import Browse from './components/Browse.jsx';
+import Review from './components/Review.jsx';
+import { loadState, planToday } from './review.js';
 
 const SET_KEY = 'vocab.practiceSet';
 const FILTER_KEY = 'vocab.levelFilter';
@@ -16,7 +18,7 @@ function store(key, value) {
 }
 
 export default function App() {
-  // screen: 'home' | 'browse' | 1 | 2 (quiz level)
+  // screen: 'home' | 'browse' | 'review' | 1 | 2 (quiz level)
   const [screen, setScreen] = useState('home');
   const [setId, setSetId] = useState(() => load(SET_KEY, 'all'));
   const [filter, setFilter] = useState(() => {
@@ -73,6 +75,13 @@ export default function App() {
   const filterLabel = FILTERS.find(f => f.id === filter).label;
   const practiceLabel = filter === 'any' ? letterSet.label : `${letterSet.label} · ${filterLabel}`;
 
+  // Daily review counts for the home screen (re-read each time Home shows).
+  const review = useMemo(() => {
+    if (screen !== 'home') return null;
+    const { due, fresh } = planToday(WORDS, loadState(), levels);
+    return { due: due.length, fresh: fresh.length };
+  }, [screen, levels]);
+
   const changeSet = id => { setSetId(id); store(SET_KEY, id); };
   const changeFilter = id => { setFilter(id); store(FILTER_KEY, id); };
 
@@ -95,8 +104,12 @@ export default function App() {
           practiceCount={practiceWords.length}
           practiceLabel={practiceLabel}
           onPick={setScreen}
+          review={review}
           hasWords={WORDS.length > 0}
         />
+      )}
+      {screen === 'review' && (
+        <Review words={WORDS} levels={levels} onSetLevel={setLevel} onQuit={goHome} />
       )}
       {screen === 'browse' && (
         <Browse
