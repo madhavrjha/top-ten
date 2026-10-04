@@ -211,3 +211,19 @@ kbd { font: 11px ui-monospace, Menlo, monospace; opacity: .65; }
 .rating-btn.forgot strong { color: var(--hard); }
 .rating-btn.hard strong { color: var(--medium); }
 .rating-btn.good strong { color: var(--easy); }
+
+/* Level 3: fill in the blank */
+.prompt.sentence { font-size: 21px; font-weight: 500; line-height: 1.6; }
+.cloze {
+  display: inline-block; min-width: 90px; padding: 0 6px; margin: 0 2px;
+  border-bottom: 3px solid var(--accent); color: var(--accent); font-weight: 700; text-align: center;
+}
+.cloze.filled { background: var(--good-bg); border-radius: 4px 4px 0 0; }
+
+/* How to use */
+.usage { margin: 8px 0; padding: 10px 12px; border-radius: 10px; background: var(--bg); border: 1px solid var(--border); }
+.usage p { margin: 0; }
+.usage .pos { font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: .05em; color: var(--accent); }
+.usage .pattern { font-style: italic; }
+.partners { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+.partner { font-size: 14px; padding: 2px 10px; border-radius: 999px; background: var(--surface); border: 1px solid var(--border); }

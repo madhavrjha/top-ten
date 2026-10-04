@@ -5,6 +5,7 @@ import VoicePicker from './VoicePicker.jsx';
 const CARDS = [
   { id: 1, tag: 'Level 1', title: 'Pick the meaning', text: 'See the word, click the right meaning.' },
   { id: 2, tag: 'Level 2', title: 'Spell the word', text: 'See the meaning, type the exact word. Hints available.' },
+  { id: 3, tag: 'Level 3', title: 'Fill in the blank', text: 'Complete a real sentence with the right word, in the right form.' },
 ];
 
 export default function Home({

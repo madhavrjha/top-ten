@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
-import { newSession, nextQuestion, answer, checkSpelling } from '../session.js';
+import { newSession, nextQuestion, answer, checkSpelling, checkCloze } from '../session.js';
 import { LEVELS } from '../levels.js';
 import WordDetails from './WordDetails.jsx';
 import LevelPicker from './LevelPicker.jsx';
@@ -17,7 +17,7 @@ export default function Quiz({ level, setWords, setLabel, words, levels, onSetLe
 
   const submitSpelling = typed => {
     if (s.phase !== 'question') return;
-    const verdict = checkSpelling(typed, s);
+    const verdict = level === 3 ? checkCloze(typed, s) : checkSpelling(typed, s);
     setS(answer(s, verdict !== 'wrong', { typed, form: verdict === 'form' }));
   };
 
@@ -81,10 +81,34 @@ export default function Quiz({ level, setWords, setLabel, words, levels, onSetLe
       </div>
 
       <div className="card">
-        {level === 1 ? (
-          <MeaningQuestion s={s} onPick={pickMeaning} />
-        ) : (
-          <SpellQuestion key={s.qid} word={s.current} answered={answered} onSubmit={submitSpelling} />
+        {level === 1 && <MeaningQuestion s={s} onPick={pickMeaning} />}
+        {level === 2 && (
+          <SpellQuestion
+            key={s.qid}
+            label="Type the word that means…"
+            prompt={<div className="prompt meaning">{s.current.meaning}</div>}
+            answerText={s.current.word}
+            finalHint={s.current.trick && `💡 ${maskWord(s.current.trick, s.current.word)}`}
+            answered={answered}
+            onSubmit={submitSpelling}
+          />
+        )}
+        {level === 3 && (
+          <SpellQuestion
+            key={s.qid}
+            label="Fill in the blank"
+            prompt={
+              <div className="prompt sentence">
+                {s.cloze.before}
+                <span className={`cloze ${answered ? 'filled' : ''}`}>{answered ? s.cloze.answer : '\u00a0'.repeat(6)}</span>
+                {s.cloze.after}
+              </div>
+            }
+            answerText={s.cloze.answer}
+            finalHint={`Meaning: ${s.current.meaning}`}
+            answered={answered}
+            onSubmit={submitSpelling}
+          />
         )}
 
         {answered && (
@@ -95,7 +119,10 @@ export default function Quiz({ level, setWords, setLabel, words, levels, onSetLe
                 : s.result.correct ? 'Correct!' : 'Not quite — this one will come back.'}
             </div>
             {s.result.form && (
-              <p>You typed <strong>{s.result.typed}</strong> — the exact word is <strong>{s.current.word}</strong>.</p>
+              <p>
+                You typed <strong>{s.result.typed}</strong> — the exact word {level === 3 ? 'here ' : ''}is{' '}
+                <strong>{level === 3 ? s.cloze.answer : s.current.word}</strong>.
+              </p>
             )}
             {!s.result.correct && s.result.typed && (
               <p>You typed <strong>{s.result.typed}</strong></p>
@@ -140,19 +167,19 @@ function MeaningQuestion({ s, onPick }) {
   );
 }
 
-function SpellQuestion({ word, answered, onSubmit }) {
+// Shared by Level 2 (spell from meaning) and Level 3 (fill in the blank).
+function SpellQuestion({ label, prompt, answerText, finalHint, answered, onSubmit }) {
   const [typed, setTyped] = useState('');
   const [revealed, setRevealed] = useState(() => new Set());
   const inputRef = useRef(null);
 
   // Blanks are shown from the start. "Show hint" reveals the next letter from the
   // left, or click any blank to reveal that letter. Once only one letter is left
-  // hidden, the memory trick (word masked) is shown as the final hint.
-  const chars = [...word.word];
+  // hidden, the final hint (trick or meaning) is shown.
+  const chars = [...answerText];
   const isLetter = ch => ch !== ' ' && ch !== '-';
   const hidden = chars.map((ch, i) => i).filter(i => isLetter(chars[i]) && !revealed.has(i));
   const maxed = hidden.length <= 1;
-  const maskedTrick = word.trick.replace(new RegExp(escapeRegExp(word.word), 'gi'), '____');
 
   const reveal = i => {
     if (answered || maxed || i === undefined) return;
@@ -167,8 +194,8 @@ function SpellQuestion({ word, answered, onSubmit }) {
 
   return (
     <>
-      <div className="muted small">Type the word that means…</div>
-      <div className="prompt meaning">{word.meaning}</div>
+      <div className="muted small">{label}</div>
+      {prompt}
       <form className="spell" onSubmit={submit} autoComplete="off">
         <input
           ref={inputRef}
@@ -202,10 +229,14 @@ function SpellQuestion({ word, answered, onSubmit }) {
           onClick={() => reveal(hidden[0])}>
           {revealed.size ? 'Next letter' : 'Show hint'}
         </button>
-        {maxed && word.trick && !answered && <div className="hint">💡 {maskedTrick}</div>}
+        {maxed && finalHint && !answered && <div className="hint">{finalHint}</div>}
       </div>
     </>
   );
+}
+
+function maskWord(text, word) {
+  return text.replace(new RegExp(escapeRegExp(word), 'gi'), '____');
 }
 
 function escapeRegExp(s) {

@@ -15,7 +15,8 @@ just `Word`, or WhatsApp lines with timestamps (`[7:33 pm, 3/10/2026] Madhav: ..
 3. Fix spelling mistakes (e.g. "adevnture" → adventure, "apparant" → apparent) and say which you fixed.
 4. Write each entry into `src/words/<first-letter>.json` (create the file if the letter is new).
    Keep the array sorted alphabetically by `word`; `word` is lowercase unless a proper noun.
-5. Validate: every entry has `word`, `meaning`, `trick`, exactly 2 `examples`; JSON parses;
+5. Validate: every entry has `word`, `meaning`, `trick`, exactly 2 `examples`, and `usage`; each
+   example must contain the word (or a form of it) so Level 3 can blank it; JSON parses;
    `npx vite build --logLevel error` succeeds.
 6. Run `git status` — if other word files show changes, they are the user's own difficulty marks
    (check with `git diff`). Never revert them; mention them and include them in the next commit.
@@ -28,6 +29,11 @@ just `Word`, or WhatsApp lines with timestamps (`[7:33 pm, 3/10/2026] Madhav: ..
   "meaning": "Lasting for a very short time",
   "trick": "A memorable mnemonic",
   "examples": ["Example sentence one.", "Example sentence two."],
+  "usage": {
+    "pos": "adjective",
+    "pattern": "be ephemeral / an ephemeral + noun",
+    "partners": ["ephemeral fame", "ephemeral beauty"]
+  },
   "level": "hard"
 }
 ```
@@ -37,6 +43,11 @@ just `Word`, or WhatsApp lines with timestamps (`[7:33 pm, 3/10/2026] Madhav: ..
   If none given, write a short, memorable one (sound-alikes, word roots, spelling hooks).
 - **examples**: exactly 2, **easy everyday sentences** (the user asked for easy ones). If the user gave a
   usage ("Laila ambled around the house", "floor was awash"), use it as one example.
+- **usage**: how to use the word in a sentence (the user recognises words but struggles to use them).
+  `pos` = word type matching the form as written ("verb (past)", "noun (plural)", "adjective (slang)");
+  `pattern` = grammar frame with someone/something/doing placeholders ("abstain from something /
+  from doing something", "bear the brunt of something"); `partners` = 2–3 common collocations.
+  Key order in the file: word, meaning, trick, examples, usage, level.
 - **level**: the user's own Easy/Medium/Hard mark, written by the app. **Never add, change or remove it.**
 - Different forms are separate entries (abolish / abolished, astonished / astonishing / astonishment).
   A phrase that is just the usual use of a word gets merged (e.g. "brink" + "brink of" → one "brink").
@@ -63,7 +74,10 @@ just `Word`, or WhatsApp lines with timestamps (`[7:33 pm, 3/10/2026] Madhav: ..
   click a blank or "Show hint" to reveal letters; the trick appears only when one letter is left.
   A different form of the right word (amplify vs amplifies) counts as "Almost" (cleared, amber).
 - Whole set practised at once; a missed word is requeued a few questions later until all are cleared.
-- After each answer: details + Easy/Medium/Hard buttons (keys E/M/H).
+- **Level 3 – Fill in the blank**: an example sentence with the word blanked (`findClozes` in
+  `session.js` finds the word or a form of it, incl. multi-word phrases); type the blanked text.
+  Same letter hints as Level 2, final hint = meaning; other forms count as "Almost".
+- After each answer: details (incl. "How to use") + Easy/Medium/Hard buttons (keys E/M/H).
 - **Browse**: letter + difficulty filters, search by word only, rows collapsed (meaning hidden until
   expanded), Shuffle / A–Z order, 🔊 per row, pages of 60 rows loaded on scroll.
 - **Pronunciation**: browser text-to-speech (`src/speech.js`); novelty macOS voices filtered out;
@@ -94,7 +108,8 @@ Pushing to `main` runs `.github/workflows/deploy.yml` (build → GitHub Pages). 
   Wikimedia rate-limited), so the app uses device voices only.
 
 ## Ideas offered but not built yet
-- Level 3: fill in the blank using the word's example sentences.
+- "Write your own sentence" step in Daily Review (saved with the word as "My sentence").
+- The user can paste their own sentences in chat for Claude to correct and save as examples.
 - "Weak words" set built from words the user gets wrong.
 - Marking Easy/Medium/Hard on the live site (option A: browser-only storage; option B: commit to GitHub
   via the API with a personal token). User hasn't chosen.

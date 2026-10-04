@@ -7,6 +7,15 @@
       "He found the constant begging a painful abasement.",
       "She refused the abasement of apologising for something she hadn't done."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the abasement of someone / self-abasement",
+      "partners": [
+        "self-abasement",
+        "a feeling of abasement",
+        "public abasement"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -17,6 +26,15 @@
       "She abhors violence of any kind.",
       "My father abhors wasting food."
     ],
+    "usage": {
+      "pos": "verb (he/she/it form)",
+      "pattern": "someone abhors something / abhors doing something",
+      "partners": [
+        "abhors violence",
+        "abhors lying",
+        "abhors injustice"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -27,6 +45,15 @@
       "I can't abide people who are rude to waiters.",
       "All players must abide by the rules of the game."
     ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "can't abide something/someone · abide by a rule/decision",
+      "partners": [
+        "abide by the rules",
+        "abide by the law",
+        "can't abide liars"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -37,6 +64,15 @@
       "He is a law-abiding citizen who has never broken a rule.",
       "She has an abiding love for old Hindi songs."
     ],
+    "usage": {
+      "pos": "adjective / verb (-ing)",
+      "pattern": "an abiding + feeling (love, interest) · law-abiding + person",
+      "partners": [
+        "an abiding love",
+        "an abiding interest",
+        "law-abiding citizens"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -47,6 +83,15 @@
       "The government decided to abolish the old tax.",
       "Many people campaigned to abolish child labour."
     ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "abolish a law / system / practice",
+      "partners": [
+        "abolish slavery",
+        "abolish the death penalty",
+        "abolish a tax"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -57,6 +102,15 @@
       "Slavery was abolished in the British Empire in 1833.",
       "The school abolished its strict uniform rules last year."
     ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something was abolished (in + year) · someone abolished something",
+      "partners": [
+        "was abolished in 1833",
+        "abolished the tax",
+        "slavery was abolished"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -67,6 +121,15 @@
       "The bus came to an abrupt stop.",
       "His abrupt reply made her feel unwelcome."
     ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an abrupt + change/end/stop · be abrupt with someone",
+      "partners": [
+        "an abrupt end",
+        "an abrupt change",
+        "came to an abrupt halt"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -77,6 +140,15 @@
       "The court absolved him of all charges.",
       "Her apology absolved her of guilt in her own mind."
     ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "be absolved of/from something (blame, guilt)",
+      "partners": [
+        "absolved of all blame",
+        "absolved from responsibility",
+        "absolved of guilt"
+      ]
+    },
     "level": "hard"
   },
   {
@@ -87,6 +159,15 @@
       "He decided to abstain from sugar for a month.",
       "Three members chose to abstain from the vote."
     ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "abstain from something / from doing something",
+      "partners": [
+        "abstain from voting",
+        "abstain from alcohol",
+        "abstain from sugar"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -97,6 +178,15 @@
       "Love and justice are abstract ideas.",
       "Her explanation was too abstract for the students to follow."
     ],
+    "usage": {
+      "pos": "adjective (also noun)",
+      "pattern": "an abstract + idea/concept/art",
+      "partners": [
+        "abstract idea",
+        "abstract art",
+        "in the abstract"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -107,6 +197,15 @@
       "The tickets were absurdly expensive.",
       "He was absurdly confident for someone who hadn't studied."
     ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "absurdly + adjective (expensive, easy, high)",
+      "partners": [
+        "absurdly expensive",
+        "absurdly easy",
+        "absurdly high prices"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -117,6 +216,15 @@
       "The garden had an abundance of mangoes this summer.",
       "There is an abundance of evidence against him."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an abundance of something · in abundance",
+      "partners": [
+        "an abundance of food",
+        "in abundance",
+        "an abundance of energy"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -127,6 +235,15 @@
       "Fresh water is abundant in this region.",
       "The forest has abundant wildlife."
     ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "something is abundant · abundant + noun",
+      "partners": [
+        "abundant rainfall",
+        "abundant evidence",
+        "abundant natural resources"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -137,6 +254,15 @@
       "He stared down into the dark abyss below the cliff.",
       "The country was on the edge of an economic abyss."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the abyss of something · on the edge of the abyss",
+      "partners": [
+        "stare into the abyss",
+        "on the edge of the abyss",
+        "fall into an abyss"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -147,6 +273,15 @@
       "An acacia tree gave the only shade in the dry field.",
       "Giraffes nibble leaves from the thorny acacia."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an acacia (tree) · acacia + noun",
+      "partners": [
+        "acacia tree",
+        "acacia flowers",
+        "acacia wood"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -157,6 +292,15 @@
       "Climbers need a few days of acclimatization before going higher.",
       "Acclimatization to the new office took her about a month."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "acclimatization to something (climate, altitude) · verb: acclimatize to something",
+      "partners": [
+        "acclimatization to the altitude",
+        "a period of acclimatization",
+        "acclimatization to the heat"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -167,6 +311,15 @@
       "The film received accolades from critics around the world.",
       "Despite all the accolades, she remained humble."
     ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "receive/win accolades for something · accolades from someone",
+      "partners": [
+        "receive accolades",
+        "win accolades from critics",
+        "many accolades"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -177,6 +330,15 @@
       "The hotel can accommodate up to 200 guests.",
       "The teacher tried to accommodate every student's needs."
     ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "accommodate someone / a number of people · accommodate someone's needs",
+      "partners": [
+        "accommodate 200 guests",
+        "accommodate your needs",
+        "accommodate a request"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -187,6 +349,15 @@
       "Her mother accompanied her to the interview.",
       "The singer was accompanied by a guitarist."
     ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "someone accompanied someone (to a place) · be accompanied by someone/something",
+      "partners": [
+        "accompanied me to the doctor",
+        "accompanied by an adult",
+        "accompanied by music"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -197,6 +368,15 @@
       "The old man played a cheerful tune on his accordion.",
       "The accordion's sound filled the small café."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "play the accordion",
+      "partners": [
+        "play the accordion",
+        "accordion player",
+        "an accordion folder"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -207,6 +387,15 @@
       "She gave him an accusatory look when the cake went missing.",
       "His email had an accusatory tone."
     ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an accusatory + look/tone/question",
+      "partners": [
+        "an accusatory tone",
+        "an accusatory look",
+        "accusatory remarks"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -217,6 +406,15 @@
       "Stop accusing me of lying!",
       "She pointed an accusing finger at her brother."
     ],
+    "usage": {
+      "pos": "verb (-ing) / adjective",
+      "pattern": "accuse someone of something / of doing something · an accusing look",
+      "partners": [
+        "accusing him of lying",
+        "an accusing finger",
+        "an accusing look"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -227,6 +425,15 @@
       "I'm not accustomed to waking up so early.",
       "Her eyes slowly grew accustomed to the dark."
     ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be/get accustomed to something / to doing something",
+      "partners": [
+        "accustomed to the cold",
+        "get accustomed to it",
+        "accustomed to working late"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -237,6 +444,15 @@
       "My legs were aching after the long hike.",
       "She had an aching feeling of loneliness."
     ],
+    "usage": {
+      "pos": "adjective / verb (-ing)",
+      "pattern": "something is aching · an aching + body part",
+      "partners": [
+        "aching legs",
+        "an aching back",
+        "my head is aching"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -247,6 +463,15 @@
       "She is acing all her exams this year.",
       "He's acing his new job and already got a promotion."
     ],
+    "usage": {
+      "pos": "verb (-ing, informal)",
+      "pattern": "acing a test/exam/interview",
+      "partners": [
+        "acing the exam",
+        "acing the interview",
+        "acing every test"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -257,6 +482,15 @@
       "Acknowledging your mistakes is the first step to improving.",
       "He nodded, acknowledging her presence in the room."
     ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "acknowledge something / that ... · acknowledge someone (nod, smile)",
+      "partners": [
+        "acknowledging the mistake",
+        "acknowledging receipt of",
+        "acknowledging his help"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -267,6 +501,15 @@
       "The guru was surrounded by his acolytes.",
       "The CEO's acolytes agreed with everything he said."
     ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "someone's acolytes · acolytes of someone",
+      "partners": [
+        "his loyal acolytes",
+        "acolytes of the leader",
+        "surrounded by acolytes"
+      ]
+    },
     "level": "hard"
   },
   {
@@ -277,6 +520,15 @@
       "He's not a friend, just an acquaintance from college.",
       "I made her acquaintance at a wedding last year."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an acquaintance of someone's · make someone's acquaintance",
+      "partners": [
+        "a casual acquaintance",
+        "an old acquaintance",
+        "make his acquaintance"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -287,6 +539,15 @@
       "The jury acquitted him of murder.",
       "After two years, she was finally acquitted."
     ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "be acquitted of a crime / charge",
+      "partners": [
+        "acquitted of murder",
+        "acquitted of all charges",
+        "was acquitted by the jury"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -297,6 +558,15 @@
       "The farmer increased his acreage of wheat this year.",
       "The total acreage of the estate is huge."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the acreage of something · large acreage",
+      "partners": [
+        "a large acreage",
+        "total acreage",
+        "acreage under cultivation"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -307,6 +577,15 @@
       "The old adage says, 'Practice makes perfect.'",
       "He lived by the adage that honesty is the best policy."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the (old) adage that ... · as the adage goes",
+      "partners": [
+        "the old adage",
+        "as the adage goes",
+        "the adage that time is money"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -317,6 +596,15 @@
       "The sticker didn't adhere to the wet surface.",
       "All players must adhere to the rules of the game."
     ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "adhere to something (rules, plan, surface)",
+      "partners": [
+        "adhere to the rules",
+        "adhere to a schedule",
+        "adhere to the surface"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -327,6 +615,15 @@
       "The judge ordered an adjournment until Monday.",
       "After a short adjournment, the meeting resumed."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an adjournment of something (meeting, trial) · ask for an adjournment",
+      "partners": [
+        "request an adjournment",
+        "a short adjournment",
+        "adjournment of the hearing"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -337,6 +634,15 @@
       "The teacher gave him an admonishing look for talking in class.",
       "She kept admonishing her son to drive carefully."
     ],
+    "usage": {
+      "pos": "verb (-ing) / adjective",
+      "pattern": "admonish someone for (doing) something · an admonishing look",
+      "partners": [
+        "an admonishing look",
+        "admonishing him for being late",
+        "an admonishing finger"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -347,6 +653,15 @@
       "Adolescence is a time of big physical and emotional change.",
       "He spent his adolescence in a small village."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "during/in (someone's) adolescence",
+      "partners": [
+        "during adolescence",
+        "in early adolescence",
+        "childhood and adolescence"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -357,6 +672,15 @@
       "The adrenaline kicked in as the race began.",
       "Skydiving gave her a huge rush of adrenaline."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a rush/surge of adrenaline · adrenaline kicks in",
+      "partners": [
+        "adrenaline rush",
+        "a surge of adrenaline",
+        "the adrenaline kicked in"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -367,6 +691,15 @@
       "The boat was left adrift after the engine failed.",
       "After college he felt adrift, unsure what to do next."
     ],
+    "usage": {
+      "pos": "adjective / adverb",
+      "pattern": "be/feel adrift · cast/set adrift",
+      "partners": [
+        "a boat adrift at sea",
+        "feel adrift",
+        "cast adrift"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -377,6 +710,15 @@
       "The pop star enjoyed the adulation of millions of fans.",
       "He was uncomfortable with the adulation that followed his win."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the adulation of someone (fans, crowd)",
+      "partners": [
+        "the adulation of fans",
+        "public adulation",
+        "enjoy the adulation"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -387,6 +729,15 @@
       "In the novel, the adulterer is eventually exposed.",
       "She refused to forgive the adulterer who had betrayed her sister."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an adulterer · be exposed as an adulterer",
+      "partners": [
+        "a known adulterer",
+        "exposed as an adulterer",
+        "the adulterer's wife"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -397,6 +748,15 @@
       "The novel is about a marriage destroyed by adultery.",
       "Adultery was given as the reason for the divorce."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "commit adultery (with someone)",
+      "partners": [
+        "commit adultery",
+        "accused of adultery",
+        "an act of adultery"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -407,6 +767,15 @@
       "Their trip to the mountains was a real adventure.",
       "The children read a story full of adventure and mystery."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an adventure · go on an adventure · a sense of adventure",
+      "partners": [
+        "go on an adventure",
+        "a sense of adventure",
+        "adventure story"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -417,6 +786,15 @@
       "He defeated his old adversary in the final match.",
       "Treat your adversary with respect."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "someone's adversary · an adversary of someone",
+      "partners": [
+        "a political adversary",
+        "an old adversary",
+        "a worthy adversary"
+      ]
+    },
     "level": "hard"
   },
   {
@@ -427,6 +805,15 @@
       "The medicine had no adverse effects.",
       "Adverse weather delayed the flight."
     ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "adverse + effect/conditions/weather · have an adverse effect on something",
+      "partners": [
+        "adverse effects",
+        "adverse weather conditions",
+        "adverse reaction"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -437,6 +824,15 @@
       "She showed great courage in the face of adversity.",
       "Adversity often makes people stronger."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in the face of adversity · overcome adversity",
+      "partners": [
+        "in the face of adversity",
+        "overcome adversity",
+        "courage in adversity"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -447,6 +843,15 @@
       "She used an aerosol can to spray paint the wall.",
       "Aerosol deodorants should be kept away from heat."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an aerosol (can/spray)",
+      "partners": [
+        "aerosol can",
+        "aerosol spray",
+        "aerosol deodorant"
+      ]
+    },
     "level": "hard"
   },
   {
@@ -457,6 +862,15 @@
       "The village was afflicted by drought for years.",
       "He has been afflicted with back pain since the accident."
     ],
+    "usage": {
+      "pos": "adjective / verb (past)",
+      "pattern": "be afflicted with/by something (disease, problem)",
+      "partners": [
+        "afflicted with arthritis",
+        "afflicted by poverty",
+        "the afflicted area"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -467,6 +881,15 @@
       "His rude comment was an affront to her pride.",
       "They saw the new law as an affront to their freedom."
     ],
+    "usage": {
+      "pos": "noun (also verb)",
+      "pattern": "an affront to someone/something (dignity, pride)",
+      "partners": [
+        "an affront to his dignity",
+        "a personal affront",
+        "an affront to democracy"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -477,6 +900,15 @@
       "The crime was committed with malice aforethought.",
       "Her quick answer seemed spontaneous but was actually aforethought."
     ],
+    "usage": {
+      "pos": "adjective (after a noun)",
+      "pattern": "malice aforethought · with (malice) aforethought",
+      "partners": [
+        "malice aforethought",
+        "with aforethought",
+        "planned with aforethought"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -487,6 +919,15 @@
       "In the aftermath of the flood, many families were homeless.",
       "The aftermath of the argument was a week of silence."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in the aftermath of something (war, storm, crisis)",
+      "partners": [
+        "in the aftermath of the war",
+        "the immediate aftermath",
+        "in the aftermath of the storm"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -497,6 +938,15 @@
       "Scratching will only aggravate the rash.",
       "His rude reply aggravated the conflict."
     ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "aggravate a problem/injury/situation",
+      "partners": [
+        "aggravate the problem",
+        "aggravate an injury",
+        "aggravate the situation"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -507,6 +957,15 @@
       "The app works by aggregating news from many sources.",
       "We are aggregating the survey results into one report."
     ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "aggregate data/results (into something)",
+      "partners": [
+        "aggregating data",
+        "aggregating results",
+        "aggregating news"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -517,6 +976,15 @@
       "She felt aggrieved at being left out of the team.",
       "The aggrieved customer demanded a refund."
     ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "feel aggrieved (at/about something) · the aggrieved party",
+      "partners": [
+        "feel aggrieved",
+        "the aggrieved party",
+        "aggrieved at the decision"
+      ]
+    },
     "level": "hard"
   },
   {
@@ -527,6 +995,15 @@
       "The agile cat leapt onto the wall.",
       "She has an agile mind and solves puzzles fast."
     ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an agile + person/animal/mind · be agile",
+      "partners": [
+        "an agile mind",
+        "agile movements",
+        "quick and agile"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -537,6 +1014,15 @@
       "He became agitated when his phone went missing.",
       "The agitated crowd started shouting."
     ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be/get/become agitated (about/over something)",
+      "partners": [
+        "became agitated",
+        "agitated about the delay",
+        "visibly agitated"
+      ]
+    },
     "level": "hard"
   },
   {
@@ -547,6 +1033,15 @@
       "She agonizes over every small decision.",
       "He agonizes about what others think of him."
     ],
+    "usage": {
+      "pos": "verb (he/she/it form)",
+      "pattern": "someone agonizes over/about something",
+      "partners": [
+        "agonizes over every decision",
+        "agonizes about the future",
+        "agonizes over what to say"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -557,6 +1052,15 @@
       "He was in agony after breaking his leg.",
       "Waiting for the results was pure agony."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in agony · the agony of something",
+      "partners": [
+        "in agony",
+        "screaming in agony",
+        "agony of waiting"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -567,6 +1071,15 @@
       "The charity sends food aid to flood victims.",
       "A map will aid you in finding the way."
     ],
+    "usage": {
+      "pos": "noun / verb",
+      "pattern": "aid (to) someone · aid someone in (doing) something · with the aid of something",
+      "partners": [
+        "first aid",
+        "food aid",
+        "with the aid of a map"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -577,6 +1090,15 @@
       "The old man ailed for months before he recovered.",
       "Something ailed the team, and they lost every match that season."
     ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "what ailed someone · something ailed someone",
+      "partners": [
+        "what ailed him",
+        "the illness that ailed her",
+        "ailed for years"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -587,6 +1109,15 @@
       "Grandmother keeps home remedies for common ailments like colds and coughs.",
       "The doctor treated the villagers for various ailments."
     ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "minor/common ailments · suffer from ailments",
+      "partners": [
+        "minor ailments",
+        "common ailments",
+        "stomach ailments"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -597,6 +1128,15 @@
       "There was an air of mystery about the old house at the end of the street.",
       "The children waited with an air of eagerness for the results."
     ],
+    "usage": {
+      "pos": "phrase (noun)",
+      "pattern": "an air of + quality (mystery, confidence) · have/give an air of something",
+      "partners": [
+        "an air of mystery",
+        "an air of confidence",
+        "an air of eagerness"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -607,6 +1147,15 @@
       "The small plane landed on a dusty airstrip near the village.",
       "Soldiers cleared the jungle to build a temporary airstrip."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "land on / take off from an airstrip",
+      "partners": [
+        "a small airstrip",
+        "land on the airstrip",
+        "a dirt airstrip"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -617,6 +1166,15 @@
       "His plans sound nice but are a bit airy-fairy.",
       "We need real figures, not airy-fairy ideas."
     ],
+    "usage": {
+      "pos": "adjective (informal)",
+      "pattern": "airy-fairy + ideas/plans · be a bit airy-fairy",
+      "partners": [
+        "airy-fairy ideas",
+        "airy-fairy plans",
+        "a bit airy-fairy"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -627,6 +1185,15 @@
       "I always book an aisle seat so I can stretch my legs.",
       "The bride walked slowly down the aisle."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in/down the aisle · an aisle seat",
+      "partners": [
+        "aisle seat",
+        "walk down the aisle",
+        "in aisle 5"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -637,6 +1204,15 @@
       "The feeling was akin to falling in love.",
       "His style of painting is akin to that of the old masters."
     ],
+    "usage": {
+      "pos": "phrase (adjective)",
+      "pattern": "be akin to something / to doing something",
+      "partners": [
+        "akin to fear",
+        "something akin to love",
+        "akin to stealing"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -647,6 +1223,15 @@
       "He agreed, albeit reluctantly.",
       "It was a good result, albeit a lucky one."
     ],
+    "usage": {
+      "pos": "conjunction",
+      "pattern": "..., albeit + adjective/adverb/noun phrase (= although)",
+      "partners": [
+        "albeit slowly",
+        "albeit reluctantly",
+        "albeit briefly"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -657,6 +1242,15 @@
       "We hid behind the alder bushes by the stream.",
       "The riverbank was lined with tall alder trees."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an alder (tree) · alder + noun",
+      "partners": [
+        "alder bushes",
+        "alder tree",
+        "alder wood"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -667,6 +1261,15 @@
       "The travellers drank ale at the village inn.",
       "She ordered a ginger ale because she was driving."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a pint/glass of ale",
+      "partners": [
+        "a pint of ale",
+        "ginger ale",
+        "pale ale"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -677,6 +1280,15 @@
       "The farmer fed his cows fresh alfalfa every morning.",
       "Fields of green alfalfa stretched as far as we could see."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "alfalfa (for animals) · alfalfa + noun",
+      "partners": [
+        "alfalfa sprouts",
+        "alfalfa hay",
+        "fields of alfalfa"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -687,6 +1299,15 @@
       "His rude comments ended up alienating his friends.",
       "The new policy risks alienating loyal customers."
     ],
+    "usage": {
+      "pos": "verb (-ing) / adjective",
+      "pattern": "alienate someone (from someone/something) · an alienating experience",
+      "partners": [
+        "alienating his friends",
+        "alienating customers",
+        "an alienating experience"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -697,6 +1318,15 @@
       "The court ordered him to pay monthly alimony.",
       "She received alimony for several years after the divorce."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "pay alimony (to someone) · receive alimony",
+      "partners": [
+        "pay alimony",
+        "receive alimony",
+        "monthly alimony"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -707,6 +1337,15 @@
       "The doctor's calm words allayed her fears about the surgery.",
       "The bank allayed customer concerns with a clear statement."
     ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "allay someone's fears/doubts/worries",
+      "partners": [
+        "allayed her fears",
+        "allayed concerns",
+        "allayed suspicion"
+      ]
+    },
     "level": "hard"
   },
   {
@@ -717,6 +1356,15 @@
       "The medicine helped alleviate her headache.",
       "New roads were built to alleviate traffic congestion."
     ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "alleviate pain/suffering/a problem",
+      "partners": [
+        "alleviate pain",
+        "alleviate poverty",
+        "alleviate traffic"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -727,6 +1375,15 @@
       "The alluring smell of fresh bread filled the street.",
       "She found the offer of a job abroad very alluring."
     ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an alluring + smell/offer/person · find something alluring",
+      "partners": [
+        "an alluring smile",
+        "an alluring offer",
+        "alluring aroma"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -737,6 +1394,15 @@
       "He seemed aloof at the party and spoke to no one.",
       "She remained aloof from the office gossip."
     ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be/remain/stay aloof (from someone/something)",
+      "partners": [
+        "remain aloof",
+        "aloof from others",
+        "cold and aloof"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -747,6 +1413,15 @@
       "His aloofness made it hard for new classmates to approach him.",
       "Her aloofness was often mistaken for arrogance."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "someone's aloofness · an air of aloofness",
+      "partners": [
+        "her aloofness",
+        "an air of aloofness",
+        "mistaken for aloofness"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -757,6 +1432,15 @@
       "The librarian alphabetized the books by the authors' surnames.",
       "All the files were neatly alphabetized in the cabinet."
     ],
+    "usage": {
+      "pos": "verb (past) / adjective",
+      "pattern": "alphabetize a list/files · an alphabetized list",
+      "partners": [
+        "an alphabetized list",
+        "alphabetized by surname",
+        "alphabetized the books"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -767,6 +1451,15 @@
       "The pilot checked the altimeter before descending.",
       "Her hiking watch has a built-in altimeter."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the altimeter reads/shows + height",
+      "partners": [
+        "the altimeter reading",
+        "check the altimeter",
+        "a digital altimeter"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -777,6 +1470,15 @@
       "Oxygen passes from the alveoli into the bloodstream.",
       "Smoking damages the delicate walls of the alveoli."
     ],
+    "usage": {
+      "pos": "noun (plural of alveolus)",
+      "pattern": "the alveoli (in the lungs)",
+      "partners": [
+        "alveoli in the lungs",
+        "tiny alveoli",
+        "damaged alveoli"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -787,6 +1489,15 @@
       "The traffic light turned amber, so he slowed down.",
       "Her eyes glowed amber in the evening sunlight."
     ],
+    "usage": {
+      "pos": "noun / adjective",
+      "pattern": "amber + noun (light, eyes) · in amber",
+      "partners": [
+        "amber light",
+        "amber eyes",
+        "trapped in amber"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -797,6 +1508,15 @@
       "Laila ambled around the house.",
       "We ambled along the beach after dinner."
     ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "someone ambled + along/around/to a place",
+      "partners": [
+        "ambled along",
+        "ambled around the house",
+        "ambled over to us"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -807,6 +1527,15 @@
       "The soldiers were caught in an ambush on the mountain road.",
       "The lion waited in the tall grass to ambush its prey."
     ],
+    "usage": {
+      "pos": "noun / verb",
+      "pattern": "ambush someone; be ambushed by someone; lie in ambush",
+      "partners": [
+        "a deadly ambush",
+        "lie in ambush",
+        "be ambushed by rebels"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -817,6 +1546,15 @@
       "Parliament amends the law whenever new problems arise.",
       "He tried to make amends for his rude behaviour by apologising."
     ],
+    "usage": {
+      "pos": "verb (he/she/it)",
+      "pattern": "someone amends a law / rule / document",
+      "partners": [
+        "amends the law",
+        "amends the agreement",
+        "amends the rules"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -827,6 +1565,15 @@
       "The new neighbour was an amiable man who greeted everyone.",
       "They had an amiable chat over tea."
     ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be amiable; an amiable person / chat",
+      "partners": [
+        "an amiable person",
+        "an amiable chat",
+        "amiable and polite"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -837,6 +1584,15 @@
       "The two old rivals chatted amiably at the reunion.",
       "She smiled amiably at the nervous student."
     ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "talk / smile / chat amiably (with someone)",
+      "partners": [
+        "chatted amiably",
+        "smiled amiably",
+        "talk amiably with"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -847,6 +1603,14 @@
       "He greeted me with a smile: 'Hello, amigo!'",
       "They have been amigos since school."
     ],
+    "usage": {
+      "pos": "noun (informal)",
+      "pattern": "my amigo; Hello, amigo!",
+      "partners": [
+        "my old amigo",
+        "hey, amigo"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -857,6 +1621,15 @@
       "The soldiers were running low on ammunition.",
       "His mistakes gave his opponents ammunition to criticise him."
     ],
+    "usage": {
+      "pos": "noun (uncountable)",
+      "pattern": "ammunition for a gun; give someone ammunition against someone",
+      "partners": [
+        "run out of ammunition",
+        "live ammunition",
+        "ammunition for an argument"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -867,6 +1640,15 @@
       "The coach tried to amp up the team before the final.",
       "The DJ amped up the music as midnight approached."
     ],
+    "usage": {
+      "pos": "phrasal verb",
+      "pattern": "amp up something / amp something up",
+      "partners": [
+        "amp up the energy",
+        "amp up the volume",
+        "amp up the excitement"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -877,6 +1659,14 @@
       "A frog is an amphibian that starts life in water.",
       "Salamanders and toads are also amphibians."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an amphibian lives on land and in water",
+      "partners": [
+        "frogs are amphibians",
+        "a small amphibian"
+      ]
+    },
     "level": "hard"
   },
   {
@@ -887,6 +1677,15 @@
       "There is ample space in the car for all our luggage.",
       "You will have ample time to finish the test."
     ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "ample time / space / evidence (to do something)",
+      "partners": [
+        "ample time",
+        "ample space",
+        "ample evidence"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -897,6 +1696,15 @@
       "The microphone amplifies the singer's voice.",
       "Social media often amplifies rumours."
     ],
+    "usage": {
+      "pos": "verb (he/she/it)",
+      "pattern": "something amplifies a sound / a feeling / a problem",
+      "partners": [
+        "amplifies the sound",
+        "amplifies the voice",
+        "amplifies the problem"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -907,6 +1715,15 @@
       "The surgeon amputated his leg after the accident.",
       "Her frostbitten fingers had to be amputated."
     ],
+    "usage": {
+      "pos": "verb (past) / adjective",
+      "pattern": "someone's leg / arm was amputated",
+      "partners": [
+        "had his leg amputated",
+        "an amputated limb",
+        "was amputated below the knee"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -917,6 +1734,15 @@
       "The infection was so severe that amputation was the only option.",
       "He learned to walk again after the amputation of his foot."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an amputation of a leg / arm; need an amputation",
+      "partners": [
+        "leg amputation",
+        "undergo an amputation",
+        "avoid amputation"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -927,6 +1753,15 @@
       "The amputee ran the marathon on a prosthetic leg.",
       "The charity provides artificial limbs to amputees."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an amputee (a person who has lost a limb)",
+      "partners": [
+        "a leg amputee",
+        "amputee athletes",
+        "a young amputee"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -937,6 +1772,15 @@
       "The clown's tricks never fail to amuse the children.",
       "She played games on her phone to amuse herself on the long train ride."
     ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "amuse someone; amuse yourself by doing something",
+      "partners": [
+        "amuse the children",
+        "amuse yourself",
+        "be amused by"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -947,6 +1791,14 @@
       "The anarcho-communist argued that the state should be abolished.",
       "He described himself as an anarcho-communist in his youth."
     ],
+    "usage": {
+      "pos": "noun / adjective",
+      "pattern": "an anarcho-communist believes / argues that...",
+      "partners": [
+        "a self-described anarcho-communist",
+        "anarcho-communist ideas"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -957,6 +1809,15 @@
       "The boat was anchored just off the shore.",
       "Her beliefs are anchored in her family values."
     ],
+    "usage": {
+      "pos": "verb (past) / adjective",
+      "pattern": "something is anchored to / in something; the ship anchored in the bay",
+      "partners": [
+        "anchored in the bay",
+        "firmly anchored",
+        "anchored to the ground"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -967,6 +1828,14 @@
       "The anesthesiologist monitored the patient throughout the operation.",
       "Before surgery, the anesthesiologist explained how she would be put to sleep."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the anesthesiologist puts the patient to sleep before surgery",
+      "partners": [
+        "a senior anesthesiologist",
+        "the anesthesiologist on duty"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -977,6 +1846,15 @@
       "The dentist gave him a local anesthetic before pulling the tooth.",
       "She was under general anesthetic for the whole operation."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "give someone an anesthetic; under (general / local) anesthetic",
+      "partners": [
+        "local anesthetic",
+        "general anesthetic",
+        "under anesthetic"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -987,6 +1865,15 @@
       "The band is known for its angsty teenage songs.",
       "He went through an angsty phase in high school."
     ],
+    "usage": {
+      "pos": "adjective (informal)",
+      "pattern": "be / feel angsty; an angsty teenager / song",
+      "partners": [
+        "an angsty teenager",
+        "angsty songs",
+        "feel angsty"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -997,6 +1884,15 @@
       "The mother cried out in anguish when she heard the news.",
       "He hid his anguish behind a brave smile."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "be in anguish; anguish over / at something",
+      "partners": [
+        "in anguish",
+        "cry out in anguish",
+        "mental anguish"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -1007,6 +1903,15 @@
       "The children laughed at the clown's antics.",
       "His antics in class got him sent to the principal."
     ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "someone's antics; the antics of someone",
+      "partners": [
+        "silly antics",
+        "his usual antics",
+        "the children's antics"
+      ]
+    },
     "level": "hard"
   },
   {
@@ -1017,6 +1922,14 @@
       "The blacksmith hammered the red-hot iron on the anvil.",
       "The ringing of the hammer on the anvil filled the workshop."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "hammer metal on an anvil",
+      "partners": [
+        "a blacksmith's anvil",
+        "an iron anvil"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -1027,6 +1940,15 @@
       "The twins have never lived apart.",
       "The old chair fell apart when he sat on it."
     ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "be / live / fall / take apart; apart from something (= except)",
+      "partners": [
+        "live apart",
+        "fall apart",
+        "apart from that"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -1037,6 +1959,15 @@
       "Voter apathy led to a very low turnout.",
       "His apathy towards his studies worried his parents."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "apathy towards / about something",
+      "partners": [
+        "public apathy",
+        "voter apathy",
+        "apathy towards politics"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -1047,6 +1978,15 @@
       "The scientists set up the apparatus for the experiment.",
       "Firefighters wear breathing apparatus in smoky buildings."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an apparatus for doing something; the apparatus of the state",
+      "partners": [
+        "breathing apparatus",
+        "laboratory apparatus",
+        "a piece of apparatus"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -1057,6 +1997,15 @@
       "It was apparent that she was tired.",
       "For no apparent reason, the lights went out."
     ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "It is apparent that...; for no apparent reason",
+      "partners": [
+        "It became apparent that",
+        "for no apparent reason",
+        "apparent to everyone"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -1067,6 +2016,14 @@
       "She claimed to have seen an apparition in the old castle.",
       "A pale apparition seemed to float down the staircase."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an apparition appears / of someone",
+      "partners": [
+        "a ghostly apparition",
+        "an apparition appeared"
+      ]
+    },
     "level": "hard"
   },
   {
@@ -1077,6 +2034,15 @@
       "The manager offered a refund to appease the angry customer.",
       "Nothing could appease the crying baby."
     ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "appease someone (by doing something)",
+      "partners": [
+        "appease the crowd",
+        "appease his anger",
+        "try to appease"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -1087,6 +2053,14 @@
       "The policy of appeasement failed to prevent the war.",
       "Giving in to every tantrum is appeasement, not parenting."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a policy of appeasement; appeasement of someone",
+      "partners": [
+        "a policy of appeasement",
+        "appeasement of the enemy"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -1097,6 +2071,15 @@
       "The bakery had an appetising smell of fresh bread.",
       "She arranged the food on the plate to make it more appetising."
     ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "something looks / smells appetising",
+      "partners": [
+        "looks appetising",
+        "an appetising smell",
+        "appetising food"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -1107,6 +2090,15 @@
       "She felt a sense of apprehension before her first job interview.",
       "There was apprehension in the town as the storm approached."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "apprehension about / over something; with apprehension",
+      "partners": [
+        "feel apprehension",
+        "with some apprehension",
+        "apprehension about the future"
+      ]
+    },
     "level": "hard"
   },
   {
@@ -1117,6 +2109,15 @@
       "He was apprehensive about flying for the first time.",
       "The students looked apprehensive as the exam papers were handed out."
     ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be / feel apprehensive about something / about doing something",
+      "partners": [
+        "apprehensive about the exam",
+        "feel apprehensive",
+        "a little apprehensive"
+      ]
+    },
     "level": "hard"
   },
   {
@@ -1127,6 +2128,15 @@
       "Jeans are not appropriate for a job interview.",
       "Please choose an appropriate time to call."
     ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "appropriate for someone / something; It is appropriate to do something",
+      "partners": [
+        "appropriate for the occasion",
+        "take appropriate action",
+        "the appropriate time"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -1137,6 +2147,15 @@
       "She bought a bag of dried apricots for the trip.",
       "Apricots grow well in the valleys of Ladakh."
     ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "dried / fresh apricots",
+      "partners": [
+        "dried apricots",
+        "fresh apricots",
+        "apricot jam"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -1147,6 +2166,15 @@
       "The chefs tied on their aprons before the dinner rush.",
       "The children wore aprons for the painting class."
     ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "wear / put on / tie aprons",
+      "partners": [
+        "kitchen aprons",
+        "wear aprons",
+        "tie an apron"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -1157,6 +2185,15 @@
       "He is apt to lose his temper when he is tired.",
       "Young children are apt to put things in their mouths."
     ],
+    "usage": {
+      "pos": "phrase",
+      "pattern": "someone / something is apt to do something",
+      "partners": [
+        "apt to forget",
+        "apt to get angry",
+        "apt to make mistakes"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -1167,6 +2204,15 @@
       "We spent the afternoon watching sharks at the city aquarium.",
       "He cleans the aquarium in his bedroom every Sunday."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "keep fish in an aquarium; visit an aquarium",
+      "partners": [
+        "a fish aquarium",
+        "a public aquarium",
+        "visit the aquarium"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -1177,6 +2223,15 @@
       "The rules seemed arbitrary and unfair.",
       "He picked an arbitrary number between one and ten."
     ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an arbitrary decision / rule / choice",
+      "partners": [
+        "an arbitrary decision",
+        "arbitrary rules",
+        "seem arbitrary"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -1187,6 +2242,15 @@
       "The ball flew through the air in a high arc.",
       "A rainbow stretched in a perfect arc over the hills."
     ],
+    "usage": {
+      "pos": "noun / verb",
+      "pattern": "in an arc; something arcs through the air",
+      "partners": [
+        "in a wide arc",
+        "the arc of a rainbow",
+        "a story arc"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -1197,6 +2261,14 @@
       "His archless feet made long walks painful.",
       "The doctor said she had archless, completely flat feet."
     ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "archless feet (flat feet)",
+      "partners": [
+        "archless feet",
+        "an archless foot"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -1207,6 +2279,15 @@
       "The climb to the summit was long and arduous.",
       "Preparing for the exam was an arduous task."
     ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an arduous journey / task / climb",
+      "partners": [
+        "an arduous journey",
+        "an arduous task",
+        "long and arduous"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -1217,6 +2298,15 @@
       "The palace was built for members of the aristocracy.",
       "Before the revolution, the aristocracy owned most of the land."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the aristocracy; a member of the aristocracy",
+      "partners": [
+        "the old aristocracy",
+        "a member of the aristocracy",
+        "the landed aristocracy"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -1227,6 +2317,15 @@
       "A problem arose during the meeting.",
       "She arose early to watch the sunrise."
     ],
+    "usage": {
+      "pos": "verb (past of arise)",
+      "pattern": "a problem / question / chance arose (from something)",
+      "partners": [
+        "a problem arose",
+        "a question arose",
+        "the need arose"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -1237,6 +2336,14 @@
       "The patient's arrhythmic heartbeat worried the doctors.",
       "The drummer's arrhythmic playing threw the band off."
     ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an arrhythmic heartbeat / beat",
+      "partners": [
+        "an arrhythmic heartbeat",
+        "arrhythmic beats"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -1247,6 +2354,15 @@
       "A blocked artery can cause a heart attack.",
       "The nurse pressed on the artery to stop the bleeding."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a blocked / main artery; an artery carries blood from the heart",
+      "partners": [
+        "a blocked artery",
+        "the main artery",
+        "a major traffic artery"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -1257,6 +2373,15 @@
       "Her arthritic fingers made it hard to open jars.",
       "The old dog moved slowly on its arthritic legs."
     ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "arthritic knees / hands / joints",
+      "partners": [
+        "arthritic knees",
+        "arthritic fingers",
+        "an arthritic dog"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -1267,6 +2392,15 @@
       "She is an articulate speaker who explains complex ideas simply.",
       "He struggled to articulate his feelings."
     ],
+    "usage": {
+      "pos": "adjective / verb",
+      "pattern": "be articulate; articulate your thoughts / feelings",
+      "partners": [
+        "an articulate speaker",
+        "articulate your thoughts",
+        "clear and articulate"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -1277,6 +2411,15 @@
       "The artillery fired at the enemy positions all night.",
       "Soldiers dragged the artillery up the hill."
     ],
+    "usage": {
+      "pos": "noun (uncountable)",
+      "pattern": "artillery fire; heavy artillery",
+      "partners": [
+        "heavy artillery",
+        "artillery fire",
+        "artillery shells"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -1287,6 +2430,15 @@
       "The ascent to the top of the mountain took six hours.",
       "The plane began its steep ascent after take-off."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the ascent of a mountain; make the ascent",
+      "partners": [
+        "a steep ascent",
+        "the ascent to the top",
+        "a rapid ascent"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -1297,6 +2449,15 @@
       "His face turned ashen when he heard the news.",
       "She looked ashen after the long illness."
     ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "someone's face turned / went ashen",
+      "partners": [
+        "ashen-faced",
+        "turned ashen",
+        "an ashen sky"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -1307,6 +2468,14 @@
       "He was accused of aspersing his rival's character in the press.",
       "Stop aspersing her reputation without any proof."
     ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "aspersing someone's character / reputation",
+      "partners": [
+        "aspersing his character",
+        "aspersing her reputation"
+      ]
+    },
     "level": "hard"
   },
   {
@@ -1317,6 +2486,15 @@
       "The workers spread fresh asphalt on the road.",
       "The asphalt was burning hot under the summer sun."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "lay asphalt; an asphalt road",
+      "partners": [
+        "an asphalt road",
+        "hot asphalt",
+        "lay asphalt"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -1327,6 +2505,15 @@
       "The damage was assessed by an insurance expert.",
       "Students are assessed at the end of each term."
     ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "someone assessed something; be assessed on / by something",
+      "partners": [
+        "assessed the damage",
+        "assessed the situation",
+        "be assessed by a teacher"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -1337,6 +2524,15 @@
       "The market had an assortment of vegetables on display.",
       "The shop sells assortments of chocolates for gifts."
     ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "an assortment of something (sweets / colours / vegetables)",
+      "partners": [
+        "an assortment of vegetables",
+        "a wide assortment",
+        "assortments of chocolates"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -1347,6 +2543,15 @@
       "Despite his assurances, the work was not finished on time.",
       "The government gave assurances that prices would not rise."
     ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "give / receive assurances (that...)",
+      "partners": [
+        "give assurances",
+        "despite assurances",
+        "assurances that it is safe"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -1357,6 +2562,15 @@
       "She was astonished to see her old friend at the door.",
       "We were astonished by how quickly he learned the language."
     ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be astonished at / by something; astonished to see / hear",
+      "partners": [
+        "astonished at the news",
+        "astonished to see",
+        "an astonished look"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -1367,6 +2581,15 @@
       "The child showed an astonishing talent for music.",
       "The team made an astonishing comeback in the second half."
     ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "It is astonishing that...; an astonishing result / speed",
+      "partners": [
+        "an astonishing result",
+        "at astonishing speed",
+        "It is astonishing that"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -1377,6 +2600,15 @@
       "To my astonishment, the shop was completely empty.",
       "He stared at the results in astonishment."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in astonishment; to someone's astonishment",
+      "partners": [
+        "in astonishment",
+        "to my astonishment",
+        "stare in astonishment"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -1387,6 +2619,15 @@
       "We were astounded by the size of the crowd.",
       "She was astounded to learn she had won the prize."
     ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be astounded by / at something; astounded to learn",
+      "partners": [
+        "astounded by the news",
+        "astounded to hear",
+        "absolutely astounded"
+      ]
+    },
     "level": "hard"
   },
   {
@@ -1397,6 +2638,15 @@
       "The letter went astray and never arrived.",
       "Bad friends can lead you astray."
     ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "go astray; lead someone astray",
+      "partners": [
+        "go astray",
+        "lead someone astray",
+        "letters went astray"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -1407,6 +2657,15 @@
       "He sat astride the horse.",
       "The boy sat astride the wall, swinging his legs."
     ],
+    "usage": {
+      "pos": "preposition / adverb",
+      "pattern": "sit astride something (a horse / bike / wall)",
+      "partners": [
+        "astride a horse",
+        "sat astride the wall",
+        "astride a bike"
+      ]
+    },
     "level": "hard"
   },
   {
@@ -1417,6 +2676,14 @@
       "A fallen tree lay athwart the road.",
       "The ship was anchored athwart the harbour entrance."
     ],
+    "usage": {
+      "pos": "preposition",
+      "pattern": "athwart something (across it)",
+      "partners": [
+        "athwart the path",
+        "athwart the ship"
+      ]
+    },
     "level": "hard"
   },
   {
@@ -1427,6 +2694,15 @@
       "A small bird sat atop the flagpole.",
       "She placed a cherry atop the cake."
     ],
+    "usage": {
+      "pos": "preposition",
+      "pattern": "atop something (on top of it)",
+      "partners": [
+        "atop the hill",
+        "atop the building",
+        "perched atop"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -1437,6 +2713,15 @@
       "Set goals that are challenging but attainable.",
       "With hard work, a top score is attainable."
     ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an attainable goal / target; attainable for someone",
+      "partners": [
+        "an attainable goal",
+        "easily attainable",
+        "realistic and attainable"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -1447,6 +2732,15 @@
       "He attempted to climb the mountain alone.",
       "She attempted the question but couldn't finish it."
     ],
+    "usage": {
+      "pos": "verb (past) / adjective",
+      "pattern": "someone attempted to do something; attempted something",
+      "partners": [
+        "attempted to escape",
+        "attempted the question",
+        "attempted murder"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -1457,6 +2751,14 @@
       "Her mother made a pot of aush for dinner.",
       "They shared steaming bowls of aush on the cold winter night."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a bowl of aush; make / eat aush",
+      "partners": [
+        "a bowl of aush",
+        "hot aush"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -1467,6 +2769,15 @@
       "The region was granted autonomy from the central government.",
       "Teenagers often want more autonomy over their lives."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "autonomy over / in something; give someone autonomy",
+      "partners": [
+        "full autonomy",
+        "autonomy over decisions",
+        "regional autonomy"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -1477,6 +2788,15 @@
       "The autopsy showed that he died of a heart attack.",
       "Police ordered an autopsy after the suspicious death."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "carry out / do an autopsy (on someone)",
+      "partners": [
+        "carry out an autopsy",
+        "the autopsy report",
+        "autopsy results"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -1487,6 +2807,15 @@
       "The trees turn red and gold in autumn.",
       "We planned our trip for early autumn when the weather is cool."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in autumn; autumn leaves",
+      "partners": [
+        "in autumn",
+        "autumn leaves",
+        "last autumn"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -1497,6 +2826,15 @@
       "The hospital hired auxiliary staff during the busy season.",
       "The ship has an auxiliary engine in case the main one fails."
     ],
+    "usage": {
+      "pos": "adjective / noun",
+      "pattern": "auxiliary staff / power / equipment",
+      "partners": [
+        "auxiliary staff",
+        "auxiliary power",
+        "an auxiliary nurse"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -1507,6 +2845,15 @@
       "He has a strong aversion to spicy food.",
       "Many cats have an aversion to water."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an aversion to something / to doing something",
+      "partners": [
+        "an aversion to spiders",
+        "a strong aversion",
+        "aversion to risk"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -1517,6 +2864,15 @@
       "Quick thinking averted a serious accident.",
       "She averted her eyes from the gruesome scene."
     ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "someone averted a crisis / disaster; averted their eyes",
+      "partners": [
+        "averted a disaster",
+        "averted a crisis",
+        "averted her eyes"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -1527,6 +2883,15 @@
       "The museum honours the first aviators who crossed the ocean.",
       "The aviators prepared their planes for the air show."
     ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "aviators fly planes; aviator sunglasses",
+      "partners": [
+        "early aviators",
+        "military aviators",
+        "aviator sunglasses"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -1537,6 +2902,15 @@
       "She is an avid reader who finishes a book every week.",
       "My uncle is an avid cricket fan."
     ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an avid reader / fan / collector",
+      "partners": [
+        "an avid reader",
+        "an avid fan",
+        "an avid collector"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -1547,6 +2921,15 @@
       "After the pipe burst, the floor was awash with water.",
       "The city was awash with tourists during the festival."
     ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be awash with / in something",
+      "partners": [
+        "awash with water",
+        "awash with money",
+        "the floor was awash"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -1557,6 +2940,15 @@
       "They stood in awe of the giant waterfall.",
       "The students looked at the famous scientist with awe."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in awe of someone / something; stare in awe",
+      "partners": [
+        "in awe of",
+        "stare in awe",
+        "a sense of awe"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -1567,6 +2959,15 @@
       "The children were awestruck by the fireworks.",
       "He stood awestruck in front of the huge mountain."
     ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be awestruck by something",
+      "partners": [
+        "awestruck by the view",
+        "an awestruck crowd",
+        "stood awestruck"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -1577,6 +2978,15 @@
       "The weather was awful all weekend.",
       "I feel awful about forgetting your birthday."
     ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "feel awful (about something); It is awful that...",
+      "partners": [
+        "feel awful",
+        "awful weather",
+        "an awful mistake"
+      ]
+    },
     "level": "medium"
   },
   {
@@ -1587,6 +2997,15 @@
       "Sit down and rest awhile.",
       "She stayed awhile after the party to help clean up."
     ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "stay / wait / rest awhile",
+      "partners": [
+        "stay awhile",
+        "wait awhile",
+        "rest awhile"
+      ]
+    },
     "level": "easy"
   },
   {
@@ -1597,6 +3016,15 @@
       "We stood under the shop's awning to avoid the rain.",
       "The café's striped awning kept the tables in the shade."
     ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "under an awning; an awning over a door / window",
+      "partners": [
+        "under the awning",
+        "a shop awning",
+        "a striped awning"
+      ]
+    },
     "level": "medium"
   }
 ]

@@ -6,7 +6,16 @@
     "examples": [
       "The baby was babbling happily in her cot.",
       "We sat by the babbling stream."
-    ]
+    ],
+    "usage": {
+      "pos": "verb (-ing) / adjective",
+      "pattern": "someone is babbling (on) about something; a babbling brook/stream",
+      "partners": [
+        "babbling baby",
+        "babbling brook",
+        "babbling on about"
+      ]
+    }
   },
   {
     "word": "bass",
@@ -15,7 +24,16 @@
     "examples": [
       "Turn down the bass, the walls are shaking.",
       "He plays bass guitar in a band."
-    ]
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "play (the) bass; the bass (sound) in something",
+      "partners": [
+        "bass guitar",
+        "deep bass",
+        "turn up the bass"
+      ]
+    }
   },
   {
     "word": "batshit",
@@ -24,7 +42,15 @@
     "examples": [
       "That plan is batshit crazy.",
       "He went batshit when he saw the bill."
-    ]
+    ],
+    "usage": {
+      "pos": "adjective (rude slang)",
+      "pattern": "someone/something is batshit (crazy); go batshit",
+      "partners": [
+        "batshit crazy",
+        "go batshit"
+      ]
+    }
   },
   {
     "word": "batty",
@@ -33,7 +59,16 @@
     "examples": [
       "My batty old uncle talks to his plants.",
       "The noise is driving me batty."
-    ]
+    ],
+    "usage": {
+      "pos": "adjective (informal)",
+      "pattern": "someone is a bit batty; something drives someone batty",
+      "partners": [
+        "a bit batty",
+        "drive someone batty",
+        "batty old"
+      ]
+    }
   },
   {
     "word": "bazillion",
@@ -42,7 +77,16 @@
     "examples": [
       "I have a bazillion things to do today.",
       "She has asked me that question a bazillion times."
-    ]
+    ],
+    "usage": {
+      "pos": "noun / number (informal)",
+      "pattern": "a bazillion things/times; bazillions of something",
+      "partners": [
+        "a bazillion times",
+        "a bazillion things",
+        "bazillions of"
+      ]
+    }
   },
   {
     "word": "beckoning",
@@ -51,7 +95,16 @@
     "examples": [
       "The teacher was beckoning me to come to her desk.",
       "The cool water looked beckoning on a hot day."
-    ]
+    ],
+    "usage": {
+      "pos": "verb (-ing) / adjective",
+      "pattern": "beckon (to) someone to do something; beckon someone over",
+      "partners": [
+        "beckoning finger",
+        "beckon someone over",
+        "beckoning to me"
+      ]
+    }
   },
   {
     "word": "bedridden",
@@ -60,7 +113,16 @@
     "examples": [
       "Grandpa was bedridden for a week with the flu.",
       "After the accident, she was bedridden for months."
-    ]
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be/become bedridden (with an illness / for a time)",
+      "partners": [
+        "bedridden for weeks",
+        "bedridden patient",
+        "become bedridden"
+      ]
+    }
   },
   {
     "word": "beige",
@@ -69,7 +131,16 @@
     "examples": [
       "She bought a beige sofa for the living room.",
       "The walls were painted a plain beige."
-    ]
+    ],
+    "usage": {
+      "pos": "adjective / noun (colour)",
+      "pattern": "a beige something; something is beige; painted beige",
+      "partners": [
+        "beige walls",
+        "light beige",
+        "beige sofa"
+      ]
+    }
   },
   {
     "word": "bell curve",
@@ -78,7 +149,16 @@
     "examples": [
       "Most students' marks fell in the middle of the bell curve.",
       "Heights of people follow a bell curve."
-    ]
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "follow a bell curve; on/in the bell curve; grade on a bell curve",
+      "partners": [
+        "follow a bell curve",
+        "grade on a bell curve",
+        "middle of the bell curve"
+      ]
+    }
   },
   {
     "word": "beneficial",
@@ -87,7 +167,16 @@
     "examples": [
       "Exercise is beneficial for your health.",
       "The extra class was beneficial to everyone."
-    ]
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "something is beneficial for/to someone/something",
+      "partners": [
+        "beneficial for health",
+        "mutually beneficial",
+        "highly beneficial"
+      ]
+    }
   },
   {
     "word": "benefits",
@@ -96,7 +185,16 @@
     "examples": [
       "One of the benefits of walking is better sleep.",
       "The job comes with health benefits."
-    ]
+    ],
+    "usage": {
+      "pos": "noun (plural) / verb",
+      "pattern": "the benefits of something/doing; something benefits someone; benefit from something",
+      "partners": [
+        "health benefits",
+        "the benefits of exercise",
+        "benefit from"
+      ]
+    }
   },
   {
     "word": "benign",
@@ -105,7 +203,16 @@
     "examples": [
       "The doctor said the lump was benign.",
       "He gave a benign smile to the children."
-    ]
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "something is benign; a benign tumour/smile",
+      "partners": [
+        "benign tumour",
+        "benign smile",
+        "relatively benign"
+      ]
+    }
   },
   {
     "word": "bestowed",
@@ -114,7 +221,16 @@
     "examples": [
       "The award was bestowed on the best student.",
       "The king bestowed a medal on the brave soldier."
-    ]
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "bestow something on/upon someone",
+      "partners": [
+        "bestowed an honour on",
+        "bestowed upon him",
+        "bestow a title"
+      ]
+    }
   },
   {
     "word": "bewildered",
@@ -123,7 +239,16 @@
     "examples": [
       "He looked bewildered by the long question.",
       "The tourists were bewildered in the busy station."
-    ]
+    ],
+    "usage": {
+      "pos": "adjective / verb (past)",
+      "pattern": "be bewildered by/at something; look bewildered",
+      "partners": [
+        "completely bewildered",
+        "look bewildered",
+        "bewildered by the question"
+      ]
+    }
   },
   {
     "word": "bigwig",
@@ -132,7 +257,16 @@
     "examples": [
       "Some company bigwigs visited our office.",
       "He acts like a bigwig, but he's just a clerk."
-    ]
+    ],
+    "usage": {
+      "pos": "noun (informal)",
+      "pattern": "a bigwig in/at something (a company, politics)",
+      "partners": [
+        "company bigwigs",
+        "party bigwig",
+        "local bigwig"
+      ]
+    }
   },
   {
     "word": "binders",
@@ -141,7 +275,16 @@
     "examples": [
       "Keep your notes in these binders.",
       "She has three binders full of recipes."
-    ]
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "put/keep something in binders",
+      "partners": [
+        "ring binders",
+        "plastic binders",
+        "keep notes in binders"
+      ]
+    }
   },
   {
     "word": "bizarre",
@@ -150,7 +293,16 @@
     "examples": [
       "I had a bizarre dream last night.",
       "It was bizarre to see snow in summer."
-    ]
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "something is bizarre; it is bizarre that ...",
+      "partners": [
+        "bizarre dream",
+        "bizarre behaviour",
+        "quite bizarre"
+      ]
+    }
   },
   {
     "word": "blatant",
@@ -159,7 +311,16 @@
     "examples": [
       "That was a blatant lie.",
       "He made a blatant mistake in front of everyone."
-    ]
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a blatant lie/mistake/example of something",
+      "partners": [
+        "blatant lie",
+        "blatant disregard for",
+        "blatant mistake"
+      ]
+    }
   },
   {
     "word": "blaze",
@@ -168,7 +329,16 @@
     "examples": [
       "Firefighters put out the blaze quickly.",
       "The garden was a blaze of colour in spring."
-    ]
+    ],
+    "usage": {
+      "pos": "noun / verb",
+      "pattern": "a blaze (fire); something blazes; a blaze of colour/light",
+      "partners": [
+        "put out the blaze",
+        "a blaze of colour",
+        "blazing sun"
+      ]
+    }
   },
   {
     "word": "blinding",
@@ -177,7 +347,16 @@
     "examples": [
       "The sun was blinding when we came out.",
       "There was a blinding flash of light."
-    ]
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a blinding light/flash; something is blinding",
+      "partners": [
+        "blinding light",
+        "blinding flash",
+        "blinding headache"
+      ]
+    }
   },
   {
     "word": "blinds",
@@ -186,7 +365,16 @@
     "examples": [
       "Please close the blinds, the sun is too bright.",
       "She opened the blinds to let the light in."
-    ]
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "open/close/pull down the blinds",
+      "partners": [
+        "close the blinds",
+        "window blinds",
+        "pull down the blinds"
+      ]
+    }
   },
   {
     "word": "bloated",
@@ -195,7 +383,16 @@
     "examples": [
       "I felt bloated after the big lunch.",
       "The company has a bloated budget."
-    ]
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "feel bloated (after something); a bloated budget/system",
+      "partners": [
+        "feel bloated",
+        "bloated stomach",
+        "bloated budget"
+      ]
+    }
   },
   {
     "word": "blossomed",
@@ -204,7 +401,16 @@
     "examples": [
       "The cherry trees blossomed in April.",
       "She blossomed into a confident speaker."
-    ]
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something blossomed; someone blossomed into something",
+      "partners": [
+        "blossomed into",
+        "trees blossomed",
+        "friendship blossomed"
+      ]
+    }
   },
   {
     "word": "blowout",
@@ -213,7 +419,16 @@
     "examples": [
       "They had a blowout party for her birthday.",
       "Our team won the match in a blowout, 6–0."
-    ]
+    ],
+    "usage": {
+      "pos": "noun (informal)",
+      "pattern": "have a blowout (party); win in a blowout; a tyre blowout",
+      "partners": [
+        "birthday blowout",
+        "blowout win",
+        "tyre blowout"
+      ]
+    }
   },
   {
     "word": "bluster",
@@ -222,7 +437,16 @@
     "examples": [
       "Ignore his bluster; he won't really do anything.",
       "The wind blustered all night."
-    ]
+    ],
+    "usage": {
+      "pos": "noun / verb",
+      "pattern": "someone's bluster; someone blusters (about something); the wind blusters",
+      "partners": [
+        "full of bluster",
+        "political bluster",
+        "blustery wind"
+      ]
+    }
   },
   {
     "word": "boatload",
@@ -231,7 +455,16 @@
     "examples": [
       "He made a boatload of money.",
       "We have a boatload of homework this week."
-    ]
+    ],
+    "usage": {
+      "pos": "noun (informal)",
+      "pattern": "a boatload of something",
+      "partners": [
+        "a boatload of money",
+        "a boatload of work",
+        "boatloads of"
+      ]
+    }
   },
   {
     "word": "bogus",
@@ -240,7 +473,16 @@
     "examples": [
       "The email was a bogus offer.",
       "He showed a bogus ID card."
-    ]
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a bogus something; something is bogus",
+      "partners": [
+        "bogus claim",
+        "bogus email",
+        "bogus ID"
+      ]
+    }
   },
   {
     "word": "bombarded",
@@ -249,7 +491,16 @@
     "examples": [
       "The singer was bombarded with questions.",
       "My phone was bombarded with messages."
-    ]
+    ],
+    "usage": {
+      "pos": "verb (past / passive)",
+      "pattern": "be bombarded with something; bombard someone with something",
+      "partners": [
+        "bombarded with questions",
+        "bombarded with messages",
+        "bombarded with calls"
+      ]
+    }
   },
   {
     "word": "borderline",
@@ -258,7 +509,16 @@
     "examples": [
       "His marks were borderline for passing.",
       "That joke was borderline rude."
-    ]
+    ],
+    "usage": {
+      "pos": "adjective / noun",
+      "pattern": "something is borderline (rude/pass); on the borderline of something",
+      "partners": [
+        "borderline case",
+        "borderline rude",
+        "borderline pass"
+      ]
+    }
   },
   {
     "word": "brain boners",
@@ -267,7 +527,15 @@
     "examples": [
       "Space facts give me brain boners.",
       "That science video was full of brain boners."
-    ]
+    ],
+    "usage": {
+      "pos": "noun (plural, joking slang)",
+      "pattern": "something gives someone brain boners",
+      "partners": [
+        "give me brain boners",
+        "total brain boner"
+      ]
+    }
   },
   {
     "word": "breach",
@@ -276,7 +544,16 @@
     "examples": [
       "Sharing the password was a breach of the rules.",
       "Water came through a breach in the wall."
-    ]
+    ],
+    "usage": {
+      "pos": "noun / verb",
+      "pattern": "a breach of something (rules/contract/trust); breach a rule/wall",
+      "partners": [
+        "breach of contract",
+        "breach of trust",
+        "security breach"
+      ]
+    }
   },
   {
     "word": "bred",
@@ -285,7 +562,16 @@
     "examples": [
       "He was born and bred in Mumbai.",
       "These dogs were bred to guard sheep."
-    ]
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "be bred for/to do something; born and bred (in a place)",
+      "partners": [
+        "born and bred",
+        "bred for",
+        "well-bred"
+      ]
+    }
   },
   {
     "word": "breeds",
@@ -294,7 +580,16 @@
     "examples": [
       "There are many breeds of dogs.",
       "Laziness breeds more laziness."
-    ]
+    ],
+    "usage": {
+      "pos": "noun (plural) / verb",
+      "pattern": "breeds of something; something breeds something (causes it)",
+      "partners": [
+        "dog breeds",
+        "rare breeds",
+        "familiarity breeds contempt"
+      ]
+    }
   },
   {
     "word": "brink",
@@ -303,7 +598,16 @@
     "examples": [
       "The company was on the brink of closing.",
       "She stood at the brink of the cliff."
-    ]
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "be on the brink of something / of doing something",
+      "partners": [
+        "on the brink of",
+        "brink of collapse",
+        "brink of war"
+      ]
+    }
   },
   {
     "word": "bruised",
@@ -312,7 +616,16 @@
     "examples": [
       "He bruised his knee when he fell.",
       "She felt bruised after the argument."
-    ]
+    ],
+    "usage": {
+      "pos": "adjective / verb (past)",
+      "pattern": "bruise your knee/arm; feel bruised (emotionally)",
+      "partners": [
+        "badly bruised",
+        "bruised knee",
+        "bruised ego"
+      ]
+    }
   },
   {
     "word": "brunt of",
@@ -321,7 +634,16 @@
     "examples": [
       "The coastal towns bore the brunt of the storm.",
       "I took the brunt of the blame."
-    ]
+    ],
+    "usage": {
+      "pos": "phrase",
+      "pattern": "bear/take the brunt of something",
+      "partners": [
+        "bear the brunt of",
+        "take the brunt of",
+        "the full brunt of"
+      ]
+    }
   },
   {
     "word": "bugging",
@@ -330,7 +652,16 @@
     "examples": [
       "Stop bugging me while I'm working!",
       "Something has been bugging me all day."
-    ]
+    ],
+    "usage": {
+      "pos": "verb (-ing, informal)",
+      "pattern": "something is bugging someone; stop bugging someone (about something)",
+      "partners": [
+        "stop bugging me",
+        "what's bugging you",
+        "bugging me about"
+      ]
+    }
   },
   {
     "word": "bum",
@@ -339,7 +670,16 @@
     "examples": [
       "Don't be a lazy bum, get up and help!",
       "He fell on his bum on the ice."
-    ]
+    ],
+    "usage": {
+      "pos": "noun (informal) / verb",
+      "pattern": "a lazy bum; on your bum; bum something off someone (borrow)",
+      "partners": [
+        "lazy bum",
+        "beach bum",
+        "bum a cigarette"
+      ]
+    }
   },
   {
     "word": "burritos",
@@ -348,7 +688,16 @@
     "examples": [
       "We had burritos for dinner.",
       "She ordered two chicken burritos."
-    ]
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "have/order/make burritos",
+      "partners": [
+        "chicken burritos",
+        "bean burritos",
+        "order burritos"
+      ]
+    }
   },
   {
     "word": "buzz",
@@ -357,6 +706,15 @@
     "examples": [
       "I heard the buzz of a bee near the window.",
       "There was a buzz of excitement in the room."
-    ]
+    ],
+    "usage": {
+      "pos": "noun / verb",
+      "pattern": "the buzz of something; a buzz of excitement; something buzzes",
+      "partners": [
+        "buzz of excitement",
+        "phone buzzing",
+        "the buzz about"
+      ]
+    }
   }
 ]

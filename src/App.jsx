@@ -18,7 +18,7 @@ function store(key, value) {
 }
 
 export default function App() {
-  // screen: 'home' | 'browse' | 'review' | 1 | 2 (quiz level)
+  // screen: 'home' | 'browse' | 'review' | 1 | 2 | 3 (quiz level)
   const [screen, setScreen] = useState('home');
   const [setId, setSetId] = useState(() => load(SET_KEY, 'all'));
   const [filter, setFilter] = useState(() => {
@@ -121,7 +121,7 @@ export default function App() {
           onBack={goHome}
         />
       )}
-      {(screen === 1 || screen === 2) && (
+      {[1, 2, 3].includes(screen) && (
         <Quiz
           key={`${screen}-${letterSet.id}-${filter}`}
           level={screen}

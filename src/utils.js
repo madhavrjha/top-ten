@@ -24,6 +24,11 @@ export function prepareWords(list) {
         meaning,
         trick: (w.trick || '').trim(),
         examples: Array.isArray(w.examples) ? w.examples : [],
+        usage: w.usage && w.usage.pattern ? {
+          pos: w.usage.pos || '',
+          pattern: w.usage.pattern,
+          partners: Array.isArray(w.usage.partners) ? w.usage.partners : [],
+        } : null,
         level: ['easy', 'medium', 'hard'].includes(w.level) ? w.level : null,
         lower: word.toLowerCase(),
         key: norm(meaning),

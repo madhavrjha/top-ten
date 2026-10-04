@@ -7,6 +7,15 @@
       "With one accord, the crowd rose to their feet.",
       "The members voted with one accord to approve the plan."
     ],
+    "usage": {
+      "pos": "phrase",
+      "pattern": "with one accord, people did something",
+      "partners": [
+        "agreed with one accord",
+        "stood up with one accord",
+        "with one accord, they cheered"
+      ]
+    },
     "level": "medium"
   }
 ]
