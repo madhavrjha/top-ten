@@ -71,12 +71,12 @@ just `Word`, or WhatsApp lines with timestamps (`[7:33 pm, 3/10/2026] Madhav: ..
   voice picker for pronunciation.
 - **Level 1 – Pick the meaning**: 4 options, distractors have distinct meanings. Keys 1–4, Enter, P (speak).
 - **Level 2 – Spell the word**: type the word from its meaning. Letter blanks shown from the start;
-  click a blank or "Show hint" to reveal letters; the trick appears only when one letter is left.
+  click any blank to reveal that letter (all but the last); "Show hint" shows the trick (word masked).
   A different form of the right word (amplify vs amplifies) counts as "Almost" (cleared, amber).
 - Whole set practised at once; a missed word is requeued a few questions later until all are cleared.
 - **Level 3 – Fill in the blank**: an example sentence with the word blanked (`findClozes` in
   `session.js` finds the word or a form of it, incl. multi-word phrases); type the blanked text.
-  Same letter hints as Level 2, final hint = meaning; other forms count as "Almost".
+  Same clickable blanks as Level 2; "Show hint" shows the meaning; other forms count as "Almost".
 - After each answer: details (incl. "How to use") + Easy/Medium/Hard buttons (keys E/M/H).
 - **Browse**: letter + difficulty filters, search by word only, rows collapsed (meaning hidden until
   expanded), Shuffle / A–Z order, 🔊 per row, pages of 60 rows loaded on scroll.

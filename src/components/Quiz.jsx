@@ -88,7 +88,7 @@ export default function Quiz({ level, setWords, setLabel, words, levels, onSetLe
             label="Type the word that means…"
             prompt={<div className="prompt meaning">{s.current.meaning}</div>}
             answerText={s.current.word}
-            finalHint={s.current.trick && `💡 ${maskWord(s.current.trick, s.current.word)}`}
+            hint={s.current.trick && `💡 ${maskWord(s.current.trick, s.current.word)}`}
             answered={answered}
             onSubmit={submitSpelling}
           />
@@ -105,7 +105,7 @@ export default function Quiz({ level, setWords, setLabel, words, levels, onSetLe
               </div>
             }
             answerText={s.cloze.answer}
-            finalHint={`Meaning: ${s.current.meaning}`}
+            hint={`Meaning: ${s.current.meaning}`}
             answered={answered}
             onSubmit={submitSpelling}
           />
@@ -168,14 +168,15 @@ function MeaningQuestion({ s, onPick }) {
 }
 
 // Shared by Level 2 (spell from meaning) and Level 3 (fill in the blank).
-function SpellQuestion({ label, prompt, answerText, finalHint, answered, onSubmit }) {
+function SpellQuestion({ label, prompt, answerText, hint, answered, onSubmit }) {
   const [typed, setTyped] = useState('');
   const [revealed, setRevealed] = useState(() => new Set());
+  const [showHint, setShowHint] = useState(false);
   const inputRef = useRef(null);
 
-  // Blanks are shown from the start. "Show hint" reveals the next letter from the
-  // left, or click any blank to reveal that letter. Once only one letter is left
-  // hidden, the final hint (trick or meaning) is shown.
+  // Two independent hints, used in any order: click a blank to reveal that
+  // letter (all but the last one), or "Show hint" for the text hint
+  // (trick in Level 2, meaning in Level 3).
   const chars = [...answerText];
   const isLetter = ch => ch !== ' ' && ch !== '-';
   const hidden = chars.map((ch, i) => i).filter(i => isLetter(chars[i]) && !revealed.has(i));
@@ -224,13 +225,18 @@ function SpellQuestion({ label, prompt, answerText, finalHint, answered, onSubmi
           )
         )}
       </div>
-      <div className="hint-row">
-        <button type="button" className="ghost" disabled={answered || maxed}
-          onClick={() => reveal(hidden[0])}>
-          {revealed.size ? 'Next letter' : 'Show hint'}
-        </button>
-        {maxed && finalHint && !answered && <div className="hint">{finalHint}</div>}
-      </div>
+      {hint && (
+        <div className="hint-row">
+          {showHint ? (
+            !answered && <div className="hint">{hint}</div>
+          ) : (
+            <button type="button" className="ghost" disabled={answered}
+              onClick={() => { setShowHint(true); inputRef.current?.focus(); }}>
+              Show hint
+            </button>
+          )}
+        </div>
+      )}
     </>
   );
 }
