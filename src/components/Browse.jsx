@@ -8,9 +8,8 @@ import { shuffle } from '../utils.js';
 // Rows are rendered in pages as you scroll, so long lists stay fast.
 const PAGE = 60;
 
-export default function Browse({ sets, initialSetId, repeat, onToggleRepeat, onBack }) {
+export default function Browse({ sets, setId, onSetChange, repeat, onToggleRepeat, onBack }) {
   const [query, setQuery] = useState('');
-  const [setId, setSetId] = useState(initialSetId);
   const [open, setOpen] = useState(() => new Set());
   const [limit, setLimit] = useState(PAGE);
   // null = A–Z order; a number = shuffled (changing it reshuffles).
@@ -83,7 +82,7 @@ export default function Browse({ sets, initialSetId, repeat, onToggleRepeat, onB
         />
       </div>
       <div className="browse-sets">
-        <SetPicker sets={sets} value={setId} onChange={setSetId} />
+        <SetPicker sets={sets} value={setId} onChange={onSetChange} />
       </div>
       <div className="browse-order">
         <button type="button" className={shuffled ? 'primary' : 'ghost'} onClick={reshuffle}>

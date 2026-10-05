@@ -3,6 +3,7 @@ import { WORDS } from './words.js';
 import { loadRepeat, saveRepeat, today, clearSavedData } from './repeat.js';
 import { loadSpell } from './spellProgress.js';
 import { loadDaily, saveDaily, setLetter, letterDoneSet, markLetterDone, markRepeatDone, clearToday, REPEAT_ROUNDS } from './daily.js';
+import { useRoute, navigate, href } from './router.js';
 import Home from './components/Home.jsx';
 import Quiz from './components/Quiz.jsx';
 import Browse from './components/Browse.jsx';
@@ -19,12 +20,13 @@ function store(key, value) {
 }
 
 export default function App() {
-  // screen: 'home' | 'browse' | 'spell' | 'today-letter' | 'today-repeat'
-  const [screen, setScreen] = useState('home');
+  // Routes: #/  #/browse/<set>  #/spell/<set>  #/today/letter  #/today/repeat
+  const path = useRoute();
+  const [, page = '', param = ''] = path.split('/');
   const [setId, setSetId] = useState(() => load(SET_KEY, 'all'));
   const [repeat, setRepeat] = useState(loadRepeat);
   const [dataVersion, setDataVersion] = useState(0); // bumps after clearing saved data
-  const goHome = () => setScreen('home');
+  const goHome = () => navigate('/');
 
   const [toast, setToast] = useState('');
   useEffect(() => {
@@ -90,8 +92,39 @@ export default function App() {
     ...letterSets,
   ], [letterSets, repeat]);
   const practiceSet = sets.find(x => x.id === setId) || sets[0];
+  // The set named in the URL for #/browse/<set> and #/spell/<set>.
+  const routeSet = sets.find(x => x.id === param) || null;
 
   const changeSet = id => { setSetId(id); store(SET_KEY, id); };
+
+  // Which screen the URL points to; anything unknown goes back to Home.
+  const screen =
+    page === '' ? 'home'
+    : page === 'browse' && routeSet ? 'browse'
+    : page === 'spell' && routeSet ? 'spell'
+    : page === 'today' && param === 'letter' ? 'today-letter'
+    : page === 'today' && param === 'repeat' ? 'today-repeat'
+    : null;
+
+  useEffect(() => {
+    if (!screen) navigate('/', { replace: true });
+  }, [screen]);
+
+  // Opening a set from its URL also makes it the selected set on Home.
+  useEffect(() => {
+    if ((screen === 'browse' || screen === 'spell') && routeSet.id !== setId) changeSet(routeSet.id);
+  }, [screen, routeSet?.id]); // eslint-disable-line react-hooks/exhaustive-deps
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+    const titles = {
+      browse: `Browse · ${routeSet?.label}`,
+      spell: `Spell · ${routeSet?.label}`,
+      'today-letter': 'Letter of the day',
+      'today-repeat': 'Repeat words',
+    };
+    document.title = titles[screen] ? `${titles[screen]} — Vocab Trainer` : 'Vocab Trainer';
+  }, [path]); // eslint-disable-line react-hooks/exhaustive-deps
 
   const repeatWords = sets[1].words;
 
@@ -107,7 +140,7 @@ export default function App() {
   return (
     <main className="app">
       <header className="top">
-        <h1 onClick={goHome}>Vocab Trainer</h1>
+        <h1><a href={href('/')}>Vocab Trainer</a></h1>
         <span className="muted">{WORDS.length} words</span>
       </header>
 
@@ -119,20 +152,20 @@ export default function App() {
           practiceSet={practiceSet}
           spellSaved={spellSaved}
           repeatCount={sets[1].words.length}
-          onPick={setScreen}
+          onPick={id => navigate(`/${id}/${practiceSet.id}`)}
           today={{
             letters: Object.keys(letterWords).sort(),
             letter: daily.letter,
             letterWords: todayLetterWords,
             letterDone: todayLetterWords.filter(w => todayLetterDone.has(w.lower)).length,
             onLetterChange: l => updateDaily(d => setLetter(d, l)),
-            onStartLetter: () => setScreen('today-letter'),
+            onStartLetter: () => navigate('/today/letter'),
             shuffleLetter,
             onShuffleChange: changeShuffle,
             repeatWords,
             rounds: daily.rounds,
             roundDone: repeatWords.filter(w => daily.roundDone.includes(w.lower)).length,
-            onStartRepeat: () => { setRepeatWalkId(i => i + 1); setScreen('today-repeat'); },
+            onStartRepeat: () => { setRepeatWalkId(i => i + 1); navigate('/today/repeat'); },
             onClear: clearProgress,
           }}
           onClearData={clearData}
@@ -179,7 +212,8 @@ export default function App() {
       {screen === 'browse' && (
         <Browse
           sets={sets}
-          initialSetId={practiceSet.id}
+          setId={routeSet.id}
+          onSetChange={id => navigate(`/browse/${id}`, { replace: true })}
           repeat={repeat}
           onToggleRepeat={toggleRepeat}
           onBack={goHome}
@@ -187,10 +221,10 @@ export default function App() {
       )}
       {screen === 'spell' && (
         <Quiz
-          key={practiceSet.id}
-          setId={practiceSet.id}
-          setWords={practiceSet.words}
-          setLabel={practiceSet.label}
+          key={routeSet.id}
+          setId={routeSet.id}
+          setWords={routeSet.words}
+          setLabel={routeSet.label}
           words={WORDS}
           repeat={repeat}
           onToggleRepeat={toggleRepeat}

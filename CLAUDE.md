@@ -85,6 +85,10 @@ request — don't bring them back unless asked.
   "Resume spelling"; "Start over" resets the set; finishing a set clears its entry.
 - **Browse**: set chips, search by word only, rows collapsed until expanded (meaning, trick,
   "How to use", examples), 🔊 and 🔁 per row, Shuffle / A–Z, pages of 60 rows loaded on scroll.
+- **Routing** (`src/router.js`, hash-based so GitHub Pages needs no rewrites): `#/`, `#/browse/<set>`,
+  `#/spell/<set>`, `#/today/letter`, `#/today/repeat` (<set> = all | repeat | a | b ...). Browser Back/Forward
+  move between screens; unknown routes redirect home. Set chips in Browse use `replace`. (A Back-button
+  "are you sure?" guard was tried and removed at the user's request — don't re-add it.)
 - **Pronunciation**: browser text-to-speech (`src/speech.js`); novelty macOS voices filtered out;
   voice choice saved in localStorage. In Spell it's only offered after answering.
 
@@ -96,7 +100,8 @@ request — don't bring them back unless asked.
 - `src/daily.js` — pure daily-task logic + `vocab.today` storage.
 - `src/spellProgress.js` — saved Spell progress per set (`vocab.spell`).
 - `src/speech.js` — voice ranking and `speak()`.
-- `src/App.jsx` — screens, sets (All / Repeat / letters), repeat state, clear data, toast.
+- `src/App.jsx` — routes → screens, sets (All / Repeat / letters), repeat state, clear data, toast.
+- `src/router.js` — `useRoute`, `navigate(to, {replace})`, `href`.
 - `src/components/` — `Home`, `Today`, `Walk` (card-by-card go-through), `Quiz` (Spell the word),
   `Browse`, `WordDetails`, `SetPicker`, `RepeatButton`, `SpeakButton`, `VoicePicker`.
 - `vite.config.js` — `base: '/top-ten/'` for builds.
