@@ -1,8 +1,9 @@
 import SetPicker from './SetPicker.jsx';
 import VoicePicker from './VoicePicker.jsx';
+import Today from './Today.jsx';
 
 export default function Home({
-  sets, setId, onSetChange, practiceSet, repeatCount, onPick, onClearData, dataVersion, hasWords,
+  sets, setId, onSetChange, practiceSet, repeatCount, onPick, today, onClearData, dataVersion, hasWords,
 }) {
   const count = practiceSet.words.length;
   const isRepeat = practiceSet.id === 'repeat';
@@ -11,7 +12,9 @@ export default function Home({
     <section>
       {!hasWords && <p className="bad-text">No words found. Add words to src/words/&lt;letter&gt;.json.</p>}
 
-      <h2 className="section-title">Practice set</h2>
+      {hasWords && <Today {...today} />}
+
+      <h2 className="section-title spaced">Practice set</h2>
       <SetPicker sets={sets} value={setId} onChange={onSetChange} />
       <p className="muted small-text">
         {count === 0 && isRepeat
@@ -40,8 +43,8 @@ export default function Home({
       <h2 className="section-title spaced">Saved data</h2>
       <div className="saved-data">
         <p className="muted small-text">
-          Your repeat list ({repeatCount} word{repeatCount === 1 ? '' : 's'}), voice and last set are saved
-          in this browser only.
+          Your repeat list ({repeatCount} word{repeatCount === 1 ? '' : 's'}), today's progress, voice and
+          last set are saved in this browser only.
         </p>
         <button type="button" className="ghost danger" onClick={onClearData}>Clear saved data</button>
       </div>

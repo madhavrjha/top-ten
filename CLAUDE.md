@@ -64,6 +64,13 @@ Level 1 (multiple choice), Level 3 (fill in the blank) and Daily Review flashcar
 request — don't bring them back unless asked.
 
 ## Features (what exists)
+- **Today** (top of Home, `src/daily.js`, `Today.jsx`, `Walk.jsx`): two daily tasks.
+  📖 *Letter of the day* — go through every word of one letter, card by card (word → Space shows meaning →
+  Enter = next/done; 🔁 or R adds to repeat list). 🔁 *Repeat words* — go through the repeat list
+  `REPEAT_ROUNDS` (3) times; a round counts when every repeat word is done; pause screen between rounds.
+  Progress in localStorage key `vocab.today` = `{ day, letter, letters: {a: [lower...]}, rounds, roundDone }`.
+  New day: rounds reset; an unfinished letter carries over its progress, a finished one moves to the
+  next letter (wrapping). "Clear today's progress" resets today (keeps the letter and repeat list).
 - **Home**: set chips (All, 🔁 Repeat, one per letter) → **Spell the word** or **Browse words**;
   voice picker; **Clear saved data** (removes all `vocab.*` localStorage keys after a confirm).
 - **Repeat list** (`src/repeat.js`): localStorage key `vocab.repeat` = `{ "<lowercase word>": "YYYY-MM-DD added" }`.
@@ -81,10 +88,11 @@ request — don't bring them back unless asked.
 - `src/utils.js` — `shuffle`, `norm`, `prepareWords` (precomputes `lower` and meaning `key`).
 - `src/session.js` — pure spelling-quiz logic + spelling check with a light stemmer.
 - `src/repeat.js` — repeat list storage, `sinceLabel`, `clearSavedData`.
+- `src/daily.js` — pure daily-task logic + `vocab.today` storage.
 - `src/speech.js` — voice ranking and `speak()`.
 - `src/App.jsx` — screens, sets (All / Repeat / letters), repeat state, clear data, toast.
-- `src/components/` — `Home`, `Quiz` (Spell the word), `Browse`, `WordDetails`, `SetPicker`,
-  `RepeatButton`, `SpeakButton`, `VoicePicker`.
+- `src/components/` — `Home`, `Today`, `Walk` (card-by-card go-through), `Quiz` (Spell the word),
+  `Browse`, `WordDetails`, `SetPicker`, `RepeatButton`, `SpeakButton`, `VoicePicker`.
 - `vite.config.js` — `base: '/top-ten/'` for builds.
 
 ## Deploy

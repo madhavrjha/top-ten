@@ -1,9 +1,11 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { WORDS } from './words.js';
 import { loadRepeat, saveRepeat, today, clearSavedData } from './repeat.js';
+import { loadDaily, saveDaily, setLetter, letterDoneSet, markLetterDone, markRepeatDone, clearToday, REPEAT_ROUNDS } from './daily.js';
 import Home from './components/Home.jsx';
 import Quiz from './components/Quiz.jsx';
 import Browse from './components/Browse.jsx';
+import Walk from './components/Walk.jsx';
 
 const SET_KEY = 'vocab.practiceSet';
 
@@ -15,7 +17,7 @@ function store(key, value) {
 }
 
 export default function App() {
-  // screen: 'home' | 'browse' | 'spell'
+  // screen: 'home' | 'browse' | 'spell' | 'today-letter' | 'today-repeat'
   const [screen, setScreen] = useState('home');
   const [setId, setSetId] = useState(() => load(SET_KEY, 'all'));
   const [repeat, setRepeat] = useState(loadRepeat);
@@ -42,6 +44,25 @@ export default function App() {
     if (!saveRepeat(next)) setToast("Couldn't save — this browser is blocking storage (private mode?).");
   }, []);
 
+  // Today's tasks (letter of the day + repeat rounds), saved per day.
+  const letterWords = useMemo(() => {
+    const byLetter = {};
+    WORDS.forEach(w => (byLetter[w.word[0].toLowerCase()] ||= []).push(w));
+    return byLetter;
+  }, []);
+  const [daily, setDaily] = useState(() => loadDaily(letterWords));
+  const [repeatWalkId, setRepeatWalkId] = useState(0); // new id = fresh walk for the next round
+  const updateDaily = fn => setDaily(prev => {
+    const next = fn(prev);
+    if (next !== prev) saveDaily(next);
+    return next;
+  });
+
+  const clearProgress = () => {
+    if (!window.confirm("Clear today's progress? Your repeat list stays.")) return;
+    updateDaily(clearToday);
+  };
+
   const clearData = () => {
     if (!window.confirm('Clear all saved data in this browser? This empties your repeat list and resets your voice and set choices.')) return;
     if (!clearSavedData()) {
@@ -50,17 +71,14 @@ export default function App() {
     }
     setRepeat({});
     setSetId('all');
+    setDaily(loadDaily(letterWords));
     setDataVersion(v => v + 1);
     setToast('Saved data cleared.');
   };
 
   // "All", "Repeat" (your repeat list), then one set per starting letter.
-  const letterSets = useMemo(() => {
-    const byLetter = {};
-    WORDS.forEach(w => (byLetter[w.word[0].toLowerCase()] ||= []).push(w));
-    return Object.keys(byLetter).sort()
-      .map(l => ({ id: l, label: `Letter ${l.toUpperCase()}`, words: byLetter[l] }));
-  }, []);
+  const letterSets = useMemo(() => Object.keys(letterWords).sort()
+    .map(l => ({ id: l, label: `Letter ${l.toUpperCase()}`, words: letterWords[l] })), [letterWords]);
   const sets = useMemo(() => [
     { id: 'all', label: 'All words', words: WORDS },
     { id: 'repeat', label: 'Repeat list', words: WORDS.filter(w => repeat[w.lower]) },
@@ -69,6 +87,10 @@ export default function App() {
   const practiceSet = sets.find(x => x.id === setId) || sets[0];
 
   const changeSet = id => { setSetId(id); store(SET_KEY, id); };
+
+  const repeatWords = sets[1].words;
+  const todayLetterWords = letterWords[daily.letter] || [];
+  const todayLetterDone = letterDoneSet(daily);
 
   return (
     <main className="app">
@@ -85,9 +107,57 @@ export default function App() {
           practiceSet={practiceSet}
           repeatCount={sets[1].words.length}
           onPick={setScreen}
+          today={{
+            letters: Object.keys(letterWords).sort(),
+            letter: daily.letter,
+            letterWords: todayLetterWords,
+            letterDone: todayLetterWords.filter(w => todayLetterDone.has(w.lower)).length,
+            onLetterChange: l => updateDaily(d => setLetter(d, l)),
+            onStartLetter: () => setScreen('today-letter'),
+            repeatWords,
+            rounds: daily.rounds,
+            roundDone: repeatWords.filter(w => daily.roundDone.includes(w.lower)).length,
+            onStartRepeat: () => { setRepeatWalkId(i => i + 1); setScreen('today-repeat'); },
+            onClear: clearProgress,
+          }}
           onClearData={clearData}
           dataVersion={dataVersion}
           hasWords={WORDS.length > 0}
+        />
+      )}
+      {screen === 'today-letter' && (
+        <Walk
+          key={`letter-${daily.letter}`}
+          title={`📖 Letter ${daily.letter.toUpperCase()}`}
+          words={todayLetterWords}
+          done={todayLetterDone}
+          onDone={w => updateDaily(d => markLetterDone(d, w))}
+          repeat={repeat}
+          onToggleRepeat={toggleRepeat}
+          onBack={goHome}
+          finishedTitle={`Letter ${daily.letter.toUpperCase()} done! 🎉`}
+          finishedText={`You went through all ${todayLetterWords.length} words. Now do your repeat rounds.`}
+        />
+      )}
+      {screen === 'today-repeat' && (
+        <Walk
+          key={`repeat-${repeatWalkId}`}
+          title={`🔁 Repeat · round ${Math.min(daily.rounds + 1, REPEAT_ROUNDS)} of ${REPEAT_ROUNDS}`}
+          words={daily.rounds >= REPEAT_ROUNDS ? [] : repeatWords}
+          done={new Set(daily.roundDone)}
+          onDone={w => updateDaily(d => markRepeatDone(d, w, repeatWords))}
+          randomOrder
+          repeat={repeat}
+          onToggleRepeat={toggleRepeat}
+          onBack={goHome}
+          finishedTitle={daily.rounds >= REPEAT_ROUNDS
+            ? 'All repeat rounds done today! 🎉'
+            : `Round ${daily.rounds} of ${REPEAT_ROUNDS} done!`}
+          finishedText={daily.rounds >= REPEAT_ROUNDS
+            ? `You went through your repeat list ${REPEAT_ROUNDS} times today.`
+            : 'Take a break and come back later, or go again now.'}
+          onContinue={daily.rounds < REPEAT_ROUNDS && repeatWords.length > 0 ? () => setRepeatWalkId(i => i + 1) : null}
+          continueLabel={`Start round ${daily.rounds + 1}`}
         />
       )}
       {screen === 'browse' && (
