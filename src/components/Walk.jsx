@@ -12,8 +12,8 @@ export default function Walk({
   title, words, done, onDone, randomOrder = false,
   repeat, onToggleRepeat, onBack, finishedTitle, finishedText, onContinue, continueLabel,
 }) {
-  // Fixed when the walk opens, so the order doesn't change mid-way.
-  const [order] = useState(() => {
+  // Fixed when the walk opens; only the Shuffle button changes it.
+  const [order, setOrder] = useState(() => {
     const left = words.filter(w => !done.has(w.lower));
     return randomOrder ? shuffle(left) : left;
   });
@@ -22,6 +22,12 @@ export default function Walk({
 
   const current = order[index];
   const doneCount = words.filter(w => done.has(w.lower)).length;
+
+  // Mixes up the cards not yet done (including the current one).
+  const reshuffle = () => {
+    setOrder(o => [...o.slice(0, index), ...shuffle(o.slice(index))]);
+    setRevealed(false);
+  };
 
   const next = () => {
     if (!current) return;
@@ -101,6 +107,9 @@ export default function Walk({
 
       <div className="quiz-actions">
         <button className="ghost" onClick={onBack}>← Today (progress is saved)</button>
+        {order.length - index > 1 && (
+          <button className="ghost" onClick={reshuffle} title="Shuffle the remaining words">🔀 Shuffle</button>
+        )}
       </div>
     </section>
   );

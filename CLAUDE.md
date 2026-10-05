@@ -71,6 +71,8 @@ request — don't bring them back unless asked.
   Progress in localStorage key `vocab.today` = `{ day, letter, letters: {a: [lower...]}, rounds, roundDone }`.
   New day: rounds reset; an unfinished letter carries over its progress, a finished one moves to the
   next letter (wrapping). "Clear today's progress" resets today (keeps the letter and repeat list).
+  Letter order: A–Z or 🔀 Shuffle (saved in `vocab.letterShuffle`); repeat rounds are always random.
+  Inside a walk, 🔀 Shuffle mixes the remaining cards.
 - **Home**: set chips (All, 🔁 Repeat, one per letter) → **Spell the word** or **Browse words**;
   voice picker; **Clear saved data** (removes all `vocab.*` localStorage keys after a confirm).
 - **Repeat list** (`src/repeat.js`): localStorage key `vocab.repeat` = `{ "<lowercase word>": "YYYY-MM-DD added" }`.

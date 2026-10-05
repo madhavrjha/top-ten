@@ -8,6 +8,7 @@ import Browse from './components/Browse.jsx';
 import Walk from './components/Walk.jsx';
 
 const SET_KEY = 'vocab.practiceSet';
+const SHUFFLE_KEY = 'vocab.letterShuffle';
 
 function load(key, fallback) {
   try { return localStorage.getItem(key) || fallback; } catch { return fallback; }
@@ -52,6 +53,8 @@ export default function App() {
   }, []);
   const [daily, setDaily] = useState(() => loadDaily(letterWords));
   const [repeatWalkId, setRepeatWalkId] = useState(0); // new id = fresh walk for the next round
+  const [shuffleLetter, setShuffleLetter] = useState(() => load(SHUFFLE_KEY, '') === '1');
+  const changeShuffle = on => { setShuffleLetter(on); store(SHUFFLE_KEY, on ? '1' : ''); };
   const updateDaily = fn => setDaily(prev => {
     const next = fn(prev);
     if (next !== prev) saveDaily(next);
@@ -72,6 +75,7 @@ export default function App() {
     setRepeat({});
     setSetId('all');
     setDaily(loadDaily(letterWords));
+    setShuffleLetter(false);
     setDataVersion(v => v + 1);
     setToast('Saved data cleared.');
   };
@@ -114,6 +118,8 @@ export default function App() {
             letterDone: todayLetterWords.filter(w => todayLetterDone.has(w.lower)).length,
             onLetterChange: l => updateDaily(d => setLetter(d, l)),
             onStartLetter: () => setScreen('today-letter'),
+            shuffleLetter,
+            onShuffleChange: changeShuffle,
             repeatWords,
             rounds: daily.rounds,
             roundDone: repeatWords.filter(w => daily.roundDone.includes(w.lower)).length,
@@ -132,6 +138,7 @@ export default function App() {
           words={todayLetterWords}
           done={todayLetterDone}
           onDone={w => updateDaily(d => markLetterDone(d, w))}
+          randomOrder={shuffleLetter}
           repeat={repeat}
           onToggleRepeat={toggleRepeat}
           onBack={goHome}

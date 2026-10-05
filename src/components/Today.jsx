@@ -2,7 +2,7 @@ import { REPEAT_ROUNDS } from '../daily.js';
 
 // Home-screen section with today's two tasks and their saved progress.
 export default function Today({
-  letters, letter, letterWords, letterDone, onLetterChange, onStartLetter,
+  letters, letter, letterWords, letterDone, onLetterChange, onStartLetter, shuffleLetter, onShuffleChange,
   repeatWords, rounds, roundDone, onStartRepeat, onClear,
 }) {
   const letterCount = letterWords.length;
@@ -37,6 +37,13 @@ export default function Today({
           ))}
         </div>
         <div className="bar"><div className="bar-fill" style={{ width: `${(letterDone / Math.max(1, letterCount)) * 100}%` }} /></div>
+        <div className="order-pick" role="group" aria-label="Word order">
+          <span className="muted small-text">Order:</span>
+          <button className={`set-chip ${!shuffleLetter ? 'active' : ''}`} aria-pressed={!shuffleLetter}
+            onClick={() => onShuffleChange(false)}>A–Z</button>
+          <button className={`set-chip ${shuffleLetter ? 'active' : ''}`} aria-pressed={shuffleLetter}
+            onClick={() => onShuffleChange(true)}>🔀 Shuffle</button>
+        </div>
         <button className={letterFinished ? 'ghost' : 'primary'} disabled={!letterCount} onClick={onStartLetter}>
           {letterFinished ? `✓ Letter ${letter.toUpperCase()} done` : letterDone ? 'Continue' : `Start letter ${letter.toUpperCase()}`}
         </button>
