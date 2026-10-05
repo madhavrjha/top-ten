@@ -1,8 +1,9 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { WORDS } from './words.js';
-import { loadRepeat, saveRepeat, today, clearSavedData } from './repeat.js';
+import { clearSavedData } from './utils.js';
+import { STAGES, loadStages, saveStages, setStage, gradeReview, isDue, reviewedToday, dueLabel } from './stages.js';
 import { loadSpell } from './spellProgress.js';
-import { loadDaily, saveDaily, setLetter, letterDoneSet, markLetterDone, markRepeatDone, clearToday, REPEAT_ROUNDS } from './daily.js';
+import { loadDaily, saveDaily, setLetter, letterDoneSet, markLetterDone, clearToday } from './daily.js';
 import { useRoute, navigate, href } from './router.js';
 import Home from './components/Home.jsx';
 import Quiz from './components/Quiz.jsx';
@@ -20,11 +21,11 @@ function store(key, value) {
 }
 
 export default function App() {
-  // Routes: #/  #/browse/<set>  #/spell/<set>  #/today/letter  #/today/repeat
+  // Routes: #/  #/browse/<set>  #/spell/<set>  #/today/letter  #/today/review
   const path = useRoute();
   const [, page = '', param = ''] = path.split('/');
   const [setId, setSetId] = useState(() => load(SET_KEY, 'all'));
-  const [repeat, setRepeat] = useState(loadRepeat);
+  const [stages, setStages] = useState(loadStages);
   const [dataVersion, setDataVersion] = useState(0); // bumps after clearing saved data
   const goHome = () => navigate('/');
 
@@ -35,27 +36,27 @@ export default function App() {
     return () => clearTimeout(t);
   }, [toast]);
 
-  // Ref mirrors the latest list so the stable callback below never uses a stale copy.
-  const repeatRef = useRef(repeat);
-  repeatRef.current = repeat;
+  // Ref mirrors the latest map so the stable callbacks below never use a stale copy.
+  const stagesRef = useRef(stages);
+  stagesRef.current = stages;
 
-  const toggleRepeat = useCallback(word => {
-    const next = { ...repeatRef.current };
-    if (next[word.lower]) delete next[word.lower];
-    else next[word.lower] = today();
-    repeatRef.current = next;
-    setRepeat(next);
-    if (!saveRepeat(next)) setToast("Couldn't save — this browser is blocking storage (private mode?).");
+  const updateStages = useCallback(fn => {
+    const next = fn(stagesRef.current);
+    stagesRef.current = next;
+    setStages(next);
+    if (!saveStages(next)) setToast("Couldn't save — this browser is blocking storage (private mode?).");
   }, []);
+  const changeStage = useCallback((word, stage) => updateStages(m => setStage(m, word, stage)), [updateStages]);
+  const grade = useCallback((word, remembered) => updateStages(m => gradeReview(m, word, remembered)), [updateStages]);
 
-  // Today's tasks (letter of the day + repeat rounds), saved per day.
+  // Today's tasks (letter of the day + Mastered review).
   const letterWords = useMemo(() => {
     const byLetter = {};
     WORDS.forEach(w => (byLetter[w.word[0].toLowerCase()] ||= []).push(w));
     return byLetter;
   }, []);
   const [daily, setDaily] = useState(() => loadDaily(letterWords));
-  const [repeatWalkId, setRepeatWalkId] = useState(0); // new id = fresh walk for the next round
+  const [reviewWalkId, setReviewWalkId] = useState(0); // new id = fresh review walk
   const [shuffleLetter, setShuffleLetter] = useState(() => load(SHUFFLE_KEY, '') === '1');
   const changeShuffle = on => { setShuffleLetter(on); store(SHUFFLE_KEY, on ? '1' : ''); };
   const updateDaily = fn => setDaily(prev => {
@@ -65,17 +66,17 @@ export default function App() {
   });
 
   const clearProgress = () => {
-    if (!window.confirm("Clear today's progress? Your repeat list stays.")) return;
+    if (!window.confirm("Clear today's letter progress? Your stages and reviews stay.")) return;
     updateDaily(clearToday);
   };
 
   const clearData = () => {
-    if (!window.confirm('Clear all saved data in this browser? This empties your repeat list and resets your voice and set choices.')) return;
+    if (!window.confirm('Clear all saved data in this browser? Every word goes back to New, and your progress, voice and set choices are reset.')) return;
     if (!clearSavedData()) {
       setToast("Couldn't clear saved data in this browser.");
       return;
     }
-    setRepeat({});
+    setStages({});
     setSetId('all');
     setDaily(loadDaily(letterWords));
     setShuffleLetter(false);
@@ -83,14 +84,18 @@ export default function App() {
     setToast('Saved data cleared.');
   };
 
-  // "All", "Repeat" (your repeat list), then one set per starting letter.
+  // "All", one set per stage, then one set per starting letter.
   const letterSets = useMemo(() => Object.keys(letterWords).sort()
     .map(l => ({ id: l, label: `Letter ${l.toUpperCase()}`, words: letterWords[l] })), [letterWords]);
   const sets = useMemo(() => [
     { id: 'all', label: 'All words', words: WORDS },
-    { id: 'repeat', label: 'Repeat list', words: WORDS.filter(w => repeat[w.lower]) },
+    ...STAGES.map(st => ({
+      id: st.id,
+      label: st.label,
+      words: WORDS.filter(w => (stages[w.lower]?.stage || 'new') === st.id),
+    })),
     ...letterSets,
-  ], [letterSets, repeat]);
+  ], [letterSets, stages]);
   const practiceSet = sets.find(x => x.id === setId) || sets[0];
   // The set named in the URL for #/browse/<set> and #/spell/<set>.
   const routeSet = sets.find(x => x.id === param) || null;
@@ -103,7 +108,7 @@ export default function App() {
     : page === 'browse' && routeSet ? 'browse'
     : page === 'spell' && routeSet ? 'spell'
     : page === 'today' && param === 'letter' ? 'today-letter'
-    : page === 'today' && param === 'repeat' ? 'today-repeat'
+    : page === 'today' && param === 'review' ? 'today-review'
     : null;
 
   useEffect(() => {
@@ -121,12 +126,17 @@ export default function App() {
       browse: `Browse · ${routeSet?.label}`,
       spell: `Spell · ${routeSet?.label}`,
       'today-letter': 'Letter of the day',
-      'today-repeat': 'Repeat words',
+      'today-review': 'Mastered review',
     };
     document.title = titles[screen] ? `${titles[screen]} — Vocab Trainer` : 'Vocab Trainer';
   }, [path]); // eslint-disable-line react-hooks/exhaustive-deps
 
-  const repeatWords = sets[1].words;
+  // Mastered review: words due today plus the ones already reviewed today.
+  const masteredWords = sets.find(x => x.id === 'mastered').words;
+  const reviewWords = masteredWords.filter(w => isDue(stages[w.lower]) || reviewedToday(stages[w.lower]));
+  const reviewDoneSet = new Set(reviewWords.filter(w => reviewedToday(stages[w.lower])).map(w => w.lower));
+  const nextDueEntry = masteredWords.map(w => stages[w.lower]).filter(e => !isDue(e))
+    .sort((a, b) => a.due.localeCompare(b.due))[0];
 
   // Saved Spell progress for the chosen set (re-read whenever Home shows).
   const spellSaved = useMemo(() => {
@@ -151,7 +161,6 @@ export default function App() {
           onSetChange={changeSet}
           practiceSet={practiceSet}
           spellSaved={spellSaved}
-          repeatCount={sets[1].words.length}
           onPick={id => navigate(`/${id}/${practiceSet.id}`)}
           today={{
             letters: Object.keys(letterWords).sort(),
@@ -162,10 +171,11 @@ export default function App() {
             onStartLetter: () => navigate('/today/letter'),
             shuffleLetter,
             onShuffleChange: changeShuffle,
-            repeatWords,
-            rounds: daily.rounds,
-            roundDone: repeatWords.filter(w => daily.roundDone.includes(w.lower)).length,
-            onStartRepeat: () => { setRepeatWalkId(i => i + 1); navigate('/today/repeat'); },
+            masteredCount: masteredWords.length,
+            reviewDue: reviewWords.length - reviewDoneSet.size,
+            reviewDone: reviewDoneSet.size,
+            nextDue: nextDueEntry ? dueLabel(nextDueEntry).replace('review ', '') : '',
+            onStartReview: () => { setReviewWalkId(i => i + 1); navigate('/today/review'); },
             onClear: clearProgress,
           }}
           onClearData={clearData}
@@ -181,32 +191,26 @@ export default function App() {
           done={todayLetterDone}
           onDone={w => updateDaily(d => markLetterDone(d, w))}
           randomOrder={shuffleLetter}
-          repeat={repeat}
-          onToggleRepeat={toggleRepeat}
+          stages={stages}
+          onStageChange={changeStage}
           onBack={goHome}
           finishedTitle={`Letter ${daily.letter.toUpperCase()} done! 🎉`}
-          finishedText={`You went through all ${todayLetterWords.length} words. Now do your repeat rounds.`}
+          finishedText={`You went through all ${todayLetterWords.length} words.`}
         />
       )}
-      {screen === 'today-repeat' && (
+      {screen === 'today-review' && (
         <Walk
-          key={`repeat-${repeatWalkId}`}
-          title={`🔁 Repeat · round ${Math.min(daily.rounds + 1, REPEAT_ROUNDS)} of ${REPEAT_ROUNDS}`}
-          words={daily.rounds >= REPEAT_ROUNDS ? [] : repeatWords}
-          done={new Set(daily.roundDone)}
-          onDone={w => updateDaily(d => markRepeatDone(d, w, repeatWords))}
+          key={`review-${reviewWalkId}`}
+          title="✅ Mastered review"
+          words={reviewWords}
+          done={reviewDoneSet}
           randomOrder
-          repeat={repeat}
-          onToggleRepeat={toggleRepeat}
+          onGrade={grade}
+          stages={stages}
+          onStageChange={changeStage}
           onBack={goHome}
-          finishedTitle={daily.rounds >= REPEAT_ROUNDS
-            ? 'All repeat rounds done today! 🎉'
-            : `Round ${daily.rounds} of ${REPEAT_ROUNDS} done!`}
-          finishedText={daily.rounds >= REPEAT_ROUNDS
-            ? `You went through your repeat list ${REPEAT_ROUNDS} times today.`
-            : 'Take a break and come back later, or go again now.'}
-          onContinue={daily.rounds < REPEAT_ROUNDS && repeatWords.length > 0 ? () => setRepeatWalkId(i => i + 1) : null}
-          continueLabel={`Start round ${daily.rounds + 1}`}
+          finishedTitle="Review done! 🎉"
+          finishedText="Every Mastered word due today is reviewed. The ones you knew come back later than last time."
         />
       )}
       {screen === 'browse' && (
@@ -214,8 +218,8 @@ export default function App() {
           sets={sets}
           setId={routeSet.id}
           onSetChange={id => navigate(`/browse/${id}`, { replace: true })}
-          repeat={repeat}
-          onToggleRepeat={toggleRepeat}
+          stages={stages}
+          onStageChange={changeStage}
           onBack={goHome}
         />
       )}
@@ -226,8 +230,8 @@ export default function App() {
           setWords={routeSet.words}
           setLabel={routeSet.label}
           words={WORDS}
-          repeat={repeat}
-          onToggleRepeat={toggleRepeat}
+          stages={stages}
+          onStageChange={changeStage}
           onQuit={goHome}
         />
       )}

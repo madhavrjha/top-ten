@@ -1,4 +1,4 @@
-// Saved "Spell the word" progress, one entry per set ('all', 'repeat', 'a', ...),
+// Saved "Spell the word" progress, one entry per set ('all', 'new', 'recall', 'a', ...),
 // in localStorage key vocab.spell. Removed when a set is cleared or restarted.
 const KEY = 'vocab.spell';
 

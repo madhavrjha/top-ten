@@ -57,58 +57,62 @@ just `Word`, or WhatsApp lines with timestamps (`[7:33 pm, 3/10/2026] Madhav: ..
 - For bigger features they sometimes ask for a plan first — give the plan, then build after "go/do it".
 - Before building something ambiguous, ask one focused question (e.g. "remove that set of 10" was ambiguous).
 
-## How the user revises (2026-10-05 redesign)
-The user goes through one letter a day in Browse. Words they forget or want to drill go on their
-**repeat list** (🔁), which they practise for some days and unset themselves. Easy/Medium/Hard labels,
-Level 1 (multiple choice), Level 3 (fill in the blank) and Daily Review flashcards were removed at their
-request — don't bring them back unless asked.
+## How the user revises (2026-10-05, stages)
+Every word has a lifecycle the user sets by hand: 🆕 New → 👀 Recognise → ✍️ Recall (spelling) →
+🗣️ Pronounce → ✅ Mastered. Only Mastered words are scheduled (spaced repetition). The repeat list (🔁),
+Easy/Medium/Hard labels, Level 1/Level 3 and Daily Review flashcards were removed at their request —
+don't bring them back unless asked. When the stages arrived, every word was reset to New.
 
 ## Features (what exists)
+- **Stages** (`src/stages.js`): localStorage key `vocab.stages` = `{ "<lower>": { stage, since } }`; words
+  not in the map are New. Mastered entries also hold `{ step, due, last }`: on becoming Mastered the first
+  review is tomorrow; Knew it → next step of `INTERVALS` (1, 3, 7, 14, 30, 60, 120 days); Forgot → step 0
+  (tomorrow) but it stays Mastered (the user moves stages themselves). Chosen with `StagePicker`: chips with
+  keys 1–5 in Walk and in Spell after answering, a small dropdown on Browse rows. The old `vocab.repeat`
+  key is removed on load.
 - **Today** (top of Home, `src/daily.js`, `Today.jsx`, `Walk.jsx`): two daily tasks.
   📖 *Letter of the day* — go through every word of one letter, card by card (word → Space shows meaning →
-  Enter = next/done; 🔁 or R adds to repeat list). 🔁 *Repeat words* — go through the repeat list
-  `REPEAT_ROUNDS` (3) times; a round counts when every repeat word is done; pause screen between rounds.
-  Progress in localStorage key `vocab.today` = `{ day, letter, letters: {a: [lower...]}, rounds, roundDone }`.
-  New day: rounds reset; an unfinished letter carries over its progress, a finished one moves to the
-  next letter (wrapping). "Clear today's progress" resets today (keeps the letter and repeat list).
-  Letter order: A–Z or 🔀 Shuffle (saved in `vocab.letterShuffle`); repeat rounds are always random.
-  Inside a walk, 🔀 Shuffle mixes the remaining cards.
-- **Home**: set chips (All, 🔁 Repeat, one per letter) → **Spell the word** or **Browse words**;
+  Enter = next/done; 1–5 sets the stage). Progress in `vocab.today` = `{ day, letter, letters: {a: [lower...]} }`.
+  New day: an unfinished letter carries over, a finished one moves to the next letter (wrapping).
+  "Clear today's progress" resets the letter progress only. Letter order: A–Z or 🔀 Shuffle
+  (`vocab.letterShuffle`). ✅ *Mastered review* — Mastered words that are due, random order; each card ends
+  with Forgot (F) / Knew it (Enter). Inside a walk, 🔀 Shuffle mixes the remaining cards.
+- **Home**: set chips (All, one per stage, then one per letter) → **Spell the word** or **Browse words**;
   voice picker; **Clear saved data** (removes all `vocab.*` localStorage keys after a confirm).
-- **Repeat list** (`src/repeat.js`): localStorage key `vocab.repeat` = `{ "<lowercase word>": "YYYY-MM-DD added" }`.
-  Toggled with 🔁 on Browse rows and after answering in Spell (key R). Per device; works on the live site.
 - **Spell the word**: type the word from its meaning. Letter blanks: click one to reveal it (all but
   the last); "Show hint" shows the trick (word masked). A different form (amplify vs amplifies) counts
-  as "Almost". Whole set practised at once; missed words requeued until all are cleared. Enter / P / R keys.
+  as "Almost". Whole set practised at once; missed words requeued until all are cleared. Enter / P / 1–5 keys.
   Progress is saved after every answer per set (`src/spellProgress.js`, key `vocab.spell` =
   `{ <setId>: { remaining: [lower...], cleared } }`) and resumed when the set is reopened; Home shows
   "Resume spelling"; "Start over" resets the set; finishing a set clears its entry.
 - **Browse**: set chips, search by word only, rows collapsed until expanded (meaning, trick,
-  "How to use", examples), 🔊 and 🔁 per row, Shuffle / A–Z, pages of 60 rows loaded on scroll.
+  "How to use", examples), 🔊 and a stage dropdown per row, Shuffle / A–Z, pages of 60 rows loaded on scroll.
 - **Routing** (`src/router.js`, hash-based so GitHub Pages needs no rewrites): `#/`, `#/browse/<set>`,
-  `#/spell/<set>`, `#/today/letter`, `#/today/repeat` (<set> = all | repeat | a | b ...). Browser Back/Forward
-  move between screens; unknown routes redirect home. Set chips in Browse use `replace`. (A Back-button
-  "are you sure?" guard was tried and removed at the user's request — don't re-add it.)
+  `#/spell/<set>`, `#/today/letter`, `#/today/review` (<set> = all | new | recognise | recall | pronounce |
+  mastered | a | b ...). Browser Back/Forward move between screens; unknown routes redirect home. Set chips
+  in Browse use `replace`. (A Back-button "are you sure?" guard was tried and removed at the user's
+  request — don't re-add it.)
 - **Pronunciation**: browser text-to-speech (`src/speech.js`); novelty macOS voices filtered out;
   voice choice saved in localStorage. In Spell it's only offered after answering.
 
 ## Files
 - `src/words/<letter>.json` — the data. Loaded automatically via `import.meta.glob` in `src/words.js`.
-- `src/utils.js` — `shuffle`, `norm`, `prepareWords` (precomputes `lower` and meaning `key`).
+- `src/utils.js` — `shuffle`, `norm`, `prepareWords` (precomputes `lower` and meaning `key`), date helpers
+  (`today`, `addDays`, `daysBetween`), `clearSavedData`.
 - `src/session.js` — pure spelling-quiz logic + spelling check with a light stemmer.
-- `src/repeat.js` — repeat list storage, `sinceLabel`, `clearSavedData`.
+- `src/stages.js` — stage storage, `setStage`, `gradeReview`, `isDue`, `dueLabel`, `INTERVALS`.
 - `src/daily.js` — pure daily-task logic + `vocab.today` storage.
 - `src/spellProgress.js` — saved Spell progress per set (`vocab.spell`).
 - `src/speech.js` — voice ranking and `speak()`.
-- `src/App.jsx` — routes → screens, sets (All / Repeat / letters), repeat state, clear data, toast.
+- `src/App.jsx` — routes → screens, sets (All / stages / letters), stage state, clear data, toast.
 - `src/router.js` — `useRoute`, `navigate(to, {replace})`, `href`.
 - `src/components/` — `Home`, `Today`, `Walk` (card-by-card go-through), `Quiz` (Spell the word),
-  `Browse`, `WordDetails`, `SetPicker`, `RepeatButton`, `SpeakButton`, `VoicePicker`.
+  `Browse`, `WordDetails`, `SetPicker`, `StagePicker`, `SpeakButton`, `VoicePicker`.
 - `vite.config.js` — `base: '/top-ten/'` for builds.
 
 ## Deploy
 Pushing to `main` runs `.github/workflows/deploy.yml` (build → GitHub Pages). Pages source is set to
-"GitHub Actions". Everything works on the live site; the repeat list lives in each browser.
+"GitHub Actions". Everything works on the live site; stages live in each browser.
 
 ## Environment notes
 - Git push uses SSH as GitHub user `madhav1finance` (a collaborator on `madhavrjha/top-ten`).
@@ -118,4 +122,6 @@ Pushing to `main` runs `.github/workflows/deploy.yml` (build → GitHub Pages). 
 
 ## Ideas offered but not built yet
 - The user can paste their own sentences in chat for Claude to correct and save as examples.
-- Syncing the repeat list across devices (it's per browser today).
+- Syncing stages across devices (they're per browser today).
+- A Pronounce practice screen (listen → say it aloud → mic check or self-rate) for 🗣️ words.
+- Automatic stage moves (e.g. Recognise → Recall after knowing it on 3 days).

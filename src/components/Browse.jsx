@@ -2,13 +2,14 @@ import { memo, useCallback, useDeferredValue, useEffect, useMemo, useRef, useSta
 import WordDetails from './WordDetails.jsx';
 import SetPicker from './SetPicker.jsx';
 import SpeakButton from './SpeakButton.jsx';
-import RepeatButton from './RepeatButton.jsx';
+import StagePicker from './StagePicker.jsx';
+import { STAGE_IDS, stageInfo, dueLabel } from '../stages.js';
 import { shuffle } from '../utils.js';
 
 // Rows are rendered in pages as you scroll, so long lists stay fast.
 const PAGE = 60;
 
-export default function Browse({ sets, setId, onSetChange, repeat, onToggleRepeat, onBack }) {
+export default function Browse({ sets, setId, onSetChange, stages, onStageChange, onBack }) {
   const [query, setQuery] = useState('');
   const [open, setOpen] = useState(() => new Set());
   const [limit, setLimit] = useState(PAGE);
@@ -20,7 +21,7 @@ export default function Browse({ sets, setId, onSetChange, repeat, onToggleRepea
   // Typing stays responsive; filtering runs on the deferred value.
   const deferredQuery = useDeferredValue(query);
   const setWords = (sets.find(x => x.id === setId) || sets[0]).words;
-  // Shuffled once per click, so toggling repeat doesn't reorder the list.
+  // Shuffled once per click, so changing a stage doesn't reorder the list.
   const words = useMemo(
     () => (shuffleId === null ? setWords : shuffle(setWords)),
     [setWords, shuffleId]);
@@ -95,7 +96,7 @@ export default function Browse({ sets, setId, onSetChange, repeat, onToggleRepea
 
       {list.length === 0 && (
         <p className="muted center">
-          {setId === 'repeat' && !query ? 'Your repeat list is empty. Tap 🔁 on a word to add it.' : 'No matching words.'}
+          {STAGE_IDS.includes(setId) && !query ? `No ${stageInfo(setId).label} words yet.` : 'No matching words.'}
         </p>
       )}
       {list.length > 0 && (
@@ -110,10 +111,10 @@ export default function Browse({ sets, setId, onSetChange, repeat, onToggleRepea
               <WordRow
                 key={w.word}
                 word={w}
-                repeatSince={repeat[w.lower] || null}
+                entry={stages[w.lower]}
                 isOpen={open.has(w.word)}
                 onToggle={toggle}
-                onToggleRepeat={onToggleRepeat}
+                onStageChange={onStageChange}
               />
             ))}
           </div>
@@ -126,7 +127,7 @@ export default function Browse({ sets, setId, onSetChange, repeat, onToggleRepea
 }
 
 // Memoized so expanding one word doesn't re-render every other row.
-const WordRow = memo(function WordRow({ word, repeatSince, isOpen, onToggle, onToggleRepeat }) {
+const WordRow = memo(function WordRow({ word, entry, isOpen, onToggle, onStageChange }) {
   return (
     <div className={`word-row ${isOpen ? 'open' : ''}`}>
       <div className="word-head">
@@ -138,10 +139,10 @@ const WordRow = memo(function WordRow({ word, repeatSince, isOpen, onToggle, onT
               strokeLinecap="round" strokeLinejoin="round" />
           </svg>
         </button>
-        <RepeatButton
-          active={!!repeatSince}
-          since={repeatSince}
-          onToggle={() => onToggleRepeat(word)}
+        <StagePicker
+          stage={entry?.stage || 'new'}
+          title={entry?.stage === 'mastered' ? `Mastered · ${dueLabel(entry)}` : stageInfo(entry?.stage).hint}
+          onChange={s => onStageChange(word, s)}
           compact
         />
       </div>

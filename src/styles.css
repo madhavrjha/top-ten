@@ -181,20 +181,21 @@ button:disabled { cursor: default; }
 
 kbd { font: 11px ui-monospace, Menlo, monospace; opacity: .65; margin-left: 6px; }
 
-/* Repeat list */
-.repeat-btn {
-  display: inline-flex; align-items: center; gap: 8px; margin-top: 14px;
-  padding: 6px 14px; border-radius: 999px; font-size: 14px;
+/* Stages */
+.stage-picker { display: flex; flex-wrap: wrap; gap: 6px; }
+.stage-picker .set-chip { padding: 4px 10px; font-size: 14px; gap: 4px; }
+.stage-picker kbd { margin-left: 2px; }
+.walk-stage { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin-top: 14px; }
+.walk-stage .small-text { margin: 0; }
+.stage-select {
+  margin-right: 10px; flex-shrink: 0; max-width: 140px; font: inherit; font-size: 14px;
+  padding: 4px 6px; border-radius: 999px; border: 1px solid var(--border); background: var(--bg); color: var(--text);
 }
-.repeat-btn:hover { border-color: var(--accent); }
-.repeat-btn.active { background: var(--accent); border-color: var(--accent); color: var(--accent-text); font-weight: 600; }
-.repeat-btn.compact {
-  margin: 0 10px 0 0; padding: 0; width: 34px; height: 34px; justify-content: center; flex-shrink: 0;
-  border-color: transparent; background: transparent; filter: grayscale(1); opacity: .45;
-}
-.repeat-btn.compact:hover { opacity: .9; border-color: var(--border); }
-.repeat-btn.compact.active { filter: none; opacity: 1; background: var(--bg); border-color: var(--accent); }
-.set-chip.repeat:not(.active) { border-color: var(--accent); }
+.stage-select.stage-new { color: var(--muted); }
+.stage-select.stage-mastered { border-color: var(--good); color: var(--good); }
+.set-chip.stage:not(.active) { border-color: var(--accent); }
+.chip-wrap { display: contents; }
+.chip-break { flex-basis: 100%; height: 0; }
 .saved-data { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
 .saved-data p { margin: 0; flex: 1; min-width: 200px; }
 button.danger { color: var(--bad); border-color: var(--bad); }
@@ -216,13 +217,9 @@ button.danger:hover { background: var(--bad-bg); }
 .task > button { align-self: flex-start; }
 .letter-pick { display: flex; flex-wrap: wrap; gap: 6px; }
 .letter-pick .set-chip { padding: 4px 12px; }
-.rounds { display: inline-flex; gap: 6px; }
-.round-dot { width: 12px; height: 12px; border-radius: 50%; border: 2px solid var(--accent); }
-.round-dot.on { background: var(--accent); }
 button.wide { width: 100%; padding: 14px; display: inline-flex; justify-content: center; align-items: center; }
 .walk-back { border-top: 1px solid var(--border); padding-top: 10px; }
-.walk-actions { display: flex; align-items: center; justify-content: space-between; gap: 10px; flex-wrap: wrap; margin-top: 14px; }
-.walk-actions .repeat-btn { margin-top: 0; }
+.walk-actions { display: flex; align-items: center; justify-content: flex-end; gap: 10px; flex-wrap: wrap; margin-top: 14px; }
 .order-pick { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
 .order-pick .set-chip { padding: 4px 12px; font-size: 14px; }
 .row-left { display: inline-flex; align-items: center; gap: 14px; }

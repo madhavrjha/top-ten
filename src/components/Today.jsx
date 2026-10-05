@@ -1,14 +1,11 @@
-import { REPEAT_ROUNDS } from '../daily.js';
-
 // Home-screen section with today's two tasks and their saved progress.
 export default function Today({
   letters, letter, letterWords, letterDone, onLetterChange, onStartLetter, shuffleLetter, onShuffleChange,
-  repeatWords, rounds, roundDone, onStartRepeat, onClear,
+  masteredCount, reviewDue, reviewDone, nextDue, onStartReview, onClear,
 }) {
   const letterCount = letterWords.length;
   const letterFinished = letterCount > 0 && letterDone >= letterCount;
-  const repeatFinished = rounds >= REPEAT_ROUNDS;
-  const hasProgress = letterDone > 0 || rounds > 0 || roundDone > 0;
+  const hasProgress = letterDone > 0;
 
   return (
     <div className="today">
@@ -51,26 +48,23 @@ export default function Today({
 
       <div className="task">
         <div className="task-top">
-          <span className="task-name">🔁 Repeat words · {REPEAT_ROUNDS}× a day</span>
-          <span className="rounds" aria-label={`${rounds} of ${REPEAT_ROUNDS} rounds done`}>
-            {Array.from({ length: REPEAT_ROUNDS }, (_, i) => (
-              <span key={i} className={`round-dot ${i < rounds ? 'on' : ''}`} />
-            ))}
-          </span>
+          <span className="task-name">✅ Mastered review</span>
+          <span className="muted small-text">{reviewDone} / {reviewDone + reviewDue} words</span>
         </div>
-        {repeatWords.length === 0 ? (
+        {masteredCount === 0 ? (
           <p className="muted small-text">
-            Your repeat list is empty. Tap 🔁 on words you forget while going through a letter.
+            No Mastered words yet. When a word is all clear, set its stage to ✅ Mastered and it will come back here
+            for spaced reviews.
           </p>
         ) : (
           <>
             <p className="muted small-text">
-              {repeatFinished
-                ? `All ${REPEAT_ROUNDS} rounds done today.`
-                : `Round ${rounds + 1} of ${REPEAT_ROUNDS} · ${roundDone} / ${repeatWords.length} words`}
+              {reviewDue
+                ? `${reviewDue} word${reviewDue === 1 ? '' : 's'} due. Each one you remember comes back later than last time.`
+                : `Nothing due right now${nextDue ? ` · next ${nextDue}` : ''}.`}
             </p>
-            <button className={repeatFinished ? 'ghost' : 'primary'} disabled={repeatFinished} onClick={onStartRepeat}>
-              {repeatFinished ? '✓ Done for today' : roundDone ? 'Continue round' : `Start round ${rounds + 1}`}
+            <button className={reviewDue ? 'primary' : 'ghost'} disabled={!reviewDue} onClick={onStartReview}>
+              {reviewDue ? (reviewDone ? 'Continue review' : 'Start review') : '✓ Done for today'}
             </button>
           </>
         )}

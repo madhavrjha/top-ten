@@ -2,12 +2,13 @@ import { useEffect, useRef, useState } from 'react';
 import { newSession, nextQuestion, answer, checkSpelling, serializeSession, resumeSession } from '../session.js';
 import { loadSpell, saveSpell, clearSpell } from '../spellProgress.js';
 import WordDetails from './WordDetails.jsx';
-import RepeatButton from './RepeatButton.jsx';
+import StagePicker from './StagePicker.jsx';
+import { STAGE_IDS, stageOf } from '../stages.js';
 import { speak } from '../speech.js';
 
 // Spell the word: see the meaning, type the word. Progress is saved after
 // every answer and resumed next time this set is opened.
-export default function Quiz({ setId, setWords, setLabel, words, repeat, onToggleRepeat, onQuit }) {
+export default function Quiz({ setId, setWords, setLabel, words, stages, onStageChange, onQuit }) {
   const [s, setS] = useState(() =>
     resumeSession(loadSpell(setId), setWords, words) || newSession(setWords, words));
   const nextRef = useRef(null);
@@ -30,7 +31,7 @@ export default function Quiz({ setId, setWords, setLabel, words, repeat, onToggl
 
   const next = () => setS(nextQuestion);
 
-  // Keyboard (after answering): Enter = next word, P = pronounce, R = toggle repeat.
+  // Keyboard (after answering): Enter = next word, P = pronounce, 1–5 = stage.
   useEffect(() => {
     const onKey = e => {
       if (s.phase !== 'answered' || e.metaKey || e.ctrlKey || e.altKey) return;
@@ -40,8 +41,8 @@ export default function Quiz({ setId, setWords, setLabel, words, repeat, onToggl
         next();
       } else if (key === 'p') {
         speak(s.current.word);
-      } else if (key === 'r') {
-        onToggleRepeat(s.current);
+      } else if (STAGE_IDS[Number(key) - 1]) {
+        onStageChange(s.current, STAGE_IDS[Number(key) - 1]);
       }
     };
     document.addEventListener('keydown', onKey);
@@ -106,12 +107,10 @@ export default function Quiz({ setId, setWords, setLabel, words, repeat, onToggl
               <p>You typed <strong>{s.result.typed}</strong></p>
             )}
             <WordDetails word={s.current} />
-            <RepeatButton
-              active={!!repeat[s.current.lower]}
-              since={repeat[s.current.lower]}
-              onToggle={() => onToggleRepeat(s.current)}
-              showKey
-            />
+            <div className="walk-stage">
+              <span className="muted small-text">Stage:</span>
+              <StagePicker stage={stageOf(stages, s.current)} onChange={st => onStageChange(s.current, st)} showKeys />
+            </div>
           </div>
         )}
       </div>

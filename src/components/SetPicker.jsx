@@ -1,18 +1,26 @@
-// Chip row for choosing "All", the repeat list, or a single letter.
+import { STAGE_IDS, stageInfo } from '../stages.js';
+
+// Chip rows for choosing "All", a stage, or a single letter.
 export default function SetPicker({ sets, value, onChange }) {
-  const label = x => (x.id === 'all' ? 'All' : x.id === 'repeat' ? '🔁 Repeat' : x.id.toUpperCase());
+  const label = x => {
+    if (x.id === 'all') return 'All';
+    if (STAGE_IDS.includes(x.id)) return `${stageInfo(x.id).icon} ${stageInfo(x.id).label}`;
+    return x.id.toUpperCase();
+  };
   return (
     <div className="set-picker">
-      {sets.map(x => (
-        <button
-          key={x.id}
-          className={`set-chip ${x.id === 'repeat' ? 'repeat' : ''} ${x.id === value ? 'active' : ''}`}
-          onClick={() => onChange(x.id)}
-          aria-pressed={x.id === value}
-        >
-          <span>{label(x)}</span>
-          <span className="count">{x.words.length}</span>
-        </button>
+      {sets.map((x, i) => (
+        <span key={x.id} className="chip-wrap">
+          {i > 0 && STAGE_IDS.includes(sets[i - 1].id) && !STAGE_IDS.includes(x.id) && <span className="chip-break" />}
+          <button
+            className={`set-chip ${STAGE_IDS.includes(x.id) ? 'stage' : ''} ${x.id === value ? 'active' : ''}`}
+            onClick={() => onChange(x.id)}
+            aria-pressed={x.id === value}
+          >
+            <span>{label(x)}</span>
+            <span className="count">{x.words.length}</span>
+          </button>
+        </span>
       ))}
     </div>
   );

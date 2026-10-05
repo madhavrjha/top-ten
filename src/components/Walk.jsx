@@ -1,16 +1,18 @@
 import { useEffect, useState } from 'react';
 import { shuffle } from '../utils.js';
 import { speak } from '../speech.js';
+import { STAGE_IDS, stageOf } from '../stages.js';
 import WordDetails from './WordDetails.jsx';
 import SpeakButton from './SpeakButton.jsx';
-import RepeatButton from './RepeatButton.jsx';
+import StagePicker from './StagePicker.jsx';
 
 // Goes through words one card at a time: see the word, try to recall it,
 // reveal the meaning, then Next (marks it done for today). Progress is kept
 // by the parent through `done` / `onDone`, so leaving and coming back resumes.
+// With `onGrade` (Mastered review) the card ends with Forgot / Knew it instead of Next.
 export default function Walk({
-  title, words, done, onDone, randomOrder = false,
-  repeat, onToggleRepeat, onBack, finishedTitle, finishedText, onContinue, continueLabel,
+  title, words, done, onDone, randomOrder = false, onGrade,
+  stages, onStageChange, onBack, finishedTitle, finishedText,
 }) {
   // Fixed when the walk opens; only the Shuffle button changes it.
   const [order, setOrder] = useState(() => {
@@ -22,6 +24,9 @@ export default function Walk({
 
   const current = order[index];
   const doneCount = words.filter(w => done.has(w.lower)).length;
+  const stage = current ? stageOf(stages, current) : 'new';
+  // A review word moved out of Mastered during the walk can only be skipped.
+  const grading = onGrade && stage === 'mastered';
 
   // Mixes up the cards not yet done (including the current one).
   const reshuffle = () => {
@@ -29,14 +34,22 @@ export default function Walk({
     setRevealed(false);
   };
 
-  const next = () => {
-    if (!current) return;
-    onDone(current);
+  const advance = () => {
     setIndex(i => i + 1);
     setRevealed(false);
   };
+  const next = () => {
+    if (!current) return;
+    if (!onGrade) onDone(current);
+    advance();
+  };
+  const grade = remembered => {
+    if (!current || !grading) return;
+    onGrade(current, remembered);
+    advance();
+  };
 
-  // Space = show meaning, Enter = next, P = pronounce, R = toggle repeat.
+  // Space = show meaning, Enter = next / knew it, F = forgot, P = pronounce, 1–5 = stage.
   useEffect(() => {
     const onKey = e => {
       if (!current || e.metaKey || e.ctrlKey || e.altKey) return;
@@ -46,11 +59,13 @@ export default function Walk({
         setRevealed(true);
       } else if (e.key === 'Enter') {
         e.preventDefault();
-        next();
+        grading ? grade(true) : next();
+      } else if (key === 'f' && grading) {
+        grade(false);
       } else if (key === 'p') {
         speak(current.word);
-      } else if (key === 'r') {
-        onToggleRepeat(current);
+      } else if (STAGE_IDS[Number(key) - 1]) {
+        onStageChange(current, STAGE_IDS[Number(key) - 1]);
       }
     };
     document.addEventListener('keydown', onKey);
@@ -63,8 +78,7 @@ export default function Walk({
         <h2>{finishedTitle}</h2>
         <p className="muted">{finishedText}</p>
         <div className="row">
-          <button className={onContinue ? 'ghost' : 'primary'} autoFocus={!onContinue} onClick={onBack}>Back to today</button>
-          {onContinue && <button className="primary" autoFocus onClick={onContinue}>{continueLabel}</button>}
+          <button className="primary" autoFocus onClick={onBack}>Back to today</button>
         </div>
       </section>
     );
@@ -94,14 +108,20 @@ export default function Walk({
           </button>
         )}
 
+        <div className="walk-stage">
+          <span className="muted small-text">Stage:</span>
+          <StagePicker stage={stage} onChange={s => onStageChange(current, s)} showKeys />
+        </div>
+
         <div className="walk-actions">
-          <RepeatButton
-            active={!!repeat[current.lower]}
-            since={repeat[current.lower]}
-            onToggle={() => onToggleRepeat(current)}
-            showKey
-          />
-          <button className="primary" autoFocus onClick={next}>Next <kbd>↵</kbd></button>
+          {grading ? (
+            <>
+              <button className="ghost danger" onClick={() => grade(false)}>Forgot <kbd>F</kbd></button>
+              <button className="primary" autoFocus onClick={() => grade(true)}>Knew it <kbd>↵</kbd></button>
+            </>
+          ) : (
+            <button className="primary" autoFocus onClick={next}>Next <kbd>↵</kbd></button>
+          )}
         </div>
       </div>
 

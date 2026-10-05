@@ -35,3 +35,31 @@ export function prepareWords(list) {
     })
     .sort((a, b) => a.word.localeCompare(b.word));
 }
+
+// Local date as YYYY-MM-DD.
+export function today(date = new Date()) {
+  const p = n => String(n).padStart(2, '0');
+  return `${date.getFullYear()}-${p(date.getMonth() + 1)}-${p(date.getDate())}`;
+}
+
+export function addDays(day, n) {
+  const [y, m, d] = day.split('-').map(Number);
+  return today(new Date(y, m - 1, d + n));
+}
+
+// Whole days from one YYYY-MM-DD date to another (negative if `to` is earlier).
+export function daysBetween(from, to) {
+  const [y1, m1, d1] = from.split('-').map(Number);
+  const [y2, m2, d2] = to.split('-').map(Number);
+  return Math.round((new Date(y2, m2 - 1, d2) - new Date(y1, m1 - 1, d1)) / 864e5);
+}
+
+// Removes everything this app saved in the browser (stages, voice, last set, progress).
+export function clearSavedData() {
+  try {
+    Object.keys(localStorage).filter(k => k.startsWith('vocab.')).forEach(k => localStorage.removeItem(k));
+    return true;
+  } catch {
+    return false;
+  }
+}

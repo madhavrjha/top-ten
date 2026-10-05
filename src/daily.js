@@ -1,14 +1,12 @@
-// Today's tasks: go through every word of one letter, and go through the
-// repeat list REPEAT_ROUNDS times. Progress is saved per day in localStorage;
-// a new day resets the repeat rounds and either continues an unfinished letter
-// or moves on to the next one.
-import { today } from './repeat.js';
+// Letter of the day: go through every word of one letter. Progress is saved
+// per day in localStorage; a new day either continues an unfinished letter
+// or moves on to the next one. (Mastered reviews are scheduled in stages.js.)
+import { today } from './utils.js';
 
-export const REPEAT_ROUNDS = 3;
 const KEY = 'vocab.today';
 
 function fresh(day, letter) {
-  return { day, letter, letters: {}, rounds: 0, roundDone: [] };
+  return { day, letter, letters: {} };
 }
 
 // letterWords: { a: [...words], b: [...] }
@@ -18,7 +16,7 @@ export function loadDaily(letterWords, day = today()) {
   try { saved = JSON.parse(localStorage.getItem(KEY)); } catch { /* storage unavailable */ }
 
   if (saved && saved.day === day && letters.includes(saved.letter)) {
-    return { ...fresh(day, saved.letter), ...saved };
+    return { ...fresh(day, saved.letter), letters: saved.letters || {} };
   }
   // New day: continue an unfinished letter where you left off, otherwise
   // move on to the next letter.
@@ -54,18 +52,6 @@ export function markLetterDone(state, word) {
   const done = state.letters[state.letter] || [];
   if (done.includes(word.lower)) return state;
   return { ...state, letters: { ...state.letters, [state.letter]: [...done, word.lower] } };
-}
-
-// Marks a repeat word as gone through in the current round. When every word
-// on the repeat list is done, the round counts and the next one starts.
-export function markRepeatDone(state, word, repeatWords) {
-  if (state.rounds >= REPEAT_ROUNDS || state.roundDone.includes(word.lower)) return state;
-  const roundDone = [...state.roundDone, word.lower];
-  const done = new Set(roundDone);
-  if (repeatWords.length && repeatWords.every(w => done.has(w.lower))) {
-    return { ...state, rounds: state.rounds + 1, roundDone: [] };
-  }
-  return { ...state, roundDone };
 }
 
 export function clearToday(state) {
