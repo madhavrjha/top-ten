@@ -89,3 +89,25 @@ export function stem(word) {
 function stemPhrase(p) {
   return p.split(/[\s-]+/).filter(Boolean).map(stem).join(' ');
 }
+
+// Saved progress: the words still to answer (in order) and the cleared count.
+export function serializeSession(s) {
+  const remaining = s.phase === 'question' ? [s.current, ...s.queue] : s.queue;
+  return { remaining: remaining.map(w => w.lower), cleared: s.cleared };
+}
+
+// Continues saved progress. Words no longer in the set are dropped; returns
+// null if nothing is left to answer.
+export function resumeSession(saved, setWords, allWords) {
+  const byLower = new Map(setWords.map(w => [w.lower, w]));
+  const queue = (saved?.remaining || []).map(l => byLower.get(l)).filter(Boolean);
+  if (!queue.length) return null;
+  const cleared = Math.max(0, saved.cleared || 0);
+  return nextQuestion({
+    byMeaning: groupByMeaning(allWords),
+    total: cleared + new Set(queue.map(w => w.lower)).size,
+    queue,
+    cleared,
+    qid: 0,
+  });
+}

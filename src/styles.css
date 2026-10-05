@@ -225,3 +225,4 @@ button.wide { width: 100%; padding: 14px; display: inline-flex; justify-content:
 .walk-actions .repeat-btn { margin-top: 0; }
 .order-pick { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
 .order-pick .set-chip { padding: 4px 12px; font-size: 14px; }
+.row-left { display: inline-flex; align-items: center; gap: 14px; }

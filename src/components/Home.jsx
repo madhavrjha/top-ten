@@ -3,7 +3,7 @@ import VoicePicker from './VoicePicker.jsx';
 import Today from './Today.jsx';
 
 export default function Home({
-  sets, setId, onSetChange, practiceSet, repeatCount, onPick, today, onClearData, dataVersion, hasWords,
+  sets, setId, onSetChange, practiceSet, spellSaved, repeatCount, onPick, today, onClearData, dataVersion, hasWords,
 }) {
   const count = practiceSet.words.length;
   const isRepeat = practiceSet.id === 'repeat';
@@ -25,9 +25,11 @@ export default function Home({
       <div className="levels">
         <button className="level-card" disabled={!count} onClick={() => onPick('spell')}>
           <span className="level-num">Practice</span>
-          <strong>Spell the word</strong>
+          <strong>{spellSaved ? `Resume spelling · ${spellSaved.cleared} cleared` : 'Spell the word'}</strong>
           <span className="muted">
-            See the meaning, type the exact word. Missed words come back until every word is cleared.
+            {spellSaved
+              ? `${spellSaved.remaining.length} word${spellSaved.remaining.length === 1 ? '' : 's'} left in ${practiceSet.label}. Progress is saved after every answer.`
+              : 'See the meaning, type the exact word. Missed words come back until every word is cleared.'}
           </span>
         </button>
         <button className="level-card" disabled={!hasWords} onClick={() => onPick('browse')}>
@@ -43,8 +45,8 @@ export default function Home({
       <h2 className="section-title spaced">Saved data</h2>
       <div className="saved-data">
         <p className="muted small-text">
-          Your repeat list ({repeatCount} word{repeatCount === 1 ? '' : 's'}), today's progress, voice and
-          last set are saved in this browser only.
+          Your repeat list ({repeatCount} word{repeatCount === 1 ? '' : 's'}), today's progress, spelling
+          progress, voice and last set are saved in this browser only.
         </p>
         <button type="button" className="ghost danger" onClick={onClearData}>Clear saved data</button>
       </div>

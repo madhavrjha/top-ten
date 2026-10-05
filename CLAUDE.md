@@ -80,6 +80,9 @@ request — don't bring them back unless asked.
 - **Spell the word**: type the word from its meaning. Letter blanks: click one to reveal it (all but
   the last); "Show hint" shows the trick (word masked). A different form (amplify vs amplifies) counts
   as "Almost". Whole set practised at once; missed words requeued until all are cleared. Enter / P / R keys.
+  Progress is saved after every answer per set (`src/spellProgress.js`, key `vocab.spell` =
+  `{ <setId>: { remaining: [lower...], cleared } }`) and resumed when the set is reopened; Home shows
+  "Resume spelling"; "Start over" resets the set; finishing a set clears its entry.
 - **Browse**: set chips, search by word only, rows collapsed until expanded (meaning, trick,
   "How to use", examples), 🔊 and 🔁 per row, Shuffle / A–Z, pages of 60 rows loaded on scroll.
 - **Pronunciation**: browser text-to-speech (`src/speech.js`); novelty macOS voices filtered out;
@@ -91,6 +94,7 @@ request — don't bring them back unless asked.
 - `src/session.js` — pure spelling-quiz logic + spelling check with a light stemmer.
 - `src/repeat.js` — repeat list storage, `sinceLabel`, `clearSavedData`.
 - `src/daily.js` — pure daily-task logic + `vocab.today` storage.
+- `src/spellProgress.js` — saved Spell progress per set (`vocab.spell`).
 - `src/speech.js` — voice ranking and `speak()`.
 - `src/App.jsx` — screens, sets (All / Repeat / letters), repeat state, clear data, toast.
 - `src/components/` — `Home`, `Today`, `Walk` (card-by-card go-through), `Quiz` (Spell the word),

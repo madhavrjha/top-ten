@@ -1,6 +1,7 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { WORDS } from './words.js';
 import { loadRepeat, saveRepeat, today, clearSavedData } from './repeat.js';
+import { loadSpell } from './spellProgress.js';
 import { loadDaily, saveDaily, setLetter, letterDoneSet, markLetterDone, markRepeatDone, clearToday, REPEAT_ROUNDS } from './daily.js';
 import Home from './components/Home.jsx';
 import Quiz from './components/Quiz.jsx';
@@ -93,6 +94,13 @@ export default function App() {
   const changeSet = id => { setSetId(id); store(SET_KEY, id); };
 
   const repeatWords = sets[1].words;
+
+  // Saved Spell progress for the chosen set (re-read whenever Home shows).
+  const spellSaved = useMemo(() => {
+    if (screen !== 'home') return null;
+    const saved = loadSpell(practiceSet.id);
+    return saved && saved.remaining?.length ? saved : null;
+  }, [screen, practiceSet.id, dataVersion]);
   const todayLetterWords = letterWords[daily.letter] || [];
   const todayLetterDone = letterDoneSet(daily);
 
@@ -109,6 +117,7 @@ export default function App() {
           setId={practiceSet.id}
           onSetChange={changeSet}
           practiceSet={practiceSet}
+          spellSaved={spellSaved}
           repeatCount={sets[1].words.length}
           onPick={setScreen}
           today={{
@@ -179,6 +188,7 @@ export default function App() {
       {screen === 'spell' && (
         <Quiz
           key={practiceSet.id}
+          setId={practiceSet.id}
           setWords={practiceSet.words}
           setLabel={practiceSet.label}
           words={WORDS}

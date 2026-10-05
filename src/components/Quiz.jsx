@@ -1,13 +1,26 @@
 import { useEffect, useRef, useState } from 'react';
-import { newSession, nextQuestion, answer, checkSpelling } from '../session.js';
+import { newSession, nextQuestion, answer, checkSpelling, serializeSession, resumeSession } from '../session.js';
+import { loadSpell, saveSpell, clearSpell } from '../spellProgress.js';
 import WordDetails from './WordDetails.jsx';
 import RepeatButton from './RepeatButton.jsx';
 import { speak } from '../speech.js';
 
-// Spell the word: see the meaning, type the word.
-export default function Quiz({ setWords, setLabel, words, repeat, onToggleRepeat, onQuit }) {
-  const [s, setS] = useState(() => newSession(setWords, words));
+// Spell the word: see the meaning, type the word. Progress is saved after
+// every answer and resumed next time this set is opened.
+export default function Quiz({ setId, setWords, setLabel, words, repeat, onToggleRepeat, onQuit }) {
+  const [s, setS] = useState(() =>
+    resumeSession(loadSpell(setId), setWords, words) || newSession(setWords, words));
   const nextRef = useRef(null);
+
+  useEffect(() => {
+    if (s.phase === 'done') clearSpell(setId);
+    else saveSpell(setId, serializeSession(s));
+  }, [s, setId]);
+
+  const startOver = () => {
+    if (!window.confirm(`Start ${setLabel} over? Your progress in this set will be reset.`)) return;
+    setS(newSession(setWords, words));
+  };
 
   const submitSpelling = typed => {
     if (s.phase !== 'question') return;
@@ -104,7 +117,10 @@ export default function Quiz({ setWords, setLabel, words, repeat, onToggleRepeat
       </div>
 
       <div className="quiz-actions">
-        <button className="ghost" onClick={onQuit}>Quit</button>
+        <span className="row-left">
+          <button className="ghost" onClick={onQuit}>← Home (progress is saved)</button>
+          {s.cleared > 0 && <button className="link-btn" onClick={startOver}>Start over</button>}
+        </span>
         {answered && <button ref={nextRef} className="primary" onClick={next}>Next ↵</button>}
       </div>
     </section>
