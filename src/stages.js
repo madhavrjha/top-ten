@@ -63,6 +63,16 @@ export function gradeReview(map, word, remembered, day = today()) {
   return { ...map, [word.lower]: { ...e, step, due: addDays(day, INTERVALS[step]), last: day } };
 }
 
+// Undoes today's reviews: puts back each word's entry from before it was
+// reviewed today (only if it is still a Mastered word reviewed today).
+export function undoReviews(map, before, day = today()) {
+  const next = { ...map };
+  for (const [lower, entry] of Object.entries(before)) {
+    if (next[lower]?.stage === 'mastered' && next[lower].last === day && entry) next[lower] = entry;
+  }
+  return next;
+}
+
 export function isDue(entry, day = today()) {
   return entry?.stage === 'mastered' && entry.due <= day;
 }

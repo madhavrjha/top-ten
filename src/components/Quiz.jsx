@@ -3,24 +3,32 @@ import { newSession, nextQuestion, answer, checkSpelling, serializeSession, resu
 import { loadSpell, saveSpell, clearSpell } from '../spellProgress.js';
 import WordDetails from './WordDetails.jsx';
 import StagePicker from './StagePicker.jsx';
+import SpeakButton from './SpeakButton.jsx';
 import { STAGE_IDS, stageOf } from '../stages.js';
 import { speak } from '../speech.js';
 
-// Spell the word: see the meaning, type the word. Progress is saved after
-// every answer and resumed next time this set is opened.
-export default function Quiz({ setId, setWords, setLabel, words, stages, onStageChange, onQuit }) {
+export const MODES = {
+  spell: { title: 'Spell the word', progressKey: id => id },
+  pick: { title: 'Pick the meaning', progressKey: id => `pick:${id}` },
+};
+
+// Two quiz modes over a set: 'spell' (see the meaning, type the word) and
+// 'pick' (see the word, choose its meaning from 4). Progress is saved after
+// every answer and resumed next time this set is opened in the same mode.
+export default function Quiz({ mode = 'spell', setId, setWords, setLabel, words, stages, onStageChange, onQuit }) {
+  const progressKey = MODES[mode].progressKey(setId);
   const [s, setS] = useState(() =>
-    resumeSession(loadSpell(setId), setWords, words) || newSession(setWords, words));
+    resumeSession(loadSpell(progressKey), setWords, words, mode) || newSession(setWords, words, mode));
   const nextRef = useRef(null);
 
   useEffect(() => {
-    if (s.phase === 'done') clearSpell(setId);
-    else saveSpell(setId, serializeSession(s));
-  }, [s, setId]);
+    if (s.phase === 'done') clearSpell(progressKey);
+    else saveSpell(progressKey, serializeSession(s));
+  }, [s, progressKey]);
 
   const startOver = () => {
     if (!window.confirm(`Start ${setLabel} over? Your progress in this set will be reset.`)) return;
-    setS(newSession(setWords, words));
+    setS(newSession(setWords, words, mode));
   };
 
   const submitSpelling = typed => {
@@ -29,13 +37,26 @@ export default function Quiz({ setId, setWords, setLabel, words, stages, onStage
     setS(answer(s, verdict !== 'wrong', { typed, form: verdict === 'form' }));
   };
 
+  const pickMeaning = option => {
+    if (s.phase !== 'question') return;
+    setS(answer(s, option.key === s.current.key, { picked: option.word }));
+  };
+
   const next = () => setS(nextQuestion);
 
-  // Keyboard (after answering): Enter = next word, P = pronounce, 1–5 = stage.
+  // Keyboard: 1–4 picks an option (Pick the meaning). After answering:
+  // Enter = next word, P = pronounce, 1–5 = stage.
   useEffect(() => {
     const onKey = e => {
-      if (s.phase !== 'answered' || e.metaKey || e.ctrlKey || e.altKey) return;
+      if (e.metaKey || e.ctrlKey || e.altKey) return;
       const key = e.key.toLowerCase();
+      if (s.phase === 'question' && mode === 'pick') {
+        const opt = s.options[Number(e.key) - 1];
+        if (opt) pickMeaning(opt);
+        else if (key === 'p') speak(s.current.word);
+        return;
+      }
+      if (s.phase !== 'answered') return;
       if (e.key === 'Enter') {
         e.preventDefault();
         next();
@@ -62,7 +83,7 @@ export default function Quiz({ setId, setWords, setLabel, words, stages, onStage
         </p>
         <div className="row">
           <button className="ghost" onClick={onQuit}>Home</button>
-          <button className="primary" autoFocus onClick={() => setS(newSession(setWords, words))}>
+          <button className="primary" autoFocus onClick={() => setS(newSession(setWords, words, mode))}>
             Practice again
           </button>
         </div>
@@ -75,7 +96,7 @@ export default function Quiz({ setId, setWords, setLabel, words, stages, onStage
   return (
     <section>
       <div className="progress-row">
-        <span>Spell the word · {setLabel}</span>
+        <span>{MODES[mode].title} · {setLabel}</span>
         <span className="muted">{s.cleared} / {s.total} cleared</span>
       </div>
       <div className="bar">
@@ -83,15 +104,19 @@ export default function Quiz({ setId, setWords, setLabel, words, stages, onStage
       </div>
 
       <div className="card">
-        <SpellQuestion
-          key={s.qid}
-          label="Type the word that means…"
-          prompt={<div className="prompt meaning">{s.current.meaning}</div>}
-          answerText={s.current.word}
-          hint={s.current.trick && `💡 ${maskWord(s.current.trick, s.current.word)}`}
-          answered={answered}
-          onSubmit={submitSpelling}
-        />
+        {mode === 'pick' ? (
+          <MeaningQuestion s={s} onPick={pickMeaning} />
+        ) : (
+          <SpellQuestion
+            key={s.qid}
+            label="Type the word that means…"
+            prompt={<div className="prompt meaning">{s.current.meaning}</div>}
+            answerText={s.current.word}
+            hint={s.current.trick && `💡 ${maskWord(s.current.trick, s.current.word)}`}
+            answered={answered}
+            onSubmit={submitSpelling}
+          />
+        )}
 
         {answered && (
           <div className={`feedback ${s.result.form ? 'close' : s.result.correct ? 'good' : 'bad'}`}>
@@ -123,6 +148,28 @@ export default function Quiz({ setId, setWords, setLabel, words, stages, onStage
         {answered && <button ref={nextRef} className="primary" onClick={next}>Next ↵</button>}
       </div>
     </section>
+  );
+}
+
+function MeaningQuestion({ s, onPick }) {
+  const answered = s.phase === 'answered';
+  return (
+    <>
+      <div className="muted small">What does this word mean?</div>
+      <div className="prompt word-title">{s.current.word} <SpeakButton text={s.current.word} /></div>
+      <div className="options">
+        {s.options.map((o, i) => {
+          let cls = '';
+          if (answered && o.key === s.current.key) cls = 'correct';
+          else if (answered && o.word === s.result.picked) cls = 'wrong';
+          return (
+            <button key={o.word} type="button" className={cls} disabled={answered} onClick={() => onPick(o)}>
+              <kbd>{i + 1}</kbd> {o.meaning}
+            </button>
+          );
+        })}
+      </div>
+    </>
   );
 }
 

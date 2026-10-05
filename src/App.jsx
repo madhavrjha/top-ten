@@ -1,12 +1,12 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { WORDS } from './words.js';
 import { clearSavedData } from './utils.js';
-import { STAGES, loadStages, saveStages, setStage, gradeReview, isDue, reviewedToday, dueLabel } from './stages.js';
+import { STAGES, loadStages, saveStages, setStage, gradeReview, undoReviews, isDue, reviewedToday, dueLabel } from './stages.js';
 import { loadSpell } from './spellProgress.js';
-import { loadDaily, saveDaily, setLetter, letterDoneSet, markLetterDone, clearToday } from './daily.js';
+import { loadDaily, saveDaily, setLetter, letterDoneSet, markLetterDone, noteReview, clearToday } from './daily.js';
 import { useRoute, navigate, href } from './router.js';
 import Home from './components/Home.jsx';
-import Quiz from './components/Quiz.jsx';
+import Quiz, { MODES } from './components/Quiz.jsx';
 import Browse from './components/Browse.jsx';
 import Walk from './components/Walk.jsx';
 
@@ -21,7 +21,7 @@ function store(key, value) {
 }
 
 export default function App() {
-  // Routes: #/  #/browse/<set>  #/spell/<set>  #/today/letter  #/today/review
+  // Routes: #/  #/browse/<set>  #/spell/<set>  #/pick/<set>  #/today/letter  #/today/review
   const path = useRoute();
   const [, page = '', param = ''] = path.split('/');
   const [setId, setSetId] = useState(() => load(SET_KEY, 'all'));
@@ -47,7 +47,6 @@ export default function App() {
     if (!saveStages(next)) setToast("Couldn't save — this browser is blocking storage (private mode?).");
   }, []);
   const changeStage = useCallback((word, stage) => updateStages(m => setStage(m, word, stage)), [updateStages]);
-  const grade = useCallback((word, remembered) => updateStages(m => gradeReview(m, word, remembered)), [updateStages]);
 
   // Today's tasks (letter of the day + Mastered review).
   const letterWords = useMemo(() => {
@@ -65,9 +64,19 @@ export default function App() {
     return next;
   });
 
+  const grade = (word, remembered) => {
+    const before = stagesRef.current[word.lower]; // read now; the updater below runs later
+    updateDaily(d => noteReview(d, word, before));
+    updateStages(m => gradeReview(m, word, remembered));
+  };
+
+  // Resets only today: letter-of-the-day progress and today's Mastered reviews.
+  // Stages, spelling progress and everything else stay.
   const clearProgress = () => {
-    if (!window.confirm("Clear today's letter progress? Your stages and reviews stay.")) return;
+    if (!window.confirm("Clear today's progress? Today's letter progress and Mastered reviews are reset. Word stages and everything else stay.")) return;
+    updateStages(m => undoReviews(m, daily.reviewed));
     updateDaily(clearToday);
+    setToast("Today's progress cleared.");
   };
 
   const clearData = () => {
@@ -107,6 +116,7 @@ export default function App() {
     page === '' ? 'home'
     : page === 'browse' && routeSet ? 'browse'
     : page === 'spell' && routeSet ? 'spell'
+    : page === 'pick' && routeSet ? 'pick'
     : page === 'today' && param === 'letter' ? 'today-letter'
     : page === 'today' && param === 'review' ? 'today-review'
     : null;
@@ -117,7 +127,7 @@ export default function App() {
 
   // Opening a set from its URL also makes it the selected set on Home.
   useEffect(() => {
-    if ((screen === 'browse' || screen === 'spell') && routeSet.id !== setId) changeSet(routeSet.id);
+    if (['browse', 'spell', 'pick'].includes(screen) && routeSet.id !== setId) changeSet(routeSet.id);
   }, [screen, routeSet?.id]); // eslint-disable-line react-hooks/exhaustive-deps
 
   useEffect(() => {
@@ -125,6 +135,7 @@ export default function App() {
     const titles = {
       browse: `Browse · ${routeSet?.label}`,
       spell: `Spell · ${routeSet?.label}`,
+      pick: `Pick the meaning · ${routeSet?.label}`,
       'today-letter': 'Letter of the day',
       'today-review': 'Mastered review',
     };
@@ -138,11 +149,14 @@ export default function App() {
   const nextDueEntry = masteredWords.map(w => stages[w.lower]).filter(e => !isDue(e))
     .sort((a, b) => a.due.localeCompare(b.due))[0];
 
-  // Saved Spell progress for the chosen set (re-read whenever Home shows).
-  const spellSaved = useMemo(() => {
-    if (screen !== 'home') return null;
-    const saved = loadSpell(practiceSet.id);
-    return saved && saved.remaining?.length ? saved : null;
+  // Saved quiz progress for the chosen set (re-read whenever Home shows).
+  const quizSaved = useMemo(() => {
+    if (screen !== 'home') return {};
+    const get = mode => {
+      const saved = loadSpell(MODES[mode].progressKey(practiceSet.id));
+      return saved && saved.remaining?.length ? saved : null;
+    };
+    return { spell: get('spell'), pick: get('pick') };
   }, [screen, practiceSet.id, dataVersion]);
   const todayLetterWords = letterWords[daily.letter] || [];
   const todayLetterDone = letterDoneSet(daily);
@@ -160,7 +174,7 @@ export default function App() {
           setId={practiceSet.id}
           onSetChange={changeSet}
           practiceSet={practiceSet}
-          spellSaved={spellSaved}
+          quizSaved={quizSaved}
           onPick={id => navigate(`/${id}/${practiceSet.id}`)}
           today={{
             letters: Object.keys(letterWords).sort(),
@@ -176,8 +190,10 @@ export default function App() {
             reviewDone: reviewDoneSet.size,
             nextDue: nextDueEntry ? dueLabel(nextDueEntry).replace('review ', '') : '',
             onStartReview: () => { setReviewWalkId(i => i + 1); navigate('/today/review'); },
+            hasProgress: todayLetterDone.size > 0 || reviewDoneSet.size > 0,
             onClear: clearProgress,
           }}
+          onClearToday={clearProgress}
           onClearData={clearData}
           dataVersion={dataVersion}
           hasWords={WORDS.length > 0}
@@ -223,9 +239,10 @@ export default function App() {
           onBack={goHome}
         />
       )}
-      {screen === 'spell' && (
+      {(screen === 'spell' || screen === 'pick') && (
         <Quiz
-          key={routeSet.id}
+          key={`${screen}-${routeSet.id}`}
+          mode={screen}
           setId={routeSet.id}
           setWords={routeSet.words}
           setLabel={routeSet.label}

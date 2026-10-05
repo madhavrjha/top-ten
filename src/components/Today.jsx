@@ -1,11 +1,10 @@
 // Home-screen section with today's two tasks and their saved progress.
 export default function Today({
   letters, letter, letterWords, letterDone, onLetterChange, onStartLetter, shuffleLetter, onShuffleChange,
-  masteredCount, reviewDue, reviewDone, nextDue, onStartReview, onClear,
+  masteredCount, reviewDue, reviewDone, nextDue, onStartReview, hasProgress, onClear,
 }) {
   const letterCount = letterWords.length;
   const letterFinished = letterCount > 0 && letterDone >= letterCount;
-  const hasProgress = letterDone > 0;
 
   return (
     <div className="today">

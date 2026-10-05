@@ -6,14 +6,15 @@ const VOICE_KEY = 'vocab.voice';
 // macOS ships joke voices tagged en-US; never pick these automatically.
 const NOVELTY = /albert|bad news|bahh|bells|boing|bubbles|cellos|good news|jester|organ|superstar|trinoids|whisper|wobble|zarvox|deranged|hysterical|pipe organ|fred|junior|kathy|ralph|princess|grandma|grandpa|eddy|flo|reed|rocko|sandy|shelley/i;
 
-// Higher score = better default. Neural / premium voices sound far more natural.
+// Higher score = better default. en-US voices always come first (the default
+// accent); within each accent, neural / premium voices sound far more natural.
 function score(v) {
   let s = 0;
+  if (v.lang?.replace('_', '-') === 'en-US') s += 1000;
   if (/natural|neural|premium|enhanced|online/i.test(v.name)) s += 100;
   if (/^google (us|uk) english/i.test(v.name)) s += 70;
   if (/samantha|alex|ava|allison|susan|tom|daniel|karen|moira|serena|zoe|evan|nathan|aria|jenny|guy|libby|sonia|ryan/i.test(v.name)) s += 50;
-  if (v.lang === 'en-US') s += 20;
-  else if (v.lang === 'en-GB') s += 15;
+  if (v.lang?.replace('_', '-') === 'en-GB') s += 15;
   else if (v.lang?.startsWith('en')) s += 5;
   return s;
 }
@@ -34,7 +35,7 @@ export function setVoiceName(name) {
   try { name ? localStorage.setItem(VOICE_KEY, name) : localStorage.removeItem(VOICE_KEY); } catch { /* storage unavailable */ }
 }
 
-/** The chosen voice, or the best available one. */
+/** The chosen voice, or the best available one (an en-US voice when there is one). */
 export function currentVoice() {
   const voices = englishVoices();
   const saved = savedVoiceName();

@@ -4,7 +4,7 @@ import Today from './Today.jsx';
 import { STAGE_IDS, stageInfo } from '../stages.js';
 
 export default function Home({
-  sets, setId, onSetChange, practiceSet, spellSaved, onPick, today, onClearData, dataVersion, hasWords,
+  sets, setId, onSetChange, practiceSet, quizSaved, onPick, today, onClearToday, onClearData, dataVersion, hasWords,
 }) {
   const count = practiceSet.words.length;
   const isStage = STAGE_IDS.includes(practiceSet.id);
@@ -23,12 +23,21 @@ export default function Home({
       </p>
 
       <div className="levels">
-        <button className="level-card" disabled={!count} onClick={() => onPick('spell')}>
-          <span className="level-num">Practice</span>
-          <strong>{spellSaved ? `Resume spelling · ${spellSaved.cleared} cleared` : 'Spell the word'}</strong>
+        <button className="level-card" disabled={!count} onClick={() => onPick('pick')}>
+          <span className="level-num">Practice · multiple choice</span>
+          <strong>{quizSaved.pick ? `Resume · ${quizSaved.pick.cleared} cleared` : 'Pick the meaning'}</strong>
           <span className="muted">
-            {spellSaved
-              ? `${spellSaved.remaining.length} word${spellSaved.remaining.length === 1 ? '' : 's'} left in ${practiceSet.label}. Progress is saved after every answer.`
+            {quizSaved.pick
+              ? `${quizSaved.pick.remaining.length} word${quizSaved.pick.remaining.length === 1 ? '' : 's'} left in ${practiceSet.label}. Progress is saved after every answer.`
+              : 'See the word, choose its meaning from 4. Missed words come back until every word is cleared.'}
+          </span>
+        </button>
+        <button className="level-card" disabled={!count} onClick={() => onPick('spell')}>
+          <span className="level-num">Practice · spelling</span>
+          <strong>{quizSaved.spell ? `Resume spelling · ${quizSaved.spell.cleared} cleared` : 'Spell the word'}</strong>
+          <span className="muted">
+            {quizSaved.spell
+              ? `${quizSaved.spell.remaining.length} word${quizSaved.spell.remaining.length === 1 ? '' : 's'} left in ${practiceSet.label}. Progress is saved after every answer.`
               : 'See the meaning, type the exact word. Missed words come back until every word is cleared.'}
           </span>
         </button>
@@ -48,7 +57,10 @@ export default function Home({
           Word stages, review dates, today's progress, spelling progress, voice and last set are saved in this
           browser only.
         </p>
-        <button type="button" className="ghost danger" onClick={onClearData}>Clear saved data</button>
+        <div className="row-left">
+          <button type="button" className="ghost" onClick={onClearToday}>Clear today's progress</button>
+          <button type="button" className="ghost danger" onClick={onClearData}>Clear all saved data</button>
+        </div>
       </div>
     </section>
   );
