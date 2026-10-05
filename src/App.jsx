@@ -1,14 +1,11 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { WORDS } from './words.js';
-import { matchesFilter, saveLevel, FILTERS } from './levels.js';
+import { loadRepeat, saveRepeat, today, clearSavedData } from './repeat.js';
 import Home from './components/Home.jsx';
 import Quiz from './components/Quiz.jsx';
 import Browse from './components/Browse.jsx';
-import Review from './components/Review.jsx';
-import { loadState, planToday } from './review.js';
 
 const SET_KEY = 'vocab.practiceSet';
-const FILTER_KEY = 'vocab.levelFilter';
 
 function load(key, fallback) {
   try { return localStorage.getItem(key) || fallback; } catch { return fallback; }
@@ -18,20 +15,12 @@ function store(key, value) {
 }
 
 export default function App() {
-  // screen: 'home' | 'browse' | 'review' | 1 | 2 | 3 (quiz level)
+  // screen: 'home' | 'browse' | 'spell'
   const [screen, setScreen] = useState('home');
   const [setId, setSetId] = useState(() => load(SET_KEY, 'all'));
-  const [filter, setFilter] = useState(() => {
-    const f = load(FILTER_KEY, 'any');
-    return FILTERS.some(x => x.id === f) ? f : 'any';
-  });
+  const [repeat, setRepeat] = useState(loadRepeat);
+  const [dataVersion, setDataVersion] = useState(0); // bumps after clearing saved data
   const goHome = () => setScreen('home');
-
-  // Difficulty per word (lowercase word → 'easy' | 'medium' | 'hard').
-  const [levels, setLevels] = useState(() =>
-    Object.fromEntries(WORDS.filter(w => w.level).map(w => [w.lower, w.level])));
-  const levelsRef = useRef(levels);
-  levelsRef.current = levels;
 
   const [toast, setToast] = useState('');
   useEffect(() => {
@@ -40,50 +29,46 @@ export default function App() {
     return () => clearTimeout(t);
   }, [toast]);
 
-  // Update the screen right away, then save to the letter file; undo on failure.
-  const setLevel = useCallback((word, level) => {
-    const prev = levelsRef.current[word.lower] || null;
-    if (prev === level) return;
-    const apply = value => setLevels(ls => {
-      const next = { ...ls };
-      if (value) next[word.lower] = value;
-      else delete next[word.lower];
-      return next;
-    });
-    apply(level);
-    saveLevel(word.word, level).catch(err => {
-      if ((levelsRef.current[word.lower] || null) === level) apply(prev);
-      setToast(`Couldn't save "${word.word}": ${err.message}. Is npm run dev running?`);
-    });
+  // Ref mirrors the latest list so the stable callback below never uses a stale copy.
+  const repeatRef = useRef(repeat);
+  repeatRef.current = repeat;
+
+  const toggleRepeat = useCallback(word => {
+    const next = { ...repeatRef.current };
+    if (next[word.lower]) delete next[word.lower];
+    else next[word.lower] = today();
+    repeatRef.current = next;
+    setRepeat(next);
+    if (!saveRepeat(next)) setToast("Couldn't save — this browser is blocking storage (private mode?).");
   }, []);
 
-  // "All" plus one set per starting letter.
-  const sets = useMemo(() => {
+  const clearData = () => {
+    if (!window.confirm('Clear all saved data in this browser? This empties your repeat list and resets your voice and set choices.')) return;
+    if (!clearSavedData()) {
+      setToast("Couldn't clear saved data in this browser.");
+      return;
+    }
+    setRepeat({});
+    setSetId('all');
+    setDataVersion(v => v + 1);
+    setToast('Saved data cleared.');
+  };
+
+  // "All", "Repeat" (your repeat list), then one set per starting letter.
+  const letterSets = useMemo(() => {
     const byLetter = {};
     WORDS.forEach(w => (byLetter[w.word[0].toLowerCase()] ||= []).push(w));
-    return [
-      { id: 'all', label: 'All words', words: WORDS },
-      ...Object.keys(byLetter).sort().map(l => ({ id: l, label: `Letter ${l.toUpperCase()}`, words: byLetter[l] })),
-    ];
+    return Object.keys(byLetter).sort()
+      .map(l => ({ id: l, label: `Letter ${l.toUpperCase()}`, words: byLetter[l] }));
   }, []);
-  const letterSet = sets.find(x => x.id === setId) || sets[0];
-
-  // The practice set is the chosen letter narrowed by the difficulty filter.
-  const practiceWords = useMemo(
-    () => letterSet.words.filter(w => matchesFilter(levels[w.lower], filter)),
-    [letterSet, levels, filter]);
-  const filterLabel = FILTERS.find(f => f.id === filter).label;
-  const practiceLabel = filter === 'any' ? letterSet.label : `${letterSet.label} · ${filterLabel}`;
-
-  // Daily review counts for the home screen (re-read each time Home shows).
-  const review = useMemo(() => {
-    if (screen !== 'home') return null;
-    const { due, fresh } = planToday(WORDS, loadState(), levels);
-    return { due: due.length, fresh: fresh.length };
-  }, [screen, levels]);
+  const sets = useMemo(() => [
+    { id: 'all', label: 'All words', words: WORDS },
+    { id: 'repeat', label: 'Repeat list', words: WORDS.filter(w => repeat[w.lower]) },
+    ...letterSets,
+  ], [letterSets, repeat]);
+  const practiceSet = sets.find(x => x.id === setId) || sets[0];
 
   const changeSet = id => { setSetId(id); store(SET_KEY, id); };
-  const changeFilter = id => { setFilter(id); store(FILTER_KEY, id); };
 
   return (
     <main className="app">
@@ -95,46 +80,38 @@ export default function App() {
       {screen === 'home' && (
         <Home
           sets={sets}
-          setId={letterSet.id}
+          setId={practiceSet.id}
           onSetChange={changeSet}
-          letterWords={letterSet.words}
-          levels={levels}
-          filter={filter}
-          onFilterChange={changeFilter}
-          practiceCount={practiceWords.length}
-          practiceLabel={practiceLabel}
+          practiceSet={practiceSet}
+          repeatCount={sets[1].words.length}
           onPick={setScreen}
-          review={review}
+          onClearData={clearData}
+          dataVersion={dataVersion}
           hasWords={WORDS.length > 0}
         />
-      )}
-      {screen === 'review' && (
-        <Review words={WORDS} levels={levels} onSetLevel={setLevel} onQuit={goHome} />
       )}
       {screen === 'browse' && (
         <Browse
           sets={sets}
-          initialSetId={letterSet.id}
-          initialFilter={filter}
-          levels={levels}
-          onSetLevel={setLevel}
+          initialSetId={practiceSet.id}
+          repeat={repeat}
+          onToggleRepeat={toggleRepeat}
           onBack={goHome}
         />
       )}
-      {[1, 2, 3].includes(screen) && (
+      {screen === 'spell' && (
         <Quiz
-          key={`${screen}-${letterSet.id}-${filter}`}
-          level={screen}
-          setWords={practiceWords}
-          setLabel={practiceLabel}
+          key={practiceSet.id}
+          setWords={practiceSet.words}
+          setLabel={practiceSet.label}
           words={WORDS}
-          levels={levels}
-          onSetLevel={setLevel}
+          repeat={repeat}
+          onToggleRepeat={toggleRepeat}
           onQuit={goHome}
         />
       )}
 
-      {toast && <div className="toast" role="alert">{toast}</div>}
+      {toast && <div className="toast" role="status">{toast}</div>}
     </main>
   );
 }

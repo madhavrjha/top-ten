@@ -29,7 +29,6 @@ export function prepareWords(list) {
           pattern: w.usage.pattern,
           partners: Array.isArray(w.usage.partners) ? w.usage.partners : [],
         } : null,
-        level: ['easy', 'medium', 'hard'].includes(w.level) ? w.level : null,
         lower: word.toLowerCase(),
         key: norm(meaning),
       };

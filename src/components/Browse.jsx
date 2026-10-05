@@ -1,19 +1,16 @@
 import { memo, useCallback, useDeferredValue, useEffect, useMemo, useRef, useState } from 'react';
 import WordDetails from './WordDetails.jsx';
 import SetPicker from './SetPicker.jsx';
-import LevelFilter from './LevelFilter.jsx';
-import LevelPicker from './LevelPicker.jsx';
 import SpeakButton from './SpeakButton.jsx';
-import { matchesFilter } from '../levels.js';
+import RepeatButton from './RepeatButton.jsx';
 import { shuffle } from '../utils.js';
 
 // Rows are rendered in pages as you scroll, so long lists stay fast.
 const PAGE = 60;
 
-export default function Browse({ sets, initialSetId, initialFilter, levels, onSetLevel, onBack }) {
+export default function Browse({ sets, initialSetId, repeat, onToggleRepeat, onBack }) {
   const [query, setQuery] = useState('');
   const [setId, setSetId] = useState(initialSetId);
-  const [filter, setFilter] = useState(initialFilter);
   const [open, setOpen] = useState(() => new Set());
   const [limit, setLimit] = useState(PAGE);
   // null = A–Z order; a number = shuffled (changing it reshuffles).
@@ -24,7 +21,7 @@ export default function Browse({ sets, initialSetId, initialFilter, levels, onSe
   // Typing stays responsive; filtering runs on the deferred value.
   const deferredQuery = useDeferredValue(query);
   const setWords = (sets.find(x => x.id === setId) || sets[0]).words;
-  // Shuffled once per click, so marking a word doesn't reorder the list.
+  // Shuffled once per click, so toggling repeat doesn't reorder the list.
   const words = useMemo(
     () => (shuffleId === null ? setWords : shuffle(setWords)),
     [setWords, shuffleId]);
@@ -32,12 +29,11 @@ export default function Browse({ sets, initialSetId, initialFilter, levels, onSe
   // Search by word only, so meanings stay hidden until expanded.
   const list = useMemo(() => {
     const q = deferredQuery.trim().toLowerCase();
-    return words.filter(w => (!q || w.lower.includes(q)) && matchesFilter(levels[w.lower], filter));
-  }, [words, deferredQuery, levels, filter]);
+    return q ? words.filter(w => w.lower.includes(q)) : words;
+  }, [words, deferredQuery]);
 
-  // Back to the first page when the set, filter or search changes
-  // (but not when a word's level is marked, so the list doesn't jump).
-  useEffect(() => setLimit(PAGE), [words, deferredQuery, filter]);
+  // Back to the first page when the set or search changes.
+  useEffect(() => setLimit(PAGE), [setId, shuffleId, deferredQuery]);
 
   const reshuffle = () => {
     setShuffleId(n => (n ?? 0) + 1);
@@ -89,9 +85,6 @@ export default function Browse({ sets, initialSetId, initialFilter, levels, onSe
       <div className="browse-sets">
         <SetPicker sets={sets} value={setId} onChange={setSetId} />
       </div>
-      <div className="browse-sets">
-        <LevelFilter words={setWords} levels={levels} value={filter} onChange={setFilter} />
-      </div>
       <div className="browse-order">
         <button type="button" className={shuffled ? 'primary' : 'ghost'} onClick={reshuffle}>
           🔀 {shuffled ? 'Shuffle again' : 'Shuffle'}
@@ -101,7 +94,11 @@ export default function Browse({ sets, initialSetId, initialFilter, levels, onSe
         )}
       </div>
 
-      {list.length === 0 && <p className="muted center">No matching words.</p>}
+      {list.length === 0 && (
+        <p className="muted center">
+          {setId === 'repeat' && !query ? 'Your repeat list is empty. Tap 🔁 on a word to add it.' : 'No matching words.'}
+        </p>
+      )}
       {list.length > 0 && (
         <p className="muted small-text">{list.length} word{list.length === 1 ? '' : 's'}</p>
       )}
@@ -114,10 +111,10 @@ export default function Browse({ sets, initialSetId, initialFilter, levels, onSe
               <WordRow
                 key={w.word}
                 word={w}
-                level={levels[w.lower] || null}
+                repeatSince={repeat[w.lower] || null}
                 isOpen={open.has(w.word)}
                 onToggle={toggle}
-                onSetLevel={onSetLevel}
+                onToggleRepeat={onToggleRepeat}
               />
             ))}
           </div>
@@ -130,26 +127,28 @@ export default function Browse({ sets, initialSetId, initialFilter, levels, onSe
 }
 
 // Memoized so expanding one word doesn't re-render every other row.
-const WordRow = memo(function WordRow({ word, level, isOpen, onToggle, onSetLevel }) {
+const WordRow = memo(function WordRow({ word, repeatSince, isOpen, onToggle, onToggleRepeat }) {
   return (
     <div className={`word-row ${isOpen ? 'open' : ''}`}>
       <div className="word-head">
         <SpeakButton text={word.word} className="row-speak" />
         <button className="word-toggle" onClick={() => onToggle(word.word)} aria-expanded={isOpen}>
-          <span className="word-name">
-            {level && <span className={`dot ${level}`} title={level} />}
-            {word.word}
-          </span>
+          <span className="word-name">{word.word}</span>
           <svg className="chevron" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
             <path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" strokeWidth="2"
               strokeLinecap="round" strokeLinejoin="round" />
           </svg>
         </button>
+        <RepeatButton
+          active={!!repeatSince}
+          since={repeatSince}
+          onToggle={() => onToggleRepeat(word)}
+          compact
+        />
       </div>
       {isOpen && (
         <div className="word-body">
           <WordDetails word={word} showTitle={false} />
-          <LevelPicker level={level} onChange={lvl => onSetLevel(word, lvl)} />
         </div>
       )}
     </div>

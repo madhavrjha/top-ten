@@ -16,11 +16,9 @@ just `Word`, or WhatsApp lines with timestamps (`[7:33 pm, 3/10/2026] Madhav: ..
 4. Write each entry into `src/words/<first-letter>.json` (create the file if the letter is new).
    Keep the array sorted alphabetically by `word`; `word` is lowercase unless a proper noun.
 5. Validate: every entry has `word`, `meaning`, `trick`, exactly 2 `examples`, and `usage`; each
-   example must contain the word (or a form of it) so Level 3 can blank it; JSON parses;
+   example should contain the word (or a form of it); JSON parses;
    `npx vite build --logLevel error` succeeds.
-6. Run `git status` — if other word files show changes, they are the user's own difficulty marks
-   (check with `git diff`). Never revert them; mention them and include them in the next commit.
-7. Do NOT commit/push until the user says so ("commit and push" is the usual phrase).
+6. Do NOT commit/push until the user says so ("commit and push" is the usual phrase).
 
 ### Writing entries
 ```json
@@ -33,8 +31,7 @@ just `Word`, or WhatsApp lines with timestamps (`[7:33 pm, 3/10/2026] Madhav: ..
     "pos": "adjective",
     "pattern": "be ephemeral / an ephemeral + noun",
     "partners": ["ephemeral fame", "ephemeral beauty"]
-  },
-  "level": "hard"
+  }
 }
 ```
 - **meaning**: short, plain, dictionary-style. Don't include the word itself. If the user's note is
@@ -47,8 +44,7 @@ just `Word`, or WhatsApp lines with timestamps (`[7:33 pm, 3/10/2026] Madhav: ..
   `pos` = word type matching the form as written ("verb (past)", "noun (plural)", "adjective (slang)");
   `pattern` = grammar frame with someone/something/doing placeholders ("abstain from something /
   from doing something", "bear the brunt of something"); `partners` = 2–3 common collocations.
-  Key order in the file: word, meaning, trick, examples, usage, level.
-- **level**: the user's own Easy/Medium/Hard mark, written by the app. **Never add, change or remove it.**
+  Key order in the file: word, meaning, trick, examples, usage.
 - Different forms are separate entries (abolish / abolished, astonished / astonishing / astonishment).
   A phrase that is just the usual use of a word gets merged (e.g. "brink" + "brink of" → one "brink").
   Multi-word phrases are fine ("akin to", "with one accord" → goes in `w.json` by first letter).
@@ -61,45 +57,39 @@ just `Word`, or WhatsApp lines with timestamps (`[7:33 pm, 3/10/2026] Madhav: ..
 - For bigger features they sometimes ask for a plan first — give the plan, then build after "go/do it".
 - Before building something ambiguous, ask one focused question (e.g. "remove that set of 10" was ambiguous).
 
+## How the user revises (2026-10-05 redesign)
+The user goes through one letter a day in Browse. Words they forget or want to drill go on their
+**repeat list** (🔁), which they practise for some days and unset themselves. Easy/Medium/Hard labels,
+Level 1 (multiple choice), Level 3 (fill in the blank) and Daily Review flashcards were removed at their
+request — don't bring them back unless asked.
+
 ## Features (what exists)
-- **Daily review** (`src/review.js`, `Review.jsx`): flashcards with spaced repetition across all words.
-  Flip (Space), rate Forgot/Hard/Good (1/2/3). Ladder of gaps 1,3,7,14,30,60,120,240 days; Good moves
-  up (first Good = 1 week), Hard = 3 days or repeats the gap, Forgot = tomorrow and the card comes back
-  3 cards later in the same session. Hard-marked words get 25% shorter gaps, Easy-marked 25% longer.
-  Max 10 new words/day, Hard-marked first. Saved in localStorage key `vocab.review` (per device).
-- **Home**: practice set picker (All random, or one letter) + difficulty filter (Any/Unmarked/Easy/Medium/Hard),
-  voice picker for pronunciation.
-- **Level 1 – Pick the meaning**: 4 options, distractors have distinct meanings. Keys 1–4, Enter, P (speak).
-- **Level 2 – Spell the word**: type the word from its meaning. Letter blanks shown from the start;
-  click any blank to reveal that letter (all but the last); "Show hint" shows the trick (word masked).
-  A different form of the right word (amplify vs amplifies) counts as "Almost" (cleared, amber).
-- Whole set practised at once; a missed word is requeued a few questions later until all are cleared.
-- **Level 3 – Fill in the blank**: an example sentence with the word blanked (`findClozes` in
-  `session.js` finds the word or a form of it, incl. multi-word phrases); type the blanked text.
-  Same clickable blanks as Level 2; "Show hint" shows the meaning; other forms count as "Almost".
-- After each answer: details (incl. "How to use") + Easy/Medium/Hard buttons (keys E/M/H).
-- **Browse**: letter + difficulty filters, search by word only, rows collapsed (meaning hidden until
-  expanded), Shuffle / A–Z order, 🔊 per row, pages of 60 rows loaded on scroll.
+- **Home**: set chips (All, 🔁 Repeat, one per letter) → **Spell the word** or **Browse words**;
+  voice picker; **Clear saved data** (removes all `vocab.*` localStorage keys after a confirm).
+- **Repeat list** (`src/repeat.js`): localStorage key `vocab.repeat` = `{ "<lowercase word>": "YYYY-MM-DD added" }`.
+  Toggled with 🔁 on Browse rows and after answering in Spell (key R). Per device; works on the live site.
+- **Spell the word**: type the word from its meaning. Letter blanks: click one to reveal it (all but
+  the last); "Show hint" shows the trick (word masked). A different form (amplify vs amplifies) counts
+  as "Almost". Whole set practised at once; missed words requeued until all are cleared. Enter / P / R keys.
+- **Browse**: set chips, search by word only, rows collapsed until expanded (meaning, trick,
+  "How to use", examples), 🔊 and 🔁 per row, Shuffle / A–Z, pages of 60 rows loaded on scroll.
 - **Pronunciation**: browser text-to-speech (`src/speech.js`); novelty macOS voices filtered out;
-  voice choice saved in localStorage. In Level 2 it's only offered after answering.
+  voice choice saved in localStorage. In Spell it's only offered after answering.
 
 ## Files
 - `src/words/<letter>.json` — the data. Loaded automatically via `import.meta.glob` in `src/words.js`.
 - `src/utils.js` — `shuffle`, `norm`, `prepareWords` (precomputes `lower` and meaning `key`).
-- `src/session.js` — pure quiz logic + spelling check with a light stemmer.
-- `src/levels.js` — levels, filters, `saveLevel` (POST /api/level).
+- `src/session.js` — pure spelling-quiz logic + spelling check with a light stemmer.
+- `src/repeat.js` — repeat list storage, `sinceLabel`, `clearSavedData`.
 - `src/speech.js` — voice ranking and `speak()`.
-- `src/review.js` — pure spaced-repetition logic (plan, rate, intervals, stats) + localStorage.
-- `src/App.jsx` — screens, practice sets, difficulty state (optimistic save + revert on failure), toast.
-- `src/components/` — `Home`, `Quiz`, `Browse`, `WordDetails`, `SetPicker`, `LevelFilter`,
-  `LevelPicker`, `SpeakButton`, `VoicePicker`, `Review`.
-- `vite.config.js` — `base: '/top-ten/'` for builds; `word-levels` dev plugin that saves marks into
-  letter files and suppresses HMR reloads for its own writes.
+- `src/App.jsx` — screens, sets (All / Repeat / letters), repeat state, clear data, toast.
+- `src/components/` — `Home`, `Quiz` (Spell the word), `Browse`, `WordDetails`, `SetPicker`,
+  `RepeatButton`, `SpeakButton`, `VoicePicker`.
+- `vite.config.js` — `base: '/top-ten/'` for builds.
 
 ## Deploy
 Pushing to `main` runs `.github/workflows/deploy.yml` (build → GitHub Pages). Pages source is set to
-"GitHub Actions". The live site is read-only: Easy/Medium/Hard buttons are hidden there
-(`CAN_SAVE = import.meta.env.DEV`); marks are made locally under `npm run dev`, then committed.
+"GitHub Actions". Everything works on the live site; the repeat list lives in each browser.
 
 ## Environment notes
 - Git push uses SSH as GitHub user `madhav1finance` (a collaborator on `madhavrjha/top-ten`).
@@ -108,8 +98,5 @@ Pushing to `main` runs `.github/workflows/deploy.yml` (build → GitHub Pages). 
   Wikimedia rate-limited), so the app uses device voices only.
 
 ## Ideas offered but not built yet
-- "Write your own sentence" step in Daily Review (saved with the word as "My sentence").
 - The user can paste their own sentences in chat for Claude to correct and save as examples.
-- "Weak words" set built from words the user gets wrong.
-- Marking Easy/Medium/Hard on the live site (option A: browser-only storage; option B: commit to GitHub
-  via the API with a personal token). User hasn't chosen.
+- Syncing the repeat list across devices (it's per browser today).

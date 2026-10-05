@@ -1,46 +1,34 @@
 import { useEffect, useRef, useState } from 'react';
-import { newSession, nextQuestion, answer, checkSpelling, checkCloze } from '../session.js';
-import { LEVELS } from '../levels.js';
+import { newSession, nextQuestion, answer, checkSpelling } from '../session.js';
 import WordDetails from './WordDetails.jsx';
-import LevelPicker from './LevelPicker.jsx';
-import SpeakButton from './SpeakButton.jsx';
+import RepeatButton from './RepeatButton.jsx';
 import { speak } from '../speech.js';
 
-export default function Quiz({ level, setWords, setLabel, words, levels, onSetLevel, onQuit }) {
-  const [s, setS] = useState(() => newSession(setWords, words, level));
+// Spell the word: see the meaning, type the word.
+export default function Quiz({ setWords, setLabel, words, repeat, onToggleRepeat, onQuit }) {
+  const [s, setS] = useState(() => newSession(setWords, words));
   const nextRef = useRef(null);
-
-  const pickMeaning = option => {
-    if (s.phase !== 'question') return;
-    setS(answer(s, option.word === s.current.word, { picked: option.word }));
-  };
 
   const submitSpelling = typed => {
     if (s.phase !== 'question') return;
-    const verdict = level === 3 ? checkCloze(typed, s) : checkSpelling(typed, s);
+    const verdict = checkSpelling(typed, s);
     setS(answer(s, verdict !== 'wrong', { typed, form: verdict === 'form' }));
   };
 
   const next = () => setS(nextQuestion);
 
-  // Keyboard: 1–4 picks an option (Level 1), Enter goes to the next word,
-  // E / M / H marks the answered word Easy / Medium / Hard.
+  // Keyboard (after answering): Enter = next word, P = pronounce, R = toggle repeat.
   useEffect(() => {
     const onKey = e => {
-      if (e.metaKey || e.ctrlKey || e.altKey) return;
-      const mark = LEVELS.find(l => l.key === e.key.toLowerCase());
-      if (s.phase === 'answered' && e.key === 'Enter') {
+      if (s.phase !== 'answered' || e.metaKey || e.ctrlKey || e.altKey) return;
+      const key = e.key.toLowerCase();
+      if (e.key === 'Enter') {
         e.preventDefault();
         next();
-      } else if (e.key.toLowerCase() === 'p' && (s.phase === 'answered' || level === 1)) {
-        // P pronounces the word — in Level 2 only after answering, so it isn't a giveaway.
+      } else if (key === 'p') {
         speak(s.current.word);
-      } else if (s.phase === 'answered' && mark) {
-        const cur = levels[s.current.lower] || null;
-        onSetLevel(s.current, cur === mark.id ? null : mark.id);
-      } else if (s.phase === 'question' && level === 1 && /^[1-9]$/.test(e.key)) {
-        const opt = s.options[Number(e.key) - 1];
-        if (opt) pickMeaning(opt);
+      } else if (key === 'r') {
+        onToggleRepeat(s.current);
       }
     };
     document.addEventListener('keydown', onKey);
@@ -56,11 +44,11 @@ export default function Quiz({ level, setWords, setLabel, words, levels, onSetLe
       <section className="card center">
         <h2>Set cleared! 🎉</h2>
         <p className="muted">
-          You cleared all {s.total} word{s.total === 1 ? '' : 's'} in {setLabel} at Level {level}.
+          You cleared all {s.total} word{s.total === 1 ? '' : 's'} in {setLabel}.
         </p>
         <div className="row">
           <button className="ghost" onClick={onQuit}>Home</button>
-          <button className="primary" autoFocus onClick={() => setS(newSession(setWords, words, level))}>
+          <button className="primary" autoFocus onClick={() => setS(newSession(setWords, words))}>
             Practice again
           </button>
         </div>
@@ -73,7 +61,7 @@ export default function Quiz({ level, setWords, setLabel, words, levels, onSetLe
   return (
     <section>
       <div className="progress-row">
-        <span>Level {level} · {setLabel}</span>
+        <span>Spell the word · {setLabel}</span>
         <span className="muted">{s.cleared} / {s.total} cleared</span>
       </div>
       <div className="bar">
@@ -81,35 +69,15 @@ export default function Quiz({ level, setWords, setLabel, words, levels, onSetLe
       </div>
 
       <div className="card">
-        {level === 1 && <MeaningQuestion s={s} onPick={pickMeaning} />}
-        {level === 2 && (
-          <SpellQuestion
-            key={s.qid}
-            label="Type the word that means…"
-            prompt={<div className="prompt meaning">{s.current.meaning}</div>}
-            answerText={s.current.word}
-            hint={s.current.trick && `💡 ${maskWord(s.current.trick, s.current.word)}`}
-            answered={answered}
-            onSubmit={submitSpelling}
-          />
-        )}
-        {level === 3 && (
-          <SpellQuestion
-            key={s.qid}
-            label="Fill in the blank"
-            prompt={
-              <div className="prompt sentence">
-                {s.cloze.before}
-                <span className={`cloze ${answered ? 'filled' : ''}`}>{answered ? s.cloze.answer : '\u00a0'.repeat(6)}</span>
-                {s.cloze.after}
-              </div>
-            }
-            answerText={s.cloze.answer}
-            hint={`Meaning: ${s.current.meaning}`}
-            answered={answered}
-            onSubmit={submitSpelling}
-          />
-        )}
+        <SpellQuestion
+          key={s.qid}
+          label="Type the word that means…"
+          prompt={<div className="prompt meaning">{s.current.meaning}</div>}
+          answerText={s.current.word}
+          hint={s.current.trick && `💡 ${maskWord(s.current.trick, s.current.word)}`}
+          answered={answered}
+          onSubmit={submitSpelling}
+        />
 
         {answered && (
           <div className={`feedback ${s.result.form ? 'close' : s.result.correct ? 'good' : 'bad'}`}>
@@ -119,19 +87,17 @@ export default function Quiz({ level, setWords, setLabel, words, levels, onSetLe
                 : s.result.correct ? 'Correct!' : 'Not quite — this one will come back.'}
             </div>
             {s.result.form && (
-              <p>
-                You typed <strong>{s.result.typed}</strong> — the exact word {level === 3 ? 'here ' : ''}is{' '}
-                <strong>{level === 3 ? s.cloze.answer : s.current.word}</strong>.
-              </p>
+              <p>You typed <strong>{s.result.typed}</strong> — the exact word is <strong>{s.current.word}</strong>.</p>
             )}
             {!s.result.correct && s.result.typed && (
               <p>You typed <strong>{s.result.typed}</strong></p>
             )}
             <WordDetails word={s.current} />
-            <LevelPicker
-              level={levels[s.current.lower] || null}
-              onChange={lvl => onSetLevel(s.current, lvl)}
-              showKeys
+            <RepeatButton
+              active={!!repeat[s.current.lower]}
+              since={repeat[s.current.lower]}
+              onToggle={() => onToggleRepeat(s.current)}
+              showKey
             />
           </div>
         )}
@@ -145,29 +111,6 @@ export default function Quiz({ level, setWords, setLabel, words, levels, onSetLe
   );
 }
 
-function MeaningQuestion({ s, onPick }) {
-  const answered = s.phase === 'answered';
-  return (
-    <>
-      <div className="muted small">What does this word mean?</div>
-      <div className="prompt word-title">{s.current.word} <SpeakButton text={s.current.word} /></div>
-      <div className="options">
-        {s.options.map((o, i) => {
-          let cls = '';
-          if (answered && o.word === s.current.word) cls = 'correct';
-          else if (answered && o.word === s.result.picked) cls = 'wrong';
-          return (
-            <button key={o.word} type="button" className={cls} disabled={answered} onClick={() => onPick(o)}>
-              {i + 1}. {o.meaning}
-            </button>
-          );
-        })}
-      </div>
-    </>
-  );
-}
-
-// Shared by Level 2 (spell from meaning) and Level 3 (fill in the blank).
 function SpellQuestion({ label, prompt, answerText, hint, answered, onSubmit }) {
   const [typed, setTyped] = useState('');
   const [revealed, setRevealed] = useState(() => new Set());
@@ -175,8 +118,7 @@ function SpellQuestion({ label, prompt, answerText, hint, answered, onSubmit }) 
   const inputRef = useRef(null);
 
   // Two independent hints, used in any order: click a blank to reveal that
-  // letter (all but the last one), or "Show hint" for the text hint
-  // (trick in Level 2, meaning in Level 3).
+  // letter (all but the last one), or "Show hint" for the memory trick.
   const chars = [...answerText];
   const isLetter = ch => ch !== ' ' && ch !== '-';
   const hidden = chars.map((ch, i) => i).filter(i => isLetter(chars[i]) && !revealed.has(i));
