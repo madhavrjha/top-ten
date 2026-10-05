@@ -69,7 +69,8 @@ brought back on request. When the stages arrived, every word was reset to New.
   not in the map are New. Mastered entries also hold `{ step, due, last }`: on becoming Mastered the first
   review is tomorrow; Knew it → next step of `INTERVALS` (1, 3, 7, 14, 30, 60, 120 days); Forgot → step 0
   (tomorrow) but it stays Mastered (the user moves stages themselves). Chosen with `StagePicker`: chips with
-  keys 1–5 in Walk and in Spell after answering, a small dropdown on Browse rows. The old `vocab.repeat`
+  keys 1–5 in Walk and in Spell after answering; on Browse rows a stage pill that opens a small menu
+  (icon + label + hint per stage; the label is hidden on phones). The old `vocab.repeat`
   key is removed on load.
 - **Today** (top of Home, `src/daily.js`, `Today.jsx`, `Walk.jsx`): two daily tasks.
   📖 *Letter of the day* — go through every word of one letter, card by card (word → Space shows meaning →
@@ -93,7 +94,7 @@ brought back on request. When the stages arrived, every word was reset to New.
   `{ <setId>: { remaining: [lower...], cleared } }`) and resumed when the set is reopened; Home shows
   "Resume spelling"; "Start over" resets the set; finishing a set clears its entry.
 - **Browse**: set chips, search by word only, rows collapsed until expanded (meaning, trick,
-  "How to use", examples), 🔊 and a stage dropdown per row, Shuffle / A–Z, pages of 60 rows loaded on scroll.
+  "How to use", examples), 🔊 and a stage pill + menu per row, Shuffle / A–Z, pages of 60 rows loaded on scroll.
 - **Routing** (`src/router.js`, hash-based so GitHub Pages needs no rewrites): `#/`, `#/browse/<set>`,
   `#/spell/<set>`, `#/pick/<set>`, `#/today/letter`, `#/today/review` (<set> = all | new | recognise | recall | pronounce |
   mastered | a | b ...). Browser Back/Forward move between screens; unknown routes redirect home. Set chips
