@@ -1,0 +1,3278 @@
+[
+  {
+    "word": "cackling",
+    "meaning": "Laughing in a loud, harsh way, like a witch; also the sound a hen makes",
+    "trick": "A witch CACKLING over her pot: 'heh-heh-heh!'",
+    "examples": [
+      "The witch was cackling over her cauldron.",
+      "We heard the hens cackling in the yard."
+    ],
+    "usage": {
+      "pos": "verb (-ing) / adjective",
+      "pattern": "be cackling (at/with something)",
+      "partners": [
+        "cackling laughter",
+        "cackling witch",
+        "cackling with glee"
+      ]
+    }
+  },
+  {
+    "word": "cadence",
+    "meaning": "The rise and fall of the voice or a rhythm in speech or music",
+    "trick": "CADENCE: the DANCE of your voice going up and down.",
+    "examples": [
+      "She speaks with a gentle cadence.",
+      "The song has a slow, steady cadence."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the cadence of something",
+      "partners": [
+        "gentle cadence",
+        "cadence of her voice",
+        "steady cadence"
+      ]
+    }
+  },
+  {
+    "word": "cadres",
+    "meaning": "Small groups of trained people who form the core of an organisation, especially a political party",
+    "trick": "CADRES: the core CADRE of a team, the trained insiders.",
+    "examples": [
+      "The party trained new cadres in every village.",
+      "Army cadres led the training."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "party/army cadres",
+      "partners": [
+        "party cadres",
+        "trained cadres",
+        "young cadres"
+      ]
+    }
+  },
+  {
+    "word": "caked",
+    "meaning": "Covered with a thick, dry layer of something like mud or dirt",
+    "trick": "Mud so thick it's like a CAKE on your shoes.",
+    "examples": [
+      "His boots were caked with mud.",
+      "Her face was caked in makeup."
+    ],
+    "usage": {
+      "pos": "adjective / verb (past)",
+      "pattern": "be caked with/in something",
+      "partners": [
+        "caked with mud",
+        "caked in dirt",
+        "caked blood"
+      ]
+    }
+  },
+  {
+    "word": "called out",
+    "meaning": "Criticised someone publicly for doing something wrong (past); also shouted something",
+    "trick": "CALLED them OUT in front of everyone, like a referee calling a foul.",
+    "examples": [
+      "She called him out for lying to the team.",
+      "The teacher called out the names one by one."
+    ],
+    "usage": {
+      "pos": "phrasal verb (past)",
+      "pattern": "call someone out (for something / for doing something)",
+      "partners": [
+        "called him out",
+        "called out for lying",
+        "called out on social media"
+      ]
+    }
+  },
+  {
+    "word": "callous",
+    "meaning": "Not caring about other people's feelings; cruel",
+    "trick": "CALLOUS heart is hard like a CALLUS on your hand.",
+    "examples": [
+      "It was callous of him to laugh at her pain.",
+      "She made a callous remark about the poor."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be callous (to/towards someone) / a callous + noun",
+      "partners": [
+        "callous remark",
+        "callous attitude",
+        "callous disregard"
+      ]
+    }
+  },
+  {
+    "word": "calloused",
+    "meaning": "Having hard, thick skin from rubbing or hard work",
+    "trick": "CALLUSES on your hands = CALLOUSED hands.",
+    "examples": [
+      "The farmer had rough, calloused hands.",
+      "Her feet were calloused from walking barefoot."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "calloused + noun (hands / feet / fingers)",
+      "partners": [
+        "calloused hands",
+        "calloused feet",
+        "calloused fingers"
+      ]
+    }
+  },
+  {
+    "word": "camaraderie",
+    "meaning": "A feeling of friendship and trust among people who spend time together",
+    "trick": "CAMARADERIE: COMRADES sticking together.",
+    "examples": [
+      "There's great camaraderie in our team.",
+      "The soldiers shared a strong camaraderie."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "camaraderie among/between people",
+      "partners": [
+        "sense of camaraderie",
+        "team camaraderie",
+        "strong camaraderie"
+      ]
+    }
+  },
+  {
+    "word": "camo",
+    "meaning": "(Informal) Short for camouflage: clothing with green and brown patterns",
+    "trick": "CAMO = CAMOuflage, army print.",
+    "examples": [
+      "He wore camo pants on the hike.",
+      "She bought a camo jacket."
+    ],
+    "usage": {
+      "pos": "noun / adjective (informal)",
+      "pattern": "camo + noun (pants / jacket)",
+      "partners": [
+        "camo pants",
+        "camo jacket",
+        "wear camo"
+      ]
+    }
+  },
+  {
+    "word": "camouflaged",
+    "meaning": "Hidden by colours or patterns that match the surroundings (past)",
+    "trick": "CAMOUFLAGED: hidden like a soldier in leaves.",
+    "examples": [
+      "The lizard was camouflaged against the rock.",
+      "The tanks were camouflaged with branches."
+    ],
+    "usage": {
+      "pos": "adjective / verb (past)",
+      "pattern": "be camouflaged (against/with something)",
+      "partners": [
+        "well camouflaged",
+        "camouflaged against",
+        "camouflaged with leaves"
+      ]
+    }
+  },
+  {
+    "word": "candor",
+    "meaning": "Being honest and open in what you say",
+    "trick": "CANDOR = CANDID talk: no hiding.",
+    "examples": [
+      "I appreciate your candor.",
+      "She spoke with surprising candor about her mistakes."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "with candor; someone's candor",
+      "partners": [
+        "with candor",
+        "refreshing candor",
+        "complete candor"
+      ]
+    }
+  },
+  {
+    "word": "canister",
+    "meaning": "A round metal container with a lid",
+    "trick": "CANISTER: a CAN with a lid.",
+    "examples": [
+      "Keep the tea in a metal canister.",
+      "The firefighters carried oxygen canisters."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a canister of something",
+      "partners": [
+        "gas canister",
+        "tea canister",
+        "metal canister"
+      ]
+    }
+  },
+  {
+    "word": "cannoli",
+    "meaning": "Italian fried pastry tubes filled with sweet creamy cheese",
+    "trick": "CANNOLI: little CANNONS (tubes) full of cream.",
+    "examples": [
+      "We bought cannoli from the Italian bakery.",
+      "The cannoli were crispy and sweet."
+    ],
+    "usage": {
+      "pos": "noun (plural; singular cannolo)",
+      "pattern": "eat/buy cannoli",
+      "partners": [
+        "Italian cannoli",
+        "fresh cannoli",
+        "chocolate cannoli"
+      ]
+    }
+  },
+  {
+    "word": "canopy",
+    "meaning": "A cover hung over something; also the top layer of branches in a forest",
+    "trick": "CANOPY: the green roof of the forest.",
+    "examples": [
+      "The bed has a white canopy.",
+      "Monkeys live in the forest canopy."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "under the canopy; the canopy of something",
+      "partners": [
+        "forest canopy",
+        "under the canopy",
+        "tree canopy"
+      ]
+    }
+  },
+  {
+    "word": "capricious",
+    "meaning": "Changing mood or behaviour suddenly and without reason",
+    "trick": "CAPRICIOUS like a CAPRI goat jumping in any direction.",
+    "examples": [
+      "The weather here is capricious.",
+      "Her capricious boss changes his mind daily."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be capricious / a capricious + noun",
+      "partners": [
+        "capricious weather",
+        "capricious boss",
+        "capricious nature"
+      ]
+    }
+  },
+  {
+    "word": "capsized",
+    "meaning": "(Of a boat) turned upside down in the water (past)",
+    "trick": "CAP-SIZED: the boat flipped like a CAP turned over.",
+    "examples": [
+      "The boat capsized in the storm.",
+      "Strong waves capsized the canoe."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something capsized; capsize something",
+      "partners": [
+        "boat capsized",
+        "capsized in the storm",
+        "capsized near the shore"
+      ]
+    }
+  },
+  {
+    "word": "carcass",
+    "meaning": "The dead body of an animal",
+    "trick": "CARCASS: a CAR hit it, now it's a dead CASE.",
+    "examples": [
+      "Vultures were eating the carcass.",
+      "The carcass of a deer lay on the road."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the carcass of an animal",
+      "partners": [
+        "animal carcass",
+        "deer carcass",
+        "chicken carcass"
+      ]
+    }
+  },
+  {
+    "word": "carnage",
+    "meaning": "The violent killing of many people",
+    "trick": "CARNAGE: CARNage = flesh (carne) everywhere.",
+    "examples": [
+      "The bomb caused terrible carnage.",
+      "Pictures of the carnage shocked the world."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "cause carnage; scenes of carnage",
+      "partners": [
+        "scenes of carnage",
+        "terrible carnage",
+        "road carnage"
+      ]
+    }
+  },
+  {
+    "word": "carriage",
+    "meaning": "A vehicle pulled by horses; also a train coach",
+    "trick": "CARRIAGE CARRIES people.",
+    "examples": [
+      "The queen rode in a golden carriage.",
+      "Our train carriage was full."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in a carriage; a horse-drawn carriage",
+      "partners": [
+        "horse-drawn carriage",
+        "train carriage",
+        "baby carriage"
+      ]
+    }
+  },
+  {
+    "word": "cartographers",
+    "meaning": "People who make maps",
+    "trick": "CARTO = map (like 'chart') + GRAPH = draw: map drawers.",
+    "examples": [
+      "Old cartographers drew maps by hand.",
+      "Cartographers use satellite photos to make maps today."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "cartographers map/draw something",
+      "partners": [
+        "early cartographers",
+        "skilled cartographers",
+        "map by cartographers"
+      ]
+    }
+  },
+  {
+    "word": "cassette",
+    "meaning": "A small plastic box with tape for recording music or sound (old)",
+    "trick": "CASSETTE: a small CASE of tape.",
+    "examples": [
+      "Dad still has his old music cassettes.",
+      "She recorded the song on a cassette."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "on (a) cassette; play a cassette",
+      "partners": [
+        "cassette tape",
+        "cassette player",
+        "old cassette"
+      ]
+    }
+  },
+  {
+    "word": "catalog",
+    "meaning": "A list or book of items, for example things to buy; also to make such a list",
+    "trick": "CATALOG: a list of everything, even CATS for sale.",
+    "examples": [
+      "I looked through the shopping catalog.",
+      "They catalog every book in the library."
+    ],
+    "usage": {
+      "pos": "noun / verb",
+      "pattern": "a catalog of something; catalog something",
+      "partners": [
+        "online catalog",
+        "shopping catalog",
+        "catalog the books"
+      ]
+    }
+  },
+  {
+    "word": "caterpillar",
+    "meaning": "A small worm-like creature that turns into a butterfly",
+    "trick": "CATERPILLAR: a hairy CAT-like PILLow that crawls.",
+    "examples": [
+      "The caterpillar ate the leaves.",
+      "A caterpillar becomes a butterfly."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a caterpillar turns into a butterfly",
+      "partners": [
+        "hungry caterpillar",
+        "green caterpillar",
+        "caterpillar on a leaf"
+      ]
+    }
+  },
+  {
+    "word": "catharsis",
+    "meaning": "Releasing strong emotions in a way that makes you feel better",
+    "trick": "CATHARSIS: crying it out and feeling clean after.",
+    "examples": [
+      "Writing in her diary was a kind of catharsis.",
+      "The sad film gave me a catharsis."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a (sense of) catharsis",
+      "partners": [
+        "emotional catharsis",
+        "sense of catharsis",
+        "a catharsis"
+      ]
+    }
+  },
+  {
+    "word": "catheter",
+    "meaning": "A thin tube put into the body to remove or add liquids",
+    "trick": "CATHETER: a hospital tube.",
+    "examples": [
+      "The nurse put in a catheter.",
+      "He had a catheter after the operation."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "insert/remove a catheter",
+      "partners": [
+        "urinary catheter",
+        "insert a catheter",
+        "catheter tube"
+      ]
+    }
+  },
+  {
+    "word": "cauldron",
+    "meaning": "A large round metal pot for cooking over a fire",
+    "trick": "A witch's CAULDRON bubbling over the fire.",
+    "examples": [
+      "The witch stirred her cauldron.",
+      "Soup boiled in a big cauldron."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a cauldron of something",
+      "partners": [
+        "witch's cauldron",
+        "bubbling cauldron",
+        "iron cauldron"
+      ]
+    }
+  },
+  {
+    "word": "caved",
+    "meaning": "Fell in or collapsed; also gave in after pressure (past)",
+    "trick": "The CAVE roof CAVED in; you CAVED and said yes.",
+    "examples": [
+      "The roof caved in during the storm.",
+      "He caved and bought her the toy."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "cave in; cave to someone/something",
+      "partners": [
+        "caved in",
+        "caved to pressure",
+        "finally caved"
+      ]
+    }
+  },
+  {
+    "word": "caves",
+    "meaning": "Large natural holes in the side of a hill or under the ground",
+    "trick": "Bats live in CAVES.",
+    "examples": [
+      "We explored the caves near the beach.",
+      "Bats sleep in dark caves."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "in/inside the caves; explore caves",
+      "partners": [
+        "dark caves",
+        "explore caves",
+        "ancient caves"
+      ]
+    }
+  },
+  {
+    "word": "caving",
+    "meaning": "Giving in after pressure; also collapsing; also exploring caves as a hobby",
+    "trick": "CAVE-ing: falling in like a CAVE roof.",
+    "examples": [
+      "Stop caving to every request.",
+      "We went caving in the mountains."
+    ],
+    "usage": {
+      "pos": "verb (-ing) / noun",
+      "pattern": "be caving in; go caving",
+      "partners": [
+        "caving in",
+        "go caving",
+        "caving to pressure"
+      ]
+    }
+  },
+  {
+    "word": "cedar",
+    "meaning": "A tall evergreen tree with sweet-smelling wood",
+    "trick": "CEDAR wood smells sweet in a chest.",
+    "examples": [
+      "The box is made of cedar.",
+      "A tall cedar stood by the house."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "cedar + noun (wood / tree)",
+      "partners": [
+        "cedar tree",
+        "cedar wood",
+        "cedar chest"
+      ]
+    }
+  },
+  {
+    "word": "cement",
+    "meaning": "A grey powder mixed with water and sand to build things; also to make something stronger",
+    "trick": "CEMENT holds bricks together; it can also CEMENT a friendship.",
+    "examples": [
+      "The workers mixed cement for the new wall.",
+      "The trip helped cement their friendship."
+    ],
+    "usage": {
+      "pos": "noun / verb",
+      "pattern": "cement something (a friendship / a place / a deal)",
+      "partners": [
+        "wet cement",
+        "cement a friendship",
+        "cement floor"
+      ]
+    }
+  },
+  {
+    "word": "cemetery",
+    "meaning": "A place where dead people are buried",
+    "trick": "CEMETERY: spelt with three E's: cEmEtEry.",
+    "examples": [
+      "My grandparents are buried in this cemetery.",
+      "We walked past the old cemetery."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in the cemetery",
+      "partners": [
+        "old cemetery",
+        "church cemetery",
+        "visit the cemetery"
+      ]
+    }
+  },
+  {
+    "word": "chafe",
+    "meaning": "To rub and make sore; also to feel annoyed by rules",
+    "trick": "CHAFE: rough cloth rubbing your skin.",
+    "examples": [
+      "These new shoes chafe my feet.",
+      "He began to chafe under the strict rules."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "chafe (something); chafe at/under something",
+      "partners": [
+        "chafe the skin",
+        "chafe at the rules",
+        "chafe under"
+      ]
+    }
+  },
+  {
+    "word": "chafed",
+    "meaning": "Rubbed and made sore; also felt annoyed by limits (past)",
+    "trick": "CHAFED: the skin got rubbed raw.",
+    "examples": [
+      "The strap chafed her shoulder.",
+      "He chafed at being told what to do."
+    ],
+    "usage": {
+      "pos": "verb (past) / adjective",
+      "pattern": "chafed skin; chafe at something",
+      "partners": [
+        "chafed skin",
+        "chafed at the rules",
+        "chafed her neck"
+      ]
+    }
+  },
+  {
+    "word": "chafing",
+    "meaning": "Rubbing that makes skin sore; also being annoyed by limits",
+    "trick": "CHAFING: legs rubbing on a long walk.",
+    "examples": [
+      "Running in wet clothes can cause chafing.",
+      "She was chafing at the slow progress."
+    ],
+    "usage": {
+      "pos": "noun / verb (-ing)",
+      "pattern": "prevent chafing; be chafing at something",
+      "partners": [
+        "prevent chafing",
+        "chafing dish",
+        "chafing at"
+      ]
+    }
+  },
+  {
+    "word": "chalked",
+    "meaning": "Wrote or drew with chalk (past); chalked up = achieved or explained something as caused by",
+    "trick": "CHALKED it on the board.",
+    "examples": [
+      "The kids chalked pictures on the road.",
+      "She chalked up another win."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "chalk something (on something); chalk up something; chalk something up to something",
+      "partners": [
+        "chalked up a win",
+        "chalked it up to luck",
+        "chalked on the wall"
+      ]
+    }
+  },
+  {
+    "word": "channel",
+    "meaning": "A TV station; a passage for water; also to direct energy or feelings into something",
+    "trick": "CHANNEL water into a field, CHANNEL your anger into sport.",
+    "examples": [
+      "Change the channel, this show is boring.",
+      "She channels her stress into running."
+    ],
+    "usage": {
+      "pos": "noun / verb",
+      "pattern": "channel something into something",
+      "partners": [
+        "TV channel",
+        "YouTube channel",
+        "channel your energy"
+      ]
+    }
+  },
+  {
+    "word": "charismatic",
+    "meaning": "Having a strong, attractive personality that makes people like and follow you",
+    "trick": "CHARISMA = charm; CHARISMATIC people CHARM everyone.",
+    "examples": [
+      "Our new manager is very charismatic.",
+      "The charismatic singer had the crowd cheering."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a charismatic + noun (leader / speaker)",
+      "partners": [
+        "charismatic leader",
+        "charismatic personality",
+        "charismatic speaker"
+      ]
+    }
+  },
+  {
+    "word": "chastising",
+    "meaning": "Scolding or criticising someone strongly",
+    "trick": "CHASTISE: CHASE them with angry words.",
+    "examples": [
+      "The teacher was chastising the noisy boys.",
+      "Stop chastising yourself for one mistake."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "chastise someone for something / for doing something",
+      "partners": [
+        "chastising the kids",
+        "chastising himself",
+        "chastising for lateness"
+      ]
+    }
+  },
+  {
+    "word": "chem",
+    "meaning": "(Informal) Short for chemistry, the school subject",
+    "trick": "CHEM = CHEMistry class.",
+    "examples": [
+      "I have a chem test tomorrow.",
+      "Our chem teacher is very strict."
+    ],
+    "usage": {
+      "pos": "noun (informal)",
+      "pattern": "chem + noun (class / test / lab)",
+      "partners": [
+        "chem class",
+        "chem lab",
+        "chem test"
+      ]
+    }
+  },
+  {
+    "word": "chip away at",
+    "meaning": "To slowly make something smaller or weaker, a little bit at a time",
+    "trick": "Like a sculptor CHIPPING AWAY AT stone, one little piece at a time.",
+    "examples": [
+      "I'm chipping away at my homework a bit every day.",
+      "Small lies chip away at trust."
+    ],
+    "usage": {
+      "pos": "phrasal verb",
+      "pattern": "chip away at something",
+      "partners": [
+        "chip away at the debt",
+        "chip away at trust",
+        "chip away at the work"
+      ]
+    }
+  },
+  {
+    "word": "chiseled",
+    "meaning": "Having sharp, strong features as if carved; also cut with a chisel (past)",
+    "trick": "CHISELED like a statue carved with a CHISEL.",
+    "examples": [
+      "The actor has a chiseled jaw.",
+      "He chiseled his name into the wood."
+    ],
+    "usage": {
+      "pos": "adjective / verb (past)",
+      "pattern": "a chiseled + noun (jaw / face); chisel something into something",
+      "partners": [
+        "chiseled jaw",
+        "chiseled features",
+        "chiseled abs"
+      ]
+    }
+  },
+  {
+    "word": "choked",
+    "meaning": "Couldn't breathe because something blocked the throat; also failed under pressure (past)",
+    "trick": "CHOKED: the throat closed up, or you froze in the big moment.",
+    "examples": [
+      "He choked on a fish bone.",
+      "The player choked in the final."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "choke on something; choke (under pressure)",
+      "partners": [
+        "choked on food",
+        "choked up",
+        "choked under pressure"
+      ]
+    }
+  },
+  {
+    "word": "choked on",
+    "meaning": "Couldn't breathe because something was stuck in the throat (past)",
+    "trick": "CHOKED ON food: it got stuck and you couldn't breathe.",
+    "examples": [
+      "The baby choked on a small piece of apple.",
+      "He choked on his coffee when he heard the news."
+    ],
+    "usage": {
+      "pos": "phrasal verb (past)",
+      "pattern": "choke on something",
+      "partners": [
+        "choked on food",
+        "choked on a bone",
+        "choked on his drink"
+      ]
+    }
+  },
+  {
+    "word": "chore",
+    "meaning": "A boring job you have to do regularly, like housework",
+    "trick": "CHORE: CHOre = a job you do but don't enjoy.",
+    "examples": [
+      "Washing the dishes is my least favourite chore.",
+      "Kids should help with chores."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "do the chores; a chore",
+      "partners": [
+        "household chores",
+        "do chores",
+        "daily chores"
+      ]
+    }
+  },
+  {
+    "word": "chosen",
+    "meaning": "Picked from a group (past participle of choose)",
+    "trick": "CHOOSE → CHOSE → CHOSEN.",
+    "examples": [
+      "She was chosen as the team captain.",
+      "Have you chosen a dress for the party?"
+    ],
+    "usage": {
+      "pos": "verb (past participle) / adjective",
+      "pattern": "be chosen (as/for something); have chosen something",
+      "partners": [
+        "chosen as captain",
+        "the chosen one",
+        "carefully chosen"
+      ]
+    }
+  },
+  {
+    "word": "chow",
+    "meaning": "(Informal) Food; chow down = eat a lot",
+    "trick": "CHOW sounds like CHOW mein: food!",
+    "examples": [
+      "Let's get some chow.",
+      "The kids chowed down on pizza."
+    ],
+    "usage": {
+      "pos": "noun / verb (informal)",
+      "pattern": "chow down (on something)",
+      "partners": [
+        "chow down",
+        "get some chow",
+        "dog chow"
+      ]
+    }
+  },
+  {
+    "word": "chuckle",
+    "meaning": "A quiet, soft laugh; also to laugh quietly",
+    "trick": "CHUCKLE: a small 'chuck-chuck' laugh.",
+    "examples": [
+      "He gave a little chuckle at the joke.",
+      "She chuckled while reading the message."
+    ],
+    "usage": {
+      "pos": "noun / verb",
+      "pattern": "chuckle at/about something; give a chuckle",
+      "partners": [
+        "little chuckle",
+        "chuckle to yourself",
+        "chuckle at a joke"
+      ]
+    }
+  },
+  {
+    "word": "churned",
+    "meaning": "Moved or stirred violently; also (stomach) felt sick from nerves (past)",
+    "trick": "Butter is CHURNED by stirring hard.",
+    "examples": [
+      "The sea churned in the storm.",
+      "My stomach churned before the exam."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something churned; churn out something",
+      "partners": [
+        "sea churned",
+        "stomach churned",
+        "churned out"
+      ]
+    }
+  },
+  {
+    "word": "chute",
+    "meaning": "A slide or tube for sending things down; also short for parachute",
+    "trick": "CHUTE: things SHOOT down it.",
+    "examples": [
+      "Throw the rubbish down the chute.",
+      "The kids slid down the water chute."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a chute (for something); down the chute",
+      "partners": [
+        "rubbish chute",
+        "water chute",
+        "laundry chute"
+      ]
+    }
+  },
+  {
+    "word": "chutes",
+    "meaning": "Slides or tubes for sending things down (plural); also parachutes",
+    "trick": "One CHUTE, two CHUTES: Snakes and Ladders = Chutes and Ladders.",
+    "examples": [
+      "The water park has three big chutes.",
+      "We played Chutes and Ladders."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "chutes for something",
+      "partners": [
+        "water chutes",
+        "Chutes and Ladders",
+        "rubbish chutes"
+      ]
+    }
+  },
+  {
+    "word": "cinched",
+    "meaning": "Tightened something like a belt around the waist; also made sure of something (past)",
+    "trick": "CINCHED the belt: tight and SECURE (a cinch).",
+    "examples": [
+      "She cinched her coat with a belt.",
+      "That goal cinched the win."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "cinch something (in); cinch a win/deal",
+      "partners": [
+        "cinched the belt",
+        "cinched the deal",
+        "cinched at the waist"
+      ]
+    }
+  },
+  {
+    "word": "cinderblock",
+    "meaning": "A large grey building block made of concrete and ashes",
+    "trick": "CINDER (ashes) + BLOCK.",
+    "examples": [
+      "The garage has cinderblock walls.",
+      "He used a cinderblock to hold the door open."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "cinderblock + noun (wall / building)",
+      "partners": [
+        "cinderblock wall",
+        "cinderblock building",
+        "grey cinderblock"
+      ]
+    }
+  },
+  {
+    "word": "circuitous",
+    "meaning": "Long and indirect; not going the straight way",
+    "trick": "Like a CIRCUIT: you go round and round instead of straight.",
+    "examples": [
+      "We took a circuitous route to avoid traffic.",
+      "He gave a circuitous answer instead of saying no."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a circuitous + noun (route / path / way)",
+      "partners": [
+        "circuitous route",
+        "circuitous path",
+        "circuitous answer"
+      ]
+    }
+  },
+  {
+    "word": "circumstances",
+    "meaning": "The facts or conditions that affect a situation",
+    "trick": "CIRCUM = around: things AROUND a situation.",
+    "examples": [
+      "Under these circumstances, we should wait.",
+      "She lost her job due to circumstances beyond her control."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "under/in the circumstances; under no circumstances",
+      "partners": [
+        "under the circumstances",
+        "under no circumstances",
+        "difficult circumstances"
+      ]
+    }
+  },
+  {
+    "word": "clamored",
+    "meaning": "Shouted or demanded something loudly together (past)",
+    "trick": "CLAMOR = loud CLAMOUR of a crowd.",
+    "examples": [
+      "The fans clamored for an autograph.",
+      "The children clamored to see the puppy."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "clamor for something / to do something",
+      "partners": [
+        "clamored for attention",
+        "clamored to see",
+        "clamored for more"
+      ]
+    }
+  },
+  {
+    "word": "clandestine",
+    "meaning": "Done secretly, often because it is not allowed",
+    "trick": "CLANDESTINE: a CLAN meeting in secret.",
+    "examples": [
+      "They had a clandestine meeting at night.",
+      "The spy ran a clandestine operation."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a clandestine + noun (meeting / affair / operation)",
+      "partners": [
+        "clandestine meeting",
+        "clandestine affair",
+        "clandestine operation"
+      ]
+    }
+  },
+  {
+    "word": "clang",
+    "meaning": "A loud ringing sound of metal hitting metal",
+    "trick": "CLANG! A pot dropped on the floor.",
+    "examples": [
+      "The gate shut with a loud clang.",
+      "The pans clanged in the kitchen."
+    ],
+    "usage": {
+      "pos": "noun / verb",
+      "pattern": "with a clang; something clangs",
+      "partners": [
+        "loud clang",
+        "clang shut",
+        "clang of metal"
+      ]
+    }
+  },
+  {
+    "word": "claustrophobic",
+    "meaning": "Afraid of small closed spaces; also (of a place) small and crowded",
+    "trick": "CLAUSTRO = closed (like CLOSET) + PHOBIC = afraid.",
+    "examples": [
+      "I feel claustrophobic in lifts.",
+      "The tiny room was claustrophobic."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "feel claustrophobic; a claustrophobic + noun",
+      "partners": [
+        "feel claustrophobic",
+        "claustrophobic room",
+        "claustrophobic space"
+      ]
+    }
+  },
+  {
+    "word": "clearance",
+    "meaning": "Official permission; also the removal of things; also the space above or around something",
+    "trick": "CLEARANCE: you're CLEARED to go.",
+    "examples": [
+      "The plane got clearance to land.",
+      "Everything is half price in the clearance sale."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "get clearance (to do something); clearance sale",
+      "partners": [
+        "security clearance",
+        "clearance sale",
+        "get clearance"
+      ]
+    }
+  },
+  {
+    "word": "cleft",
+    "meaning": "A split or opening in something, like a cleft chin",
+    "trick": "CLEFT = CLEFT apart, a split.",
+    "examples": [
+      "He has a cleft in his chin.",
+      "Water ran through a cleft in the rock."
+    ],
+    "usage": {
+      "pos": "noun / adjective",
+      "pattern": "a cleft in something",
+      "partners": [
+        "cleft chin",
+        "cleft lip",
+        "cleft in the rock"
+      ]
+    }
+  },
+  {
+    "word": "clerical",
+    "meaning": "Related to office work like typing and filing; also related to priests",
+    "trick": "CLERK + ical: CLERK work in an office.",
+    "examples": [
+      "She has a clerical job at the bank.",
+      "It was just a clerical error in the form."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "clerical + noun (work / job / error)",
+      "partners": [
+        "clerical work",
+        "clerical error",
+        "clerical staff"
+      ]
+    }
+  },
+  {
+    "word": "clientele",
+    "meaning": "All the customers of a shop, hotel or business",
+    "trick": "CLIENT-ELE: all the CLIENTS together.",
+    "examples": [
+      "The café has a young clientele.",
+      "The hotel's clientele is mostly tourists."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a (wealthy/young) clientele",
+      "partners": [
+        "loyal clientele",
+        "wealthy clientele",
+        "young clientele"
+      ]
+    }
+  },
+  {
+    "word": "cling",
+    "meaning": "To hold on tightly; also to stay close or attached",
+    "trick": "CLING like CLING film sticking to a bowl.",
+    "examples": [
+      "The baby monkey clings to its mother.",
+      "Don't cling to the past."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "cling (on) to someone/something",
+      "partners": [
+        "cling to hope",
+        "cling to the past",
+        "cling tightly"
+      ]
+    }
+  },
+  {
+    "word": "clocking",
+    "meaning": "Measuring time or speed; clocking in = recording when you start work; also (informal) noticing",
+    "trick": "CLOCKING: putting time on the CLOCK.",
+    "examples": [
+      "The car was clocking 120 km/h.",
+      "Workers are clocking in for the morning shift."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "clock in/out; clock up something; clock someone/something",
+      "partners": [
+        "clocking in",
+        "clocking up miles",
+        "clocking 100 km/h"
+      ]
+    }
+  },
+  {
+    "word": "clog",
+    "meaning": "To block something so nothing can pass; also a wooden shoe",
+    "trick": "CLOG the drain with hair.",
+    "examples": [
+      "Don't pour oil down the sink, it will clog the pipe.",
+      "She wore wooden clogs in the garden."
+    ],
+    "usage": {
+      "pos": "verb / noun",
+      "pattern": "clog (up) something",
+      "partners": [
+        "clog the drain",
+        "clog up the roads",
+        "wooden clogs"
+      ]
+    }
+  },
+  {
+    "word": "clogged",
+    "meaning": "Blocked so that nothing can pass",
+    "trick": "CLOGGED drain: water won't go down.",
+    "examples": [
+      "The sink is clogged again.",
+      "The roads were clogged with traffic."
+    ],
+    "usage": {
+      "pos": "adjective / verb (past)",
+      "pattern": "be clogged (up) with something",
+      "partners": [
+        "clogged drain",
+        "clogged arteries",
+        "clogged with traffic"
+      ]
+    }
+  },
+  {
+    "word": "clogging",
+    "meaning": "Blocking something so nothing can move through",
+    "trick": "CLOG-ging: hair is CLOGGING the drain.",
+    "examples": [
+      "Leaves are clogging the gutter.",
+      "Cars were clogging the street."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "be clogging (up) something",
+      "partners": [
+        "clogging the drain",
+        "clogging the roads",
+        "clogging up"
+      ]
+    }
+  },
+  {
+    "word": "clown",
+    "meaning": "A performer with a painted face who does funny things; also a silly person",
+    "trick": "The CLOWN at the circus with a red nose.",
+    "examples": [
+      "The kids laughed at the clown.",
+      "Stop acting like a clown in class."
+    ],
+    "usage": {
+      "pos": "noun / verb",
+      "pattern": "clown around; act like a clown",
+      "partners": [
+        "circus clown",
+        "class clown",
+        "clown around"
+      ]
+    }
+  },
+  {
+    "word": "clunky",
+    "meaning": "Heavy, awkward and old-fashioned; also badly done",
+    "trick": "CLUNKY: it goes CLUNK when you move it.",
+    "examples": [
+      "He still uses a clunky old laptop.",
+      "The website is slow and clunky."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a clunky + noun",
+      "partners": [
+        "clunky shoes",
+        "clunky design",
+        "clunky old phone"
+      ]
+    }
+  },
+  {
+    "word": "clutched",
+    "meaning": "Held something tightly, often because of fear or worry (past)",
+    "trick": "CLUTCHED like holding on to a CLUTCH bag tightly.",
+    "examples": [
+      "She clutched her bag on the crowded train.",
+      "He clutched his chest in pain."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "clutch something; clutch at something",
+      "partners": [
+        "clutched her bag",
+        "clutched his hand",
+        "clutched at straws"
+      ]
+    }
+  },
+  {
+    "word": "clutching",
+    "meaning": "Holding something tightly",
+    "trick": "CLUTCHING: hands squeezed tight around it.",
+    "examples": [
+      "The child was clutching her teddy bear.",
+      "He walked in clutching a bunch of flowers."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "be clutching something; clutch at something",
+      "partners": [
+        "clutching her bag",
+        "clutching a toy",
+        "clutching at straws"
+      ]
+    }
+  },
+  {
+    "word": "coagulating",
+    "meaning": "Turning from liquid into a thick, semi-solid form (like blood clotting)",
+    "trick": "CO-AG-ULATING: liquid GLUING together into lumps.",
+    "examples": [
+      "The blood was coagulating around the cut.",
+      "The milk is coagulating because it's gone bad."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "something is coagulating",
+      "partners": [
+        "blood coagulating",
+        "coagulating milk",
+        "coagulating sauce"
+      ]
+    }
+  },
+  {
+    "word": "coast",
+    "meaning": "The land next to the sea; also to move easily without effort",
+    "trick": "COAST: drive along the COAST, or COAST downhill without pedalling.",
+    "examples": [
+      "We drove along the coast.",
+      "He's just coasting through school."
+    ],
+    "usage": {
+      "pos": "noun / verb",
+      "pattern": "on/along the coast; coast (along/through something)",
+      "partners": [
+        "east coast",
+        "along the coast",
+        "coast through"
+      ]
+    }
+  },
+  {
+    "word": "cockpit",
+    "meaning": "The area where the pilot sits in a plane or racing car",
+    "trick": "COCKPIT: the pilot's seat at the front.",
+    "examples": [
+      "The pilot sat in the cockpit.",
+      "Kids could visit the cockpit after landing."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in the cockpit",
+      "partners": [
+        "in the cockpit",
+        "cockpit door",
+        "cockpit crew"
+      ]
+    }
+  },
+  {
+    "word": "cocktail",
+    "meaning": "A mixed alcoholic drink; also a mixture of different things",
+    "trick": "A COCKTAIL mixes many drinks, like a rooster's colourful tail.",
+    "examples": [
+      "She ordered a fruit cocktail.",
+      "The medicine is a cocktail of drugs."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a cocktail of something",
+      "partners": [
+        "cocktail party",
+        "fruit cocktail",
+        "deadly cocktail"
+      ]
+    }
+  },
+  {
+    "word": "cocky",
+    "meaning": "(Informal) Too confident in an annoying way",
+    "trick": "COCKY like a proud rooster (cock) strutting around.",
+    "examples": [
+      "Don't get cocky just because you won once.",
+      "The cocky player lost the match."
+    ],
+    "usage": {
+      "pos": "adjective (informal)",
+      "pattern": "be/get cocky",
+      "partners": [
+        "get cocky",
+        "cocky attitude",
+        "a bit cocky"
+      ]
+    }
+  },
+  {
+    "word": "coddles",
+    "meaning": "Treats someone too gently and protectively",
+    "trick": "CODDLES = CUDDLES too much.",
+    "examples": [
+      "She coddles her son like a baby.",
+      "The coach never coddles his players."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "coddle someone",
+      "partners": [
+        "coddles her children",
+        "coddles the team",
+        "stop coddling"
+      ]
+    }
+  },
+  {
+    "word": "cogent",
+    "meaning": "Clear, logical and convincing",
+    "trick": "COGENT: the argument has all its COGS working.",
+    "examples": [
+      "She made a cogent argument for the plan.",
+      "He gave a cogent reason for being late."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a cogent + noun (argument / reason / case)",
+      "partners": [
+        "cogent argument",
+        "cogent reason",
+        "cogent case"
+      ]
+    }
+  },
+  {
+    "word": "cognitive",
+    "meaning": "Related to thinking, learning and understanding",
+    "trick": "COGNITIVE = COG-nitive: the brain's COGS turning.",
+    "examples": [
+      "Puzzles improve cognitive skills.",
+      "Sleep is important for cognitive health."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "cognitive + noun (skills / ability / development)",
+      "partners": [
+        "cognitive skills",
+        "cognitive ability",
+        "cognitive development"
+      ]
+    }
+  },
+  {
+    "word": "cohere",
+    "meaning": "To fit together well as a clear whole; also to stick together",
+    "trick": "COHERE = CO + HERE: everything fits HERE together.",
+    "examples": [
+      "The ideas in your essay don't cohere.",
+      "The team began to cohere after a few weeks."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "something coheres (into something)",
+      "partners": [
+        "ideas cohere",
+        "cohere into a whole",
+        "fail to cohere"
+      ]
+    }
+  },
+  {
+    "word": "colon",
+    "meaning": "The punctuation mark (:); also the main part of the large intestine",
+    "trick": "COLON: two dots, one on top of the other.",
+    "examples": [
+      "Use a colon before a list.",
+      "The doctor checked his colon."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "use a colon; the colon (body part)",
+      "partners": [
+        "use a colon",
+        "colon cancer",
+        "semicolon"
+      ]
+    }
+  },
+  {
+    "word": "combative",
+    "meaning": "Ready and eager to fight or argue",
+    "trick": "COMBAT-ive: always ready for COMBAT.",
+    "examples": [
+      "He gets combative when he's tired.",
+      "She has a combative style in debates."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be combative / a combative + noun",
+      "partners": [
+        "combative mood",
+        "combative style",
+        "combative tone"
+      ]
+    }
+  },
+  {
+    "word": "comets",
+    "meaning": "Bright objects in space with long glowing tails (plural)",
+    "trick": "COMETS COME with a tail of light.",
+    "examples": [
+      "We watched comets through the telescope.",
+      "Comets have long, bright tails."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "comets + verb (pass / appear)",
+      "partners": [
+        "bright comets",
+        "comets and asteroids",
+        "tail of comets"
+      ]
+    }
+  },
+  {
+    "word": "commandeer",
+    "meaning": "To take something for your own use by force or authority",
+    "trick": "COMMANDEER: COMMAND it to be yours.",
+    "examples": [
+      "The police commandeered a car to chase the thief.",
+      "My brother commandeered the TV remote."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "commandeer something",
+      "partners": [
+        "commandeer a vehicle",
+        "commandeer the remote",
+        "commandeer a ship"
+      ]
+    }
+  },
+  {
+    "word": "commandments",
+    "meaning": "Rules that must be obeyed, especially the Ten Commandments in the Bible",
+    "trick": "COMMANDS from God: the Ten COMMANDMENTS.",
+    "examples": [
+      "Moses received the Ten Commandments.",
+      "My mom has her own commandments for the house."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "the Ten Commandments; obey/follow the commandments",
+      "partners": [
+        "Ten Commandments",
+        "follow the commandments",
+        "break the commandments"
+      ]
+    }
+  },
+  {
+    "word": "commend",
+    "meaning": "To praise someone formally; also to recommend",
+    "trick": "COMMEND sounds like reCOMMEND: speak well of someone.",
+    "examples": [
+      "The teacher commended her for her hard work.",
+      "I commend your honesty."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "commend someone for something / for doing something",
+      "partners": [
+        "commend for bravery",
+        "highly commend",
+        "commend your effort"
+      ]
+    }
+  },
+  {
+    "word": "commune",
+    "meaning": "A group of people living together and sharing everything; also to feel close to (commune with nature)",
+    "trick": "COMMUNE = COMMUNity living together.",
+    "examples": [
+      "They lived in a commune in the hills.",
+      "He goes hiking to commune with nature."
+    ],
+    "usage": {
+      "pos": "noun / verb",
+      "pattern": "live in a commune; commune with something",
+      "partners": [
+        "live in a commune",
+        "commune with nature",
+        "hippie commune"
+      ]
+    }
+  },
+  {
+    "word": "compartmentalize",
+    "meaning": "To separate things into parts; also to keep thoughts or feelings separate",
+    "trick": "COMPARTMENT-alize: put each thing in its own COMPARTMENT.",
+    "examples": [
+      "She can compartmentalize work and home life.",
+      "Try to compartmentalize your worries."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "compartmentalize something",
+      "partners": [
+        "compartmentalize feelings",
+        "compartmentalize work",
+        "learn to compartmentalize"
+      ]
+    }
+  },
+  {
+    "word": "complacency",
+    "meaning": "Feeling too pleased with yourself so you stop trying",
+    "trick": "COMPLACENCY: being in a COMfy PLACE and getting lazy.",
+    "examples": [
+      "Complacency can lose you the match.",
+      "There's no room for complacency at work."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "complacency about something",
+      "partners": [
+        "no room for complacency",
+        "dangerous complacency",
+        "guard against complacency"
+      ]
+    }
+  },
+  {
+    "word": "composed",
+    "meaning": "Calm and in control of your feelings; also written or made up of (past)",
+    "trick": "COMPOSED: all your pieces are in place, so you stay calm.",
+    "examples": [
+      "She stayed composed during the interview.",
+      "The team is composed of five players."
+    ],
+    "usage": {
+      "pos": "adjective / verb (past)",
+      "pattern": "stay composed; be composed of something",
+      "partners": [
+        "calm and composed",
+        "composed of",
+        "composed a song"
+      ]
+    }
+  },
+  {
+    "word": "compulsive",
+    "meaning": "Unable to stop doing something; also very interesting (compulsive viewing)",
+    "trick": "COMPULSIVE: you feel COMPELLED to do it.",
+    "examples": [
+      "He's a compulsive liar.",
+      "The show was compulsive viewing."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a compulsive + noun (liar / gambler / eater)",
+      "partners": [
+        "compulsive liar",
+        "compulsive gambler",
+        "compulsive habit"
+      ]
+    }
+  },
+  {
+    "word": "concede",
+    "meaning": "To admit that something is true, often unwillingly; also to give up",
+    "trick": "CONCEDE = give in, like conceding a goal.",
+    "examples": [
+      "He finally conceded that he was wrong.",
+      "The team conceded two goals."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "concede that ...; concede something (a goal / defeat)",
+      "partners": [
+        "concede defeat",
+        "concede a goal",
+        "reluctantly concede"
+      ]
+    }
+  },
+  {
+    "word": "conceivable",
+    "meaning": "Possible to imagine or believe",
+    "trick": "CONCEIVE an idea = CONCEIVABLE: you can imagine it.",
+    "examples": [
+      "It's conceivable that he forgot.",
+      "We tried every conceivable way."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "it is conceivable that ...; every conceivable + noun",
+      "partners": [
+        "every conceivable way",
+        "quite conceivable",
+        "hardly conceivable"
+      ]
+    }
+  },
+  {
+    "word": "concert",
+    "meaning": "A live music performance",
+    "trick": "CONCERT: everyone sings in CONCERT (together).",
+    "examples": [
+      "We went to a rock concert.",
+      "The concert starts at seven."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "go to a concert; at a concert",
+      "partners": [
+        "live concert",
+        "rock concert",
+        "concert tickets"
+      ]
+    }
+  },
+  {
+    "word": "concocted",
+    "meaning": "Made up a story or excuse; also mixed something new from different things (past)",
+    "trick": "CONCOCTED: COOKED up an excuse.",
+    "examples": [
+      "He concocted a story about a lost bus.",
+      "She concocted a drink from fruit and mint."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "concoct something (a story / a plan / a dish)",
+      "partners": [
+        "concocted a story",
+        "concocted a plan",
+        "concocted an excuse"
+      ]
+    }
+  },
+  {
+    "word": "concussion",
+    "meaning": "A head injury that makes you confused or unconscious for a while",
+    "trick": "CONCUSSION: a CRUSH to the head.",
+    "examples": [
+      "He got a concussion playing football.",
+      "Rest is important after a concussion."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "have/get/suffer a concussion",
+      "partners": [
+        "mild concussion",
+        "suffer a concussion",
+        "signs of concussion"
+      ]
+    }
+  },
+  {
+    "word": "condescending",
+    "meaning": "Acting as if you are better or smarter than others",
+    "trick": "CONDESCENDING: looking DOWN (descending) on people.",
+    "examples": [
+      "I hate his condescending tone.",
+      "She was condescending to the new staff."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be condescending (to/towards someone)",
+      "partners": [
+        "condescending tone",
+        "condescending smile",
+        "condescending attitude"
+      ]
+    }
+  },
+  {
+    "word": "condolences",
+    "meaning": "Words of sympathy for someone whose loved one has died",
+    "trick": "CONDOLENCES = CON (with) + DOLE (sorrow): sharing their sorrow.",
+    "examples": [
+      "Please accept my condolences.",
+      "We sent our condolences to the family."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "offer/send/express (your) condolences (to someone)",
+      "partners": [
+        "my condolences",
+        "send condolences",
+        "deepest condolences"
+      ]
+    }
+  },
+  {
+    "word": "confide",
+    "meaning": "To tell someone a secret or private feelings because you trust them",
+    "trick": "CONFIDE: tell someone you have CONFIDENCE in.",
+    "examples": [
+      "She confided in her best friend.",
+      "He confided that he was scared."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "confide in someone; confide (to someone) that ...",
+      "partners": [
+        "confide in someone",
+        "confide a secret",
+        "confided that"
+      ]
+    }
+  },
+  {
+    "word": "confine",
+    "meaning": "To keep someone or something within limits or in a small space",
+    "trick": "CON-FINE: kept inside FINE borders.",
+    "examples": [
+      "Please confine your answer to 100 words.",
+      "The sick dog was confined to the house."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "confine someone/something to something; be confined to something",
+      "partners": [
+        "confined to bed",
+        "confine yourself to",
+        "confined space"
+      ]
+    }
+  },
+  {
+    "word": "confrontation",
+    "meaning": "An angry argument or fight between people or groups",
+    "trick": "CONFRONT = face someone; a CONFRONTATION is face-to-face fighting.",
+    "examples": [
+      "He wanted to avoid a confrontation with his boss.",
+      "There was a confrontation between police and protesters."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a confrontation with/between someone",
+      "partners": [
+        "avoid confrontation",
+        "direct confrontation",
+        "confrontation with"
+      ]
+    }
+  },
+  {
+    "word": "congealing",
+    "meaning": "Becoming thick or solid as it cools, like fat or blood",
+    "trick": "CONGEALING: CON + GEL: turning into jelly.",
+    "examples": [
+      "The fat was congealing in the pan.",
+      "Her blood was congealing around the cut."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "something is congealing",
+      "partners": [
+        "congealing fat",
+        "congealing blood",
+        "congealing gravy"
+      ]
+    }
+  },
+  {
+    "word": "congestion",
+    "meaning": "Too much traffic or too many people; also a blocked nose or chest",
+    "trick": "CONGESTION: everything is JAMMED in.",
+    "examples": [
+      "There's heavy congestion on the highway.",
+      "This medicine helps with nasal congestion."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "traffic/nasal congestion",
+      "partners": [
+        "traffic congestion",
+        "nasal congestion",
+        "heavy congestion"
+      ]
+    }
+  },
+  {
+    "word": "congregation",
+    "meaning": "A group of people gathered for worship in a church",
+    "trick": "CONGREGATE = gather; the CONGREGATION gathers in church.",
+    "examples": [
+      "The priest spoke to the congregation.",
+      "The whole congregation sang together."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the congregation (of a church)",
+      "partners": [
+        "church congregation",
+        "the whole congregation",
+        "large congregation"
+      ]
+    }
+  },
+  {
+    "word": "conjure",
+    "meaning": "To make something appear as if by magic; also to bring a picture to mind",
+    "trick": "A magician CONJURES a rabbit from a hat.",
+    "examples": [
+      "The magician conjured a rabbit out of his hat.",
+      "The song conjures memories of summer."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "conjure something (up); conjure up an image/memory",
+      "partners": [
+        "conjure up",
+        "conjure an image",
+        "conjure a meal"
+      ]
+    }
+  },
+  {
+    "word": "conjured",
+    "meaning": "Made something appear as if by magic; also brought to mind (past)",
+    "trick": "CONJURED: like a magic trick.",
+    "examples": [
+      "She conjured a meal from leftovers.",
+      "The smell conjured up childhood memories."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "conjure something (up)",
+      "partners": [
+        "conjured up memories",
+        "conjured a plan",
+        "conjured out of thin air"
+      ]
+    }
+  },
+  {
+    "word": "consensus",
+    "meaning": "General agreement among a group",
+    "trick": "CONSENSUS: everyone's SENSE is the same.",
+    "examples": [
+      "The team reached a consensus.",
+      "There is no consensus on the plan."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "reach a consensus (on something)",
+      "partners": [
+        "reach a consensus",
+        "general consensus",
+        "consensus on"
+      ]
+    }
+  },
+  {
+    "word": "consoled",
+    "meaning": "Comforted someone who was sad (past)",
+    "trick": "CONSOLED: like a game CONSOLE cheers up a sad kid.",
+    "examples": [
+      "She consoled her crying friend.",
+      "He consoled himself with ice cream."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "console someone; console yourself with something",
+      "partners": [
+        "consoled her friend",
+        "consoled himself",
+        "consoled the family"
+      ]
+    }
+  },
+  {
+    "word": "constipated",
+    "meaning": "Having difficulty emptying your bowels",
+    "trick": "CONSTIPATED: things are STUCK.",
+    "examples": [
+      "Eat more fibre if you feel constipated.",
+      "The baby was constipated for two days."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be/feel constipated",
+      "partners": [
+        "feel constipated",
+        "badly constipated",
+        "constipated baby"
+      ]
+    }
+  },
+  {
+    "word": "constructive",
+    "meaning": "Helpful and useful, meant to improve something",
+    "trick": "CONSTRUCT = build; CONSTRUCTIVE feedback helps you build better.",
+    "examples": [
+      "Thanks for the constructive feedback.",
+      "Let's have a constructive discussion."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "constructive + noun (criticism / feedback)",
+      "partners": [
+        "constructive criticism",
+        "constructive feedback",
+        "constructive talk"
+      ]
+    }
+  },
+  {
+    "word": "construe",
+    "meaning": "To understand or explain words or actions in a particular way",
+    "trick": "CONSTRUE: how you CONSTRUCT the meaning in your head.",
+    "examples": [
+      "His silence was construed as agreement.",
+      "Don't construe my advice as criticism."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "construe something as something",
+      "partners": [
+        "construed as",
+        "wrongly construe",
+        "construe the meaning"
+      ]
+    }
+  },
+  {
+    "word": "contagious",
+    "meaning": "Spreading from one person to another, like a disease or a feeling",
+    "trick": "CONTAGIOUS: it spreads by CONTACT.",
+    "examples": [
+      "Flu is very contagious.",
+      "Her laugh is so contagious!"
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be contagious",
+      "partners": [
+        "contagious disease",
+        "contagious laugh",
+        "highly contagious"
+      ]
+    }
+  },
+  {
+    "word": "contemplate",
+    "meaning": "To think deeply about something for a long time; also to consider doing something",
+    "trick": "CONTEMPLATE: sit in a TEMPLE and think.",
+    "examples": [
+      "He sat by the lake to contemplate life.",
+      "She is contemplating a move to Delhi."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "contemplate something / doing something",
+      "partners": [
+        "contemplate the future",
+        "contemplate moving",
+        "contemplate life"
+      ]
+    }
+  },
+  {
+    "word": "contempt",
+    "meaning": "A feeling that someone or something is worthless or doesn't deserve respect",
+    "trick": "CONTEMPT: you look at it with a CON-TEMPTed sneer.",
+    "examples": [
+      "She looked at him with contempt.",
+      "He has contempt for lazy people."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "contempt for someone/something; with contempt",
+      "partners": [
+        "with contempt",
+        "contempt for",
+        "contempt of court"
+      ]
+    }
+  },
+  {
+    "word": "contend",
+    "meaning": "To compete for something; also to argue that something is true; contend with = deal with a problem",
+    "trick": "CONTEND: CONTEST + DEFEND.",
+    "examples": [
+      "Four teams contend for the cup.",
+      "We have to contend with heavy traffic."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "contend for something; contend with something; contend that ...",
+      "partners": [
+        "contend with problems",
+        "contend for the title",
+        "contend that"
+      ]
+    }
+  },
+  {
+    "word": "contention",
+    "meaning": "A disagreement or argument; also an opinion someone argues for",
+    "trick": "CONTENTION: the point of CONTEST.",
+    "examples": [
+      "Money is a point of contention between them.",
+      "Our team is in contention for the trophy."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a point/bone of contention; in contention (for something)",
+      "partners": [
+        "bone of contention",
+        "in contention",
+        "point of contention"
+      ]
+    }
+  },
+  {
+    "word": "contingencies",
+    "meaning": "Possible future events you plan for in case they happen",
+    "trick": "CONTINGENCIES: plans that CONTINue if things go wrong.",
+    "examples": [
+      "We have money saved for contingencies.",
+      "The plan covers all contingencies."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "plan for contingencies",
+      "partners": [
+        "plan for contingencies",
+        "all contingencies",
+        "contingency plan"
+      ]
+    }
+  },
+  {
+    "word": "contracted",
+    "meaning": "Caught a disease; also became smaller; also made a legal agreement (past)",
+    "trick": "CONTRACT a disease, a muscle CONTRACTS, sign a CONTRACT.",
+    "examples": [
+      "He contracted malaria on his trip.",
+      "The metal contracted in the cold."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "contract a disease; something contracted; be contracted to do something",
+      "partners": [
+        "contracted a disease",
+        "muscles contracted",
+        "contracted to build"
+      ]
+    }
+  },
+  {
+    "word": "contrary",
+    "meaning": "Opposite; also (of a person) liking to disagree",
+    "trick": "CONTRA = against: the CONTRARY is the opposite.",
+    "examples": [
+      "On the contrary, I loved the film.",
+      "Contrary to what you think, I'm not angry."
+    ],
+    "usage": {
+      "pos": "adjective / noun",
+      "pattern": "contrary to something; on the contrary",
+      "partners": [
+        "on the contrary",
+        "contrary to popular belief",
+        "contrary opinion"
+      ]
+    }
+  },
+  {
+    "word": "convalescing",
+    "meaning": "Getting better slowly after an illness",
+    "trick": "CONVALESCING: in a VALLEY of rest, healing slowly.",
+    "examples": [
+      "He is convalescing at home after surgery.",
+      "She spent a month convalescing by the sea."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "be convalescing (at/from something)",
+      "partners": [
+        "convalescing at home",
+        "convalescing from illness",
+        "slowly convalescing"
+      ]
+    }
+  },
+  {
+    "word": "converged",
+    "meaning": "Came together from different directions to meet at one point (past)",
+    "trick": "CON-VERGE: all lines move to the same VERGE (edge/point).",
+    "examples": [
+      "The two roads converged near the river.",
+      "Thousands of fans converged on the stadium."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "converge on/at somewhere",
+      "partners": [
+        "converged on the city",
+        "roads converged",
+        "views converged"
+      ]
+    }
+  },
+  {
+    "word": "conviction",
+    "meaning": "A strong belief; also a court decision that someone is guilty",
+    "trick": "CONVICTION: you're CONVINCED; a CONVICT has a conviction.",
+    "examples": [
+      "She spoke with great conviction.",
+      "He has a previous conviction for theft."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "with conviction; a conviction for something",
+      "partners": [
+        "with conviction",
+        "strong conviction",
+        "criminal conviction"
+      ]
+    }
+  },
+  {
+    "word": "corn",
+    "meaning": "A tall plant with yellow seeds that we eat; also the seeds themselves",
+    "trick": "CORN on the cob, popcorn!",
+    "examples": [
+      "We ate grilled corn by the beach.",
+      "Popcorn is made from corn."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "corn + noun (field / flour)",
+      "partners": [
+        "sweet corn",
+        "corn on the cob",
+        "corn field"
+      ]
+    }
+  },
+  {
+    "word": "cornerstone",
+    "meaning": "The most important part that everything else is based on; also a stone at the corner of a building",
+    "trick": "The CORNER STONE holds up the whole building.",
+    "examples": [
+      "Trust is the cornerstone of a good friendship.",
+      "Education is the cornerstone of success."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the cornerstone of something",
+      "partners": [
+        "cornerstone of success",
+        "cornerstone of democracy",
+        "lay the cornerstone"
+      ]
+    }
+  },
+  {
+    "word": "corralled",
+    "meaning": "Gathered people or animals together into one place (past)",
+    "trick": "A CORRAL is a pen; CORRALLED = rounded up into it.",
+    "examples": [
+      "The teacher corralled the kids into the bus.",
+      "The cowboys corralled the horses."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "corral someone/something (into somewhere)",
+      "partners": [
+        "corralled the kids",
+        "corralled the cattle",
+        "corralled into a room"
+      ]
+    }
+  },
+  {
+    "word": "corridors",
+    "meaning": "Long passages in a building with doors to rooms (plural)",
+    "trick": "CORRIDORS: long halls you RUN down.",
+    "examples": [
+      "The hospital corridors were quiet.",
+      "Don't run in the school corridors."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "in/along the corridors",
+      "partners": [
+        "long corridors",
+        "school corridors",
+        "down the corridors"
+      ]
+    }
+  },
+  {
+    "word": "corroded",
+    "meaning": "Slowly damaged or worn away, especially by rust or chemicals (past)",
+    "trick": "CORRODED: the metal was eaten by ROT and rust.",
+    "examples": [
+      "The old pipes were corroded with rust.",
+      "Lies slowly corroded their trust."
+    ],
+    "usage": {
+      "pos": "verb (past) / adjective",
+      "pattern": "be corroded (by something)",
+      "partners": [
+        "corroded pipes",
+        "corroded metal",
+        "badly corroded"
+      ]
+    }
+  },
+  {
+    "word": "cortisol",
+    "meaning": "A hormone the body releases when you are stressed",
+    "trick": "CORTISOL: the stress hormone that puts your body on ALERT.",
+    "examples": [
+      "Stress raises cortisol levels.",
+      "Sleep helps lower cortisol."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "cortisol levels",
+      "partners": [
+        "cortisol levels",
+        "stress hormone cortisol",
+        "high cortisol"
+      ]
+    }
+  },
+  {
+    "word": "cosign",
+    "meaning": "To sign a document together with someone, promising to pay if they don't",
+    "trick": "CO-SIGN: sign it TOGETHER.",
+    "examples": [
+      "My dad had to cosign my car loan.",
+      "Will you cosign the lease with me?"
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "cosign something (a loan / a lease)",
+      "partners": [
+        "cosign a loan",
+        "cosign the lease",
+        "cosign for someone"
+      ]
+    }
+  },
+  {
+    "word": "couched",
+    "meaning": "Expressed in a particular way or style (past); also lying down (old)",
+    "trick": "COUCHED: wrapped words in soft COUCH cushions.",
+    "examples": [
+      "The warning was couched in polite language.",
+      "His request was couched as a joke."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "be couched in something (language / terms)",
+      "partners": [
+        "couched in terms",
+        "couched in polite language",
+        "carefully couched"
+      ]
+    }
+  },
+  {
+    "word": "counteract",
+    "meaning": "To reduce or stop the effect of something by doing the opposite",
+    "trick": "COUNTER-ACT: ACT against it.",
+    "examples": [
+      "Drink water to counteract the heat.",
+      "The medicine counteracts the poison."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "counteract something (the effect of something)",
+      "partners": [
+        "counteract the effects",
+        "counteract stress",
+        "counteract the poison"
+      ]
+    }
+  },
+  {
+    "word": "counterintuitive",
+    "meaning": "Different from what you would naturally expect",
+    "trick": "COUNTER (against) + INTUITIVE (your gut feeling): against your gut.",
+    "examples": [
+      "It sounds counterintuitive, but resting makes you faster.",
+      "The answer to the puzzle was counterintuitive."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "it is counterintuitive (that/to ...)",
+      "partners": [
+        "counterintuitive idea",
+        "counterintuitive result",
+        "seems counterintuitive"
+      ]
+    }
+  },
+  {
+    "word": "coursing",
+    "meaning": "Flowing quickly (of a liquid or feeling)",
+    "trick": "Like a river running its COURSE fast.",
+    "examples": [
+      "Tears were coursing down her cheeks.",
+      "He felt the energy coursing through his body."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "coursing through/down something",
+      "partners": [
+        "coursing through his veins",
+        "coursing down her face",
+        "adrenaline coursing"
+      ]
+    }
+  },
+  {
+    "word": "coveted",
+    "meaning": "Wanted very much, especially something that belongs to someone else (past / adjective)",
+    "trick": "COVETED: you want it so much you'd COVER it with your hands.",
+    "examples": [
+      "She won the coveted award.",
+      "He coveted his neighbour's car."
+    ],
+    "usage": {
+      "pos": "adjective / verb (past)",
+      "pattern": "a coveted + noun; covet something",
+      "partners": [
+        "coveted award",
+        "coveted prize",
+        "highly coveted"
+      ]
+    }
+  },
+  {
+    "word": "cower",
+    "meaning": "To bend down or move back because you are afraid",
+    "trick": "COWER like a scared COW hiding.",
+    "examples": [
+      "The dog cowered in the corner during the storm.",
+      "Don't cower, stand up for yourself."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "cower (in fear / behind something)",
+      "partners": [
+        "cower in fear",
+        "cower behind",
+        "cower in the corner"
+      ]
+    }
+  },
+  {
+    "word": "cracked",
+    "meaning": "Broken with lines on the surface but not in pieces; also solved; also (informal) crazy (past)",
+    "trick": "CRACKED: the phone screen has lines on it.",
+    "examples": [
+      "My phone screen is cracked.",
+      "The police cracked the case."
+    ],
+    "usage": {
+      "pos": "verb (past) / adjective",
+      "pattern": "crack something; crack a joke/code",
+      "partners": [
+        "cracked screen",
+        "cracked the code",
+        "cracked a joke"
+      ]
+    }
+  },
+  {
+    "word": "crackled",
+    "meaning": "Made a series of short, sharp popping sounds, like a fire (past)",
+    "trick": "CRACK-CRACK: the fire CRACKLED.",
+    "examples": [
+      "The fire crackled in the fireplace.",
+      "The radio crackled and went silent."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something crackled (with something)",
+      "partners": [
+        "the fire crackled",
+        "crackled with energy",
+        "radio crackled"
+      ]
+    }
+  },
+  {
+    "word": "cradling",
+    "meaning": "Holding gently and carefully in your arms",
+    "trick": "Like rocking a baby in a CRADLE.",
+    "examples": [
+      "She was cradling the baby in her arms.",
+      "He sat cradling a cup of hot tea."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "cradle someone/something (in your arms)",
+      "partners": [
+        "cradling a baby",
+        "cradling her head",
+        "cradling a cup"
+      ]
+    }
+  },
+  {
+    "word": "cramming",
+    "meaning": "Studying a lot in a very short time; also pushing too many things into a space",
+    "trick": "CRAMMING: stuffing your brain like a full suitcase.",
+    "examples": [
+      "She's cramming for her exam tomorrow.",
+      "He was cramming clothes into his bag."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "cram for something; cram something into something",
+      "partners": [
+        "cramming for exams",
+        "cramming into",
+        "last-minute cramming"
+      ]
+    }
+  },
+  {
+    "word": "crampons",
+    "meaning": "Metal spikes fixed to boots for walking on ice or snow",
+    "trick": "CRAMPONS: CRAMP your boots onto the ice.",
+    "examples": [
+      "Climbers wear crampons on icy mountains.",
+      "He tied the crampons to his boots."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "wear/strap on crampons",
+      "partners": [
+        "wear crampons",
+        "ice crampons",
+        "strap on crampons"
+      ]
+    }
+  },
+  {
+    "word": "craned",
+    "meaning": "Stretched your neck to see something better (past)",
+    "trick": "Like a CRANE bird stretching its long neck.",
+    "examples": [
+      "She craned her neck to see the stage.",
+      "People craned to see the singer."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "crane your neck (to see something)",
+      "partners": [
+        "craned her neck",
+        "craned to see",
+        "craned forward"
+      ]
+    }
+  },
+  {
+    "word": "crappy",
+    "meaning": "(Informal, a bit rude) Of very bad quality",
+    "trick": "CRAP-py: as bad as rubbish.",
+    "examples": [
+      "I had a crappy day at work.",
+      "This crappy phone keeps breaking."
+    ],
+    "usage": {
+      "pos": "adjective (informal, slightly rude)",
+      "pattern": "a crappy + noun",
+      "partners": [
+        "crappy day",
+        "crappy job",
+        "crappy weather"
+      ]
+    }
+  },
+  {
+    "word": "crease",
+    "meaning": "A line made by folding or crushing paper or cloth; also to make such a line",
+    "trick": "CREASE: the line when you fold a shirt.",
+    "examples": [
+      "Iron out the creases in your shirt.",
+      "Don't crease the letter."
+    ],
+    "usage": {
+      "pos": "noun / verb",
+      "pattern": "a crease in something; crease something",
+      "partners": [
+        "crease in the shirt",
+        "iron out creases",
+        "sharp crease"
+      ]
+    }
+  },
+  {
+    "word": "creed",
+    "meaning": "A set of beliefs, especially religious",
+    "trick": "CREED: what you believe and NEED to follow.",
+    "examples": [
+      "People of every creed are welcome.",
+      "Honesty is his creed."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "race, colour or creed; someone's creed",
+      "partners": [
+        "religious creed",
+        "race or creed",
+        "personal creed"
+      ]
+    }
+  },
+  {
+    "word": "creeks",
+    "meaning": "Small streams or narrow rivers (plural)",
+    "trick": "CREEKS: little streams that CREAK over stones.",
+    "examples": [
+      "The kids played in the creeks behind the farm.",
+      "Creeks run down the hill after rain."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "in/by the creeks",
+      "partners": [
+        "small creeks",
+        "mountain creeks",
+        "along the creeks"
+      ]
+    }
+  },
+  {
+    "word": "crept",
+    "meaning": "Moved slowly and quietly (past of creep)",
+    "trick": "CREEP → CREPT, like SLEEP → SLEPT.",
+    "examples": [
+      "She crept into the room so she wouldn't wake him.",
+      "Doubt crept into his mind."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "creep in/into/up somewhere",
+      "partners": [
+        "crept in",
+        "crept up on",
+        "crept into the room"
+      ]
+    }
+  },
+  {
+    "word": "crescendo",
+    "meaning": "A gradual increase in loudness; also the loudest or most intense point",
+    "trick": "CRESCENDO: the music climbs up to the top.",
+    "examples": [
+      "The music rose to a crescendo.",
+      "The cheers reached a crescendo."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "reach/rise to a crescendo",
+      "partners": [
+        "reach a crescendo",
+        "rise to a crescendo",
+        "crescendo of noise"
+      ]
+    }
+  },
+  {
+    "word": "crest",
+    "meaning": "The top of a hill or wave; also a family or school symbol",
+    "trick": "CREST: the top of the wave, like a bird's head crest.",
+    "examples": [
+      "We stopped at the crest of the hill.",
+      "The school crest is on our blazer."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the crest of something; on the crest of a wave",
+      "partners": [
+        "crest of the hill",
+        "school crest",
+        "on the crest of a wave"
+      ]
+    }
+  },
+  {
+    "word": "crested",
+    "meaning": "Reached the top of a hill or wave (past); also having a crest (like a crested bird)",
+    "trick": "CRESTED: got to the top CREST.",
+    "examples": [
+      "We crested the hill and saw the sea.",
+      "The crested bird had bright feathers."
+    ],
+    "usage": {
+      "pos": "verb (past) / adjective",
+      "pattern": "crest a hill/wave",
+      "partners": [
+        "crested the hill",
+        "crested the wave",
+        "crested bird"
+      ]
+    }
+  },
+  {
+    "word": "crinkle",
+    "meaning": "A small fold or wrinkle; also to form small folds or wrinkles",
+    "trick": "CRINKLE: the crunchy sound of wrapping paper.",
+    "examples": [
+      "Her eyes crinkle when she smiles.",
+      "He heard the crinkle of a chip packet."
+    ],
+    "usage": {
+      "pos": "verb / noun",
+      "pattern": "crinkle (up); a crinkle in something",
+      "partners": [
+        "eyes crinkle",
+        "crinkle of paper",
+        "crinkle cut"
+      ]
+    }
+  },
+  {
+    "word": "cripples",
+    "meaning": "Damages something or someone so badly it can't work properly; also (offensive, old) people who can't walk well",
+    "trick": "CRIPPLES: breaks the legs of a plan.",
+    "examples": [
+      "The strike cripples the city's transport.",
+      "High prices cripple small businesses."
+    ],
+    "usage": {
+      "pos": "verb / noun (plural, offensive when used about people)",
+      "pattern": "something cripples someone/something",
+      "partners": [
+        "cripples the economy",
+        "crippled by debt",
+        "cripples business"
+      ]
+    }
+  },
+  {
+    "word": "crisis",
+    "meaning": "A time of great danger, difficulty or confusion",
+    "trick": "CRISIS: things are CRASHING.",
+    "examples": [
+      "The country is facing an economic crisis.",
+      "Stay calm in a crisis."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in a crisis; a crisis of something",
+      "partners": [
+        "economic crisis",
+        "in crisis",
+        "midlife crisis"
+      ]
+    }
+  },
+  {
+    "word": "crisp",
+    "meaning": "Hard, dry and easily broken (food); also fresh and cool (air); also clear and neat",
+    "trick": "CRISP like a fresh potato CRISP.",
+    "examples": [
+      "The apple was crisp and sweet.",
+      "It was a crisp, cold morning."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "crisp + noun (air / apple / shirt)",
+      "partners": [
+        "crisp air",
+        "crisp apple",
+        "crisp white shirt"
+      ]
+    }
+  },
+  {
+    "word": "crotch",
+    "meaning": "The part of the body or trousers between the legs",
+    "trick": "CROTCH: where your trouser legs meet.",
+    "examples": [
+      "His jeans ripped at the crotch.",
+      "The ball hit him in the crotch."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in/at the crotch",
+      "partners": [
+        "torn crotch",
+        "crotch of the jeans",
+        "hit in the crotch"
+      ]
+    }
+  },
+  {
+    "word": "crouch",
+    "meaning": "To bend your knees and lower your body close to the ground",
+    "trick": "CROUCH: like a cat getting low, ready to pounce.",
+    "examples": [
+      "Crouch down so they can't see you.",
+      "He crouched behind the car."
+    ],
+    "usage": {
+      "pos": "verb / noun",
+      "pattern": "crouch (down) behind/beside something",
+      "partners": [
+        "crouch down",
+        "crouch behind",
+        "in a crouch"
+      ]
+    }
+  },
+  {
+    "word": "crouching",
+    "meaning": "Bending the knees to get low to the ground",
+    "trick": "CROUCHING like a tiger hiding in the grass.",
+    "examples": [
+      "The cat was crouching behind the sofa.",
+      "He was crouching to tie his shoes."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "be crouching (down/behind something)",
+      "partners": [
+        "crouching down",
+        "crouching behind",
+        "crouching tiger"
+      ]
+    }
+  },
+  {
+    "word": "crowned",
+    "meaning": "Officially made king or queen; also named the best (past)",
+    "trick": "CROWNED: a CROWN was put on her head.",
+    "examples": [
+      "She was crowned queen in 1953.",
+      "He was crowned the champion."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "be crowned (king/queen/champion)",
+      "partners": [
+        "crowned king",
+        "crowned champion",
+        "crowned the winner"
+      ]
+    }
+  },
+  {
+    "word": "crucible",
+    "meaning": "A pot for melting metals; also a difficult test that changes you",
+    "trick": "CRUCIBLE: a pot where things melt and change, like a hard test.",
+    "examples": [
+      "The metal was melted in a crucible.",
+      "The war was the crucible of his character."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the crucible of something",
+      "partners": [
+        "crucible of change",
+        "in the crucible",
+        "melting crucible"
+      ]
+    }
+  },
+  {
+    "word": "crumb",
+    "meaning": "A very small piece of bread or cake; also a tiny amount",
+    "trick": "CRUMB: a tiny bit left from a CRUMBLY biscuit.",
+    "examples": [
+      "There were crumbs all over the table.",
+      "He didn't leave a crumb on his plate."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a crumb of something",
+      "partners": [
+        "bread crumbs",
+        "crumb of comfort",
+        "not a crumb"
+      ]
+    }
+  },
+  {
+    "word": "crumble",
+    "meaning": "To break into small pieces; also to fall apart slowly",
+    "trick": "CRUMBLE: biscuits fall into CRUMBS.",
+    "examples": [
+      "The old wall began to crumble.",
+      "Their marriage started to crumble."
+    ],
+    "usage": {
+      "pos": "verb / noun",
+      "pattern": "crumble (into/away); something crumbles",
+      "partners": [
+        "crumble into pieces",
+        "crumble away",
+        "apple crumble"
+      ]
+    }
+  },
+  {
+    "word": "crumpled",
+    "meaning": "Crushed into untidy folds; also fell down suddenly (past)",
+    "trick": "CRUMPLED like a paper ball in your hand.",
+    "examples": [
+      "He threw away the crumpled paper.",
+      "She crumpled to the floor in shock."
+    ],
+    "usage": {
+      "pos": "adjective / verb (past)",
+      "pattern": "crumple something (up); crumple to the floor",
+      "partners": [
+        "crumpled paper",
+        "crumpled shirt",
+        "crumpled to the ground"
+      ]
+    }
+  },
+  {
+    "word": "crutch",
+    "meaning": "A stick that fits under your arm to help you walk; also something you depend on too much",
+    "trick": "CRUTCH: you lean on it when your leg hurts.",
+    "examples": [
+      "He walked with a crutch after the accident.",
+      "Coffee became her crutch."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "walk with a crutch; use something as a crutch",
+      "partners": [
+        "on a crutch",
+        "use as a crutch",
+        "emotional crutch"
+      ]
+    }
+  },
+  {
+    "word": "crutches",
+    "meaning": "A pair of sticks that fit under your arms to help you walk",
+    "trick": "One CRUTCH, two CRUTCHES: for a broken leg.",
+    "examples": [
+      "She's on crutches after breaking her leg.",
+      "He walked slowly on his crutches."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "be on crutches; walk on crutches",
+      "partners": [
+        "on crutches",
+        "pair of crutches",
+        "walk with crutches"
+      ]
+    }
+  },
+  {
+    "word": "crystallized",
+    "meaning": "Became clear and definite; also formed crystals (past)",
+    "trick": "CRYSTALLIZED: ideas became clear as CRYSTAL.",
+    "examples": [
+      "Her plans crystallized after the trip.",
+      "The honey crystallized in the cold."
+    ],
+    "usage": {
+      "pos": "verb (past) / adjective",
+      "pattern": "something crystallized (into something)",
+      "partners": [
+        "crystallized sugar",
+        "ideas crystallized",
+        "crystallized honey"
+      ]
+    }
+  },
+  {
+    "word": "cucumber",
+    "meaning": "A long, green vegetable eaten raw in salads",
+    "trick": "CUCUMBER: cool as a CUCUMBER.",
+    "examples": [
+      "She added cucumber to the salad.",
+      "He stayed as cool as a cucumber."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "slice a cucumber; cool as a cucumber",
+      "partners": [
+        "cucumber salad",
+        "sliced cucumber",
+        "cool as a cucumber"
+      ]
+    }
+  },
+  {
+    "word": "cue",
+    "meaning": "A signal for someone to do something; also the stick used in snooker and pool",
+    "trick": "CUE = a Queue signal: 'your turn now'.",
+    "examples": [
+      "When the music stops, that's your cue to enter.",
+      "He picked up the cue and hit the ball."
+    ],
+    "usage": {
+      "pos": "noun / verb",
+      "pattern": "on cue; take your cue from someone",
+      "partners": [
+        "right on cue",
+        "take your cue",
+        "pool cue"
+      ]
+    }
+  },
+  {
+    "word": "cuff",
+    "meaning": "The end part of a sleeve near the wrist; also a light hit with the hand",
+    "trick": "CUFF: the end of your sleeve with a button.",
+    "examples": [
+      "There's a stain on your shirt cuff.",
+      "She gave him a cuff on the head."
+    ],
+    "usage": {
+      "pos": "noun / verb",
+      "pattern": "off the cuff (= without preparing)",
+      "partners": [
+        "shirt cuff",
+        "off the cuff",
+        "cuff link"
+      ]
+    }
+  },
+  {
+    "word": "cuffs",
+    "meaning": "Sleeve ends near the wrist; also (informal) handcuffs",
+    "trick": "CUFFS: sleeve ends, or police HANDCUFFS.",
+    "examples": [
+      "Roll up your cuffs before washing.",
+      "The police put him in cuffs."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "in cuffs; roll up your cuffs",
+      "partners": [
+        "shirt cuffs",
+        "in cuffs",
+        "roll up the cuffs"
+      ]
+    }
+  },
+  {
+    "word": "culminated",
+    "meaning": "Reached the final or highest point after a long process (past)",
+    "trick": "CULMINATED: reached the summit, the very top.",
+    "examples": [
+      "Years of practice culminated in a gold medal.",
+      "The festival culminated with fireworks."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "culminate in/with something",
+      "partners": [
+        "culminated in",
+        "culminated with",
+        "culminated in victory"
+      ]
+    }
+  },
+  {
+    "word": "cultivation",
+    "meaning": "Growing crops or plants; also developing a skill or quality",
+    "trick": "CULTIVATE the land, CULTIVATION of crops.",
+    "examples": [
+      "The cultivation of rice needs lots of water.",
+      "Reading helps the cultivation of the mind."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the cultivation of something",
+      "partners": [
+        "rice cultivation",
+        "land under cultivation",
+        "cultivation of skills"
+      ]
+    }
+  },
+  {
+    "word": "cumulative",
+    "meaning": "Increasing step by step as more is added",
+    "trick": "CUMULATIVE: it ACCUMULATES.",
+    "examples": [
+      "The cumulative effect of stress is harmful.",
+      "Your cumulative score is 85."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "cumulative + noun (effect / total / score)",
+      "partners": [
+        "cumulative effect",
+        "cumulative total",
+        "cumulative score"
+      ]
+    }
+  },
+  {
+    "word": "curb",
+    "meaning": "To control or limit something; also the edge of a pavement (US spelling of kerb)",
+    "trick": "CURB your temper, like a CURB stops the car.",
+    "examples": [
+      "We need to curb our spending.",
+      "He parked close to the curb."
+    ],
+    "usage": {
+      "pos": "verb / noun",
+      "pattern": "curb something; on the curb",
+      "partners": [
+        "curb spending",
+        "curb your temper",
+        "on the curb"
+      ]
+    }
+  },
+  {
+    "word": "curfew",
+    "meaning": "A rule that people must be home or indoors by a certain time",
+    "trick": "CURFEW: a CURE for late nights.",
+    "examples": [
+      "My curfew is 10 p.m.",
+      "The city set a curfew after the riots."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a curfew (of a time); break curfew",
+      "partners": [
+        "10 p.m. curfew",
+        "break curfew",
+        "impose a curfew"
+      ]
+    }
+  },
+  {
+    "word": "curlicues",
+    "meaning": "Decorative curls or twists in writing or design (plural)",
+    "trick": "CURLI-CUES: little CURLS.",
+    "examples": [
+      "Her handwriting has pretty curlicues.",
+      "The gate had iron curlicues."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "curlicues in/on something",
+      "partners": [
+        "decorative curlicues",
+        "fancy curlicues",
+        "iron curlicues"
+      ]
+    }
+  },
+  {
+    "word": "curriculum",
+    "meaning": "The subjects taught in a school or course",
+    "trick": "CURRICULUM: the race COURSE of school subjects.",
+    "examples": [
+      "Maths is part of the school curriculum.",
+      "The new curriculum includes coding."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "on/in the curriculum",
+      "partners": [
+        "school curriculum",
+        "national curriculum",
+        "new curriculum"
+      ]
+    }
+  },
+  {
+    "word": "cursive",
+    "meaning": "Handwriting where the letters are joined together",
+    "trick": "CURSIVE: letters RUN together (like 'course').",
+    "examples": [
+      "Kids learn to write in cursive.",
+      "Her cursive is beautiful."
+    ],
+    "usage": {
+      "pos": "noun / adjective",
+      "pattern": "write in cursive",
+      "partners": [
+        "write in cursive",
+        "cursive writing",
+        "neat cursive"
+      ]
+    }
+  },
+  {
+    "word": "cushion",
+    "meaning": "A soft pillow for a chair or sofa; also something that reduces a shock",
+    "trick": "CUSHION: a soft pillow on the sofa.",
+    "examples": [
+      "Put a cushion behind your back.",
+      "Savings give you a cushion in hard times."
+    ],
+    "usage": {
+      "pos": "noun / verb",
+      "pattern": "a cushion against something; cushion the blow/fall",
+      "partners": [
+        "sofa cushion",
+        "cushion the blow",
+        "financial cushion"
+      ]
+    }
+  },
+  {
+    "word": "cushions",
+    "meaning": "Soft pillows for chairs or sofas (plural)",
+    "trick": "One CUSHION, many CUSHIONS on the sofa.",
+    "examples": [
+      "The sofa has lots of soft cushions.",
+      "She threw the cushions on the floor."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "sofa/floor cushions",
+      "partners": [
+        "sofa cushions",
+        "soft cushions",
+        "floor cushions"
+      ]
+    }
+  },
+  {
+    "word": "cusp",
+    "meaning": "The point where one thing is about to change into another",
+    "trick": "On the CUSP: at the edge, about to tip over.",
+    "examples": [
+      "She is on the cusp of a big career.",
+      "We're on the cusp of winter."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "on the cusp of something",
+      "partners": [
+        "on the cusp of",
+        "on the cusp of success",
+        "cusp of change"
+      ]
+    }
+  },
+  {
+    "word": "cutout",
+    "meaning": "A shape cut out of paper or card; also a device that stops a machine",
+    "trick": "CUT-OUT: CUT it OUT of paper.",
+    "examples": [
+      "The kids made paper cutouts of stars.",
+      "There was a cardboard cutout of the actor."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a cutout of something",
+      "partners": [
+        "paper cutout",
+        "cardboard cutout",
+        "cutout shape"
+      ]
+    }
+  },
+  {
+    "word": "cyborg",
+    "meaning": "A creature that is part human and part machine (science fiction)",
+    "trick": "CYBORG = CYBernetic ORGanism: half human, half robot.",
+    "examples": [
+      "The film is about a cyborg from the future.",
+      "He dressed as a cyborg for the party."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a cyborg + noun",
+      "partners": [
+        "cyborg soldier",
+        "half cyborg",
+        "cyborg film"
+      ]
+    }
+  }
+]
