@@ -25,6 +25,7 @@ export function prepareWords(list, frequency = {}) {
       return {
         word,
         meaning,
+        hindi: (w.hindi || '').trim(),
         trick: (w.trick || '').trim(),
         examples: Array.isArray(w.examples) ? w.examples : [],
         usage: w.usage && w.usage.pattern ? {

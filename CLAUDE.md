@@ -18,7 +18,7 @@ just `Word`, or WhatsApp lines with timestamps (`[7:33 pm, 3/10/2026] Madhav: ..
 5. Score how common the new words are: `.venv/bin/python scripts/frequency.py` (rewrites
    `src/frequency.json`). One-time setup if `.venv` is missing: `python3 -m venv .venv && .venv/bin/pip install wordfreq`
    (the system Python refuses global pip installs).
-6. Validate: every entry has `word`, `meaning`, `trick`, exactly 2 `examples`, and `usage`; each
+6. Validate: every entry has `word`, `meaning`, `hindi`, `trick`, exactly 2 `examples`, and `usage`; each
    example should contain the word (or a form of it); JSON parses;
    `npx vite build --logLevel error` succeeds.
 7. Do NOT commit/push until the user says so ("commit and push" is the usual phrase).
@@ -28,6 +28,7 @@ just `Word`, or WhatsApp lines with timestamps (`[7:33 pm, 3/10/2026] Madhav: ..
 {
   "word": "ephemeral",
   "meaning": "Lasting for a very short time",
+  "hindi": "क्षणिक, अल्पकालिक",
   "trick": "A memorable mnemonic",
   "examples": ["Example sentence one.", "Example sentence two."],
   "usage": {
@@ -39,6 +40,9 @@ just `Word`, or WhatsApp lines with timestamps (`[7:33 pm, 3/10/2026] Madhav: ..
 ```
 - **meaning**: short, plain, dictionary-style. Don't include the word itself. If the user's note is
   blank or cut off, write it. Fix factual slips (e.g. "artery = vein" → correct meaning, keep "vein" in the trick).
+- **hindi**: short Hindi meaning in **Devanagari** (user's choice, not Hinglish), 1–4 everyday words separated by
+  ", "; match the form (past "समाप्त किया", plural, adjective); a second sense after ";". Informal → "(बोलचाल)",
+  rude → "(अशिष्ट)"; things with no Hindi word get a short description. Shown as "हिंदी:" under the meaning.
 - **trick**: keep the user's own mnemonic (even Hinglish, e.g. "sabki sahmati se", "Andrew tate - hair cut").
   If none given, write a short, memorable one (sound-alikes, word roots, spelling hooks).
 - **examples**: exactly 2, **easy everyday sentences** (the user asked for easy ones). If the user gave a
@@ -47,7 +51,7 @@ just `Word`, or WhatsApp lines with timestamps (`[7:33 pm, 3/10/2026] Madhav: ..
   `pos` = word type matching the form as written ("verb (past)", "noun (plural)", "adjective (slang)");
   `pattern` = grammar frame with someone/something/doing placeholders ("abstain from something /
   from doing something", "bear the brunt of something"); `partners` = 2–3 common collocations.
-  Key order in the file: word, meaning, trick, examples, usage.
+  Key order in the file: word, meaning, hindi, trick, examples, usage.
 - Different forms are separate entries (abolish / abolished, astonished / astonishing / astonishment).
   A phrase that is just the usual use of a word gets merged (e.g. "brink" + "brink of" → one "brink").
   Multi-word phrases are fine ("akin to", "with one accord" → goes in `w.json` by first letter).

@@ -6,6 +6,7 @@ export default function WordDetails({ word, showTitle = true }) {
     <div className="details">
       {showTitle && <h3 className="word-title">{word.word} <SpeakButton text={word.word} /></h3>}
       <p><span className="label">Meaning:</span> {word.meaning} <RarityBadge word={word} /></p>
+      {word.hindi && <p className="hindi" lang="hi"><span className="label">हिंदी:</span> {word.hindi}</p>}
       {word.trick && <p><span className="label">Trick:</span> {word.trick}</p>}
       {word.usage && (
         <div className="usage">

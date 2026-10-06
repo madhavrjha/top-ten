@@ -2,6 +2,7 @@
   {
     "word": "cackling",
     "meaning": "Laughing in a loud, harsh way, like a witch; also the sound a hen makes",
+    "hindi": "कर्कश हँसी हँसते हुए; मुर्गी का कुड़कुड़ाना",
     "trick": "A witch CACKLING over her pot: 'heh-heh-heh!'",
     "examples": [
       "The witch was cackling over her cauldron.",
@@ -20,6 +21,7 @@
   {
     "word": "cadence",
     "meaning": "The rise and fall of the voice or a rhythm in speech or music",
+    "hindi": "स्वर का उतार-चढ़ाव, लय",
     "trick": "CADENCE: the DANCE of your voice going up and down.",
     "examples": [
       "She speaks with a gentle cadence.",
@@ -38,6 +40,7 @@
   {
     "word": "cadres",
     "meaning": "Small groups of trained people who form the core of an organisation, especially a political party",
+    "hindi": "प्रशिक्षित कार्यकर्ता, कैडर",
     "trick": "CADRES: the core CADRE of a team, the trained insiders.",
     "examples": [
       "The party trained new cadres in every village.",
@@ -56,6 +59,7 @@
   {
     "word": "caked",
     "meaning": "Covered with a thick, dry layer of something like mud or dirt",
+    "hindi": "मोटी परत से ढका, लिपटा हुआ",
     "trick": "Mud so thick it's like a CAKE on your shoes.",
     "examples": [
       "His boots were caked with mud.",
@@ -74,6 +78,7 @@
   {
     "word": "called out",
     "meaning": "Criticised someone publicly for doing something wrong (past); also shouted something",
+    "hindi": "सबके सामने टोका, आलोचना की; ज़ोर से पुकारा",
     "trick": "CALLED them OUT in front of everyone, like a referee calling a foul.",
     "examples": [
       "She called him out for lying to the team.",
@@ -92,6 +97,7 @@
   {
     "word": "callous",
     "meaning": "Not caring about other people's feelings; cruel",
+    "hindi": "निर्दयी, कठोर",
     "trick": "CALLOUS heart is hard like a CALLUS on your hand.",
     "examples": [
       "It was callous of him to laugh at her pain.",
@@ -110,6 +116,7 @@
   {
     "word": "calloused",
     "meaning": "Having hard, thick skin from rubbing or hard work",
+    "hindi": "घट्टे पड़ा, सख़्त त्वचा वाला",
     "trick": "CALLUSES on your hands = CALLOUSED hands.",
     "examples": [
       "The farmer had rough, calloused hands.",
@@ -128,6 +135,7 @@
   {
     "word": "camaraderie",
     "meaning": "A feeling of friendship and trust among people who spend time together",
+    "hindi": "भाईचारा, दोस्ताना",
     "trick": "CAMARADERIE: COMRADES sticking together.",
     "examples": [
       "There's great camaraderie in our team.",
@@ -146,6 +154,7 @@
   {
     "word": "camo",
     "meaning": "(Informal) Short for camouflage: clothing with green and brown patterns",
+    "hindi": "छलावरण वाले कपड़े (बोलचाल)",
     "trick": "CAMO = CAMOuflage, army print.",
     "examples": [
       "He wore camo pants on the hike.",
@@ -164,6 +173,7 @@
   {
     "word": "camouflaged",
     "meaning": "Hidden by colours or patterns that match the surroundings (past)",
+    "hindi": "छिपा हुआ, छलावरण किया हुआ",
     "trick": "CAMOUFLAGED: hidden like a soldier in leaves.",
     "examples": [
       "The lizard was camouflaged against the rock.",
@@ -182,6 +192,7 @@
   {
     "word": "candor",
     "meaning": "Being honest and open in what you say",
+    "hindi": "स्पष्टवादिता, खरापन",
     "trick": "CANDOR = CANDID talk: no hiding.",
     "examples": [
       "I appreciate your candor.",
@@ -200,6 +211,7 @@
   {
     "word": "canister",
     "meaning": "A round metal container with a lid",
+    "hindi": "धातु का डिब्बा, कनस्तर",
     "trick": "CANISTER: a CAN with a lid.",
     "examples": [
       "Keep the tea in a metal canister.",
@@ -218,6 +230,7 @@
   {
     "word": "cannoli",
     "meaning": "Italian fried pastry tubes filled with sweet creamy cheese",
+    "hindi": "मीठी क्रीम भरी इतालवी तली नलीनुमा मिठाई",
     "trick": "CANNOLI: little CANNONS (tubes) full of cream.",
     "examples": [
       "We bought cannoli from the Italian bakery.",
@@ -236,6 +249,7 @@
   {
     "word": "canopy",
     "meaning": "A cover hung over something; also the top layer of branches in a forest",
+    "hindi": "छतरी, चँदोवा; पेड़ों की ऊपरी छत",
     "trick": "CANOPY: the green roof of the forest.",
     "examples": [
       "The bed has a white canopy.",
@@ -254,6 +268,7 @@
   {
     "word": "capricious",
     "meaning": "Changing mood or behaviour suddenly and without reason",
+    "hindi": "मनमौजी, सनकी",
     "trick": "CAPRICIOUS like a CAPRI goat jumping in any direction.",
     "examples": [
       "The weather here is capricious.",
@@ -272,6 +287,7 @@
   {
     "word": "capsized",
     "meaning": "(Of a boat) turned upside down in the water (past)",
+    "hindi": "पलट गई, उलट गई",
     "trick": "CAP-SIZED: the boat flipped like a CAP turned over.",
     "examples": [
       "The boat capsized in the storm.",
@@ -290,6 +306,7 @@
   {
     "word": "carcass",
     "meaning": "The dead body of an animal",
+    "hindi": "जानवर की लाश, शव",
     "trick": "CARCASS: a CAR hit it, now it's a dead CASE.",
     "examples": [
       "Vultures were eating the carcass.",
@@ -308,6 +325,7 @@
   {
     "word": "carnage",
     "meaning": "The violent killing of many people",
+    "hindi": "नरसंहार, कत्लेआम",
     "trick": "CARNAGE: CARNage = flesh (carne) everywhere.",
     "examples": [
       "The bomb caused terrible carnage.",
@@ -326,6 +344,7 @@
   {
     "word": "carriage",
     "meaning": "A vehicle pulled by horses; also a train coach",
+    "hindi": "घोड़ागाड़ी, बग्घी; रेल का डिब्बा",
     "trick": "CARRIAGE CARRIES people.",
     "examples": [
       "The queen rode in a golden carriage.",
@@ -344,6 +363,7 @@
   {
     "word": "cartographers",
     "meaning": "People who make maps",
+    "hindi": "मानचित्रकार, नक्शा बनाने वाले",
     "trick": "CARTO = map (like 'chart') + GRAPH = draw: map drawers.",
     "examples": [
       "Old cartographers drew maps by hand.",
@@ -362,6 +382,7 @@
   {
     "word": "cassette",
     "meaning": "A small plastic box with tape for recording music or sound (old)",
+    "hindi": "कैसेट, गाने की टेप वाली डिब्बी",
     "trick": "CASSETTE: a small CASE of tape.",
     "examples": [
       "Dad still has his old music cassettes.",
@@ -380,6 +401,7 @@
   {
     "word": "catalog",
     "meaning": "A list or book of items, for example things to buy; also to make such a list",
+    "hindi": "सूची, सूचीपत्र; सूची बनाना",
     "trick": "CATALOG: a list of everything, even CATS for sale.",
     "examples": [
       "I looked through the shopping catalog.",
@@ -398,6 +420,7 @@
   {
     "word": "caterpillar",
     "meaning": "A small worm-like creature that turns into a butterfly",
+    "hindi": "इल्ली, सुंडी",
     "trick": "CATERPILLAR: a hairy CAT-like PILLow that crawls.",
     "examples": [
       "The caterpillar ate the leaves.",
@@ -416,6 +439,7 @@
   {
     "word": "catharsis",
     "meaning": "Releasing strong emotions in a way that makes you feel better",
+    "hindi": "मन का गुबार निकलना, भावनाओं का निकास",
     "trick": "CATHARSIS: crying it out and feeling clean after.",
     "examples": [
       "Writing in her diary was a kind of catharsis.",
@@ -434,6 +458,7 @@
   {
     "word": "catheter",
     "meaning": "A thin tube put into the body to remove or add liquids",
+    "hindi": "शरीर में डाली जाने वाली पतली नली",
     "trick": "CATHETER: a hospital tube.",
     "examples": [
       "The nurse put in a catheter.",
@@ -452,6 +477,7 @@
   {
     "word": "cauldron",
     "meaning": "A large round metal pot for cooking over a fire",
+    "hindi": "बड़ा कड़ाहा, देग",
     "trick": "A witch's CAULDRON bubbling over the fire.",
     "examples": [
       "The witch stirred her cauldron.",
@@ -470,6 +496,7 @@
   {
     "word": "caved",
     "meaning": "Fell in or collapsed; also gave in after pressure (past)",
+    "hindi": "धँस गया, ढह गया; झुक गया, हार मान ली",
     "trick": "The CAVE roof CAVED in; you CAVED and said yes.",
     "examples": [
       "The roof caved in during the storm.",
@@ -488,6 +515,7 @@
   {
     "word": "caves",
     "meaning": "Large natural holes in the side of a hill or under the ground",
+    "hindi": "गुफाएँ, कंदराएँ",
     "trick": "Bats live in CAVES.",
     "examples": [
       "We explored the caves near the beach.",
@@ -506,6 +534,7 @@
   {
     "word": "caving",
     "meaning": "Giving in after pressure; also collapsing; also exploring caves as a hobby",
+    "hindi": "दबाव में झुकना, हार मानना; ढहना; गुफाओं की सैर",
     "trick": "CAVE-ing: falling in like a CAVE roof.",
     "examples": [
       "Stop caving to every request.",
@@ -524,6 +553,7 @@
   {
     "word": "cedar",
     "meaning": "A tall evergreen tree with sweet-smelling wood",
+    "hindi": "देवदार",
     "trick": "CEDAR wood smells sweet in a chest.",
     "examples": [
       "The box is made of cedar.",
@@ -542,6 +572,7 @@
   {
     "word": "cement",
     "meaning": "A grey powder mixed with water and sand to build things; also to make something stronger",
+    "hindi": "सीमेंट; मज़बूत करना",
     "trick": "CEMENT holds bricks together; it can also CEMENT a friendship.",
     "examples": [
       "The workers mixed cement for the new wall.",
@@ -560,6 +591,7 @@
   {
     "word": "cemetery",
     "meaning": "A place where dead people are buried",
+    "hindi": "कब्रिस्तान",
     "trick": "CEMETERY: spelt with three E's: cEmEtEry.",
     "examples": [
       "My grandparents are buried in this cemetery.",
@@ -578,6 +610,7 @@
   {
     "word": "chafe",
     "meaning": "To rub and make sore; also to feel annoyed by rules",
+    "hindi": "रगड़कर छिलना; झुँझलाना",
     "trick": "CHAFE: rough cloth rubbing your skin.",
     "examples": [
       "These new shoes chafe my feet.",
@@ -596,6 +629,7 @@
   {
     "word": "chafed",
     "meaning": "Rubbed and made sore; also felt annoyed by limits (past)",
+    "hindi": "रगड़कर छिल गया; झुँझलाया",
     "trick": "CHAFED: the skin got rubbed raw.",
     "examples": [
       "The strap chafed her shoulder.",
@@ -614,6 +648,7 @@
   {
     "word": "chafing",
     "meaning": "Rubbing that makes skin sore; also being annoyed by limits",
+    "hindi": "रगड़ से छिलन; झुँझलाहट",
     "trick": "CHAFING: legs rubbing on a long walk.",
     "examples": [
       "Running in wet clothes can cause chafing.",
@@ -632,6 +667,7 @@
   {
     "word": "chalked",
     "meaning": "Wrote or drew with chalk (past); chalked up = achieved or explained something as caused by",
+    "hindi": "खड़िया से लिखा; श्रेय दिया, हासिल किया",
     "trick": "CHALKED it on the board.",
     "examples": [
       "The kids chalked pictures on the road.",
@@ -650,6 +686,7 @@
   {
     "word": "channel",
     "meaning": "A TV station; a passage for water; also to direct energy or feelings into something",
+    "hindi": "चैनल; नहर, जलमार्ग; दिशा देना",
     "trick": "CHANNEL water into a field, CHANNEL your anger into sport.",
     "examples": [
       "Change the channel, this show is boring.",
@@ -668,6 +705,7 @@
   {
     "word": "charismatic",
     "meaning": "Having a strong, attractive personality that makes people like and follow you",
+    "hindi": "करिश्माई, आकर्षक व्यक्तित्व वाला",
     "trick": "CHARISMA = charm; CHARISMATIC people CHARM everyone.",
     "examples": [
       "Our new manager is very charismatic.",
@@ -686,6 +724,7 @@
   {
     "word": "chastising",
     "meaning": "Scolding or criticising someone strongly",
+    "hindi": "डाँटते हुए, फटकारते हुए",
     "trick": "CHASTISE: CHASE them with angry words.",
     "examples": [
       "The teacher was chastising the noisy boys.",
@@ -704,6 +743,7 @@
   {
     "word": "chem",
     "meaning": "(Informal) Short for chemistry, the school subject",
+    "hindi": "रसायन विज्ञान (बोलचाल)",
     "trick": "CHEM = CHEMistry class.",
     "examples": [
       "I have a chem test tomorrow.",
@@ -722,6 +762,7 @@
   {
     "word": "chip away at",
     "meaning": "To slowly make something smaller or weaker, a little bit at a time",
+    "hindi": "धीरे-धीरे कम करना, थोड़ा-थोड़ा कमज़ोर करना",
     "trick": "Like a sculptor CHIPPING AWAY AT stone, one little piece at a time.",
     "examples": [
       "I'm chipping away at my homework a bit every day.",
@@ -740,6 +781,7 @@
   {
     "word": "chiseled",
     "meaning": "Having sharp, strong features as if carved; also cut with a chisel (past)",
+    "hindi": "तराशा हुआ, सुडौल; छेनी से काटा",
     "trick": "CHISELED like a statue carved with a CHISEL.",
     "examples": [
       "The actor has a chiseled jaw.",
@@ -758,6 +800,7 @@
   {
     "word": "choked",
     "meaning": "Couldn't breathe because something blocked the throat; also failed under pressure (past)",
+    "hindi": "दम घुटा, गला रुँधा; दबाव में चूक गया",
     "trick": "CHOKED: the throat closed up, or you froze in the big moment.",
     "examples": [
       "He choked on a fish bone.",
@@ -776,6 +819,7 @@
   {
     "word": "choked on",
     "meaning": "Couldn't breathe because something was stuck in the throat (past)",
+    "hindi": "गले में अटकने से दम घुटा",
     "trick": "CHOKED ON food: it got stuck and you couldn't breathe.",
     "examples": [
       "The baby choked on a small piece of apple.",
@@ -794,6 +838,7 @@
   {
     "word": "chore",
     "meaning": "A boring job you have to do regularly, like housework",
+    "hindi": "रोज़ का घरेलू काम, उबाऊ काम",
     "trick": "CHORE: CHOre = a job you do but don't enjoy.",
     "examples": [
       "Washing the dishes is my least favourite chore.",
@@ -812,6 +857,7 @@
   {
     "word": "chosen",
     "meaning": "Picked from a group (past participle of choose)",
+    "hindi": "चुना हुआ, चुना गया",
     "trick": "CHOOSE → CHOSE → CHOSEN.",
     "examples": [
       "She was chosen as the team captain.",
@@ -830,6 +876,7 @@
   {
     "word": "chow",
     "meaning": "(Informal) Food; chow down = eat a lot",
+    "hindi": "खाना (बोलचाल)",
     "trick": "CHOW sounds like CHOW mein: food!",
     "examples": [
       "Let's get some chow.",
@@ -848,6 +895,7 @@
   {
     "word": "chuckle",
     "meaning": "A quiet, soft laugh; also to laugh quietly",
+    "hindi": "दबी हँसी, मुस्कुराकर हँसना",
     "trick": "CHUCKLE: a small 'chuck-chuck' laugh.",
     "examples": [
       "He gave a little chuckle at the joke.",
@@ -866,6 +914,7 @@
   {
     "word": "churned",
     "meaning": "Moved or stirred violently; also (stomach) felt sick from nerves (past)",
+    "hindi": "मथा, उथल-पुथल हुई; पेट में मरोड़ उठी",
     "trick": "Butter is CHURNED by stirring hard.",
     "examples": [
       "The sea churned in the storm.",
@@ -884,6 +933,7 @@
   {
     "word": "chute",
     "meaning": "A slide or tube for sending things down; also short for parachute",
+    "hindi": "फिसलन नली, ढलान; पैराशूट",
     "trick": "CHUTE: things SHOOT down it.",
     "examples": [
       "Throw the rubbish down the chute.",
@@ -902,6 +952,7 @@
   {
     "word": "chutes",
     "meaning": "Slides or tubes for sending things down (plural); also parachutes",
+    "hindi": "फिसलन नलियाँ, ढलानें; पैराशूट",
     "trick": "One CHUTE, two CHUTES: Snakes and Ladders = Chutes and Ladders.",
     "examples": [
       "The water park has three big chutes.",
@@ -920,6 +971,7 @@
   {
     "word": "cinched",
     "meaning": "Tightened something like a belt around the waist; also made sure of something (past)",
+    "hindi": "कसकर बाँधा; पक्का कर लिया",
     "trick": "CINCHED the belt: tight and SECURE (a cinch).",
     "examples": [
       "She cinched her coat with a belt.",
@@ -938,6 +990,7 @@
   {
     "word": "cinderblock",
     "meaning": "A large grey building block made of concrete and ashes",
+    "hindi": "सीमेंट-राख की बड़ी ईंट",
     "trick": "CINDER (ashes) + BLOCK.",
     "examples": [
       "The garage has cinderblock walls.",
@@ -956,6 +1009,7 @@
   {
     "word": "circuitous",
     "meaning": "Long and indirect; not going the straight way",
+    "hindi": "घुमावदार, चक्करदार",
     "trick": "Like a CIRCUIT: you go round and round instead of straight.",
     "examples": [
       "We took a circuitous route to avoid traffic.",
@@ -974,6 +1028,7 @@
   {
     "word": "circumstances",
     "meaning": "The facts or conditions that affect a situation",
+    "hindi": "परिस्थितियाँ, हालात",
     "trick": "CIRCUM = around: things AROUND a situation.",
     "examples": [
       "Under these circumstances, we should wait.",
@@ -992,6 +1047,7 @@
   {
     "word": "clamored",
     "meaning": "Shouted or demanded something loudly together (past)",
+    "hindi": "शोर मचाया, ज़ोर से माँग की",
     "trick": "CLAMOR = loud CLAMOUR of a crowd.",
     "examples": [
       "The fans clamored for an autograph.",
@@ -1010,6 +1066,7 @@
   {
     "word": "clandestine",
     "meaning": "Done secretly, often because it is not allowed",
+    "hindi": "गुप्त, चोरी-छिपे",
     "trick": "CLANDESTINE: a CLAN meeting in secret.",
     "examples": [
       "They had a clandestine meeting at night.",
@@ -1028,6 +1085,7 @@
   {
     "word": "clang",
     "meaning": "A loud ringing sound of metal hitting metal",
+    "hindi": "धातु की टनटनाहट, झनकार",
     "trick": "CLANG! A pot dropped on the floor.",
     "examples": [
       "The gate shut with a loud clang.",
@@ -1046,6 +1104,7 @@
   {
     "word": "claustrophobic",
     "meaning": "Afraid of small closed spaces; also (of a place) small and crowded",
+    "hindi": "बंद जगह से डरने वाला; तंग, घुटन भरा",
     "trick": "CLAUSTRO = closed (like CLOSET) + PHOBIC = afraid.",
     "examples": [
       "I feel claustrophobic in lifts.",
@@ -1064,6 +1123,7 @@
   {
     "word": "clearance",
     "meaning": "Official permission; also the removal of things; also the space above or around something",
+    "hindi": "मंज़ूरी, अनुमति; हटाना, सफ़ाई; खाली जगह",
     "trick": "CLEARANCE: you're CLEARED to go.",
     "examples": [
       "The plane got clearance to land.",
@@ -1082,6 +1142,7 @@
   {
     "word": "cleft",
     "meaning": "A split or opening in something, like a cleft chin",
+    "hindi": "दरार, फाँक",
     "trick": "CLEFT = CLEFT apart, a split.",
     "examples": [
       "He has a cleft in his chin.",
@@ -1100,6 +1161,7 @@
   {
     "word": "clerical",
     "meaning": "Related to office work like typing and filing; also related to priests",
+    "hindi": "लिपिकीय, दफ़्तरी; पादरियों से संबंधित",
     "trick": "CLERK + ical: CLERK work in an office.",
     "examples": [
       "She has a clerical job at the bank.",
@@ -1118,6 +1180,7 @@
   {
     "word": "clientele",
     "meaning": "All the customers of a shop, hotel or business",
+    "hindi": "ग्राहक वर्ग, ग्राहक",
     "trick": "CLIENT-ELE: all the CLIENTS together.",
     "examples": [
       "The café has a young clientele.",
@@ -1136,6 +1199,7 @@
   {
     "word": "cling",
     "meaning": "To hold on tightly; also to stay close or attached",
+    "hindi": "चिपके रहना, कसकर पकड़ना",
     "trick": "CLING like CLING film sticking to a bowl.",
     "examples": [
       "The baby monkey clings to its mother.",
@@ -1154,6 +1218,7 @@
   {
     "word": "clocking",
     "meaning": "Measuring time or speed; clocking in = recording when you start work; also (informal) noticing",
+    "hindi": "समय या गति नापना; हाज़िरी दर्ज करना; भाँप लेना (बोलचाल)",
     "trick": "CLOCKING: putting time on the CLOCK.",
     "examples": [
       "The car was clocking 120 km/h.",
@@ -1172,6 +1237,7 @@
   {
     "word": "clog",
     "meaning": "To block something so nothing can pass; also a wooden shoe",
+    "hindi": "रुकावट डालना, जाम करना; लकड़ी का जूता, खड़ाऊँ",
     "trick": "CLOG the drain with hair.",
     "examples": [
       "Don't pour oil down the sink, it will clog the pipe.",
@@ -1190,6 +1256,7 @@
   {
     "word": "clogged",
     "meaning": "Blocked so that nothing can pass",
+    "hindi": "जाम, बंद, रुका हुआ",
     "trick": "CLOGGED drain: water won't go down.",
     "examples": [
       "The sink is clogged again.",
@@ -1208,6 +1275,7 @@
   {
     "word": "clogging",
     "meaning": "Blocking something so nothing can move through",
+    "hindi": "जाम करते हुए, रुकावट डालते हुए",
     "trick": "CLOG-ging: hair is CLOGGING the drain.",
     "examples": [
       "Leaves are clogging the gutter.",
@@ -1226,6 +1294,7 @@
   {
     "word": "clown",
     "meaning": "A performer with a painted face who does funny things; also a silly person",
+    "hindi": "जोकर, विदूषक; मूर्ख व्यक्ति",
     "trick": "The CLOWN at the circus with a red nose.",
     "examples": [
       "The kids laughed at the clown.",
@@ -1244,6 +1313,7 @@
   {
     "word": "clunky",
     "meaning": "Heavy, awkward and old-fashioned; also badly done",
+    "hindi": "भारी-भरकम, बेढंगा; भद्दा",
     "trick": "CLUNKY: it goes CLUNK when you move it.",
     "examples": [
       "He still uses a clunky old laptop.",
@@ -1262,6 +1332,7 @@
   {
     "word": "clutched",
     "meaning": "Held something tightly, often because of fear or worry (past)",
+    "hindi": "कसकर पकड़ा, जकड़ा",
     "trick": "CLUTCHED like holding on to a CLUTCH bag tightly.",
     "examples": [
       "She clutched her bag on the crowded train.",
@@ -1280,6 +1351,7 @@
   {
     "word": "clutching",
     "meaning": "Holding something tightly",
+    "hindi": "कसकर पकड़े हुए, जकड़ते हुए",
     "trick": "CLUTCHING: hands squeezed tight around it.",
     "examples": [
       "The child was clutching her teddy bear.",
@@ -1298,6 +1370,7 @@
   {
     "word": "coagulating",
     "meaning": "Turning from liquid into a thick, semi-solid form (like blood clotting)",
+    "hindi": "जमते हुए, थक्का बनते हुए",
     "trick": "CO-AG-ULATING: liquid GLUING together into lumps.",
     "examples": [
       "The blood was coagulating around the cut.",
@@ -1316,6 +1389,7 @@
   {
     "word": "coast",
     "meaning": "The land next to the sea; also to move easily without effort",
+    "hindi": "तट, किनारा; बिना मेहनत आगे बढ़ना",
     "trick": "COAST: drive along the COAST, or COAST downhill without pedalling.",
     "examples": [
       "We drove along the coast.",
@@ -1334,6 +1408,7 @@
   {
     "word": "cockpit",
     "meaning": "The area where the pilot sits in a plane or racing car",
+    "hindi": "चालक कक्ष, कॉकपिट",
     "trick": "COCKPIT: the pilot's seat at the front.",
     "examples": [
       "The pilot sat in the cockpit.",
@@ -1352,6 +1427,7 @@
   {
     "word": "cocktail",
     "meaning": "A mixed alcoholic drink; also a mixture of different things",
+    "hindi": "मिश्रित शराब; मिश्रण",
     "trick": "A COCKTAIL mixes many drinks, like a rooster's colourful tail.",
     "examples": [
       "She ordered a fruit cocktail.",
@@ -1370,6 +1446,7 @@
   {
     "word": "cocky",
     "meaning": "(Informal) Too confident in an annoying way",
+    "hindi": "घमंडी, अकड़ू (बोलचाल)",
     "trick": "COCKY like a proud rooster (cock) strutting around.",
     "examples": [
       "Don't get cocky just because you won once.",
@@ -1388,6 +1465,7 @@
   {
     "word": "coddles",
     "meaning": "Treats someone too gently and protectively",
+    "hindi": "लाड़-प्यार करता है, ज़रूरत से ज़्यादा सँभालता है",
     "trick": "CODDLES = CUDDLES too much.",
     "examples": [
       "She coddles her son like a baby.",
@@ -1406,6 +1484,7 @@
   {
     "word": "cogent",
     "meaning": "Clear, logical and convincing",
+    "hindi": "ठोस, तर्कसंगत, विश्वसनीय",
     "trick": "COGENT: the argument has all its COGS working.",
     "examples": [
       "She made a cogent argument for the plan.",
@@ -1424,6 +1503,7 @@
   {
     "word": "cognitive",
     "meaning": "Related to thinking, learning and understanding",
+    "hindi": "संज्ञानात्मक, सोच-समझ से संबंधित",
     "trick": "COGNITIVE = COG-nitive: the brain's COGS turning.",
     "examples": [
       "Puzzles improve cognitive skills.",
@@ -1442,6 +1522,7 @@
   {
     "word": "cohere",
     "meaning": "To fit together well as a clear whole; also to stick together",
+    "hindi": "तालमेल बैठना, जुड़ना; चिपकना",
     "trick": "COHERE = CO + HERE: everything fits HERE together.",
     "examples": [
       "The ideas in your essay don't cohere.",
@@ -1460,6 +1541,7 @@
   {
     "word": "colon",
     "meaning": "The punctuation mark (:); also the main part of the large intestine",
+    "hindi": "कोलन चिह्न (:); बड़ी आँत",
     "trick": "COLON: two dots, one on top of the other.",
     "examples": [
       "Use a colon before a list.",
@@ -1478,6 +1560,7 @@
   {
     "word": "combative",
     "meaning": "Ready and eager to fight or argue",
+    "hindi": "लड़ाकू, झगड़ालू",
     "trick": "COMBAT-ive: always ready for COMBAT.",
     "examples": [
       "He gets combative when he's tired.",
@@ -1496,6 +1579,7 @@
   {
     "word": "comets",
     "meaning": "Bright objects in space with long glowing tails (plural)",
+    "hindi": "धूमकेतु, पुच्छल तारे",
     "trick": "COMETS COME with a tail of light.",
     "examples": [
       "We watched comets through the telescope.",
@@ -1514,6 +1598,7 @@
   {
     "word": "commandeer",
     "meaning": "To take something for your own use by force or authority",
+    "hindi": "ज़बरदस्ती क़ब्ज़ा करना, अधिग्रहण करना",
     "trick": "COMMANDEER: COMMAND it to be yours.",
     "examples": [
       "The police commandeered a car to chase the thief.",
@@ -1532,6 +1617,7 @@
   {
     "word": "commandments",
     "meaning": "Rules that must be obeyed, especially the Ten Commandments in the Bible",
+    "hindi": "आदेश, धर्मादेश",
     "trick": "COMMANDS from God: the Ten COMMANDMENTS.",
     "examples": [
       "Moses received the Ten Commandments.",
@@ -1550,6 +1636,7 @@
   {
     "word": "commend",
     "meaning": "To praise someone formally; also to recommend",
+    "hindi": "सराहना करना, प्रशंसा करना; सिफ़ारिश करना",
     "trick": "COMMEND sounds like reCOMMEND: speak well of someone.",
     "examples": [
       "The teacher commended her for her hard work.",
@@ -1568,6 +1655,7 @@
   {
     "word": "commune",
     "meaning": "A group of people living together and sharing everything; also to feel close to (commune with nature)",
+    "hindi": "सामूहिक बस्ती; आत्मीयता महसूस करना",
     "trick": "COMMUNE = COMMUNity living together.",
     "examples": [
       "They lived in a commune in the hills.",
@@ -1586,6 +1674,7 @@
   {
     "word": "compartmentalize",
     "meaning": "To separate things into parts; also to keep thoughts or feelings separate",
+    "hindi": "अलग-अलग खानों में बाँटना; विचारों को अलग रखना",
     "trick": "COMPARTMENT-alize: put each thing in its own COMPARTMENT.",
     "examples": [
       "She can compartmentalize work and home life.",
@@ -1604,6 +1693,7 @@
   {
     "word": "complacency",
     "meaning": "Feeling too pleased with yourself so you stop trying",
+    "hindi": "आत्मसंतोष, लापरवाही",
     "trick": "COMPLACENCY: being in a COMfy PLACE and getting lazy.",
     "examples": [
       "Complacency can lose you the match.",
@@ -1622,6 +1712,7 @@
   {
     "word": "composed",
     "meaning": "Calm and in control of your feelings; also written or made up of (past)",
+    "hindi": "शांत, संयत; रचा गया, बना हुआ",
     "trick": "COMPOSED: all your pieces are in place, so you stay calm.",
     "examples": [
       "She stayed composed during the interview.",
@@ -1640,6 +1731,7 @@
   {
     "word": "compulsive",
     "meaning": "Unable to stop doing something; also very interesting (compulsive viewing)",
+    "hindi": "आदत से मजबूर, बाध्यकारी; बेहद दिलचस्प",
     "trick": "COMPULSIVE: you feel COMPELLED to do it.",
     "examples": [
       "He's a compulsive liar.",
@@ -1658,6 +1750,7 @@
   {
     "word": "concede",
     "meaning": "To admit that something is true, often unwillingly; also to give up",
+    "hindi": "मान लेना, स्वीकार करना; हार मान लेना",
     "trick": "CONCEDE = give in, like conceding a goal.",
     "examples": [
       "He finally conceded that he was wrong.",
@@ -1676,6 +1769,7 @@
   {
     "word": "conceivable",
     "meaning": "Possible to imagine or believe",
+    "hindi": "कल्पनीय, संभव",
     "trick": "CONCEIVE an idea = CONCEIVABLE: you can imagine it.",
     "examples": [
       "It's conceivable that he forgot.",
@@ -1694,6 +1788,7 @@
   {
     "word": "concert",
     "meaning": "A live music performance",
+    "hindi": "संगीत कार्यक्रम",
     "trick": "CONCERT: everyone sings in CONCERT (together).",
     "examples": [
       "We went to a rock concert.",
@@ -1712,6 +1807,7 @@
   {
     "word": "concocted",
     "meaning": "Made up a story or excuse; also mixed something new from different things (past)",
+    "hindi": "गढ़ा, मनगढ़ंत बनाया; मिलाकर तैयार किया",
     "trick": "CONCOCTED: COOKED up an excuse.",
     "examples": [
       "He concocted a story about a lost bus.",
@@ -1730,6 +1826,7 @@
   {
     "word": "concussion",
     "meaning": "A head injury that makes you confused or unconscious for a while",
+    "hindi": "सिर की चोट, मस्तिष्काघात",
     "trick": "CONCUSSION: a CRUSH to the head.",
     "examples": [
       "He got a concussion playing football.",
@@ -1748,6 +1845,7 @@
   {
     "word": "condescending",
     "meaning": "Acting as if you are better or smarter than others",
+    "hindi": "नीचा दिखाने वाला, अहंकारी",
     "trick": "CONDESCENDING: looking DOWN (descending) on people.",
     "examples": [
       "I hate his condescending tone.",
@@ -1766,6 +1864,7 @@
   {
     "word": "condolences",
     "meaning": "Words of sympathy for someone whose loved one has died",
+    "hindi": "शोक संवेदना, सांत्वना",
     "trick": "CONDOLENCES = CON (with) + DOLE (sorrow): sharing their sorrow.",
     "examples": [
       "Please accept my condolences.",
@@ -1784,6 +1883,7 @@
   {
     "word": "confide",
     "meaning": "To tell someone a secret or private feelings because you trust them",
+    "hindi": "राज़ बताना, भरोसे से कहना",
     "trick": "CONFIDE: tell someone you have CONFIDENCE in.",
     "examples": [
       "She confided in her best friend.",
@@ -1802,6 +1902,7 @@
   {
     "word": "confine",
     "meaning": "To keep someone or something within limits or in a small space",
+    "hindi": "सीमित रखना, बंद रखना",
     "trick": "CON-FINE: kept inside FINE borders.",
     "examples": [
       "Please confine your answer to 100 words.",
@@ -1820,6 +1921,7 @@
   {
     "word": "confrontation",
     "meaning": "An angry argument or fight between people or groups",
+    "hindi": "टकराव, आमना-सामना",
     "trick": "CONFRONT = face someone; a CONFRONTATION is face-to-face fighting.",
     "examples": [
       "He wanted to avoid a confrontation with his boss.",
@@ -1838,6 +1940,7 @@
   {
     "word": "congealing",
     "meaning": "Becoming thick or solid as it cools, like fat or blood",
+    "hindi": "जमते हुए, गाढ़ा होते हुए",
     "trick": "CONGEALING: CON + GEL: turning into jelly.",
     "examples": [
       "The fat was congealing in the pan.",
@@ -1856,6 +1959,7 @@
   {
     "word": "congestion",
     "meaning": "Too much traffic or too many people; also a blocked nose or chest",
+    "hindi": "भीड़-भाड़, जाम; नाक या छाती में जकड़न",
     "trick": "CONGESTION: everything is JAMMED in.",
     "examples": [
       "There's heavy congestion on the highway.",
@@ -1874,6 +1978,7 @@
   {
     "word": "congregation",
     "meaning": "A group of people gathered for worship in a church",
+    "hindi": "धार्मिक सभा, उपासकों का समूह",
     "trick": "CONGREGATE = gather; the CONGREGATION gathers in church.",
     "examples": [
       "The priest spoke to the congregation.",
@@ -1892,6 +1997,7 @@
   {
     "word": "conjure",
     "meaning": "To make something appear as if by magic; also to bring a picture to mind",
+    "hindi": "जादू से प्रकट करना; मन में तस्वीर लाना",
     "trick": "A magician CONJURES a rabbit from a hat.",
     "examples": [
       "The magician conjured a rabbit out of his hat.",
@@ -1910,6 +2016,7 @@
   {
     "word": "conjured",
     "meaning": "Made something appear as if by magic; also brought to mind (past)",
+    "hindi": "जादू से प्रकट किया; याद दिलाया",
     "trick": "CONJURED: like a magic trick.",
     "examples": [
       "She conjured a meal from leftovers.",
@@ -1928,6 +2035,7 @@
   {
     "word": "consensus",
     "meaning": "General agreement among a group",
+    "hindi": "आम सहमति",
     "trick": "CONSENSUS: everyone's SENSE is the same.",
     "examples": [
       "The team reached a consensus.",
@@ -1946,6 +2054,7 @@
   {
     "word": "consoled",
     "meaning": "Comforted someone who was sad (past)",
+    "hindi": "दिलासा दिया, सांत्वना दी",
     "trick": "CONSOLED: like a game CONSOLE cheers up a sad kid.",
     "examples": [
       "She consoled her crying friend.",
@@ -1964,6 +2073,7 @@
   {
     "word": "constipated",
     "meaning": "Having difficulty emptying your bowels",
+    "hindi": "कब्ज़ से पीड़ित",
     "trick": "CONSTIPATED: things are STUCK.",
     "examples": [
       "Eat more fibre if you feel constipated.",
@@ -1982,6 +2092,7 @@
   {
     "word": "constructive",
     "meaning": "Helpful and useful, meant to improve something",
+    "hindi": "रचनात्मक, सकारात्मक",
     "trick": "CONSTRUCT = build; CONSTRUCTIVE feedback helps you build better.",
     "examples": [
       "Thanks for the constructive feedback.",
@@ -2000,6 +2111,7 @@
   {
     "word": "construe",
     "meaning": "To understand or explain words or actions in a particular way",
+    "hindi": "अर्थ लगाना, समझना",
     "trick": "CONSTRUE: how you CONSTRUCT the meaning in your head.",
     "examples": [
       "His silence was construed as agreement.",
@@ -2018,6 +2130,7 @@
   {
     "word": "contagious",
     "meaning": "Spreading from one person to another, like a disease or a feeling",
+    "hindi": "संक्रामक, छूत का",
     "trick": "CONTAGIOUS: it spreads by CONTACT.",
     "examples": [
       "Flu is very contagious.",
@@ -2036,6 +2149,7 @@
   {
     "word": "contemplate",
     "meaning": "To think deeply about something for a long time; also to consider doing something",
+    "hindi": "गहराई से सोचना, विचार करना",
     "trick": "CONTEMPLATE: sit in a TEMPLE and think.",
     "examples": [
       "He sat by the lake to contemplate life.",
@@ -2054,6 +2168,7 @@
   {
     "word": "contempt",
     "meaning": "A feeling that someone or something is worthless or doesn't deserve respect",
+    "hindi": "तिरस्कार, घृणा",
     "trick": "CONTEMPT: you look at it with a CON-TEMPTed sneer.",
     "examples": [
       "She looked at him with contempt.",
@@ -2072,6 +2187,7 @@
   {
     "word": "contend",
     "meaning": "To compete for something; also to argue that something is true; contend with = deal with a problem",
+    "hindi": "मुक़ाबला करना; दावा करना; जूझना, निपटना",
     "trick": "CONTEND: CONTEST + DEFEND.",
     "examples": [
       "Four teams contend for the cup.",
@@ -2090,6 +2206,7 @@
   {
     "word": "contention",
     "meaning": "A disagreement or argument; also an opinion someone argues for",
+    "hindi": "विवाद, झगड़ा; दावा, तर्क",
     "trick": "CONTENTION: the point of CONTEST.",
     "examples": [
       "Money is a point of contention between them.",
@@ -2108,6 +2225,7 @@
   {
     "word": "contingencies",
     "meaning": "Possible future events you plan for in case they happen",
+    "hindi": "आकस्मिक स्थितियाँ, संभावित घटनाएँ",
     "trick": "CONTINGENCIES: plans that CONTINue if things go wrong.",
     "examples": [
       "We have money saved for contingencies.",
@@ -2126,6 +2244,7 @@
   {
     "word": "contracted",
     "meaning": "Caught a disease; also became smaller; also made a legal agreement (past)",
+    "hindi": "बीमारी लगी; सिकुड़ गया; अनुबंध किया",
     "trick": "CONTRACT a disease, a muscle CONTRACTS, sign a CONTRACT.",
     "examples": [
       "He contracted malaria on his trip.",
@@ -2144,6 +2263,7 @@
   {
     "word": "contrary",
     "meaning": "Opposite; also (of a person) liking to disagree",
+    "hindi": "विपरीत, उल्टा; ज़िद्दी, विरोधी स्वभाव का",
     "trick": "CONTRA = against: the CONTRARY is the opposite.",
     "examples": [
       "On the contrary, I loved the film.",
@@ -2162,6 +2282,7 @@
   {
     "word": "convalescing",
     "meaning": "Getting better slowly after an illness",
+    "hindi": "ठीक होते हुए, स्वास्थ्य लाभ करते हुए",
     "trick": "CONVALESCING: in a VALLEY of rest, healing slowly.",
     "examples": [
       "He is convalescing at home after surgery.",
@@ -2180,6 +2301,7 @@
   {
     "word": "converged",
     "meaning": "Came together from different directions to meet at one point (past)",
+    "hindi": "एक जगह आकर मिले, एकत्र हुए",
     "trick": "CON-VERGE: all lines move to the same VERGE (edge/point).",
     "examples": [
       "The two roads converged near the river.",
@@ -2198,6 +2320,7 @@
   {
     "word": "conviction",
     "meaning": "A strong belief; also a court decision that someone is guilty",
+    "hindi": "दृढ़ विश्वास; दोषसिद्धि",
     "trick": "CONVICTION: you're CONVINCED; a CONVICT has a conviction.",
     "examples": [
       "She spoke with great conviction.",
@@ -2216,6 +2339,7 @@
   {
     "word": "corn",
     "meaning": "A tall plant with yellow seeds that we eat; also the seeds themselves",
+    "hindi": "मक्का, भुट्टा",
     "trick": "CORN on the cob, popcorn!",
     "examples": [
       "We ate grilled corn by the beach.",
@@ -2234,6 +2358,7 @@
   {
     "word": "cornerstone",
     "meaning": "The most important part that everything else is based on; also a stone at the corner of a building",
+    "hindi": "आधारशिला, नींव का पत्थर",
     "trick": "The CORNER STONE holds up the whole building.",
     "examples": [
       "Trust is the cornerstone of a good friendship.",
@@ -2252,6 +2377,7 @@
   {
     "word": "corralled",
     "meaning": "Gathered people or animals together into one place (past)",
+    "hindi": "घेरकर इकट्ठा किया",
     "trick": "A CORRAL is a pen; CORRALLED = rounded up into it.",
     "examples": [
       "The teacher corralled the kids into the bus.",
@@ -2270,6 +2396,7 @@
   {
     "word": "corridors",
     "meaning": "Long passages in a building with doors to rooms (plural)",
+    "hindi": "गलियारे",
     "trick": "CORRIDORS: long halls you RUN down.",
     "examples": [
       "The hospital corridors were quiet.",
@@ -2288,6 +2415,7 @@
   {
     "word": "corroded",
     "meaning": "Slowly damaged or worn away, especially by rust or chemicals (past)",
+    "hindi": "जंग खाया, गल गया",
     "trick": "CORRODED: the metal was eaten by ROT and rust.",
     "examples": [
       "The old pipes were corroded with rust.",
@@ -2306,6 +2434,7 @@
   {
     "word": "cortisol",
     "meaning": "A hormone the body releases when you are stressed",
+    "hindi": "तनाव हार्मोन",
     "trick": "CORTISOL: the stress hormone that puts your body on ALERT.",
     "examples": [
       "Stress raises cortisol levels.",
@@ -2324,6 +2453,7 @@
   {
     "word": "cosign",
     "meaning": "To sign a document together with someone, promising to pay if they don't",
+    "hindi": "सह-हस्ताक्षर करना, ज़मानत देना",
     "trick": "CO-SIGN: sign it TOGETHER.",
     "examples": [
       "My dad had to cosign my car loan.",
@@ -2342,6 +2472,7 @@
   {
     "word": "couched",
     "meaning": "Expressed in a particular way or style (past); also lying down (old)",
+    "hindi": "शब्दों में ढाला, व्यक्त किया; लेटा हुआ",
     "trick": "COUCHED: wrapped words in soft COUCH cushions.",
     "examples": [
       "The warning was couched in polite language.",
@@ -2360,6 +2491,7 @@
   {
     "word": "counteract",
     "meaning": "To reduce or stop the effect of something by doing the opposite",
+    "hindi": "असर ख़त्म करना, प्रतिकार करना",
     "trick": "COUNTER-ACT: ACT against it.",
     "examples": [
       "Drink water to counteract the heat.",
@@ -2378,6 +2510,7 @@
   {
     "word": "counterintuitive",
     "meaning": "Different from what you would naturally expect",
+    "hindi": "उम्मीद के उलट, अप्रत्याशित",
     "trick": "COUNTER (against) + INTUITIVE (your gut feeling): against your gut.",
     "examples": [
       "It sounds counterintuitive, but resting makes you faster.",
@@ -2396,6 +2529,7 @@
   {
     "word": "coursing",
     "meaning": "Flowing quickly (of a liquid or feeling)",
+    "hindi": "तेज़ी से बहते हुए",
     "trick": "Like a river running its COURSE fast.",
     "examples": [
       "Tears were coursing down her cheeks.",
@@ -2414,6 +2548,7 @@
   {
     "word": "coveted",
     "meaning": "Wanted very much, especially something that belongs to someone else (past / adjective)",
+    "hindi": "बहुत चाहा गया, लालायित; मनचाहा",
     "trick": "COVETED: you want it so much you'd COVER it with your hands.",
     "examples": [
       "She won the coveted award.",
@@ -2432,6 +2567,7 @@
   {
     "word": "cower",
     "meaning": "To bend down or move back because you are afraid",
+    "hindi": "डर से दुबकना, सहमना",
     "trick": "COWER like a scared COW hiding.",
     "examples": [
       "The dog cowered in the corner during the storm.",
@@ -2450,6 +2586,7 @@
   {
     "word": "cracked",
     "meaning": "Broken with lines on the surface but not in pieces; also solved; also (informal) crazy (past)",
+    "hindi": "चटक गया, दरार पड़ी; हल कर लिया; पागल (बोलचाल)",
     "trick": "CRACKED: the phone screen has lines on it.",
     "examples": [
       "My phone screen is cracked.",
@@ -2468,6 +2605,7 @@
   {
     "word": "crackled",
     "meaning": "Made a series of short, sharp popping sounds, like a fire (past)",
+    "hindi": "चटचटाया, चरचराया",
     "trick": "CRACK-CRACK: the fire CRACKLED.",
     "examples": [
       "The fire crackled in the fireplace.",
@@ -2486,6 +2624,7 @@
   {
     "word": "cradling",
     "meaning": "Holding gently and carefully in your arms",
+    "hindi": "प्यार से गोद में थामे हुए",
     "trick": "Like rocking a baby in a CRADLE.",
     "examples": [
       "She was cradling the baby in her arms.",
@@ -2504,6 +2643,7 @@
   {
     "word": "cramming",
     "meaning": "Studying a lot in a very short time; also pushing too many things into a space",
+    "hindi": "रटना, जल्दी-जल्दी पढ़ना; ठूँसना",
     "trick": "CRAMMING: stuffing your brain like a full suitcase.",
     "examples": [
       "She's cramming for her exam tomorrow.",
@@ -2522,6 +2662,7 @@
   {
     "word": "crampons",
     "meaning": "Metal spikes fixed to boots for walking on ice or snow",
+    "hindi": "बर्फ़ पर चलने के लिए जूतों के नुकीले काँटे",
     "trick": "CRAMPONS: CRAMP your boots onto the ice.",
     "examples": [
       "Climbers wear crampons on icy mountains.",
@@ -2540,6 +2681,7 @@
   {
     "word": "craned",
     "meaning": "Stretched your neck to see something better (past)",
+    "hindi": "गर्दन उचकाई",
     "trick": "Like a CRANE bird stretching its long neck.",
     "examples": [
       "She craned her neck to see the stage.",
@@ -2558,6 +2700,7 @@
   {
     "word": "crappy",
     "meaning": "(Informal, a bit rude) Of very bad quality",
+    "hindi": "घटिया, बेकार (अशिष्ट)",
     "trick": "CRAP-py: as bad as rubbish.",
     "examples": [
       "I had a crappy day at work.",
@@ -2576,6 +2719,7 @@
   {
     "word": "crease",
     "meaning": "A line made by folding or crushing paper or cloth; also to make such a line",
+    "hindi": "सिलवट, तह; सिलवट डालना",
     "trick": "CREASE: the line when you fold a shirt.",
     "examples": [
       "Iron out the creases in your shirt.",
@@ -2594,6 +2738,7 @@
   {
     "word": "creed",
     "meaning": "A set of beliefs, especially religious",
+    "hindi": "पंथ, धार्मिक मत",
     "trick": "CREED: what you believe and NEED to follow.",
     "examples": [
       "People of every creed are welcome.",
@@ -2612,6 +2757,7 @@
   {
     "word": "creeks",
     "meaning": "Small streams or narrow rivers (plural)",
+    "hindi": "नाले, छोटी नदियाँ",
     "trick": "CREEKS: little streams that CREAK over stones.",
     "examples": [
       "The kids played in the creeks behind the farm.",
@@ -2630,6 +2776,7 @@
   {
     "word": "crept",
     "meaning": "Moved slowly and quietly (past of creep)",
+    "hindi": "दबे पाँव चला, रेंगा",
     "trick": "CREEP → CREPT, like SLEEP → SLEPT.",
     "examples": [
       "She crept into the room so she wouldn't wake him.",
@@ -2648,6 +2795,7 @@
   {
     "word": "crescendo",
     "meaning": "A gradual increase in loudness; also the loudest or most intense point",
+    "hindi": "धीरे-धीरे बढ़ती आवाज़; चरम सीमा",
     "trick": "CRESCENDO: the music climbs up to the top.",
     "examples": [
       "The music rose to a crescendo.",
@@ -2666,6 +2814,7 @@
   {
     "word": "crest",
     "meaning": "The top of a hill or wave; also a family or school symbol",
+    "hindi": "चोटी, शिखर; कुल चिह्न",
     "trick": "CREST: the top of the wave, like a bird's head crest.",
     "examples": [
       "We stopped at the crest of the hill.",
@@ -2684,6 +2833,7 @@
   {
     "word": "crested",
     "meaning": "Reached the top of a hill or wave (past); also having a crest (like a crested bird)",
+    "hindi": "चोटी पर पहुँचा; कलगीदार",
     "trick": "CRESTED: got to the top CREST.",
     "examples": [
       "We crested the hill and saw the sea.",
@@ -2702,6 +2852,7 @@
   {
     "word": "crinkle",
     "meaning": "A small fold or wrinkle; also to form small folds or wrinkles",
+    "hindi": "झुर्री, सिकुड़न; सिकुड़ना",
     "trick": "CRINKLE: the crunchy sound of wrapping paper.",
     "examples": [
       "Her eyes crinkle when she smiles.",
@@ -2720,6 +2871,7 @@
   {
     "word": "cripples",
     "meaning": "Damages something or someone so badly it can't work properly; also (offensive, old) people who can't walk well",
+    "hindi": "पंगु बना देता है, नाकारा कर देता है; अपंग लोग (लोगों के लिए अपमानजनक)",
     "trick": "CRIPPLES: breaks the legs of a plan.",
     "examples": [
       "The strike cripples the city's transport.",
@@ -2738,6 +2890,7 @@
   {
     "word": "crisis",
     "meaning": "A time of great danger, difficulty or confusion",
+    "hindi": "संकट",
     "trick": "CRISIS: things are CRASHING.",
     "examples": [
       "The country is facing an economic crisis.",
@@ -2756,6 +2909,7 @@
   {
     "word": "crisp",
     "meaning": "Hard, dry and easily broken (food); also fresh and cool (air); also clear and neat",
+    "hindi": "कुरकुरा; ताज़ा, ठंडा; साफ़-सुथरा",
     "trick": "CRISP like a fresh potato CRISP.",
     "examples": [
       "The apple was crisp and sweet.",
@@ -2774,6 +2928,7 @@
   {
     "word": "crotch",
     "meaning": "The part of the body or trousers between the legs",
+    "hindi": "जाँघों के बीच का भाग",
     "trick": "CROTCH: where your trouser legs meet.",
     "examples": [
       "His jeans ripped at the crotch.",
@@ -2792,6 +2947,7 @@
   {
     "word": "crouch",
     "meaning": "To bend your knees and lower your body close to the ground",
+    "hindi": "उकड़ूँ बैठना, झुकना",
     "trick": "CROUCH: like a cat getting low, ready to pounce.",
     "examples": [
       "Crouch down so they can't see you.",
@@ -2810,6 +2966,7 @@
   {
     "word": "crouching",
     "meaning": "Bending the knees to get low to the ground",
+    "hindi": "उकड़ूँ बैठे हुए, झुके हुए",
     "trick": "CROUCHING like a tiger hiding in the grass.",
     "examples": [
       "The cat was crouching behind the sofa.",
@@ -2828,6 +2985,7 @@
   {
     "word": "crowned",
     "meaning": "Officially made king or queen; also named the best (past)",
+    "hindi": "ताज पहनाया गया, राजा बनाया गया; सर्वश्रेष्ठ घोषित",
     "trick": "CROWNED: a CROWN was put on her head.",
     "examples": [
       "She was crowned queen in 1953.",
@@ -2846,6 +3004,7 @@
   {
     "word": "crucible",
     "meaning": "A pot for melting metals; also a difficult test that changes you",
+    "hindi": "धातु गलाने की कुठाली; कठिन परीक्षा",
     "trick": "CRUCIBLE: a pot where things melt and change, like a hard test.",
     "examples": [
       "The metal was melted in a crucible.",
@@ -2864,6 +3023,7 @@
   {
     "word": "crumb",
     "meaning": "A very small piece of bread or cake; also a tiny amount",
+    "hindi": "चूरा, टुकड़ा; ज़रा-सा",
     "trick": "CRUMB: a tiny bit left from a CRUMBLY biscuit.",
     "examples": [
       "There were crumbs all over the table.",
@@ -2882,6 +3042,7 @@
   {
     "word": "crumble",
     "meaning": "To break into small pieces; also to fall apart slowly",
+    "hindi": "चूर-चूर होना, बिखरना; धीरे-धीरे ढहना",
     "trick": "CRUMBLE: biscuits fall into CRUMBS.",
     "examples": [
       "The old wall began to crumble.",
@@ -2900,6 +3061,7 @@
   {
     "word": "crumpled",
     "meaning": "Crushed into untidy folds; also fell down suddenly (past)",
+    "hindi": "मुड़ा-तुड़ा, मसला हुआ; अचानक गिर पड़ा",
     "trick": "CRUMPLED like a paper ball in your hand.",
     "examples": [
       "He threw away the crumpled paper.",
@@ -2918,6 +3080,7 @@
   {
     "word": "crutch",
     "meaning": "A stick that fits under your arm to help you walk; also something you depend on too much",
+    "hindi": "बैसाखी; सहारा",
     "trick": "CRUTCH: you lean on it when your leg hurts.",
     "examples": [
       "He walked with a crutch after the accident.",
@@ -2936,6 +3099,7 @@
   {
     "word": "crutches",
     "meaning": "A pair of sticks that fit under your arms to help you walk",
+    "hindi": "बैसाखियाँ",
     "trick": "One CRUTCH, two CRUTCHES: for a broken leg.",
     "examples": [
       "She's on crutches after breaking her leg.",
@@ -2954,6 +3118,7 @@
   {
     "word": "crystallized",
     "meaning": "Became clear and definite; also formed crystals (past)",
+    "hindi": "स्पष्ट हो गया; क्रिस्टल बन गया",
     "trick": "CRYSTALLIZED: ideas became clear as CRYSTAL.",
     "examples": [
       "Her plans crystallized after the trip.",
@@ -2972,6 +3137,7 @@
   {
     "word": "cucumber",
     "meaning": "A long, green vegetable eaten raw in salads",
+    "hindi": "खीरा",
     "trick": "CUCUMBER: cool as a CUCUMBER.",
     "examples": [
       "She added cucumber to the salad.",
@@ -2990,6 +3156,7 @@
   {
     "word": "cue",
     "meaning": "A signal for someone to do something; also the stick used in snooker and pool",
+    "hindi": "इशारा, संकेत; बिलियर्ड की छड़ी",
     "trick": "CUE = a Queue signal: 'your turn now'.",
     "examples": [
       "When the music stops, that's your cue to enter.",
@@ -3008,6 +3175,7 @@
   {
     "word": "cuff",
     "meaning": "The end part of a sleeve near the wrist; also a light hit with the hand",
+    "hindi": "कफ़, आस्तीन का सिरा; हल्का थप्पड़",
     "trick": "CUFF: the end of your sleeve with a button.",
     "examples": [
       "There's a stain on your shirt cuff.",
@@ -3026,6 +3194,7 @@
   {
     "word": "cuffs",
     "meaning": "Sleeve ends near the wrist; also (informal) handcuffs",
+    "hindi": "आस्तीन के सिरे; हथकड़ी (बोलचाल)",
     "trick": "CUFFS: sleeve ends, or police HANDCUFFS.",
     "examples": [
       "Roll up your cuffs before washing.",
@@ -3044,6 +3213,7 @@
   {
     "word": "culminated",
     "meaning": "Reached the final or highest point after a long process (past)",
+    "hindi": "चरम पर पहुँचा, परिणत हुआ",
     "trick": "CULMINATED: reached the summit, the very top.",
     "examples": [
       "Years of practice culminated in a gold medal.",
@@ -3062,6 +3232,7 @@
   {
     "word": "cultivation",
     "meaning": "Growing crops or plants; also developing a skill or quality",
+    "hindi": "खेती; विकास, निखार",
     "trick": "CULTIVATE the land, CULTIVATION of crops.",
     "examples": [
       "The cultivation of rice needs lots of water.",
@@ -3080,6 +3251,7 @@
   {
     "word": "cumulative",
     "meaning": "Increasing step by step as more is added",
+    "hindi": "संचयी, कुल मिलाकर बढ़ता हुआ",
     "trick": "CUMULATIVE: it ACCUMULATES.",
     "examples": [
       "The cumulative effect of stress is harmful.",
@@ -3098,6 +3270,7 @@
   {
     "word": "curb",
     "meaning": "To control or limit something; also the edge of a pavement (US spelling of kerb)",
+    "hindi": "रोक लगाना, नियंत्रित करना; फुटपाथ का किनारा",
     "trick": "CURB your temper, like a CURB stops the car.",
     "examples": [
       "We need to curb our spending.",
@@ -3116,6 +3289,7 @@
   {
     "word": "curfew",
     "meaning": "A rule that people must be home or indoors by a certain time",
+    "hindi": "कर्फ़्यू",
     "trick": "CURFEW: a CURE for late nights.",
     "examples": [
       "My curfew is 10 p.m.",
@@ -3134,6 +3308,7 @@
   {
     "word": "curlicues",
     "meaning": "Decorative curls or twists in writing or design (plural)",
+    "hindi": "सजावटी घुमाव, बेल-बूटे",
     "trick": "CURLI-CUES: little CURLS.",
     "examples": [
       "Her handwriting has pretty curlicues.",
@@ -3152,6 +3327,7 @@
   {
     "word": "curriculum",
     "meaning": "The subjects taught in a school or course",
+    "hindi": "पाठ्यक्रम",
     "trick": "CURRICULUM: the race COURSE of school subjects.",
     "examples": [
       "Maths is part of the school curriculum.",
@@ -3170,6 +3346,7 @@
   {
     "word": "cursive",
     "meaning": "Handwriting where the letters are joined together",
+    "hindi": "घसीट लिखावट, जुड़ी हुई लिखावट",
     "trick": "CURSIVE: letters RUN together (like 'course').",
     "examples": [
       "Kids learn to write in cursive.",
@@ -3188,6 +3365,7 @@
   {
     "word": "cushion",
     "meaning": "A soft pillow for a chair or sofa; also something that reduces a shock",
+    "hindi": "गद्दी, तकिया; झटके से बचाव",
     "trick": "CUSHION: a soft pillow on the sofa.",
     "examples": [
       "Put a cushion behind your back.",
@@ -3206,6 +3384,7 @@
   {
     "word": "cushions",
     "meaning": "Soft pillows for chairs or sofas (plural)",
+    "hindi": "गद्दियाँ, तकिए",
     "trick": "One CUSHION, many CUSHIONS on the sofa.",
     "examples": [
       "The sofa has lots of soft cushions.",
@@ -3224,6 +3403,7 @@
   {
     "word": "cusp",
     "meaning": "The point where one thing is about to change into another",
+    "hindi": "दहलीज़, बदलाव का मोड़",
     "trick": "On the CUSP: at the edge, about to tip over.",
     "examples": [
       "She is on the cusp of a big career.",
@@ -3242,6 +3422,7 @@
   {
     "word": "cutout",
     "meaning": "A shape cut out of paper or card; also a device that stops a machine",
+    "hindi": "काटकर बनाई आकृति; स्वचालित बंद करने वाला यंत्र",
     "trick": "CUT-OUT: CUT it OUT of paper.",
     "examples": [
       "The kids made paper cutouts of stars.",
@@ -3260,6 +3441,7 @@
   {
     "word": "cyborg",
     "meaning": "A creature that is part human and part machine (science fiction)",
+    "hindi": "आधा इंसान आधा मशीन",
     "trick": "CYBORG = CYBernetic ORGanism: half human, half robot.",
     "examples": [
       "The film is about a cyborg from the future.",
