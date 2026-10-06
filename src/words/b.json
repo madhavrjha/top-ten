@@ -1,5 +1,23 @@
 [
   {
+    "word": "baaing",
+    "meaning": "Making the 'baa' sound that a sheep or lamb makes",
+    "trick": "BAA-ing: the sheep keeps saying 'BAA'.",
+    "examples": [
+      "The lambs were baaing in the field.",
+      "We woke up to sheep baaing outside."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "be baaing (at someone/something)",
+      "partners": [
+        "sheep baaing",
+        "lambs baaing",
+        "baaing loudly"
+      ]
+    }
+  },
+  {
     "word": "babbling",
     "meaning": "Talking quickly and continuously in a silly or confusing way; also the soft sound of flowing water",
     "trick": "BAB-BAB-BAB — a baby making the same sounds again and again.",
@@ -36,6 +54,42 @@
     }
   },
   {
+    "word": "backpedal",
+    "meaning": "To change your opinion or go back on something you said; also to pedal or move backwards",
+    "trick": "Pedalling BACKWARDS on a bike, like going back on your words.",
+    "examples": [
+      "The minister had to backpedal on his promise.",
+      "Don't backpedal now, you said you would come!"
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "backpedal on something (a promise / a plan)",
+      "partners": [
+        "backpedal on a promise",
+        "quickly backpedal",
+        "backpedal on the plan"
+      ]
+    }
+  },
+  {
+    "word": "badgering",
+    "meaning": "Asking someone again and again in an annoying way",
+    "trick": "A BADGER keeps digging and digging, like you asking again and again.",
+    "examples": [
+      "Stop badgering me about the party!",
+      "The kids kept badgering their dad for ice cream."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "badger someone about/for something / badger someone to do something",
+      "partners": [
+        "badgering me",
+        "keep badgering",
+        "badgering for money"
+      ]
+    }
+  },
+  {
     "word": "bailed out",
     "meaning": "Rescued someone from trouble, usually by giving money; also (informal) left or gave up on a plan suddenly",
     "trick": "Throwing water OUT of a boat with a BAIL (bucket) to save it.",
@@ -50,6 +104,78 @@
         "bailed out the bank",
         "bailed him out of jail",
         "bailed out on the plan"
+      ]
+    }
+  },
+  {
+    "word": "balmy",
+    "meaning": "Pleasantly warm and gentle (of weather)",
+    "trick": "BALM is soothing cream, so BALMY weather soothes you.",
+    "examples": [
+      "We sat outside on a balmy summer evening.",
+      "The balmy breeze felt lovely on the beach."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a balmy + noun (evening / night / breeze)",
+      "partners": [
+        "balmy evening",
+        "balmy weather",
+        "balmy breeze"
+      ]
+    }
+  },
+  {
+    "word": "bandits",
+    "meaning": "Robbers, usually in a gang, who attack travellers",
+    "trick": "BANDITS travel in a BAND (group) and steal.",
+    "examples": [
+      "Bandits stopped the bus and took everyone's money.",
+      "The village was attacked by bandits."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "attacked/robbed by bandits; a gang of bandits",
+      "partners": [
+        "armed bandits",
+        "gang of bandits",
+        "attacked by bandits"
+      ]
+    }
+  },
+  {
+    "word": "banging",
+    "meaning": "Hitting something hard and making a loud noise",
+    "trick": "BANG BANG: the sound of something being hit.",
+    "examples": [
+      "Someone is banging on the door.",
+      "He kept banging his head against the wall."
+    ],
+    "usage": {
+      "pos": "verb (-ing) / noun",
+      "pattern": "bang on/against something; bang something",
+      "partners": [
+        "banging on the door",
+        "banging noise",
+        "banging my head"
+      ]
+    }
+  },
+  {
+    "word": "banter",
+    "meaning": "Friendly, playful teasing talk between people",
+    "trick": "BANTER: friends BANTER like a BAND playing together, lightly and for fun.",
+    "examples": [
+      "There's always good banter in our office.",
+      "The friends enjoyed some banter over lunch."
+    ],
+    "usage": {
+      "pos": "noun / verb",
+      "pattern": "banter with someone; friendly banter",
+      "partners": [
+        "friendly banter",
+        "playful banter",
+        "banter with friends"
       ]
     }
   },
@@ -72,6 +198,24 @@
     }
   },
   {
+    "word": "barber",
+    "meaning": "A person whose job is to cut men's hair and shave beards",
+    "trick": "BARBER cuts the BEARD (barba = beard in Latin).",
+    "examples": [
+      "I go to the barber once a month.",
+      "The barber gave him a short haircut."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "go to the barber('s)",
+      "partners": [
+        "barber shop",
+        "local barber",
+        "go to the barber"
+      ]
+    }
+  },
+  {
     "word": "barbs",
     "meaning": "Sharp, hurtful remarks; also the sharp backward-pointing points on a hook or wire",
     "trick": "BARBed wire has sharp points — BARBS are sharp words that stick in you.",
@@ -90,6 +234,24 @@
     }
   },
   {
+    "word": "bare",
+    "meaning": "Not covered by clothes or anything; also empty, or only the most basic",
+    "trick": "BARE feet = nothing on them.",
+    "examples": [
+      "She walked on the beach with bare feet.",
+      "The room was bare except for a bed."
+    ],
+    "usage": {
+      "pos": "adjective / verb",
+      "pattern": "bare + noun; the bare minimum",
+      "partners": [
+        "bare feet",
+        "bare walls",
+        "the bare minimum"
+      ]
+    }
+  },
+  {
     "word": "bared",
     "meaning": "Uncovered or showed something that was hidden (past of bare)",
     "trick": "BARE = uncovered; BARED = made it bare.",
@@ -104,6 +266,24 @@
         "bared its teeth",
         "bared her soul",
         "bared his chest"
+      ]
+    }
+  },
+  {
+    "word": "barley",
+    "meaning": "A grain crop used for food, animal feed and making beer",
+    "trick": "BARLEY: a grain that BARELY looks different from wheat.",
+    "examples": [
+      "Grandma makes soup with barley.",
+      "The fields were full of golden barley."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "barley + noun (soup / field / water)",
+      "partners": [
+        "barley soup",
+        "barley field",
+        "barley water"
       ]
     }
   },
@@ -162,6 +342,24 @@
     }
   },
   {
+    "word": "barred",
+    "meaning": "Not allowed to enter or do something; also closed with bars (past)",
+    "trick": "Blocked by BARS, like a jail window.",
+    "examples": [
+      "He was barred from the club for fighting.",
+      "The windows were barred to stop thieves."
+    ],
+    "usage": {
+      "pos": "verb (past) / adjective",
+      "pattern": "be barred from something / from doing something",
+      "partners": [
+        "barred from entering",
+        "barred windows",
+        "barred the door"
+      ]
+    }
+  },
+  {
     "word": "barreled",
     "meaning": "Moved very fast and forcefully, often without control (past)",
     "trick": "Like a BARREL rolling down a hill — fast and unstoppable.",
@@ -194,6 +392,42 @@
         "barreling down the road",
         "barreling towards us",
         "come barreling"
+      ]
+    }
+  },
+  {
+    "word": "barren",
+    "meaning": "Too dry or poor for plants to grow; also unable to have children (old use)",
+    "trick": "BARREN land is BARE: nothing grows.",
+    "examples": [
+      "Nothing grows on this barren land.",
+      "The desert looked barren and empty."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "barren + noun (land / desert / field)",
+      "partners": [
+        "barren land",
+        "barren desert",
+        "barren landscape"
+      ]
+    }
+  },
+  {
+    "word": "bases",
+    "meaning": "The bottom parts that things stand on; also military camps; also the four corners in baseball (plural of base)",
+    "trick": "One BASE, many BASES: the bottom of things.",
+    "examples": [
+      "The army has several bases in the north.",
+      "Both lamps have heavy bases so they don't fall."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "military bases; the bases of something",
+      "partners": [
+        "military bases",
+        "air bases",
+        "cover all the bases"
       ]
     }
   },
@@ -252,6 +486,24 @@
     }
   },
   {
+    "word": "bassinet",
+    "meaning": "A small basket-like bed for a newborn baby",
+    "trick": "BASSINET: a BASKET bed for a baby.",
+    "examples": [
+      "The baby is sleeping in her bassinet.",
+      "They put the bassinet next to their bed."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in a/the bassinet",
+      "partners": [
+        "baby bassinet",
+        "in the bassinet",
+        "bedside bassinet"
+      ]
+    }
+  },
+  {
     "word": "bathers",
     "meaning": "People who are swimming or bathing; also (Australian informal) a swimsuit",
     "trick": "BATHERS are people taking a BATH in the sea.",
@@ -266,6 +518,24 @@
         "sea bathers",
         "bathers on the beach",
         "pack your bathers"
+      ]
+    }
+  },
+  {
+    "word": "bathhouse",
+    "meaning": "A building with baths for public use",
+    "trick": "BATH + HOUSE: a house full of baths.",
+    "examples": [
+      "The old town has a Roman bathhouse.",
+      "People visited the bathhouse to relax."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a public bathhouse",
+      "partners": [
+        "public bathhouse",
+        "old bathhouse",
+        "Roman bathhouse"
       ]
     }
   },
@@ -305,6 +575,42 @@
     }
   },
   {
+    "word": "battering",
+    "meaning": "Hitting hard and many times; also a strong attack or criticism",
+    "trick": "BAT-tering: hitting again and again like with a BAT.",
+    "examples": [
+      "The waves were battering the boat.",
+      "The team took a battering in the final."
+    ],
+    "usage": {
+      "pos": "verb (-ing) / noun",
+      "pattern": "be battering something; take a battering",
+      "partners": [
+        "battering the coast",
+        "take a battering",
+        "battering ram"
+      ]
+    }
+  },
+  {
+    "word": "batting",
+    "meaning": "Hitting the ball with a bat in cricket or baseball; also blinking (eyelashes)",
+    "trick": "BAT-ting: holding the BAT.",
+    "examples": [
+      "India is batting first today.",
+      "She was batting her eyelashes at him."
+    ],
+    "usage": {
+      "pos": "verb (-ing) / noun",
+      "pattern": "be batting (first / second); without batting an eye",
+      "partners": [
+        "batting first",
+        "batting average",
+        "without batting an eye"
+      ]
+    }
+  },
+  {
     "word": "batty",
     "meaning": "Slightly crazy or strange (informal, mild)",
     "trick": "'Bats in the belfry' — a head full of bats is a bit batty.",
@@ -319,6 +625,24 @@
         "a bit batty",
         "drive someone batty",
         "batty old"
+      ]
+    }
+  },
+  {
+    "word": "bawl",
+    "meaning": "To cry very loudly; also to shout loudly",
+    "trick": "BAWL sounds like a BALL of noise: a baby wailing.",
+    "examples": [
+      "The baby started to bawl when she dropped her toy.",
+      "Don't bawl at me, I can hear you!"
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "bawl (your eyes out); bawl at someone; bawl out something",
+      "partners": [
+        "bawl your eyes out",
+        "bawl at someone",
+        "bawl loudly"
       ]
     }
   },
@@ -373,6 +697,24 @@
         "a bazillion times",
         "a bazillion things",
         "bazillions of"
+      ]
+    }
+  },
+  {
+    "word": "beaded",
+    "meaning": "Decorated with beads; also covered with small drops",
+    "trick": "BEAD-ed: covered with BEADS.",
+    "examples": [
+      "She wore a beautiful beaded dress.",
+      "His forehead was beaded with sweat."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "beaded + noun; be beaded with something",
+      "partners": [
+        "beaded necklace",
+        "beaded dress",
+        "beaded with sweat"
       ]
     }
   },
@@ -503,6 +845,24 @@
     }
   },
   {
+    "word": "bees",
+    "meaning": "Flying insects that make honey and can sting",
+    "trick": "BEES BUZZ around flowers.",
+    "examples": [
+      "The bees are busy with the flowers.",
+      "She is scared of bees."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "bees + verb (buzz / sting / make honey)",
+      "partners": [
+        "honey bees",
+        "swarm of bees",
+        "bees buzzing"
+      ]
+    }
+  },
+  {
     "word": "befuddlement",
     "meaning": "The state of being confused and unable to think clearly",
     "trick": "BE-FUDDLE-ment: your brain is a FUDDLED muddle.",
@@ -535,6 +895,42 @@
         "begat a son",
         "violence begat violence",
         "begat many more"
+      ]
+    }
+  },
+  {
+    "word": "begrudged",
+    "meaning": "Felt unhappy or jealous that someone had something; gave something unwillingly (past)",
+    "trick": "BE-GRUDGE-d: holding a GRUDGE about it.",
+    "examples": [
+      "He begrudged his brother's success.",
+      "She begrudged paying so much for a small room."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "begrudge someone something / begrudge doing something",
+      "partners": [
+        "begrudged his success",
+        "begrudged paying",
+        "never begrudged"
+      ]
+    }
+  },
+  {
+    "word": "beheadings",
+    "meaning": "Acts of killing someone by cutting off their head",
+    "trick": "BE-HEAD-ings: the HEAD is cut off.",
+    "examples": [
+      "The history book described the beheadings of kings.",
+      "Public beheadings happened in the past."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "public beheadings; beheadings of someone",
+      "partners": [
+        "public beheadings",
+        "brutal beheadings",
+        "beheadings of kings"
       ]
     }
   },
@@ -575,6 +971,24 @@
     }
   },
   {
+    "word": "beleaguered",
+    "meaning": "Having a lot of problems or difficulties; also surrounded by an army",
+    "trick": "Like a city under LEAGUER (siege): attacked from all sides.",
+    "examples": [
+      "The beleaguered manager faced angry customers all day.",
+      "The beleaguered town waited for help."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a beleaguered + noun",
+      "partners": [
+        "beleaguered team",
+        "beleaguered government",
+        "beleaguered city"
+      ]
+    }
+  },
+  {
     "word": "belittle",
     "meaning": "To make someone or something seem small or unimportant",
     "trick": "BE-LITTLE — make someone feel LITTLE.",
@@ -607,6 +1021,78 @@
         "follow a bell curve",
         "grade on a bell curve",
         "middle of the bell curve"
+      ]
+    }
+  },
+  {
+    "word": "bellowed",
+    "meaning": "Shouted in a deep, loud voice; also made the deep sound of a bull (past)",
+    "trick": "BELLOW sounds like a BULL'S loud roar.",
+    "examples": [
+      "The coach bellowed at the players.",
+      "'Get out!' he bellowed."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "bellow (at someone); bellow something",
+      "partners": [
+        "bellowed at them",
+        "bellowed orders",
+        "bellowed with laughter"
+      ]
+    }
+  },
+  {
+    "word": "belt loops",
+    "meaning": "The small fabric loops on trousers that hold a belt in place",
+    "trick": "LOOPS for your BELT.",
+    "examples": [
+      "Push the belt through the belt loops.",
+      "One of the belt loops on my jeans is torn."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "through the belt loops",
+      "partners": [
+        "jeans belt loops",
+        "through the belt loops",
+        "torn belt loop"
+      ]
+    }
+  },
+  {
+    "word": "bemoan",
+    "meaning": "To complain or express sadness about something",
+    "trick": "BE-MOAN: keep MOANING about it.",
+    "examples": [
+      "He likes to bemoan the traffic every morning.",
+      "There's no point bemoaning your bad luck."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "bemoan something (the fact that ...)",
+      "partners": [
+        "bemoan the lack of",
+        "bemoan the fact",
+        "bemoan your fate"
+      ]
+    }
+  },
+  {
+    "word": "bemusement",
+    "meaning": "A state of being confused and a bit puzzled",
+    "trick": "BE-MUSE-ment: your MUSE (mind) is muddled.",
+    "examples": [
+      "She looked at the strange gift in bemusement.",
+      "To my bemusement, he started singing."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in bemusement / to someone's bemusement",
+      "partners": [
+        "in bemusement",
+        "look of bemusement",
+        "to my bemusement"
       ]
     }
   },
@@ -719,6 +1205,60 @@
     }
   },
   {
+    "word": "beseeching",
+    "meaning": "Begging or asking for something in an emotional way",
+    "trick": "BE-SEEK-ing: SEEKING help desperately.",
+    "examples": [
+      "The dog gave me a beseeching look.",
+      "She was beseeching him to stay."
+    ],
+    "usage": {
+      "pos": "adjective / verb (-ing)",
+      "pattern": "beseech someone to do something; a beseeching + noun",
+      "partners": [
+        "beseeching look",
+        "beseeching eyes",
+        "beseeching him to stay"
+      ]
+    }
+  },
+  {
+    "word": "besieged",
+    "meaning": "Surrounded by an army; also overwhelmed by many people, questions or requests (past)",
+    "trick": "BE-SIEGE-d: under SIEGE from all sides.",
+    "examples": [
+      "The castle was besieged for months.",
+      "The star was besieged by fans."
+    ],
+    "usage": {
+      "pos": "verb (past) / adjective",
+      "pattern": "be besieged by/with someone/something",
+      "partners": [
+        "besieged by fans",
+        "besieged with calls",
+        "besieged city"
+      ]
+    }
+  },
+  {
+    "word": "bespectacled",
+    "meaning": "Wearing glasses",
+    "trick": "BE-SPECTACLE-d: has SPECTACLES (glasses) on.",
+    "examples": [
+      "A bespectacled man sat behind the desk.",
+      "The bespectacled girl was reading a book."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a bespectacled + noun",
+      "partners": [
+        "bespectacled man",
+        "bespectacled teacher",
+        "bespectacled face"
+      ]
+    }
+  },
+  {
     "word": "bestow",
     "meaning": "To give something, especially an honour or gift",
     "trick": "BEST-OW — give someone your BEST.",
@@ -773,6 +1313,24 @@
     }
   },
   {
+    "word": "bewail",
+    "meaning": "To cry about or complain sadly about something (old-fashioned)",
+    "trick": "BE-WAIL: to WAIL about it.",
+    "examples": [
+      "She sat down to bewail her bad luck.",
+      "There's no use bewailing the past."
+    ],
+    "usage": {
+      "pos": "verb (old-fashioned)",
+      "pattern": "bewail something",
+      "partners": [
+        "bewail your fate",
+        "bewail the loss",
+        "bewail the past"
+      ]
+    }
+  },
+  {
     "word": "bewildered",
     "meaning": "Very confused and unable to understand what is happening",
     "trick": "BE-WILD-ered — lost in the wild, not knowing which way to go.",
@@ -791,6 +1349,42 @@
     }
   },
   {
+    "word": "bewitch",
+    "meaning": "To put a magic spell on someone; also to charm someone completely",
+    "trick": "BE-WITCH: a WITCH puts a spell on you.",
+    "examples": [
+      "The witch tried to bewitch the prince.",
+      "The music seemed to bewitch everyone in the room."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "bewitch someone",
+      "partners": [
+        "bewitch someone",
+        "bewitched by her",
+        "bewitch the audience"
+      ]
+    }
+  },
+  {
+    "word": "bewitching",
+    "meaning": "Very charming and attractive, as if by magic",
+    "trick": "So beautiful a WITCH must have done it.",
+    "examples": [
+      "She had a bewitching smile.",
+      "The view of the hills was bewitching."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a bewitching + noun",
+      "partners": [
+        "bewitching smile",
+        "bewitching eyes",
+        "bewitching beauty"
+      ]
+    }
+  },
+  {
     "word": "biblical",
     "meaning": "Related to the Bible; also (informal) very large or extreme",
     "trick": "BIBLE + -ical — and the Bible has huge floods.",
@@ -805,6 +1399,24 @@
         "biblical story",
         "biblical times",
         "of biblical proportions"
+      ]
+    }
+  },
+  {
+    "word": "bickering",
+    "meaning": "Arguing about small, unimportant things",
+    "trick": "BICKER sounds like BICKERING kids fighting over toys.",
+    "examples": [
+      "The kids were bickering in the back seat.",
+      "Stop bickering and help me clean up."
+    ],
+    "usage": {
+      "pos": "noun / verb (-ing)",
+      "pattern": "bicker (with someone) about/over something",
+      "partners": [
+        "constant bickering",
+        "bickering kids",
+        "bickering over money"
       ]
     }
   },
@@ -1079,6 +1691,24 @@
     }
   },
   {
+    "word": "bladder",
+    "meaning": "The organ in your body that stores urine",
+    "trick": "BLADDER: the bag that fills up before you run to the loo.",
+    "examples": [
+      "I need the toilet, my bladder is full.",
+      "He had a small bladder problem."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a full/weak bladder",
+      "partners": [
+        "full bladder",
+        "weak bladder",
+        "bladder infection"
+      ]
+    }
+  },
+  {
     "word": "bland",
     "meaning": "Without much taste, interest or excitement",
     "trick": "BLAND rhymes with SAND — no flavour at all.",
@@ -1183,6 +1813,24 @@
         "blazing fire",
         "blazing sun",
         "blazing hot"
+      ]
+    }
+  },
+  {
+    "word": "bleachers",
+    "meaning": "Rows of simple open seats for people watching a sport",
+    "trick": "Seats so open they get BLEACHED by the sun.",
+    "examples": [
+      "We sat in the bleachers to watch the game.",
+      "The bleachers were full of fans."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "in/on the bleachers",
+      "partners": [
+        "sit in the bleachers",
+        "school bleachers",
+        "packed bleachers"
       ]
     }
   },
@@ -1439,6 +2087,42 @@
     }
   },
   {
+    "word": "blond",
+    "meaning": "Having pale yellow or light-coloured hair; also a person with such hair",
+    "trick": "BLOND = light like BLONDE (blonde is often used for women).",
+    "examples": [
+      "He has short blond hair.",
+      "The blond boy is my cousin."
+    ],
+    "usage": {
+      "pos": "adjective / noun",
+      "pattern": "blond + noun (hair / boy)",
+      "partners": [
+        "blond hair",
+        "blond boy",
+        "bleached blond"
+      ]
+    }
+  },
+  {
+    "word": "bloodhounds",
+    "meaning": "Large dogs with a very strong sense of smell, used for tracking",
+    "trick": "HOUNDS that can follow even a drop of BLOOD.",
+    "examples": [
+      "The police used bloodhounds to find the missing child.",
+      "Bloodhounds have long, droopy ears."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "bloodhounds track/follow something",
+      "partners": [
+        "police bloodhounds",
+        "bloodhounds tracking",
+        "pack of bloodhounds"
+      ]
+    }
+  },
+  {
     "word": "blooming",
     "meaning": "Producing flowers; growing healthily; also (British informal) used for emphasis, like 'bloody'",
     "trick": "A BLOOM is a flower — BLOOMING = flowers opening.",
@@ -1529,6 +2213,24 @@
     }
   },
   {
+    "word": "blue-lavender",
+    "meaning": "A soft, pale purple-blue colour",
+    "trick": "BLUE + LAVENDER (the light purple flower).",
+    "examples": [
+      "She painted her bedroom blue-lavender.",
+      "The sky turned blue-lavender at sunset."
+    ],
+    "usage": {
+      "pos": "adjective / noun (colour)",
+      "pattern": "a blue-lavender + noun",
+      "partners": [
+        "blue-lavender sky",
+        "blue-lavender dress",
+        "soft blue-lavender"
+      ]
+    }
+  },
+  {
     "word": "blunt",
     "meaning": "Not sharp; also saying what you think very directly",
     "trick": "A BLUNT knife can't cut — a BLUNT person doesn't soften words.",
@@ -1579,6 +2281,24 @@
         "wild boar",
         "boar hunt",
         "angry boar"
+      ]
+    }
+  },
+  {
+    "word": "boasts",
+    "meaning": "Talks too proudly about yourself; also has something good to be proud of",
+    "trick": "He BOASTS like he owns a big BOAT.",
+    "examples": [
+      "He always boasts about his new car.",
+      "The hotel boasts a lovely pool."
+    ],
+    "usage": {
+      "pos": "verb / noun (plural)",
+      "pattern": "boast about/of something; something boasts something",
+      "partners": [
+        "boasts about",
+        "proudly boasts",
+        "boasts a view"
       ]
     }
   },
@@ -1637,6 +2357,24 @@
     }
   },
   {
+    "word": "bodice",
+    "meaning": "The top part of a woman's dress, above the waist",
+    "trick": "BODICE covers the BODY's upper part.",
+    "examples": [
+      "The dress had a lace bodice.",
+      "She sewed beads onto the bodice."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the bodice of a dress",
+      "partners": [
+        "lace bodice",
+        "tight bodice",
+        "fitted bodice"
+      ]
+    }
+  },
+  {
     "word": "bogeys",
     "meaning": "Imaginary things that scare people; also bits of dried mucus from the nose (informal); in golf, one shot over par",
     "trick": "BOGEYman — scary things in the dark.",
@@ -1669,6 +2407,42 @@
         "bogus claim",
         "bogus email",
         "bogus ID"
+      ]
+    }
+  },
+  {
+    "word": "boisterous",
+    "meaning": "Noisy, lively and full of energy",
+    "trick": "BOIS-TEROUS: BOYS being rowdy.",
+    "examples": [
+      "The boisterous kids ran around the park.",
+      "The party got a bit boisterous."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be boisterous / a boisterous + noun",
+      "partners": [
+        "boisterous kids",
+        "boisterous crowd",
+        "boisterous laughter"
+      ]
+    }
+  },
+  {
+    "word": "boisterously",
+    "meaning": "In a noisy, lively and energetic way",
+    "trick": "BOYS laughing BOISTEROUSLY.",
+    "examples": [
+      "The friends laughed boisterously at the joke.",
+      "The fans cheered boisterously."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "laugh/play/cheer boisterously",
+      "partners": [
+        "laughed boisterously",
+        "played boisterously",
+        "cheered boisterously"
       ]
     }
   },
@@ -1709,6 +2483,24 @@
     }
   },
   {
+    "word": "bolting",
+    "meaning": "Running away suddenly and fast; also locking with a bolt; also eating very fast",
+    "trick": "Usain BOLT: running off at top speed.",
+    "examples": [
+      "The horse was bolting across the field.",
+      "Stop bolting your food, eat slowly!"
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "bolt (from/out of somewhere); bolt something down (food)",
+      "partners": [
+        "bolting out of",
+        "bolting the door",
+        "bolting down food"
+      ]
+    }
+  },
+  {
     "word": "bombarded",
     "meaning": "Attacked continuously; or given too many questions, messages or things at once",
     "trick": "Like being hit by BOMBs again and again.",
@@ -1745,6 +2537,24 @@
     }
   },
   {
+    "word": "bone-scorching",
+    "meaning": "Extremely hot, as if heat could burn your bones",
+    "trick": "So hot it SCORCHES your BONES.",
+    "examples": [
+      "We walked in the bone-scorching sun.",
+      "The desert had bone-scorching heat."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "bone-scorching + noun (heat / sun)",
+      "partners": [
+        "bone-scorching heat",
+        "bone-scorching sun",
+        "bone-scorching day"
+      ]
+    }
+  },
+  {
     "word": "bonfire",
     "meaning": "A large outdoor fire, often for celebration or burning rubbish",
     "trick": "BON-FIRE — a good (BON) FIRE for a party.",
@@ -1777,6 +2587,24 @@
         "bonking on the head",
         "bonking noise",
         "bonked his head"
+      ]
+    }
+  },
+  {
+    "word": "bony",
+    "meaning": "Very thin so the bones show; also full of bones (of fish)",
+    "trick": "BONE-y: you can see the BONES.",
+    "examples": [
+      "The stray cat was small and bony.",
+      "This fish is too bony to eat easily."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be bony / a bony + noun",
+      "partners": [
+        "bony fingers",
+        "bony knees",
+        "bony fish"
       ]
     }
   },
@@ -1853,6 +2681,24 @@
     }
   },
   {
+    "word": "bored",
+    "meaning": "Tired and unhappy because nothing interesting is happening",
+    "trick": "BORED = nothing to do, nothing new.",
+    "examples": [
+      "I'm bored, let's go out.",
+      "The kids got bored during the long drive."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be/get bored (with something / of doing something)",
+      "partners": [
+        "bored to death",
+        "get bored",
+        "bored with work"
+      ]
+    }
+  },
+  {
     "word": "boulevard",
     "meaning": "A wide city street, often lined with trees",
     "trick": "BOULEVARD — a BOLD, wide road with trees.",
@@ -1889,6 +2735,24 @@
     }
   },
   {
+    "word": "bounty",
+    "meaning": "A reward paid for catching a criminal; also a large, generous amount",
+    "trick": "A BOUNTY hunter gets money for catching bad guys.",
+    "examples": [
+      "There is a bounty on the robber's head.",
+      "The garden gave us a bounty of fruit."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a bounty on someone; a bounty of something",
+      "partners": [
+        "bounty hunter",
+        "bounty on his head",
+        "bounty of food"
+      ]
+    }
+  },
+  {
     "word": "bout",
     "meaning": "A short period of illness or activity; also a boxing or wrestling match",
     "trick": "A BOUT of flu is ABOUT a few days.",
@@ -1903,6 +2767,24 @@
         "bout of flu",
         "bout of illness",
         "boxing bout"
+      ]
+    }
+  },
+  {
+    "word": "bouts",
+    "meaning": "Short periods of illness or activity; also boxing or wrestling matches (plural)",
+    "trick": "One BOUT, two BOUTS: short rounds of something.",
+    "examples": [
+      "She has bouts of headache every winter.",
+      "He won both of his boxing bouts."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "bouts of something",
+      "partners": [
+        "bouts of illness",
+        "bouts of coughing",
+        "boxing bouts"
       ]
     }
   },
@@ -1961,6 +2843,42 @@
     }
   },
   {
+    "word": "bragging",
+    "meaning": "Talking too proudly about yourself or what you have",
+    "trick": "BRAG sounds like a BRAT showing off.",
+    "examples": [
+      "Stop bragging about your marks.",
+      "He was bragging about his new phone."
+    ],
+    "usage": {
+      "pos": "verb (-ing) / noun",
+      "pattern": "brag about something",
+      "partners": [
+        "bragging about",
+        "bragging rights",
+        "stop bragging"
+      ]
+    }
+  },
+  {
+    "word": "braid",
+    "meaning": "Three or more strands of hair twisted together; also to twist them together",
+    "trick": "BRAID = plait: three strands in a pattern.",
+    "examples": [
+      "She wore her hair in a long braid.",
+      "Can you braid my hair?"
+    ],
+    "usage": {
+      "pos": "noun / verb",
+      "pattern": "wear a braid; braid someone's hair",
+      "partners": [
+        "long braid",
+        "braid her hair",
+        "French braid"
+      ]
+    }
+  },
+  {
     "word": "braided",
     "meaning": "Twisted three or more strands of hair or rope together (past); also having braids",
     "trick": "BRAID = plait — BRAIDED hair is plaited hair.",
@@ -1979,6 +2897,24 @@
     }
   },
   {
+    "word": "braids",
+    "meaning": "Hairstyles made of strands of hair twisted together (plural)",
+    "trick": "One BRAID, two BRAIDS: pigtails.",
+    "examples": [
+      "The little girl had two braids.",
+      "She spent hours doing her braids."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "wear braids / in braids",
+      "partners": [
+        "two braids",
+        "box braids",
+        "hair in braids"
+      ]
+    }
+  },
+  {
     "word": "brain boners",
     "meaning": "(Slang, joking) Ideas or facts so interesting they excite your mind",
     "trick": "Something that gets your BRAIN really excited.",
@@ -1992,6 +2928,24 @@
       "partners": [
         "give me brain boners",
         "total brain boner"
+      ]
+    }
+  },
+  {
+    "word": "brandished",
+    "meaning": "Waved something, especially a weapon, in a threatening or excited way (past)",
+    "trick": "Waved a burning BRAND (torch) at someone.",
+    "examples": [
+      "The robber brandished a knife.",
+      "He brandished the trophy above his head."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "brandish something (a weapon / a flag)",
+      "partners": [
+        "brandished a knife",
+        "brandished a gun",
+        "brandished the trophy"
       ]
     }
   },
@@ -2032,6 +2986,60 @@
     }
   },
   {
+    "word": "brayed",
+    "meaning": "Made the loud harsh sound of a donkey; also laughed loudly and harshly (past)",
+    "trick": "A donkey BRAYED 'hee-HAW'.",
+    "examples": [
+      "The donkey brayed all night.",
+      "He brayed with laughter at his own joke."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something brayed; bray with laughter",
+      "partners": [
+        "the donkey brayed",
+        "brayed loudly",
+        "brayed with laughter"
+      ]
+    }
+  },
+  {
+    "word": "brays",
+    "meaning": "Makes the loud harsh sound of a donkey; also these sounds (plural)",
+    "trick": "The donkey BRAYS: 'hee-HAW'!",
+    "examples": [
+      "The donkey brays when it is hungry.",
+      "We heard loud brays from the farm."
+    ],
+    "usage": {
+      "pos": "verb / noun (plural)",
+      "pattern": "something brays",
+      "partners": [
+        "the donkey brays",
+        "loud brays",
+        "brays of laughter"
+      ]
+    }
+  },
+  {
+    "word": "brazier",
+    "meaning": "A metal container holding burning coal or wood, used for heat or cooking",
+    "trick": "BRAZIER sounds like BLAZE: a box of fire.",
+    "examples": [
+      "The guards warmed their hands over a brazier.",
+      "Corn was roasting on a brazier."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "warm (your hands) over a brazier",
+      "partners": [
+        "coal brazier",
+        "over the brazier",
+        "burning brazier"
+      ]
+    }
+  },
+  {
     "word": "breach",
     "meaning": "Breaking a rule, law or promise; or a gap or break in a wall or defence",
     "trick": "BREACH ≈ BREAK — both start with BRE.",
@@ -2050,6 +3058,24 @@
     }
   },
   {
+    "word": "breast",
+    "meaning": "The front of the chest; also either of the two soft parts on a woman's chest; meat from a bird's chest",
+    "trick": "BREAST = the chest area.",
+    "examples": [
+      "We had chicken breast for dinner.",
+      "The bird had a red breast."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "chicken/duck breast; on the breast",
+      "partners": [
+        "chicken breast",
+        "breast pocket",
+        "red breast"
+      ]
+    }
+  },
+  {
     "word": "bred",
     "meaning": "Raised animals or plants to produce young ones (past of 'breed'); also, brought up",
     "trick": "BRED = past of BREED — 'born and bred'.",
@@ -2064,6 +3090,24 @@
         "born and bred",
         "bred for",
         "well-bred"
+      ]
+    }
+  },
+  {
+    "word": "breech",
+    "meaning": "The back part of a gun barrel; also (of a baby) born bottom or feet first",
+    "trick": "BREECH: the back end, like breeches cover your back end.",
+    "examples": [
+      "The baby was in a breech position.",
+      "He loaded the bullet into the breech."
+    ],
+    "usage": {
+      "pos": "noun / adjective",
+      "pattern": "a breech birth/baby; the breech of a gun",
+      "partners": [
+        "breech birth",
+        "breech baby",
+        "breech of the gun"
       ]
     }
   },
@@ -2158,6 +3202,24 @@
     }
   },
   {
+    "word": "brew",
+    "meaning": "To make tea, coffee or beer; also something about to happen (trouble, a storm)",
+    "trick": "BREW the tea, and trouble BREWS too.",
+    "examples": [
+      "Let me brew a fresh pot of tea.",
+      "A storm is brewing in the west."
+    ],
+    "usage": {
+      "pos": "verb / noun",
+      "pattern": "brew something; something is brewing",
+      "partners": [
+        "brew coffee",
+        "home brew",
+        "trouble is brewing"
+      ]
+    }
+  },
+  {
     "word": "bricked",
     "meaning": "(informal) Made an electronic device completely useless, like a brick; also built or blocked with bricks (past)",
     "trick": "Your phone is now just a BRICK.",
@@ -2176,6 +3238,24 @@
     }
   },
   {
+    "word": "brilliance",
+    "meaning": "Great intelligence or skill; also very bright light",
+    "trick": "BRILLIANT → BRILLIANCE.",
+    "examples": [
+      "Everyone admired the brilliance of his idea.",
+      "The brilliance of the sun hurt my eyes."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the brilliance of something / someone",
+      "partners": [
+        "sheer brilliance",
+        "moment of brilliance",
+        "brilliance of the sun"
+      ]
+    }
+  },
+  {
     "word": "brim",
     "meaning": "The top edge of a cup or bowl; also the flat edge sticking out around a hat",
     "trick": "BRIM: filled to the very RIM.",
@@ -2190,6 +3270,24 @@
         "full to the brim",
         "wide brim",
         "brimming with"
+      ]
+    }
+  },
+  {
+    "word": "brimming",
+    "meaning": "Full to the top; also full of a feeling",
+    "trick": "Filled to the BRIM (top edge).",
+    "examples": [
+      "Her eyes were brimming with tears.",
+      "The cup was brimming with hot tea."
+    ],
+    "usage": {
+      "pos": "adjective / verb (-ing)",
+      "pattern": "be brimming with something",
+      "partners": [
+        "brimming with tears",
+        "brimming with confidence",
+        "brimming with ideas"
       ]
     }
   },
@@ -2230,6 +3328,24 @@
     }
   },
   {
+    "word": "brisk",
+    "meaning": "Quick and full of energy; also cold and fresh (weather)",
+    "trick": "BRISK sounds like QUICK + RISK: move fast.",
+    "examples": [
+      "We went for a brisk walk.",
+      "It was a brisk autumn morning."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a brisk + noun (walk / pace / wind)",
+      "partners": [
+        "brisk walk",
+        "brisk pace",
+        "brisk business"
+      ]
+    }
+  },
+  {
     "word": "briskly",
     "meaning": "Quickly and with energy",
     "trick": "BRISK = QUICK; BRISKLY = quickly and actively.",
@@ -2248,6 +3364,114 @@
     }
   },
   {
+    "word": "bristles",
+    "meaning": "Short, stiff hairs, like on a brush or an animal; also gets angry or offended",
+    "trick": "Brush BRISTLES are stiff, like a person who BRISTLES with anger.",
+    "examples": [
+      "The toothbrush bristles are soft.",
+      "He bristles whenever someone criticises him."
+    ],
+    "usage": {
+      "pos": "noun (plural) / verb",
+      "pattern": "bristle at something; bristles of a brush",
+      "partners": [
+        "toothbrush bristles",
+        "stiff bristles",
+        "bristles at criticism"
+      ]
+    }
+  },
+  {
+    "word": "bristling",
+    "meaning": "Showing anger or annoyance; also (of hair) standing up stiffly; also full of something",
+    "trick": "A cat BRISTLING: fur standing up, ready to fight.",
+    "examples": [
+      "She was bristling with anger.",
+      "The street was bristling with police."
+    ],
+    "usage": {
+      "pos": "verb (-ing) / adjective",
+      "pattern": "be bristling with something / at something",
+      "partners": [
+        "bristling with anger",
+        "bristling at",
+        "bristling with police"
+      ]
+    }
+  },
+  {
+    "word": "brittle",
+    "meaning": "Hard but easily broken",
+    "trick": "BRITTLE: like BREAKABLE little biscuits.",
+    "examples": [
+      "Old bones can become brittle.",
+      "The dry leaves were brittle under our feet."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be/become brittle",
+      "partners": [
+        "brittle bones",
+        "brittle hair",
+        "brittle plastic"
+      ]
+    }
+  },
+  {
+    "word": "broach",
+    "meaning": "To start talking about a difficult or sensitive subject",
+    "trick": "BROACH a topic like opening a BROOCH clasp: carefully.",
+    "examples": [
+      "I didn't know how to broach the subject of money.",
+      "She finally broached the topic with her parents."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "broach the subject/topic (of something) with someone",
+      "partners": [
+        "broach the subject",
+        "broach the topic",
+        "broach it with him"
+      ]
+    }
+  },
+  {
+    "word": "broached",
+    "meaning": "Started talking about a difficult or sensitive subject (past)",
+    "trick": "BROACH → BROACHED: you've opened the topic.",
+    "examples": [
+      "He broached the idea of moving abroad.",
+      "Nobody broached the topic at dinner."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "broach something with someone",
+      "partners": [
+        "broached the subject",
+        "broached the idea",
+        "broached it with"
+      ]
+    }
+  },
+  {
+    "word": "bronze",
+    "meaning": "A brown metal made of copper and tin; also the colour of it; third-place medal",
+    "trick": "BRONZE: the third-place medal after gold and silver.",
+    "examples": [
+      "She won a bronze medal in the race.",
+      "There's a bronze statue in the park."
+    ],
+    "usage": {
+      "pos": "noun / adjective",
+      "pattern": "a bronze + noun (medal / statue)",
+      "partners": [
+        "bronze medal",
+        "bronze statue",
+        "bronze skin"
+      ]
+    }
+  },
+  {
     "word": "brood",
     "meaning": "A family of young birds hatched together; also to keep thinking unhappily about something",
     "trick": "A hen sits on her BROOD; a sad person sits and BROODS over a problem.",
@@ -2262,6 +3486,24 @@
         "brood of chicks",
         "brood over",
         "brood about"
+      ]
+    }
+  },
+  {
+    "word": "brooding",
+    "meaning": "Thinking a lot about something that makes you sad or angry; also dark and threatening",
+    "trick": "A hen BROODS on eggs; a sad person BROODS on problems.",
+    "examples": [
+      "He sat in his room, brooding over the fight.",
+      "Dark, brooding clouds filled the sky."
+    ],
+    "usage": {
+      "pos": "verb (-ing) / adjective",
+      "pattern": "brood over/about something; a brooding + noun",
+      "partners": [
+        "brooding over",
+        "brooding silence",
+        "brooding clouds"
       ]
     }
   },
@@ -2356,6 +3598,96 @@
     }
   },
   {
+    "word": "brusque",
+    "meaning": "Rude and short in speech or manner",
+    "trick": "BRUSQUE sounds like BRUSH off: rudely short.",
+    "examples": [
+      "The receptionist was brusque with me.",
+      "His brusque reply hurt her feelings."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be brusque (with someone)",
+      "partners": [
+        "brusque manner",
+        "brusque reply",
+        "brusque tone"
+      ]
+    }
+  },
+  {
+    "word": "brusquely",
+    "meaning": "In a short and rude way",
+    "trick": "Said BRUSQUELY, like brushing someone off.",
+    "examples": [
+      "'Not now,' he said brusquely.",
+      "She brusquely ended the call."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "say/answer something brusquely",
+      "partners": [
+        "said brusquely",
+        "answered brusquely",
+        "brusquely refused"
+      ]
+    }
+  },
+  {
+    "word": "brute",
+    "meaning": "A cruel, violent person or animal; also using only physical strength",
+    "trick": "BRUTE: BRUTAL and strong.",
+    "examples": [
+      "The man was a brute to his dog.",
+      "They used brute force to open the door."
+    ],
+    "usage": {
+      "pos": "noun / adjective",
+      "pattern": "a brute; brute force/strength",
+      "partners": [
+        "brute force",
+        "brute strength",
+        "cruel brute"
+      ]
+    }
+  },
+  {
+    "word": "bucked",
+    "meaning": "(Of a horse) jumped with its back legs kicked up; also resisted or went against something (past)",
+    "trick": "A horse BUCKED and threw off the rider.",
+    "examples": [
+      "The horse bucked and threw him off.",
+      "She bucked the trend and stayed home."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "buck (someone off); buck the trend",
+      "partners": [
+        "bucked him off",
+        "bucked the trend",
+        "the horse bucked"
+      ]
+    }
+  },
+  {
+    "word": "buffered",
+    "meaning": "Protected from harm or reduced the effect of something; also (video) paused to load (past)",
+    "trick": "A BUFFER is a cushion that softens a hit.",
+    "examples": [
+      "The trees buffered the house from the wind.",
+      "The video buffered for ages."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "buffer something/someone from/against something",
+      "partners": [
+        "buffered from",
+        "buffered against",
+        "video buffered"
+      ]
+    }
+  },
+  {
     "word": "bugging",
     "meaning": "Annoying or bothering someone again and again (informal)",
     "trick": "Like a BUG buzzing around your head — it keeps bugging you.",
@@ -2446,6 +3778,24 @@
     }
   },
   {
+    "word": "bulldoze",
+    "meaning": "To knock down or clear with a bulldozer; also to force your way without caring about others",
+    "trick": "A BULLDOZER flattens everything in its way.",
+    "examples": [
+      "They will bulldoze the old building next week.",
+      "He tried to bulldoze his ideas through the meeting."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "bulldoze something; bulldoze someone into something",
+      "partners": [
+        "bulldoze a building",
+        "bulldoze through",
+        "bulldoze the plan"
+      ]
+    }
+  },
+  {
     "word": "bum",
     "meaning": "(Informal) A homeless or lazy person; the buttocks (British); 'bummed' means sad",
     "trick": "A BUM just sits on his BUM all day.",
@@ -2464,6 +3814,24 @@
     }
   },
   {
+    "word": "bumblebees",
+    "meaning": "Large hairy bees that make a loud buzzing sound",
+    "trick": "They BUMBLE around clumsily, buzzing.",
+    "examples": [
+      "Bumblebees were buzzing around the flowers.",
+      "The kids watched the fat bumblebees."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "bumblebees buzz / visit flowers",
+      "partners": [
+        "fat bumblebees",
+        "buzzing bumblebees",
+        "bumblebees on flowers"
+      ]
+    }
+  },
+  {
     "word": "bumped into",
     "meaning": "Met someone by chance; also hit something by accident (past)",
     "trick": "You BUMP INTO a friend like you BUMP INTO a door: without planning it.",
@@ -2478,6 +3846,24 @@
         "bumped into a friend",
         "bumped into the wall",
         "bumped into each other"
+      ]
+    }
+  },
+  {
+    "word": "bumpier",
+    "meaning": "More uneven and full of bumps (comparative of bumpy); also more full of problems",
+    "trick": "BUMP + ier: more BUMPS than before.",
+    "examples": [
+      "The road got bumpier after the village.",
+      "This year was bumpier than last year."
+    ],
+    "usage": {
+      "pos": "adjective (comparative)",
+      "pattern": "bumpier than something / a bumpier + noun",
+      "partners": [
+        "bumpier ride",
+        "bumpier road",
+        "bumpier than"
       ]
     }
   },
@@ -2536,6 +3922,24 @@
     }
   },
   {
+    "word": "burgundy",
+    "meaning": "A dark purple-red colour; also a red wine from Burgundy in France",
+    "trick": "BURGUNDY = the colour of red wine.",
+    "examples": [
+      "She wore a burgundy dress to the party.",
+      "He bought a burgundy sofa."
+    ],
+    "usage": {
+      "pos": "noun / adjective (colour)",
+      "pattern": "a burgundy + noun",
+      "partners": [
+        "burgundy dress",
+        "burgundy colour",
+        "burgundy wine"
+      ]
+    }
+  },
+  {
     "word": "burial",
     "meaning": "The act of putting a dead body in the ground",
     "trick": "BURY → BURIAL: the act of BURYing.",
@@ -2568,6 +3972,42 @@
         "buried treasure",
         "buried in work",
         "buried under"
+      ]
+    }
+  },
+  {
+    "word": "burlap",
+    "meaning": "A rough, strong cloth used to make sacks",
+    "trick": "BURLAP = rough cloth for potato sacks.",
+    "examples": [
+      "The potatoes came in a burlap sack.",
+      "She used burlap to decorate the table."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a burlap + noun (sack / bag)",
+      "partners": [
+        "burlap sack",
+        "burlap bag",
+        "rough burlap"
+      ]
+    }
+  },
+  {
+    "word": "burped",
+    "meaning": "Let air come up noisily from the stomach through the mouth (past)",
+    "trick": "BURP: the sound after drinking soda.",
+    "examples": [
+      "The baby burped after drinking milk.",
+      "He burped loudly after the soda."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "burp (loudly); burp a baby",
+      "partners": [
+        "burped loudly",
+        "burped the baby",
+        "burped after eating"
       ]
     }
   },
@@ -2608,6 +4048,24 @@
     }
   },
   {
+    "word": "burrowing",
+    "meaning": "Digging a hole or tunnel; also pressing yourself into something soft",
+    "trick": "A rabbit BURROWING into its BURROW.",
+    "examples": [
+      "The rabbit was burrowing under the fence.",
+      "The puppy kept burrowing under the blanket."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "burrow into/under/through something",
+      "partners": [
+        "burrowing animals",
+        "burrowing into",
+        "burrowing under"
+      ]
+    }
+  },
+  {
     "word": "burst out",
     "meaning": "To suddenly start doing something, such as laughing or crying; also to rush out of somewhere",
     "trick": "Like a balloon that BURSTS: the laugh comes OUT suddenly.",
@@ -2640,6 +4098,24 @@
         "bursting with energy",
         "bursting to tell",
         "bursting at the seams"
+      ]
+    }
+  },
+  {
+    "word": "bursts",
+    "meaning": "Breaks open suddenly; also short, sudden periods of something (plural)",
+    "trick": "A balloon BURSTS: pop!",
+    "examples": [
+      "The balloon bursts if you press too hard.",
+      "He works in short bursts of energy."
+    ],
+    "usage": {
+      "pos": "verb / noun (plural)",
+      "pattern": "something bursts; bursts of something",
+      "partners": [
+        "bursts of energy",
+        "bursts of laughter",
+        "bursts into tears"
       ]
     }
   },
@@ -2680,6 +4156,24 @@
     }
   },
   {
+    "word": "bushes",
+    "meaning": "Plants like small trees with many branches close to the ground (plural)",
+    "trick": "One BUSH, many BUSHES.",
+    "examples": [
+      "The cat is hiding in the bushes.",
+      "We planted rose bushes in the garden."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "in/behind the bushes",
+      "partners": [
+        "rose bushes",
+        "behind the bushes",
+        "thick bushes"
+      ]
+    }
+  },
+  {
     "word": "bushwhacked",
     "meaning": "Attacked by surprise from a hiding place; also cut a path through thick bushes (past)",
     "trick": "Someone hiding in the BUSH WHACKED you.",
@@ -2712,6 +4206,60 @@
         "busied herself",
         "busied himself with",
         "busied themselves"
+      ]
+    }
+  },
+  {
+    "word": "bustle",
+    "meaning": "Busy and noisy activity; also to move around busily",
+    "trick": "BUSTLE = BUSY + HUSTLE.",
+    "examples": [
+      "I love the hustle and bustle of the city.",
+      "She bustled around the kitchen."
+    ],
+    "usage": {
+      "pos": "noun / verb",
+      "pattern": "the hustle and bustle (of something); bustle about/around",
+      "partners": [
+        "hustle and bustle",
+        "bustle about",
+        "busy bustle"
+      ]
+    }
+  },
+  {
+    "word": "bustling",
+    "meaning": "Full of busy people and activity",
+    "trick": "BUSY + HUSTLING = BUSTLING.",
+    "examples": [
+      "The market was bustling with shoppers.",
+      "We walked through the bustling streets."
+    ],
+    "usage": {
+      "pos": "adjective / verb (-ing)",
+      "pattern": "be bustling with someone/something; a bustling + noun",
+      "partners": [
+        "bustling market",
+        "bustling city",
+        "bustling with people"
+      ]
+    }
+  },
+  {
+    "word": "butcher",
+    "meaning": "A person who cuts and sells meat; also to kill cruelly or ruin something",
+    "trick": "The BUTCHER chops meat at the shop.",
+    "examples": [
+      "I bought chicken from the butcher.",
+      "They butchered the song with their singing."
+    ],
+    "usage": {
+      "pos": "noun / verb",
+      "pattern": "the butcher('s); butcher something",
+      "partners": [
+        "local butcher",
+        "butcher shop",
+        "butcher the song"
       ]
     }
   },
