@@ -1,6 +1,7 @@
 [
   {
     "word": "baaing",
+    "memory": "making sheep sounds",
     "meaning": "Making the 'baa' sound that a sheep or lamb makes",
     "hindi": "मिमियाते हुए, भेड़ की आवाज़ करते हुए",
     "trick": "BAA-ing: the sheep keeps saying 'BAA'.",
@@ -20,6 +21,7 @@
   },
   {
     "word": "babbling",
+    "memory": "talking nonsense fast",
     "meaning": "Talking quickly and continuously in a silly or confusing way; also the soft sound of flowing water",
     "hindi": "बड़बड़ाते हुए, बकबक करते हुए; कलकल",
     "trick": "BAB-BAB-BAB — a baby making the same sounds again and again.",
@@ -39,6 +41,7 @@
   },
   {
     "word": "backhanded",
+    "memory": "fake-nice, insulting",
     "meaning": "Said in a way that seems nice but is actually an insult (of a compliment); also a tennis shot hit with the back of the hand facing forward",
     "hindi": "ताने भरा, व्यंग्यपूर्ण; उल्टे हाथ का",
     "trick": "A BACK-HANDED slap hidden inside a compliment — it looks friendly from the front.",
@@ -58,6 +61,7 @@
   },
   {
     "word": "backpedal",
+    "memory": "take back words",
     "meaning": "To change your opinion or go back on something you said; also to pedal or move backwards",
     "hindi": "बात से पलटना, पीछे हटना; उल्टा पैडल मारना",
     "trick": "Pedalling BACKWARDS on a bike, like going back on your words.",
@@ -77,6 +81,7 @@
   },
   {
     "word": "badgering",
+    "memory": "pestering, nagging",
     "meaning": "Asking someone again and again in an annoying way",
     "hindi": "बार-बार परेशान करते हुए, पीछे पड़ते हुए",
     "trick": "A BADGER keeps digging and digging, like you asking again and again.",
@@ -96,6 +101,7 @@
   },
   {
     "word": "bailed out",
+    "memory": "rescued from trouble",
     "meaning": "Rescued someone from trouble, usually by giving money; also (informal) left or gave up on a plan suddenly",
     "hindi": "मुसीबत से निकाला, उबारा; बीच में छोड़ दिया (बोलचाल)",
     "trick": "Throwing water OUT of a boat with a BAIL (bucket) to save it.",
@@ -115,6 +121,7 @@
   },
   {
     "word": "balmy",
+    "memory": "pleasantly warm",
     "meaning": "Pleasantly warm and gentle (of weather)",
     "hindi": "सुहावना, हल्का गर्म",
     "trick": "BALM is soothing cream, so BALMY weather soothes you.",
@@ -134,6 +141,7 @@
   },
   {
     "word": "bandits",
+    "memory": "robbers, gang thieves",
     "meaning": "Robbers, usually in a gang, who attack travellers",
     "hindi": "डाकू, लुटेरे",
     "trick": "BANDITS travel in a BAND (group) and steal.",
@@ -153,6 +161,7 @@
   },
   {
     "word": "banging",
+    "memory": "hitting loudly",
     "meaning": "Hitting something hard and making a loud noise",
     "hindi": "ज़ोर से पीटते हुए, धड़धड़ाते हुए",
     "trick": "BANG BANG: the sound of something being hit.",
@@ -172,6 +181,7 @@
   },
   {
     "word": "banter",
+    "memory": "playful teasing",
     "meaning": "Friendly, playful teasing talk between people",
     "hindi": "हँसी-मज़ाक, छेड़छाड़",
     "trick": "BANTER: friends BANTER like a BAND playing together, lightly and for fun.",
@@ -191,6 +201,7 @@
   },
   {
     "word": "barbaric",
+    "memory": "very cruel, savage",
     "meaning": "Extremely cruel and violent; also wild and uncivilised",
     "hindi": "बर्बर, क्रूर; असभ्य",
     "trick": "BARBARians were wild tribes — anything they'd do is BARBARIC.",
@@ -210,6 +221,7 @@
   },
   {
     "word": "barber",
+    "memory": "men's hair cutter",
     "meaning": "A person whose job is to cut men's hair and shave beards",
     "hindi": "नाई",
     "trick": "BARBER cuts the BEARD (barba = beard in Latin).",
@@ -229,6 +241,7 @@
   },
   {
     "word": "barbs",
+    "memory": "hurtful remarks",
     "meaning": "Sharp, hurtful remarks; also the sharp backward-pointing points on a hook or wire",
     "hindi": "चुभती बातें, ताने; काँटे",
     "trick": "BARBed wire has sharp points — BARBS are sharp words that stick in you.",
@@ -248,6 +261,7 @@
   },
   {
     "word": "bare",
+    "memory": "uncovered, naked",
     "meaning": "Not covered by clothes or anything; also empty, or only the most basic",
     "hindi": "नंगा, खुला; खाली, बुनियादी",
     "trick": "BARE feet = nothing on them.",
@@ -267,6 +281,7 @@
   },
   {
     "word": "bared",
+    "memory": "uncovered, showed",
     "meaning": "Uncovered or showed something that was hidden (past of bare)",
     "hindi": "खोला, उघाड़ा, दिखाया",
     "trick": "BARE = uncovered; BARED = made it bare.",
@@ -286,6 +301,7 @@
   },
   {
     "word": "barley",
+    "memory": "grain crop",
     "meaning": "A grain crop used for food, animal feed and making beer",
     "hindi": "जौ",
     "trick": "BARLEY: a grain that BARELY looks different from wheat.",
@@ -305,6 +321,7 @@
   },
   {
     "word": "barn",
+    "memory": "farm shed",
     "meaning": "A large farm building for keeping animals, crops or tools",
     "hindi": "खलिहान, पशुशाला",
     "trick": "BARN sounds like BORN — calves are often BORN in a BARN.",
@@ -324,6 +341,7 @@
   },
   {
     "word": "barnyard",
+    "memory": "farm animal area",
     "meaning": "The area around a farm barn where animals are kept",
     "hindi": "बाड़ा, खलिहान का आँगन",
     "trick": "BARN + YARD — the yard outside the barn.",
@@ -343,6 +361,7 @@
   },
   {
     "word": "barracks",
+    "memory": "soldiers' housing",
     "meaning": "A large building or group of buildings where soldiers live",
     "hindi": "बैरक, सैनिकों का निवास",
     "trick": "BARRACKS = soldiers packed in like a RACK of beds.",
@@ -362,6 +381,7 @@
   },
   {
     "word": "barred",
+    "memory": "not allowed, banned",
     "meaning": "Not allowed to enter or do something; also closed with bars (past)",
     "hindi": "रोका गया, मनाही; सलाखों से बंद",
     "trick": "Blocked by BARS, like a jail window.",
@@ -381,6 +401,7 @@
   },
   {
     "word": "barreled",
+    "memory": "rushed forcefully",
     "meaning": "Moved very fast and forcefully, often without control (past)",
     "hindi": "तेज़ी से दौड़ा, धड़धड़ाते हुए बढ़ा",
     "trick": "Like a BARREL rolling down a hill — fast and unstoppable.",
@@ -400,6 +421,7 @@
   },
   {
     "word": "barreling",
+    "memory": "rushing forcefully",
     "meaning": "Moving very fast and forcefully, often without control",
     "hindi": "तेज़ी से दौड़ते हुए, धड़धड़ाते हुए बढ़ते हुए",
     "trick": "A BARREL rolling downhill — it just keeps BARRELING on.",
@@ -419,6 +441,7 @@
   },
   {
     "word": "barren",
+    "memory": "dry, lifeless land",
     "meaning": "Too dry or poor for plants to grow; also unable to have children (old use)",
     "hindi": "बंजर, ऊसर; बाँझ",
     "trick": "BARREN land is BARE: nothing grows.",
@@ -438,6 +461,7 @@
   },
   {
     "word": "bases",
+    "memory": "bottoms, foundations",
     "meaning": "The bottom parts that things stand on; also military camps; also the four corners in baseball (plural of base)",
     "hindi": "आधार, तले; सैनिक अड्डे",
     "trick": "One BASE, many BASES: the bottom of things.",
@@ -457,6 +481,7 @@
   },
   {
     "word": "bashful",
+    "memory": "shy",
     "meaning": "Shy and easily embarrassed",
     "hindi": "शर्मीला, संकोची",
     "trick": "BASH-FUL: so shy you'd rather hide than face a BASH (party).",
@@ -476,6 +501,7 @@
   },
   {
     "word": "basking",
+    "memory": "lying in sunshine",
     "meaning": "Lying in warmth or sunlight and enjoying it; also enjoying praise or attention",
     "hindi": "धूप सेंकते हुए; आनंद लेते हुए",
     "trick": "A cat BASKING in the sun, happy as a lizard on a rock.",
@@ -495,6 +521,7 @@
   },
   {
     "word": "bass",
+    "memory": "deepest musical sound",
     "meaning": "The lowest, deepest sound in music; a guitar or voice that makes this sound (pronounced like 'base')",
     "hindi": "भारी आवाज़, मंद्र स्वर; बेस गिटार",
     "trick": "Bass is the BASE (bottom) of the music — and it sounds like 'base'.",
@@ -514,6 +541,7 @@
   },
   {
     "word": "bassinet",
+    "memory": "newborn's basket bed",
     "meaning": "A small basket-like bed for a newborn baby",
     "hindi": "शिशु की टोकरीनुमा पालना",
     "trick": "BASSINET: a BASKET bed for a baby.",
@@ -533,6 +561,7 @@
   },
   {
     "word": "bathers",
+    "memory": "swimmers",
     "meaning": "People who are swimming or bathing; also (Australian informal) a swimsuit",
     "hindi": "नहाने वाले, तैराक; तैराकी की पोशाक",
     "trick": "BATHERS are people taking a BATH in the sea.",
@@ -552,6 +581,7 @@
   },
   {
     "word": "bathhouse",
+    "memory": "public washing place",
     "meaning": "A building with baths for public use",
     "hindi": "सार्वजनिक स्नानघर",
     "trick": "BATH + HOUSE: a house full of baths.",
@@ -571,6 +601,7 @@
   },
   {
     "word": "batshit",
+    "memory": "totally crazy",
     "meaning": "Completely crazy (rude slang, often 'batshit crazy')",
     "hindi": "बिल्कुल पागल (अशिष्ट)",
     "trick": "Bats fly around wildly in the dark — total madness.",
@@ -589,6 +620,7 @@
   },
   {
     "word": "battered",
+    "memory": "beaten, damaged",
     "meaning": "Damaged or hurt by being hit many times; also (food) covered in batter and fried",
     "hindi": "पिटा हुआ, टूटा-फूटा; घोल में तला हुआ",
     "trick": "BAT-tered — hit again and again with a BAT.",
@@ -608,6 +640,7 @@
   },
   {
     "word": "battering",
+    "memory": "hitting repeatedly",
     "meaning": "Hitting hard and many times; also a strong attack or criticism",
     "hindi": "ज़ोरदार पिटाई; कड़ी आलोचना",
     "trick": "BAT-tering: hitting again and again like with a BAT.",
@@ -627,6 +660,7 @@
   },
   {
     "word": "batting",
+    "memory": "hitting the ball",
     "meaning": "Hitting the ball with a bat in cricket or baseball; also blinking (eyelashes)",
     "hindi": "बल्लेबाज़ी; पलकें झपकाते हुए",
     "trick": "BAT-ting: holding the BAT.",
@@ -646,6 +680,7 @@
   },
   {
     "word": "batty",
+    "memory": "slightly crazy",
     "meaning": "Slightly crazy or strange (informal, mild)",
     "hindi": "सनकी, थोड़ा पागल (बोलचाल)",
     "trick": "'Bats in the belfry' — a head full of bats is a bit batty.",
@@ -665,6 +700,7 @@
   },
   {
     "word": "bawl",
+    "memory": "cry loudly",
     "meaning": "To cry very loudly; also to shout loudly",
     "hindi": "ज़ोर से रोना, चिल्लाना",
     "trick": "BAWL sounds like a BALL of noise: a baby wailing.",
@@ -684,6 +720,7 @@
   },
   {
     "word": "bawled",
+    "memory": "cried loudly",
     "meaning": "Cried loudly; also shouted loudly (past)",
     "hindi": "ज़ोर से रोया, चिल्लाया",
     "trick": "BAWL sounds like a BALL of noise: a baby crying loudly.",
@@ -703,6 +740,7 @@
   },
   {
     "word": "baying",
+    "memory": "howling loudly",
     "meaning": "Howling loudly, like dogs or wolves; also loudly demanding something, like an angry crowd",
     "hindi": "हुआँ-हुआँ करते हुए, भौंकते हुए; शोर मचाते हुए",
     "trick": "BAY sounds like the howl of a dog at the moon: 'BAAAY!'",
@@ -722,6 +760,7 @@
   },
   {
     "word": "bazillion",
+    "memory": "huge number",
     "meaning": "A huge, uncountable number (informal, made-up number)",
     "hindi": "अनगिनत, बेहिसाब (बोलचाल)",
     "trick": "Bigger than a billion — a BAZILLION!",
@@ -741,6 +780,7 @@
   },
   {
     "word": "beaded",
+    "memory": "decorated with beads",
     "meaning": "Decorated with beads; also covered with small drops",
     "hindi": "मोतियों से सजा; बूँदों से भरा",
     "trick": "BEAD-ed: covered with BEADS.",
@@ -760,6 +800,7 @@
   },
   {
     "word": "beads",
+    "memory": "small threaded balls",
     "meaning": "Small balls of glass, wood or plastic with a hole for a string; also small drops of liquid",
     "hindi": "मनके, मोती; बूँदें",
     "trick": "BEADS on a necklace look like little drops of sweat on your head.",
@@ -779,6 +820,7 @@
   },
   {
     "word": "beam",
+    "memory": "ray of light",
     "meaning": "A line of light; a long, strong piece of wood or metal holding up a roof; also to smile widely",
     "hindi": "किरण; शहतीर, धरन; मुस्कुराना",
     "trick": "A torch BEAM, and a face that BEAMS as bright as one.",
@@ -798,6 +840,7 @@
   },
   {
     "word": "beamed",
+    "memory": "smiled widely",
     "meaning": "Smiled very widely and happily; also sent out light (past)",
     "hindi": "खिलकर मुस्कुराया; रोशनी फैलाई",
     "trick": "A BEAM of light — her face BEAMED like a torch.",
@@ -817,6 +860,7 @@
   },
   {
     "word": "bearers",
+    "memory": "carriers",
     "meaning": "People who carry something, like a coffin, a flag or a message",
     "hindi": "ढोने वाले, वाहक",
     "trick": "BEAR = carry. BEARERS carry things.",
@@ -836,6 +880,7 @@
   },
   {
     "word": "beckoning",
+    "memory": "signalling to come",
     "meaning": "Signalling someone to come closer, usually with a hand; looking inviting",
     "hindi": "इशारे से बुलाते हुए; लुभावना",
     "trick": "BECKON ≈ 'back on' — waving your hand to say 'come back here'.",
@@ -855,6 +900,7 @@
   },
   {
     "word": "bedridden",
+    "memory": "stuck in bed, ill",
     "meaning": "Too ill or weak to get out of bed",
     "hindi": "बिस्तर पर पड़ा, शय्याग्रस्त",
     "trick": "BED + RIDDEN — 'ridden' (stuck) to the bed.",
@@ -874,6 +920,7 @@
   },
   {
     "word": "bedstead",
+    "memory": "bed frame",
     "meaning": "The frame of a bed, without the mattress",
     "hindi": "पलंग का ढाँचा",
     "trick": "BED + STEAD (place): the frame that holds the bed in place.",
@@ -893,6 +940,7 @@
   },
   {
     "word": "bees",
+    "memory": "honey-making insects",
     "meaning": "Flying insects that make honey and can sting",
     "hindi": "मधुमक्खियाँ",
     "trick": "BEES BUZZ around flowers.",
@@ -912,6 +960,7 @@
   },
   {
     "word": "befuddlement",
+    "memory": "confusion",
     "meaning": "The state of being confused and unable to think clearly",
     "hindi": "उलझन, घबराहट",
     "trick": "BE-FUDDLE-ment: your brain is a FUDDLED muddle.",
@@ -931,6 +980,7 @@
   },
   {
     "word": "begat",
+    "memory": "fathered",
     "meaning": "Became the father of (old-fashioned past of 'beget'); also caused or produced something",
     "hindi": "पैदा किया, जन्म दिया; उत्पन्न किया",
     "trick": "BEGAT = BEGOT: the old Bible way to say 'had a child'.",
@@ -950,6 +1000,7 @@
   },
   {
     "word": "begrudged",
+    "memory": "resented, envied",
     "meaning": "Felt unhappy or jealous that someone had something; gave something unwillingly (past)",
     "hindi": "जलन की, कुढ़ा; अनमने मन से दिया",
     "trick": "BE-GRUDGE-d: holding a GRUDGE about it.",
@@ -969,6 +1020,7 @@
   },
   {
     "word": "beheadings",
+    "memory": "head-cutting killings",
     "meaning": "Acts of killing someone by cutting off their head",
     "hindi": "सिर कलम करने की घटनाएँ",
     "trick": "BE-HEAD-ings: the HEAD is cut off.",
@@ -988,6 +1040,7 @@
   },
   {
     "word": "beige",
+    "memory": "light sandy brown",
     "meaning": "A pale, light brown colour, like sand",
     "hindi": "हल्का भूरा, बादामी रंग",
     "trick": "BEIGE rhymes with 'page' — the colour of an old paper page.",
@@ -1007,6 +1060,7 @@
   },
   {
     "word": "belated",
+    "memory": "late",
     "meaning": "Coming or happening late",
     "hindi": "देर से, विलंबित",
     "trick": "BE-LATE-d — it's LATE.",
@@ -1026,6 +1080,7 @@
   },
   {
     "word": "beleaguered",
+    "memory": "troubled, under pressure",
     "meaning": "Having a lot of problems or difficulties; also surrounded by an army",
     "hindi": "मुसीबतों से घिरा; घेराबंदी में",
     "trick": "Like a city under LEAGUER (siege): attacked from all sides.",
@@ -1045,6 +1100,7 @@
   },
   {
     "word": "belittle",
+    "memory": "make feel small",
     "meaning": "To make someone or something seem small or unimportant",
     "hindi": "छोटा दिखाना, नीचा दिखाना",
     "trick": "BE-LITTLE — make someone feel LITTLE.",
@@ -1064,6 +1120,7 @@
   },
   {
     "word": "bell curve",
+    "memory": "middle-heavy graph",
     "meaning": "A graph shaped like a bell, showing that most results are in the middle and few are very high or very low",
     "hindi": "घंटी के आकार का ग्राफ़",
     "trick": "Draw it and it looks like a BELL — tall in the middle, low at the ends.",
@@ -1083,6 +1140,7 @@
   },
   {
     "word": "bellowed",
+    "memory": "shouted deeply",
     "meaning": "Shouted in a deep, loud voice; also made the deep sound of a bull (past)",
     "hindi": "गरजकर चिल्लाया; डकारा (बैल की तरह)",
     "trick": "BELLOW sounds like a BULL'S loud roar.",
@@ -1102,6 +1160,7 @@
   },
   {
     "word": "belt loops",
+    "memory": "trouser strap holders",
     "meaning": "The small fabric loops on trousers that hold a belt in place",
     "hindi": "पतलून में पेटी के फंदे",
     "trick": "LOOPS for your BELT.",
@@ -1121,6 +1180,7 @@
   },
   {
     "word": "bemoan",
+    "memory": "complain sadly",
     "meaning": "To complain or express sadness about something",
     "hindi": "दुखड़ा रोना, शिकायत करना",
     "trick": "BE-MOAN: keep MOANING about it.",
@@ -1140,6 +1200,7 @@
   },
   {
     "word": "bemusement",
+    "memory": "puzzlement",
     "meaning": "A state of being confused and a bit puzzled",
     "hindi": "हैरानी, उलझन",
     "trick": "BE-MUSE-ment: your MUSE (mind) is muddled.",
@@ -1159,6 +1220,7 @@
   },
   {
     "word": "beneficial",
+    "memory": "helpful, good for you",
     "meaning": "Helpful, useful or good for you",
     "hindi": "लाभदायक, फ़ायदेमंद",
     "trick": "BENE = good (like 'benefit') — something that does you good.",
@@ -1178,6 +1240,7 @@
   },
   {
     "word": "benefits",
+    "memory": "advantages",
     "meaning": "Advantages or good results from something; also money or help given by a company or government",
     "hindi": "फ़ायदे, लाभ; सुविधाएँ, भत्ते",
     "trick": "BENE = good + FIT — things that fit in well and do good.",
@@ -1197,6 +1260,7 @@
   },
   {
     "word": "benevolent",
+    "memory": "kind, generous",
     "meaning": "Kind, generous and wanting to help others",
     "hindi": "दयालु, परोपकारी",
     "trick": "BENE = good (like BENEfit) + VOLENT = wishing. Wishing good things for others.",
@@ -1216,6 +1280,7 @@
   },
   {
     "word": "benign",
+    "memory": "gentle, harmless",
     "meaning": "Gentle and kind; (of an illness or lump) not harmful or dangerous",
     "hindi": "सौम्य, दयालु; हानिरहित",
     "trick": "BENIGN ≈ 'be nice' — harmless and gentle. Opposite: malignant.",
@@ -1235,6 +1300,7 @@
   },
   {
     "word": "berate",
+    "memory": "scold angrily",
     "meaning": "To scold someone angrily",
     "hindi": "डाँटना, फटकारना",
     "trick": "BE-RATE — RATE someone very badly, loudly.",
@@ -1254,6 +1320,7 @@
   },
   {
     "word": "berm",
+    "memory": "raised earth bank",
     "meaning": "A raised bank of earth, such as along a road, canal or trail",
     "hindi": "मिट्टी की मेड़, बाँध",
     "trick": "BERM sounds like a BUMP of earth by the road.",
@@ -1273,6 +1340,7 @@
   },
   {
     "word": "beseeching",
+    "memory": "begging",
     "meaning": "Begging or asking for something in an emotional way",
     "hindi": "गिड़गिड़ाते हुए, विनती करते हुए",
     "trick": "BE-SEEK-ing: SEEKING help desperately.",
@@ -1292,6 +1360,7 @@
   },
   {
     "word": "besieged",
+    "memory": "surrounded, attacked",
     "meaning": "Surrounded by an army; also overwhelmed by many people, questions or requests (past)",
     "hindi": "घेर लिया गया; घिरा हुआ (सवालों से)",
     "trick": "BE-SIEGE-d: under SIEGE from all sides.",
@@ -1311,6 +1380,7 @@
   },
   {
     "word": "bespectacled",
+    "memory": "wearing glasses",
     "meaning": "Wearing glasses",
     "hindi": "चश्माधारी, चश्मा पहने",
     "trick": "BE-SPECTACLE-d: has SPECTACLES (glasses) on.",
@@ -1330,6 +1400,7 @@
   },
   {
     "word": "bestow",
+    "memory": "give, award",
     "meaning": "To give something, especially an honour or gift",
     "hindi": "प्रदान करना, देना",
     "trick": "BEST-OW — give someone your BEST.",
@@ -1349,6 +1420,7 @@
   },
   {
     "word": "bestowed",
+    "memory": "gave, awarded",
     "meaning": "Gave something as an honour, gift or reward",
     "hindi": "प्रदान किया, दिया",
     "trick": "BE-STOWED — the king STOWED (placed) a gift in your hands.",
@@ -1368,6 +1440,7 @@
   },
   {
     "word": "betrayed",
+    "memory": "cheated, was disloyal",
     "meaning": "Was disloyal to someone who trusted you; also showed a feeling you were trying to hide (past)",
     "hindi": "धोखा दिया, विश्वासघात किया; ज़ाहिर कर दिया",
     "trick": "BE-TRAY-ed: like serving your friend on a TRAY to the enemy.",
@@ -1387,6 +1460,7 @@
   },
   {
     "word": "bewail",
+    "memory": "cry over",
     "meaning": "To cry about or complain sadly about something (old-fashioned)",
     "hindi": "विलाप करना, दुखड़ा रोना",
     "trick": "BE-WAIL: to WAIL about it.",
@@ -1406,6 +1480,7 @@
   },
   {
     "word": "bewildered",
+    "memory": "totally confused",
     "meaning": "Very confused and unable to understand what is happening",
     "hindi": "हैरान, भौंचक्का",
     "trick": "BE-WILD-ered — lost in the wild, not knowing which way to go.",
@@ -1425,6 +1500,7 @@
   },
   {
     "word": "bewitch",
+    "memory": "cast a spell",
     "meaning": "To put a magic spell on someone; also to charm someone completely",
     "hindi": "जादू करना; मोह लेना",
     "trick": "BE-WITCH: a WITCH puts a spell on you.",
@@ -1444,6 +1520,7 @@
   },
   {
     "word": "bewitching",
+    "memory": "magically charming",
     "meaning": "Very charming and attractive, as if by magic",
     "hindi": "मनमोहक, जादुई",
     "trick": "So beautiful a WITCH must have done it.",
@@ -1463,6 +1540,7 @@
   },
   {
     "word": "biblical",
+    "memory": "from the bible",
     "meaning": "Related to the Bible; also (informal) very large or extreme",
     "hindi": "बाइबिल से जुड़ा; बहुत भारी (बोलचाल)",
     "trick": "BIBLE + -ical — and the Bible has huge floods.",
@@ -1482,6 +1560,7 @@
   },
   {
     "word": "bickering",
+    "memory": "petty arguing",
     "meaning": "Arguing about small, unimportant things",
     "hindi": "छोटी बातों पर झगड़ना, नोकझोंक",
     "trick": "BICKER sounds like BICKERING kids fighting over toys.",
@@ -1501,6 +1580,7 @@
   },
   {
     "word": "bicycling",
+    "memory": "riding a bike",
     "meaning": "Riding a bicycle",
     "hindi": "साइकिल चलाना",
     "trick": "BI-CYCLE-ing — riding on two (BI) wheels.",
@@ -1520,6 +1600,7 @@
   },
   {
     "word": "bier",
+    "memory": "coffin stand",
     "meaning": "A stand on which a coffin or dead body is placed before burial",
     "hindi": "अर्थी, जनाज़ा",
     "trick": "BIER sounds like BEER, but it's a sad stand for a coffin, not a drink.",
@@ -1539,6 +1620,7 @@
   },
   {
     "word": "biggish",
+    "memory": "fairly large",
     "meaning": "Fairly big",
     "hindi": "काफ़ी बड़ा, बड़ा-सा",
     "trick": "BIG + -ish = sort of big.",
@@ -1558,6 +1640,7 @@
   },
   {
     "word": "bigotry",
+    "memory": "prejudice, intolerance",
     "meaning": "Unfair dislike of people because of their religion, race or beliefs",
     "hindi": "कट्टरता, धर्मांधता",
     "trick": "A BIG-OT has a BIG head and a small mind.",
@@ -1577,6 +1660,7 @@
   },
   {
     "word": "bigwig",
+    "memory": "important person",
     "meaning": "An important or powerful person (informal)",
     "hindi": "बड़ा आदमी, रसूखदार (बोलचाल)",
     "trick": "In the old days, important men wore BIG WIGs.",
@@ -1596,6 +1680,7 @@
   },
   {
     "word": "bile",
+    "memory": "liver's bitter juice",
     "meaning": "A bitter liquid made by the liver; also bitter anger",
     "hindi": "पित्त; कड़वाहट, गुस्सा",
     "trick": "BILE is bitter — like a BITTER BILL you hate to pay.",
@@ -1615,6 +1700,7 @@
   },
   {
     "word": "bilious",
+    "memory": "sick, nauseous",
     "meaning": "Feeling sick in the stomach; also bad-tempered; also a nasty, sickly colour",
     "hindi": "मिचली भरा; चिड़चिड़ा",
     "trick": "BILE + -ious: too much BILE makes you sick and grumpy.",
@@ -1634,6 +1720,7 @@
   },
   {
     "word": "billiards",
+    "memory": "cue and ball game",
     "meaning": "A game played on a cloth-covered table with balls and a long stick called a cue",
     "hindi": "बिलियर्ड्स, मेज़ पर डंडे-गेंद का खेल",
     "trick": "BILLIARDS: hit the BALLS with a cue, a cousin of pool and snooker.",
@@ -1653,6 +1740,7 @@
   },
   {
     "word": "billowed",
+    "memory": "swelled out",
     "meaning": "Swelled out or rose in large waves or clouds (past)",
     "hindi": "लहराया, उमड़ा",
     "trick": "A PILLOW puffing up — the smoke BILLOWED.",
@@ -1672,6 +1760,7 @@
   },
   {
     "word": "billowing",
+    "memory": "swelling out",
     "meaning": "Swelling out or rising in large waves or clouds",
     "hindi": "लहराते हुए, उमड़ते हुए",
     "trick": "Puffy like a PILLOW — BILLOWING clouds.",
@@ -1691,6 +1780,7 @@
   },
   {
     "word": "binders",
+    "memory": "ring folders",
     "meaning": "Folders with rings or clips for holding loose papers together",
     "hindi": "फ़ाइलें, कागज़ रखने के फ़ोल्डर",
     "trick": "They BIND your papers together.",
@@ -1710,6 +1800,7 @@
   },
   {
     "word": "bins",
+    "memory": "rubbish containers",
     "meaning": "Containers for rubbish or for storing things",
     "hindi": "कूड़ेदान; डिब्बे",
     "trick": "BINS hold the stuff you put IN them.",
@@ -1729,6 +1820,7 @@
   },
   {
     "word": "birch",
+    "memory": "white-bark tree",
     "meaning": "A tree with thin, smooth, white or silver bark",
     "hindi": "भोजपत्र का पेड़",
     "trick": "BIRCH: a white tree where BIRDS perch.",
@@ -1748,6 +1840,7 @@
   },
   {
     "word": "bizarre",
+    "memory": "very strange",
     "meaning": "Very strange or unusual",
     "hindi": "विचित्र, अजीब",
     "trick": "BIZARRE sounds like 'bazaar' — a crowded market full of strange things.",
@@ -1767,6 +1860,7 @@
   },
   {
     "word": "blackouts",
+    "memory": "power cuts",
     "meaning": "Times when the electricity goes off; also moments of losing consciousness or memory",
     "hindi": "बिजली गुल होना; बेहोशी",
     "trick": "Everything goes BLACK — the lights are OUT.",
@@ -1786,6 +1880,7 @@
   },
   {
     "word": "bladder",
+    "memory": "urine bag",
     "meaning": "The organ in your body that stores urine",
     "hindi": "मूत्राशय",
     "trick": "BLADDER: the bag that fills up before you run to the loo.",
@@ -1805,6 +1900,7 @@
   },
   {
     "word": "bland",
+    "memory": "tasteless, dull",
     "meaning": "Without much taste, interest or excitement",
     "hindi": "फीका, बेस्वाद; नीरस",
     "trick": "BLAND rhymes with SAND — no flavour at all.",
@@ -1824,6 +1920,7 @@
   },
   {
     "word": "blared",
+    "memory": "sounded very loudly",
     "meaning": "Made a very loud, harsh sound (past)",
     "hindi": "ज़ोर से बजा, कर्कश आवाज़ की",
     "trick": "BLARE sounds like a BLAST of noise.",
@@ -1843,6 +1940,7 @@
   },
   {
     "word": "blaring",
+    "memory": "very loud, harsh",
     "meaning": "Making a very loud, harsh sound",
     "hindi": "ज़ोर से बजते हुए, कानफोड़ू",
     "trick": "BLARING = BLASTING noise.",
@@ -1862,6 +1960,7 @@
   },
   {
     "word": "blatant",
+    "memory": "shamelessly obvious",
     "meaning": "Done openly and obviously, without any shame (usually something bad)",
     "hindi": "खुल्लमखुल्ला, बेशर्म, साफ़",
     "trick": "BLATANT ≈ 'blast it out' — done loudly, for everyone to see.",
@@ -1881,6 +1980,7 @@
   },
   {
     "word": "blaze",
+    "memory": "big fire",
     "meaning": "A large, strong fire; or a very bright light",
     "hindi": "भीषण आग, लपटें; तेज़ रोशनी",
     "trick": "BLAZE ≈ 'blast of flames'.",
@@ -1900,6 +2000,7 @@
   },
   {
     "word": "blazing",
+    "memory": "burning fiercely",
     "meaning": "Burning brightly and strongly; also very hot, or very fast",
     "hindi": "धधकता हुआ; तपता हुआ, बहुत तेज़",
     "trick": "A BLAZE is a big fire — BLAZING is burning like one.",
@@ -1919,6 +2020,7 @@
   },
   {
     "word": "bleachers",
+    "memory": "stadium benches",
     "meaning": "Rows of simple open seats for people watching a sport",
     "hindi": "खुली दर्शक-सीढ़ियाँ, दर्शक-दीर्घा",
     "trick": "Seats so open they get BLEACHED by the sun.",
@@ -1938,6 +2040,7 @@
   },
   {
     "word": "bleak",
+    "memory": "gloomy, hopeless",
     "meaning": "Cold, empty and unwelcoming; also without hope",
     "hindi": "उदास, निराशाजनक, सूना",
     "trick": "BLEAK sounds like BLACK + WEAK — dark and hopeless.",
@@ -1957,6 +2060,7 @@
   },
   {
     "word": "bleated",
+    "memory": "baaed like sheep",
     "meaning": "Made the 'baa' sound of a sheep or goat; also complained in a weak, whiny way (past)",
     "hindi": "मिमियाया; रोना रोया",
     "trick": "BLEAT sounds like the sheep's 'BLEEEH'.",
@@ -1976,6 +2080,7 @@
   },
   {
     "word": "bleating",
+    "memory": "baaing like sheep",
     "meaning": "Making the 'baa' sound of a sheep or goat; also complaining in a weak, whiny way",
     "hindi": "मिमियाते हुए; रोना रोते हुए",
     "trick": "BLEEEH-ting: the sound a goat makes.",
@@ -1995,6 +2100,7 @@
   },
   {
     "word": "bled",
+    "memory": "lost blood",
     "meaning": "Lost blood (past of bleed)",
     "hindi": "ख़ून बहा",
     "trick": "BLEED → BLED, like FEED → FED.",
@@ -2014,6 +2120,7 @@
   },
   {
     "word": "blinding",
+    "memory": "dazzling",
     "meaning": "So bright or strong that you cannot see properly",
     "hindi": "चकाचौंध करने वाला, आँखें चुँधियाने वाला",
     "trick": "It makes you BLIND for a moment.",
@@ -2033,6 +2140,7 @@
   },
   {
     "word": "blinds",
+    "memory": "window shades",
     "meaning": "Window coverings that can be pulled down or turned to block light",
     "hindi": "खिड़की के पर्दे, चिक",
     "trick": "They make the window BLIND — no light gets in.",
@@ -2052,6 +2160,7 @@
   },
   {
     "word": "bliss",
+    "memory": "perfect happiness",
     "meaning": "Perfect happiness",
     "hindi": "परम आनंद, परमसुख",
     "trick": "BLISS sounds like a sweet KISS — pure happiness.",
@@ -2071,6 +2180,7 @@
   },
   {
     "word": "blister",
+    "memory": "skin bubble",
     "meaning": "A small bubble on the skin filled with liquid, caused by rubbing or burning",
     "hindi": "छाला, फफोला",
     "trick": "New shoes make a BLISTER — a little BUBBLE on your skin.",
@@ -2090,6 +2200,7 @@
   },
   {
     "word": "blistering",
+    "memory": "scorching hot",
     "meaning": "Very hot; very fast; or very angry and harsh",
     "hindi": "झुलसाने वाला; बहुत तेज़; तीखा",
     "trick": "So hot it gives you BLISTERS.",
@@ -2109,6 +2220,7 @@
   },
   {
     "word": "blisters",
+    "memory": "skin bubbles",
     "meaning": "Small bubbles on the skin filled with liquid, caused by rubbing or burning",
     "hindi": "छाले, फफोले",
     "trick": "One BLISTER, two BLISTERS — bubbles on your skin.",
@@ -2128,6 +2240,7 @@
   },
   {
     "word": "blithely",
+    "memory": "carelessly, cheerfully",
     "meaning": "In a happy, carefree way, often without thinking about problems",
     "hindi": "बेफ़िक्री से, लापरवाही से",
     "trick": "BLITHE sounds like BLISS: carefree and happy, maybe too carefree.",
@@ -2147,6 +2260,7 @@
   },
   {
     "word": "blitzed",
+    "memory": "attacked hard",
     "meaning": "Attacked quickly and strongly; also (informal slang) very drunk",
     "hindi": "ताबड़तोड़ हमला किया; नशे में धुत (बोलचाल)",
     "trick": "The BLITZ was a fast bombing attack — BLITZED = hit hard (or hit hard by drinks).",
@@ -2166,6 +2280,7 @@
   },
   {
     "word": "bloated",
+    "memory": "swollen, overfull",
     "meaning": "Swollen and too full, often from eating too much or from gas",
     "hindi": "फूला हुआ, पेट फूला",
     "trick": "Like a BOAT puffed up with air — BLOATED.",
@@ -2185,6 +2300,7 @@
   },
   {
     "word": "blobs",
+    "memory": "soft drops, lumps",
     "meaning": "Small round drops or lumps of a thick liquid or soft substance",
     "hindi": "लोंदे, गाढ़ी बूँदें",
     "trick": "BLOB sounds like a soft PLOP: a messy drop.",
@@ -2204,6 +2320,7 @@
   },
   {
     "word": "blond",
+    "memory": "fair-haired",
     "meaning": "Having pale yellow or light-coloured hair; also a person with such hair",
     "hindi": "सुनहरे बालों वाला",
     "trick": "BLOND = light like BLONDE (blonde is often used for women).",
@@ -2223,6 +2340,7 @@
   },
   {
     "word": "bloodhounds",
+    "memory": "tracking dogs",
     "meaning": "Large dogs with a very strong sense of smell, used for tracking",
     "hindi": "खोजी कुत्ते",
     "trick": "HOUNDS that can follow even a drop of BLOOD.",
@@ -2242,6 +2360,7 @@
   },
   {
     "word": "blooming",
+    "memory": "flowering",
     "meaning": "Producing flowers; growing healthily; also (British informal) used for emphasis, like 'bloody'",
     "hindi": "खिलते हुए, फलते-फूलते; कमबख़्त (बोलचाल)",
     "trick": "A BLOOM is a flower — BLOOMING = flowers opening.",
@@ -2261,6 +2380,7 @@
   },
   {
     "word": "blossomed",
+    "memory": "flowered, flourished",
     "meaning": "Produced flowers; or grew and developed in a good way",
     "hindi": "खिल उठा, फला-फूला",
     "trick": "BLOSSOM = flower — something that bloomed like a flower.",
@@ -2280,6 +2400,7 @@
   },
   {
     "word": "blotches",
+    "memory": "patchy marks",
     "meaning": "Irregular patches or marks of colour, often on the skin",
     "hindi": "धब्बे, चकत्ते",
     "trick": "BLOTCH = BLOT + SPLOTCH: messy patches.",
@@ -2299,6 +2420,7 @@
   },
   {
     "word": "blowing",
+    "memory": "moving air",
     "meaning": "Moving air, as the wind does; also sending out air from your mouth",
     "hindi": "हवा चलते हुए, बहते हुए; फूँकते हुए",
     "trick": "BLOW → BLOWING: what the wind keeps doing.",
@@ -2318,6 +2440,7 @@
   },
   {
     "word": "blowout",
+    "memory": "huge party",
     "meaning": "A big party or celebration; an easy, one-sided win; or a sudden burst tyre",
     "hindi": "बड़ी दावत; एकतरफ़ा जीत; टायर फटना",
     "trick": "Everything BLOWS OUT — a huge party, a huge win, or a tyre that bursts.",
@@ -2337,6 +2460,7 @@
   },
   {
     "word": "blue-lavender",
+    "memory": "pale purple-blue",
     "meaning": "A soft, pale purple-blue colour",
     "hindi": "हल्का नीला-बैंगनी रंग",
     "trick": "BLUE + LAVENDER (the light purple flower).",
@@ -2356,6 +2480,7 @@
   },
   {
     "word": "blunt",
+    "memory": "not sharp",
     "meaning": "Not sharp; also saying what you think very directly",
     "hindi": "भोथरा, कुंद; मुँहफट, साफ़-साफ़",
     "trick": "A BLUNT knife can't cut — a BLUNT person doesn't soften words.",
@@ -2375,6 +2500,7 @@
   },
   {
     "word": "bluster",
+    "memory": "loud empty talk",
     "meaning": "Loud, aggressive or proud talk with little effect; (of wind) to blow in strong gusts",
     "hindi": "डींग, धौंस; तेज़ हवा चलना",
     "trick": "BLUSTER ≈ 'blow + bluff' — lots of wind and noise, nothing real.",
@@ -2394,6 +2520,7 @@
   },
   {
     "word": "boar",
+    "memory": "wild pig",
     "meaning": "A wild pig; also a male pig",
     "hindi": "जंगली सूअर; नर सूअर",
     "trick": "A BOAR is never BORING: a wild, tusked pig.",
@@ -2413,6 +2540,7 @@
   },
   {
     "word": "boasts",
+    "memory": "shows off",
     "meaning": "Talks too proudly about yourself; also has something good to be proud of",
     "hindi": "डींग मारता है, शेखी बघारता है; गर्व से रखता है",
     "trick": "He BOASTS like he owns a big BOAT.",
@@ -2432,6 +2560,7 @@
   },
   {
     "word": "boatload",
+    "memory": "huge amount",
     "meaning": "A very large amount (informal)",
     "hindi": "ढेर सारा (बोलचाल)",
     "trick": "Enough to fill a whole BOAT.",
@@ -2451,6 +2580,7 @@
   },
   {
     "word": "bob",
+    "memory": "move up and down",
     "meaning": "To move up and down quickly, especially on water; also a short hairstyle",
     "hindi": "ऊपर-नीचे हिलना, उछलना; छोटे कटे बाल",
     "trick": "A fishing BOB goes up and down on the water.",
@@ -2470,6 +2600,7 @@
   },
   {
     "word": "bobbing",
+    "memory": "moving up and down",
     "meaning": "Moving up and down quickly, especially on water",
     "hindi": "ऊपर-नीचे डोलते हुए",
     "trick": "BOB-BOB-BOBBING — a duck going up and down.",
@@ -2489,6 +2620,7 @@
   },
   {
     "word": "bodice",
+    "memory": "dress top",
     "meaning": "The top part of a woman's dress, above the waist",
     "hindi": "चोली, ड्रेस का ऊपरी भाग",
     "trick": "BODICE covers the BODY's upper part.",
@@ -2508,6 +2640,7 @@
   },
   {
     "word": "bogeys",
+    "memory": "imaginary scares",
     "meaning": "Imaginary things that scare people; also bits of dried mucus from the nose (informal); in golf, one shot over par",
     "hindi": "हौवा, भूत; नाक का सूखा मैल (बोलचाल)",
     "trick": "BOGEYman — scary things in the dark.",
@@ -2527,6 +2660,7 @@
   },
   {
     "word": "bogus",
+    "memory": "fake",
     "meaning": "Fake, false or not genuine",
     "hindi": "नकली, फ़र्ज़ी",
     "trick": "BOGUS ≈ 'bogey' — a scary fake thing that isn't real.",
@@ -2546,6 +2680,7 @@
   },
   {
     "word": "boisterous",
+    "memory": "noisy, lively",
     "meaning": "Noisy, lively and full of energy",
     "hindi": "हुड़दंगी, शोरगुल भरा, चंचल",
     "trick": "BOIS-TEROUS: BOYS being rowdy.",
@@ -2565,6 +2700,7 @@
   },
   {
     "word": "boisterously",
+    "memory": "noisily, energetically",
     "meaning": "In a noisy, lively and energetic way",
     "hindi": "हुड़दंग के साथ, शोर मचाते हुए",
     "trick": "BOYS laughing BOISTEROUSLY.",
@@ -2584,6 +2720,7 @@
   },
   {
     "word": "bolster",
+    "memory": "support, strengthen",
     "meaning": "To support or strengthen something; also a long pillow",
     "hindi": "मज़बूत करना, सहारा देना; गाव तकिया",
     "trick": "A BOLSTER pillow holds you UP — so to BOLSTER is to support.",
@@ -2603,6 +2740,7 @@
   },
   {
     "word": "bolt",
+    "memory": "run away suddenly",
     "meaning": "To run away suddenly; also a metal pin used to lock a door or join things; a flash of lightning",
     "hindi": "अचानक भाग जाना; चिटकनी, बोल्ट; बिजली की कड़क",
     "trick": "Usain BOLT — he runs off super fast.",
@@ -2622,6 +2760,7 @@
   },
   {
     "word": "bolting",
+    "memory": "running away suddenly",
     "meaning": "Running away suddenly and fast; also locking with a bolt; also eating very fast",
     "hindi": "अचानक भागते हुए; चिटकनी लगाते हुए; जल्दी-जल्दी खाते हुए",
     "trick": "Usain BOLT: running off at top speed.",
@@ -2641,6 +2780,7 @@
   },
   {
     "word": "bombarded",
+    "memory": "attacked nonstop",
     "meaning": "Attacked continuously; or given too many questions, messages or things at once",
     "hindi": "बमबारी की; बौछार कर दी",
     "trick": "Like being hit by BOMBs again and again.",
@@ -2660,6 +2800,7 @@
   },
   {
     "word": "bondage",
+    "memory": "slavery",
     "meaning": "The state of being a slave or not free; also tying someone up for sexual pleasure",
     "hindi": "गुलामी, बंधन",
     "trick": "BOND-age — being held in BONDS (chains).",
@@ -2679,6 +2820,7 @@
   },
   {
     "word": "bone-scorching",
+    "memory": "extremely hot",
     "meaning": "Extremely hot, as if heat could burn your bones",
     "hindi": "हड्डियाँ झुलसाने वाली गर्मी, भीषण गर्म",
     "trick": "So hot it SCORCHES your BONES.",
@@ -2698,6 +2840,7 @@
   },
   {
     "word": "bonfire",
+    "memory": "big outdoor fire",
     "meaning": "A large outdoor fire, often for celebration or burning rubbish",
     "hindi": "अलाव, बड़ी खुली आग",
     "trick": "BON-FIRE — a good (BON) FIRE for a party.",
@@ -2717,6 +2860,7 @@
   },
   {
     "word": "bonking",
+    "memory": "hitting on head",
     "meaning": "Hitting lightly on the head (informal); also having sex (rude slang)",
     "hindi": "सिर पर हल्की चोट मारना (बोलचाल); संभोग (अशिष्ट)",
     "trick": "BONK — the sound of a soft hit on the head.",
@@ -2736,6 +2880,7 @@
   },
   {
     "word": "bony",
+    "memory": "very thin",
     "meaning": "Very thin so the bones show; also full of bones (of fish)",
     "hindi": "हड्डीला, दुबला-पतला; काँटेदार (मछली)",
     "trick": "BONE-y: you can see the BONES.",
@@ -2755,6 +2900,7 @@
   },
   {
     "word": "boomed",
+    "memory": "sounded deep, loud",
     "meaning": "Made a deep, loud sound; also grew quickly and became successful (past)",
     "hindi": "गरजा, गूँजा; तेज़ी से बढ़ा",
     "trick": "BOOM! A big loud sound, or business going BOOM.",
@@ -2774,6 +2920,7 @@
   },
   {
     "word": "boomeranged",
+    "memory": "backfired",
     "meaning": "Came back to hurt the person who started it (past)",
     "hindi": "उल्टा पड़ा, पलटकर लगा",
     "trick": "A BOOMERANG comes back to you — and so did the plan.",
@@ -2793,6 +2940,7 @@
   },
   {
     "word": "booming",
+    "memory": "deep and loud",
     "meaning": "Making a deep, loud sound; also growing very fast and successful",
     "hindi": "गूँजती हुई, गरजती हुई; तेज़ी से बढ़ता हुआ",
     "trick": "BOOM! — loud — and business going BOOM upward.",
@@ -2812,6 +2960,7 @@
   },
   {
     "word": "borderline",
+    "memory": "just about, marginal",
     "meaning": "Very close to a limit; only just acceptable or not",
     "hindi": "सीमा पर, बिलकुल किनारे का",
     "trick": "Standing right on the BORDER LINE — not clearly on either side.",
@@ -2831,6 +2980,7 @@
   },
   {
     "word": "bored",
+    "memory": "uninterested, weary",
     "meaning": "Tired and unhappy because nothing interesting is happening",
     "hindi": "ऊबा हुआ, बोर",
     "trick": "BORED = nothing to do, nothing new.",
@@ -2850,6 +3000,7 @@
   },
   {
     "word": "boulevard",
+    "memory": "wide tree-lined street",
     "meaning": "A wide city street, often lined with trees",
     "hindi": "चौड़ी सड़क, पेड़ों वाला मार्ग",
     "trick": "BOULEVARD — a BOLD, wide road with trees.",
@@ -2869,6 +3020,7 @@
   },
   {
     "word": "bounding",
+    "memory": "leaping energetically",
     "meaning": "Running or jumping with big, energetic leaps",
     "hindi": "छलाँगें मारते हुए, उछलते हुए",
     "trick": "BOUNDING like a kangaroo: it jumps past the BOUNDary.",
@@ -2888,6 +3040,7 @@
   },
   {
     "word": "bounty",
+    "memory": "reward",
     "meaning": "A reward paid for catching a criminal; also a large, generous amount",
     "hindi": "इनाम; भरमार, बहुतायत",
     "trick": "A BOUNTY hunter gets money for catching bad guys.",
@@ -2907,6 +3060,7 @@
   },
   {
     "word": "bout",
+    "memory": "short spell",
     "meaning": "A short period of illness or activity; also a boxing or wrestling match",
     "hindi": "दौरा (बीमारी का); मुक़ाबला",
     "trick": "A BOUT of flu is ABOUT a few days.",
@@ -2926,6 +3080,7 @@
   },
   {
     "word": "bouts",
+    "memory": "short spells",
     "meaning": "Short periods of illness or activity; also boxing or wrestling matches (plural)",
     "hindi": "दौरे; मुक़ाबले",
     "trick": "One BOUT, two BOUTS: short rounds of something.",
@@ -2945,6 +3100,7 @@
   },
   {
     "word": "bow",
+    "memory": "bend in respect",
     "meaning": "To bend your head or body forward to show respect (rhymes with 'cow'); also a knot with two loops, or a curved weapon for shooting arrows (rhymes with 'go')",
     "hindi": "झुकना, सिर नवाना; धनुष; फंदा",
     "trick": "Two sounds: BOW (cow) to the king; tie a BOW (go) on a gift.",
@@ -2964,6 +3120,7 @@
   },
   {
     "word": "bow window",
+    "memory": "curved bay window",
     "meaning": "A window that curves outward from the wall of a building",
     "hindi": "बाहर निकली गोल खिड़की",
     "trick": "Shaped like a BOW (the curved weapon), bending out of the wall.",
@@ -2983,6 +3140,7 @@
   },
   {
     "word": "bowline",
+    "memory": "fixed-loop knot",
     "meaning": "A simple knot that makes a fixed loop at the end of a rope",
     "hindi": "रस्सी की फंदेदार गाँठ",
     "trick": "BOW + LINE — a loop tied in the line at the BOW of a ship.",
@@ -3002,6 +3160,7 @@
   },
   {
     "word": "bragging",
+    "memory": "showing off",
     "meaning": "Talking too proudly about yourself or what you have",
     "hindi": "डींग मारते हुए, शेखी बघारना",
     "trick": "BRAG sounds like a BRAT showing off.",
@@ -3021,6 +3180,7 @@
   },
   {
     "word": "braid",
+    "memory": "plait",
     "meaning": "Three or more strands of hair twisted together; also to twist them together",
     "hindi": "चोटी; चोटी गूँथना",
     "trick": "BRAID = plait: three strands in a pattern.",
@@ -3040,6 +3200,7 @@
   },
   {
     "word": "braided",
+    "memory": "plaited",
     "meaning": "Twisted three or more strands of hair or rope together (past); also having braids",
     "hindi": "गूँथा, चोटी बनाई; गुँथा हुआ",
     "trick": "BRAID = plait — BRAIDED hair is plaited hair.",
@@ -3059,6 +3220,7 @@
   },
   {
     "word": "braids",
+    "memory": "plaits",
     "meaning": "Hairstyles made of strands of hair twisted together (plural)",
     "hindi": "चोटियाँ",
     "trick": "One BRAID, two BRAIDS: pigtails.",
@@ -3078,6 +3240,7 @@
   },
   {
     "word": "brain boners",
+    "memory": "mind-blowing facts",
     "meaning": "(Slang, joking) Ideas or facts so interesting they excite your mind",
     "hindi": "दिमाग़ को रोमांचित करने वाली बातें (बोलचाल)",
     "trick": "Something that gets your BRAIN really excited.",
@@ -3096,6 +3259,7 @@
   },
   {
     "word": "brandished",
+    "memory": "waved threateningly",
     "meaning": "Waved something, especially a weapon, in a threatening or excited way (past)",
     "hindi": "लहराया, घुमाया (हथियार)",
     "trick": "Waved a burning BRAND (torch) at someone.",
@@ -3115,6 +3279,7 @@
   },
   {
     "word": "brandishing",
+    "memory": "waving threateningly",
     "meaning": "Waving something, especially a weapon, in a threatening or excited way",
     "hindi": "लहराते हुए, घुमाते हुए (हथियार)",
     "trick": "BRAND-ishing: waving a burning BRAND (torch) at someone.",
@@ -3134,6 +3299,7 @@
   },
   {
     "word": "brash",
+    "memory": "loud, overconfident",
     "meaning": "Too confident and loud in a rude way",
     "hindi": "ढीठ, अक्खड़, उद्दंड",
     "trick": "BRASH sounds like RASH — acting without thinking.",
@@ -3153,6 +3319,7 @@
   },
   {
     "word": "brayed",
+    "memory": "made donkey sounds",
     "meaning": "Made the loud harsh sound of a donkey; also laughed loudly and harshly (past)",
     "hindi": "रेंका; कर्कश हँसी हँसा",
     "trick": "A donkey BRAYED 'hee-HAW'.",
@@ -3172,6 +3339,7 @@
   },
   {
     "word": "brays",
+    "memory": "makes donkey sounds",
     "meaning": "Makes the loud harsh sound of a donkey; also these sounds (plural)",
     "hindi": "रेंकता है; रेंकने की आवाज़ें",
     "trick": "The donkey BRAYS: 'hee-HAW'!",
@@ -3191,6 +3359,7 @@
   },
   {
     "word": "brazier",
+    "memory": "coal fire pan",
     "meaning": "A metal container holding burning coal or wood, used for heat or cooking",
     "hindi": "अँगीठी, सिगड़ी",
     "trick": "BRAZIER sounds like BLAZE: a box of fire.",
@@ -3210,6 +3379,7 @@
   },
   {
     "word": "breach",
+    "memory": "breaking a rule",
     "meaning": "Breaking a rule, law or promise; or a gap or break in a wall or defence",
     "hindi": "उल्लंघन; दरार",
     "trick": "BREACH ≈ BREAK — both start with BRE.",
@@ -3229,6 +3399,7 @@
   },
   {
     "word": "breast",
+    "memory": "chest",
     "meaning": "The front of the chest; also either of the two soft parts on a woman's chest; meat from a bird's chest",
     "hindi": "छाती, सीना; स्तन",
     "trick": "BREAST = the chest area.",
@@ -3248,6 +3419,7 @@
   },
   {
     "word": "bred",
+    "memory": "raised, reared",
     "meaning": "Raised animals or plants to produce young ones (past of 'breed'); also, brought up",
     "hindi": "पाला, नस्ल बढ़ाई; पला-बढ़ा",
     "trick": "BRED = past of BREED — 'born and bred'.",
@@ -3267,6 +3439,7 @@
   },
   {
     "word": "breech",
+    "memory": "gun's rear end",
     "meaning": "The back part of a gun barrel; also (of a baby) born bottom or feet first",
     "hindi": "बंदूक़ का पिछला हिस्सा; उल्टा जन्म",
     "trick": "BREECH: the back end, like breeches cover your back end.",
@@ -3286,6 +3459,7 @@
   },
   {
     "word": "breeches",
+    "memory": "knee-length trousers",
     "meaning": "Short trousers that stop just below the knee, worn for horse riding or in old times",
     "hindi": "घुटनों तक की पतलून, बिरजिस",
     "trick": "BREECHES sound like BRITCHES: old-style riding pants.",
@@ -3305,6 +3479,7 @@
   },
   {
     "word": "breeding",
+    "memory": "raising young",
     "meaning": "Keeping animals or plants to produce young ones; also good manners learned from your family",
     "hindi": "पालन, प्रजनन; संस्कार, तहज़ीब",
     "trick": "BREED → BREEDING: making more of the same BREED.",
@@ -3324,6 +3499,7 @@
   },
   {
     "word": "breeds",
+    "memory": "types, kinds",
     "meaning": "Types of animals within a species; or produces young ones or causes something",
     "hindi": "नस्लें; पैदा करता है",
     "trick": "Dog BREEDS — Labrador, Pug, Beagle.",
@@ -3343,6 +3519,7 @@
   },
   {
     "word": "breezed",
+    "memory": "did easily",
     "meaning": "Did something very easily; also walked in a casual, confident way (past)",
     "hindi": "आसानी से कर लिया; बेफ़िक्री से आया",
     "trick": "Easy like a BREEZE.",
@@ -3362,6 +3539,7 @@
   },
   {
     "word": "breezing",
+    "memory": "doing easily",
     "meaning": "Doing something very easily; also moving casually and confidently",
     "hindi": "आसानी से करते हुए; बेफ़िक्री से चलते हुए",
     "trick": "A BREEZE flows easily — BREEZING through.",
@@ -3381,6 +3559,7 @@
   },
   {
     "word": "brew",
+    "memory": "make tea, coffee",
     "meaning": "To make tea, coffee or beer; also something about to happen (trouble, a storm)",
     "hindi": "चाय/कॉफ़ी बनाना, शराब बनाना; पनपना (मुसीबत)",
     "trick": "BREW the tea, and trouble BREWS too.",
@@ -3400,6 +3579,7 @@
   },
   {
     "word": "bricked",
+    "memory": "made useless",
     "meaning": "(informal) Made an electronic device completely useless, like a brick; also built or blocked with bricks (past)",
     "hindi": "बेकार हो गया (उपकरण) (बोलचाल); ईंटों से चुना",
     "trick": "Your phone is now just a BRICK.",
@@ -3419,6 +3599,7 @@
   },
   {
     "word": "brilliance",
+    "memory": "great intelligence",
     "meaning": "Great intelligence or skill; also very bright light",
     "hindi": "प्रतिभा, कुशाग्रता; चमक",
     "trick": "BRILLIANT → BRILLIANCE.",
@@ -3438,6 +3619,7 @@
   },
   {
     "word": "brim",
+    "memory": "top edge",
     "meaning": "The top edge of a cup or bowl; also the flat edge sticking out around a hat",
     "hindi": "किनारा, लबालब; टोपी का छज्जा",
     "trick": "BRIM: filled to the very RIM.",
@@ -3457,6 +3639,7 @@
   },
   {
     "word": "brimming",
+    "memory": "full to top",
     "meaning": "Full to the top; also full of a feeling",
     "hindi": "लबालब भरा; भरपूर",
     "trick": "Filled to the BRIM (top edge).",
@@ -3476,6 +3659,7 @@
   },
   {
     "word": "brine",
+    "memory": "salt water",
     "meaning": "Very salty water, used for pickling food; also seawater",
     "hindi": "खारा पानी, नमकीन पानी",
     "trick": "BRINE: BRING the salt.",
@@ -3495,6 +3679,7 @@
   },
   {
     "word": "brink",
+    "memory": "edge",
     "meaning": "The edge of a steep place; the point just before something happens ('on the brink of')",
     "hindi": "कगार, किनारा",
     "trick": "BRINK ≈ BRIM — right at the edge, about to spill over.",
@@ -3514,6 +3699,7 @@
   },
   {
     "word": "brisk",
+    "memory": "quick, energetic",
     "meaning": "Quick and full of energy; also cold and fresh (weather)",
     "hindi": "फुर्तीला, तेज़; ठंडी ताज़ी (हवा)",
     "trick": "BRISK sounds like QUICK + RISK: move fast.",
@@ -3533,6 +3719,7 @@
   },
   {
     "word": "briskly",
+    "memory": "quickly, energetically",
     "meaning": "Quickly and with energy",
     "hindi": "फुर्ती से, तेज़ी से",
     "trick": "BRISK = QUICK; BRISKLY = quickly and actively.",
@@ -3552,6 +3739,7 @@
   },
   {
     "word": "bristles",
+    "memory": "stiff hairs",
     "meaning": "Short, stiff hairs, like on a brush or an animal; also gets angry or offended",
     "hindi": "कड़े बाल, ब्रश के रेशे; भड़कता है",
     "trick": "Brush BRISTLES are stiff, like a person who BRISTLES with anger.",
@@ -3571,6 +3759,7 @@
   },
   {
     "word": "bristling",
+    "memory": "showing anger",
     "meaning": "Showing anger or annoyance; also (of hair) standing up stiffly; also full of something",
     "hindi": "भड़कते हुए; खड़े बाल; भरा हुआ",
     "trick": "A cat BRISTLING: fur standing up, ready to fight.",
@@ -3590,6 +3779,7 @@
   },
   {
     "word": "brittle",
+    "memory": "easily broken",
     "meaning": "Hard but easily broken",
     "hindi": "भुरभुरा, नाज़ुक, आसानी से टूटने वाला",
     "trick": "BRITTLE: like BREAKABLE little biscuits.",
@@ -3609,6 +3799,7 @@
   },
   {
     "word": "broach",
+    "memory": "raise a topic",
     "meaning": "To start talking about a difficult or sensitive subject",
     "hindi": "छेड़ना, बात उठाना",
     "trick": "BROACH a topic like opening a BROOCH clasp: carefully.",
@@ -3628,6 +3819,7 @@
   },
   {
     "word": "broached",
+    "memory": "raised a topic",
     "meaning": "Started talking about a difficult or sensitive subject (past)",
     "hindi": "बात छेड़ी, मुद्दा उठाया",
     "trick": "BROACH → BROACHED: you've opened the topic.",
@@ -3647,6 +3839,7 @@
   },
   {
     "word": "bronze",
+    "memory": "copper-tin metal",
     "meaning": "A brown metal made of copper and tin; also the colour of it; third-place medal",
     "hindi": "काँसा; काँस्य रंग; काँस्य पदक",
     "trick": "BRONZE: the third-place medal after gold and silver.",
@@ -3666,6 +3859,7 @@
   },
   {
     "word": "brood",
+    "memory": "young birds",
     "meaning": "A family of young birds hatched together; also to keep thinking unhappily about something",
     "hindi": "एक साथ जन्मे चूज़े; चिंता में घुलना",
     "trick": "A hen sits on her BROOD; a sad person sits and BROODS over a problem.",
@@ -3685,6 +3879,7 @@
   },
   {
     "word": "brooding",
+    "memory": "sulking, worrying",
     "meaning": "Thinking a lot about something that makes you sad or angry; also dark and threatening",
     "hindi": "गुमसुम सोचते हुए, कुढ़ते हुए; उदास, अँधेरा",
     "trick": "A hen BROODS on eggs; a sad person BROODS on problems.",
@@ -3704,6 +3899,7 @@
   },
   {
     "word": "brow",
+    "memory": "forehead",
     "meaning": "The forehead; also an eyebrow; the top of a hill",
     "hindi": "माथा; भौंह; पहाड़ी की चोटी",
     "trick": "BROW is the top of your face — EYEBROW sits on it.",
@@ -3723,6 +3919,7 @@
   },
   {
     "word": "brownies",
+    "memory": "chocolate cakes",
     "meaning": "Small, square chocolate cakes; also young girls in the junior Girl Guides",
     "hindi": "चॉकलेट केक के टुकड़े",
     "trick": "BROWN + ies — little BROWN chocolate squares.",
@@ -3742,6 +3939,7 @@
   },
   {
     "word": "bruised",
+    "memory": "hurt, discoloured",
     "meaning": "Having a dark mark on the skin from being hit; also emotionally hurt",
     "hindi": "चोट से नीला पड़ा, खरोंच वाला; आहत",
     "trick": "BRUISE — the blue-purple mark after a bump.",
@@ -3761,6 +3959,7 @@
   },
   {
     "word": "brunette",
+    "memory": "dark-haired woman",
     "meaning": "A woman or girl with dark brown hair",
     "hindi": "भूरे बालों वाली",
     "trick": "BRUN = brown (French) — BRUNETTE has brown hair.",
@@ -3780,6 +3979,7 @@
   },
   {
     "word": "brunt of",
+    "memory": "worst impact of",
     "meaning": "The main force or worst part of something bad ('bear the brunt of')",
     "hindi": "सबसे बड़ी मार, सबसे ज़्यादा असर",
     "trick": "BRUNT ≈ 'brunt = blunt hit' — you take the hardest hit.",
@@ -3799,6 +3999,7 @@
   },
   {
     "word": "brusque",
+    "memory": "curt, rude",
     "meaning": "Rude and short in speech or manner",
     "hindi": "रूखा, बेरुखा",
     "trick": "BRUSQUE sounds like BRUSH off: rudely short.",
@@ -3818,6 +4019,7 @@
   },
   {
     "word": "brusquely",
+    "memory": "curtly, rudely",
     "meaning": "In a short and rude way",
     "hindi": "रूखेपन से, बेरुखी से",
     "trick": "Said BRUSQUELY, like brushing someone off.",
@@ -3837,6 +4039,7 @@
   },
   {
     "word": "brute",
+    "memory": "cruel person",
     "meaning": "A cruel, violent person or animal; also using only physical strength",
     "hindi": "दरिंदा, वहशी; पाशविक",
     "trick": "BRUTE: BRUTAL and strong.",
@@ -3856,6 +4059,7 @@
   },
   {
     "word": "bucked",
+    "memory": "kicked up, jumped",
     "meaning": "(Of a horse) jumped with its back legs kicked up; also resisted or went against something (past)",
     "hindi": "उछलकर दुलत्ती मारी; विरोध किया",
     "trick": "A horse BUCKED and threw off the rider.",
@@ -3875,6 +4079,7 @@
   },
   {
     "word": "buffered",
+    "memory": "protected, cushioned",
     "meaning": "Protected from harm or reduced the effect of something; also (video) paused to load (past)",
     "hindi": "बचाव किया, असर कम किया; लोड होने को रुका",
     "trick": "A BUFFER is a cushion that softens a hit.",
@@ -3894,6 +4099,7 @@
   },
   {
     "word": "bugging",
+    "memory": "annoying",
     "meaning": "Annoying or bothering someone again and again (informal)",
     "hindi": "परेशान करते हुए, सताते हुए (बोलचाल)",
     "trick": "Like a BUG buzzing around your head — it keeps bugging you.",
@@ -3913,6 +4119,7 @@
   },
   {
     "word": "bulbous",
+    "memory": "round, swollen",
     "meaning": "Round and fat, like a bulb",
     "hindi": "गोल-मटोल, फूला हुआ",
     "trick": "Shaped like a light BULB: round and swollen.",
@@ -3932,6 +4139,7 @@
   },
   {
     "word": "bulge",
+    "memory": "swelling, lump",
     "meaning": "A round lump that sticks out; also to swell out",
     "hindi": "उभार; फूलना",
     "trick": "A BULGE is a BUMP that sticks out.",
@@ -3951,6 +4159,7 @@
   },
   {
     "word": "bulged",
+    "memory": "swelled out",
     "meaning": "Swelled out in a round shape (past)",
     "hindi": "फूल गया, उभर आया",
     "trick": "A BULGE is a lump sticking out — BULGED = stuck out.",
@@ -3970,6 +4179,7 @@
   },
   {
     "word": "bulging",
+    "memory": "swelling out",
     "meaning": "Swelling out in a round shape; very full",
     "hindi": "फूला हुआ, उभरा हुआ; ठसाठस",
     "trick": "BULGING bag — about to burst.",
@@ -3989,6 +4199,7 @@
   },
   {
     "word": "bulldoze",
+    "memory": "flatten, knock down",
     "meaning": "To knock down or clear with a bulldozer; also to force your way without caring about others",
     "hindi": "बुलडोज़र से गिराना; ज़बरदस्ती करना",
     "trick": "A BULLDOZER flattens everything in its way.",
@@ -4008,6 +4219,7 @@
   },
   {
     "word": "bum",
+    "memory": "lazy person",
     "meaning": "(Informal) A homeless or lazy person; the buttocks (British); 'bummed' means sad",
     "hindi": "आवारा, निकम्मा; कूल्हे (बोलचाल)",
     "trick": "A BUM just sits on his BUM all day.",
@@ -4027,6 +4239,7 @@
   },
   {
     "word": "bumblebees",
+    "memory": "big hairy bees",
     "meaning": "Large hairy bees that make a loud buzzing sound",
     "hindi": "भौंरे",
     "trick": "They BUMBLE around clumsily, buzzing.",
@@ -4046,6 +4259,7 @@
   },
   {
     "word": "bumped into",
+    "memory": "met by chance",
     "meaning": "Met someone by chance; also hit something by accident (past)",
     "hindi": "अचानक मिल गया; टकरा गया",
     "trick": "You BUMP INTO a friend like you BUMP INTO a door: without planning it.",
@@ -4065,6 +4279,7 @@
   },
   {
     "word": "bumpier",
+    "memory": "rougher, more uneven",
     "meaning": "More uneven and full of bumps (comparative of bumpy); also more full of problems",
     "hindi": "अधिक ऊबड़-खाबड़; अधिक मुश्किल",
     "trick": "BUMP + ier: more BUMPS than before.",
@@ -4084,6 +4299,7 @@
   },
   {
     "word": "buoyancy",
+    "memory": "ability to float",
     "meaning": "The ability to float in water or air; also cheerfulness",
     "hindi": "उत्प्लावन, तैरने की क्षमता; उत्साह",
     "trick": "A BUOY floats — BUOYANCY is floating power.",
@@ -4103,6 +4319,7 @@
   },
   {
     "word": "buoyant",
+    "memory": "floating",
     "meaning": "Able to float; also cheerful and confident",
     "hindi": "तैरने वाला; ख़ुशमिज़ाज, उत्साहित",
     "trick": "BUOY + ANT — even an ant floats like a BUOY.",
@@ -4122,6 +4339,7 @@
   },
   {
     "word": "buoys",
+    "memory": "floating markers",
     "meaning": "Floating objects in water that mark safe paths or warn of danger",
     "hindi": "पानी में तैरते संकेतक, बोया",
     "trick": "BOYS floating in the sea — BUOYS.",
@@ -4141,6 +4359,7 @@
   },
   {
     "word": "burgundy",
+    "memory": "dark red-purple",
     "meaning": "A dark purple-red colour; also a red wine from Burgundy in France",
     "hindi": "गहरा लाल-बैंगनी रंग; एक लाल शराब",
     "trick": "BURGUNDY = the colour of red wine.",
@@ -4160,6 +4379,7 @@
   },
   {
     "word": "burial",
+    "memory": "putting body underground",
     "meaning": "The act of putting a dead body in the ground",
     "hindi": "दफ़न, अंत्येष्टि",
     "trick": "BURY → BURIAL: the act of BURYing.",
@@ -4179,6 +4399,7 @@
   },
   {
     "word": "buried",
+    "memory": "put underground",
     "meaning": "Put into the ground and covered; also hidden under something (past of bury)",
     "hindi": "दफ़नाया, गाड़ा; दबा हुआ",
     "trick": "BURY → BURIED, like CARRY → CARRIED.",
@@ -4198,6 +4419,7 @@
   },
   {
     "word": "burlap",
+    "memory": "sack cloth",
     "meaning": "A rough, strong cloth used to make sacks",
     "hindi": "टाट, बोरे का कपड़ा",
     "trick": "BURLAP = rough cloth for potato sacks.",
@@ -4217,6 +4439,7 @@
   },
   {
     "word": "burped",
+    "memory": "belched",
     "meaning": "Let air come up noisily from the stomach through the mouth (past)",
     "hindi": "डकार ली",
     "trick": "BURP: the sound after drinking soda.",
@@ -4236,6 +4459,7 @@
   },
   {
     "word": "burritos",
+    "memory": "mexican rolled wraps",
     "meaning": "Mexican food: a soft flour tortilla rolled around a filling like beans, rice and meat",
     "hindi": "मेक्सिकन रोटी में लिपटा भरावन",
     "trick": "BURRITO = 'little donkey' in Spanish — it carries all the filling.",
@@ -4255,6 +4479,7 @@
   },
   {
     "word": "burrow",
+    "memory": "animal's tunnel",
     "meaning": "A hole or tunnel dug by an animal to live in; also to dig or snuggle into something",
     "hindi": "बिल, माँद; बिल खोदना, दुबकना",
     "trick": "A rabbit BURROWS a tunnel to hide from the BURRow-er (borrower).",
@@ -4274,6 +4499,7 @@
   },
   {
     "word": "burrowing",
+    "memory": "digging tunnels",
     "meaning": "Digging a hole or tunnel; also pressing yourself into something soft",
     "hindi": "बिल खोदते हुए; दुबकते हुए",
     "trick": "A rabbit BURROWING into its BURROW.",
@@ -4293,6 +4519,7 @@
   },
   {
     "word": "burst out",
+    "memory": "suddenly started",
     "meaning": "To suddenly start doing something, such as laughing or crying; also to rush out of somewhere",
     "hindi": "अचानक हँस/रो पड़ना; झटके से बाहर निकलना",
     "trick": "Like a balloon that BURSTS: the laugh comes OUT suddenly.",
@@ -4312,6 +4539,7 @@
   },
   {
     "word": "bursting",
+    "memory": "breaking open",
     "meaning": "Breaking open suddenly; also very full, or very eager to do something",
     "hindi": "फटते हुए; भरा हुआ, उतावला",
     "trick": "So full it's BURSTING, like an overfilled balloon.",
@@ -4331,6 +4559,7 @@
   },
   {
     "word": "bursts",
+    "memory": "breaks open",
     "meaning": "Breaks open suddenly; also short, sudden periods of something (plural)",
     "hindi": "फटता है; झोंके, दौर",
     "trick": "A balloon BURSTS: pop!",
@@ -4350,6 +4579,7 @@
   },
   {
     "word": "bushel",
+    "memory": "grain measure",
     "meaning": "A unit for measuring dry goods like grain or fruit (about 35 litres); also (informal) a large amount",
     "hindi": "अनाज का एक माप; ढेर सारा",
     "trick": "A BUSH full of apples fills one BUSHEL basket.",
@@ -4369,6 +4599,7 @@
   },
   {
     "word": "bushels",
+    "memory": "grain measures",
     "meaning": "Units for measuring dry goods like grain or fruit; also (informal) large amounts",
     "hindi": "अनाज के माप; ढेरों",
     "trick": "One BUSHEL, many BUSHELS: baskets full of crops.",
@@ -4388,6 +4619,7 @@
   },
   {
     "word": "bushes",
+    "memory": "shrubs",
     "meaning": "Plants like small trees with many branches close to the ground (plural)",
     "hindi": "झाड़ियाँ",
     "trick": "One BUSH, many BUSHES.",
@@ -4407,6 +4639,7 @@
   },
   {
     "word": "bushwhacked",
+    "memory": "ambushed",
     "meaning": "Attacked by surprise from a hiding place; also cut a path through thick bushes (past)",
     "hindi": "घात लगाकर हमला किया; झाड़ियाँ काटकर रास्ता बनाया",
     "trick": "Someone hiding in the BUSH WHACKED you.",
@@ -4426,6 +4659,7 @@
   },
   {
     "word": "busied",
+    "memory": "kept occupied",
     "meaning": "Kept yourself busy with something (past)",
     "hindi": "व्यस्त रखा, लगा रहा",
     "trick": "BUSY → BUSIED: made yourself BUSY.",
@@ -4445,6 +4679,7 @@
   },
   {
     "word": "bustle",
+    "memory": "busy activity",
     "meaning": "Busy and noisy activity; also to move around busily",
     "hindi": "चहल-पहल, हलचल; भाग-दौड़ करना",
     "trick": "BUSTLE = BUSY + HUSTLE.",
@@ -4464,6 +4699,7 @@
   },
   {
     "word": "bustling",
+    "memory": "busy, crowded",
     "meaning": "Full of busy people and activity",
     "hindi": "चहल-पहल भरा, भीड़-भाड़ वाला",
     "trick": "BUSY + HUSTLING = BUSTLING.",
@@ -4483,6 +4719,7 @@
   },
   {
     "word": "butcher",
+    "memory": "meat seller",
     "meaning": "A person who cuts and sells meat; also to kill cruelly or ruin something",
     "hindi": "कसाई; बेरहमी से मारना, बिगाड़ देना",
     "trick": "The BUTCHER chops meat at the shop.",
@@ -4502,6 +4739,7 @@
   },
   {
     "word": "butted",
+    "memory": "hit with head",
     "meaning": "Hit something with the head or horns (past); also pushed into a conversation rudely (butted in)",
     "hindi": "सींग/सिर से मारा; बीच में टोका",
     "trick": "A goat BUTTED me with its head.",
@@ -4521,6 +4759,7 @@
   },
   {
     "word": "buttonhole",
+    "memory": "slit for button",
     "meaning": "A small hole for a button; also to stop someone and make them listen to you",
     "hindi": "काज, बटन का छेद; रोककर बात सुनाना",
     "trick": "Stop someone by holding their BUTTONHOLE so they can't walk away.",
@@ -4540,6 +4779,7 @@
   },
   {
     "word": "buzz",
+    "memory": "humming sound",
     "meaning": "A low humming sound like a bee; or a feeling of excitement",
     "hindi": "भिनभिनाहट; जोश, उत्साह",
     "trick": "The sound a bee makes — bzzzz!",
@@ -4559,6 +4799,7 @@
   },
   {
     "word": "by degrees",
+    "memory": "gradually, little by little",
     "meaning": "Slowly and gradually, little by little",
     "hindi": "धीरे-धीरे, क्रमशः",
     "trick": "Like a thermometer rising one DEGREE at a time.",
