@@ -3,13 +3,13 @@ import WordDetails from './WordDetails.jsx';
 import SetPicker from './SetPicker.jsx';
 import SpeakButton from './SpeakButton.jsx';
 import StagePicker from './StagePicker.jsx';
-import { STAGE_IDS, stageInfo, dueLabel } from '../stages.js';
+import { stageInfo, dueLabel } from '../stages.js';
 import { shuffle } from '../utils.js';
 
 // Rows are rendered in pages as you scroll, so long lists stay fast.
 const PAGE = 60;
 
-export default function Browse({ sets, setId, onSetChange, stages, onStageChange, onBack }) {
+export default function Browse({ picker, set, onSetChange, stages, onStageChange, onBack }) {
   const [query, setQuery] = useState('');
   const [open, setOpen] = useState(() => new Set());
   const [limit, setLimit] = useState(PAGE);
@@ -20,11 +20,16 @@ export default function Browse({ sets, setId, onSetChange, stages, onStageChange
 
   // Typing stays responsive; filtering runs on the deferred value.
   const deferredQuery = useDeferredValue(query);
-  const setWords = (sets.find(x => x.id === setId) || sets[0]).words;
-  // Shuffled once per click, so changing a stage doesn't reorder the list.
+  const setId = set.id;
+  const setWords = set.words;
+  // A random rank per word, made once per Shuffle click, so changing a stage
+  // (which rebuilds the set) doesn't reorder the list.
+  const rank = useMemo(
+    () => (shuffleId === null ? null : new Map(shuffle(picker.words).map((w, i) => [w.lower, i]))),
+    [shuffleId, picker.words]);
   const words = useMemo(
-    () => (shuffleId === null ? setWords : shuffle(setWords)),
-    [setWords, shuffleId]);
+    () => (rank ? [...setWords].sort((a, b) => rank.get(a.lower) - rank.get(b.lower)) : setWords),
+    [setWords, rank]);
 
   // Search by word only, so meanings stay hidden until expanded.
   const list = useMemo(() => {
@@ -83,7 +88,7 @@ export default function Browse({ sets, setId, onSetChange, stages, onStageChange
         />
       </div>
       <div className="browse-sets">
-        <SetPicker sets={sets} value={setId} onChange={onSetChange} />
+        <SetPicker {...picker} stage={set.stage} letter={set.letter} onChange={onSetChange} />
       </div>
       <div className="browse-order">
         <button type="button" className={shuffled ? 'primary' : 'ghost'} onClick={reshuffle}>
@@ -96,7 +101,7 @@ export default function Browse({ sets, setId, onSetChange, stages, onStageChange
 
       {list.length === 0 && (
         <p className="muted center">
-          {STAGE_IDS.includes(setId) && !query ? `No ${stageInfo(setId).label} words yet.` : 'No matching words.'}
+          {set.stage && !query ? `No ${set.label} words yet.` : 'No matching words.'}
         </p>
       )}
       {list.length > 0 && (

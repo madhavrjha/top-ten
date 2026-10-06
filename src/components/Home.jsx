@@ -1,13 +1,12 @@
 import SetPicker from './SetPicker.jsx';
 import VoicePicker from './VoicePicker.jsx';
 import Today from './Today.jsx';
-import { STAGE_IDS, stageInfo } from '../stages.js';
+import { stageInfo } from '../stages.js';
 
 export default function Home({
-  sets, setId, onSetChange, practiceSet, quizSaved, onPick, today, onClearToday, onClearData, dataVersion, hasWords,
+  picker, onSetChange, practiceSet, quizSaved, onPick, today, onClearToday, onClearData, dataVersion, hasWords,
 }) {
   const count = practiceSet.words.length;
-  const isStage = STAGE_IDS.includes(practiceSet.id);
 
   return (
     <section>
@@ -16,10 +15,10 @@ export default function Home({
       {hasWords && <Today {...today} />}
 
       <h2 className="section-title spaced">Practice set</h2>
-      <SetPicker sets={sets} value={setId} onChange={onSetChange} />
+      <SetPicker {...picker} stage={practiceSet.stage} letter={practiceSet.letter} onChange={onSetChange} />
       <p className="muted small-text">
         {`${practiceSet.label}: ${count} word${count === 1 ? '' : 's'}.`}
-        {isStage && ` ${stageInfo(practiceSet.id).hint}`}
+        {practiceSet.stage && ` ${stageInfo(practiceSet.stage).hint}`}
       </p>
 
       <div className="levels">

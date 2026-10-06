@@ -1,7 +1,8 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { WORDS } from './words.js';
 import { clearSavedData } from './utils.js';
-import { STAGES, loadStages, saveStages, setStage, gradeReview, undoReviews, isDue, reviewedToday, dueLabel } from './stages.js';
+import { buildSet } from './sets.js';
+import { loadStages, saveStages, setStage, gradeReview, undoReviews, isDue, reviewedToday, dueLabel } from './stages.js';
 import { loadSpell } from './spellProgress.js';
 import { loadDaily, saveDaily, setLetter, letterDoneSet, markLetterDone, noteReview, clearToday } from './daily.js';
 import { useRoute, navigate, href } from './router.js';
@@ -93,21 +94,15 @@ export default function App() {
     setToast('Saved data cleared.');
   };
 
-  // "All", one set per stage, then one set per starting letter.
-  const letterSets = useMemo(() => Object.keys(letterWords).sort()
-    .map(l => ({ id: l, label: `Letter ${l.toUpperCase()}`, words: letterWords[l] })), [letterWords]);
-  const sets = useMemo(() => [
-    { id: 'all', label: 'All words', words: WORDS },
-    ...STAGES.map(st => ({
-      id: st.id,
-      label: st.label,
-      words: WORDS.filter(w => (stages[w.lower]?.stage || 'new') === st.id),
-    })),
-    ...letterSets,
-  ], [letterSets, stages]);
-  const practiceSet = sets.find(x => x.id === setId) || sets[0];
-  // The set named in the URL for #/browse/<set> and #/spell/<set>.
-  const routeSet = sets.find(x => x.id === param) || null;
+  // A set is a stage, a letter, both, or neither (see sets.js).
+  const letters = useMemo(() => Object.keys(letterWords).sort(), [letterWords]);
+  const stageOfWord = useCallback(w => stages[w.lower]?.stage || 'new', [stages]);
+  const practiceSet = useMemo(
+    () => buildSet(setId, WORDS, stageOfWord, letters) || buildSet('all', WORDS, stageOfWord, letters),
+    [setId, stageOfWord, letters]);
+  // The set named in the URL for #/browse/<set>, #/spell/<set> and #/pick/<set>.
+  const routeSet = useMemo(() => buildSet(param, WORDS, stageOfWord, letters), [param, stageOfWord, letters]);
+  const pickerProps = { words: WORDS, stageOf: stageOfWord, letters };
 
   const changeSet = id => { setSetId(id); store(SET_KEY, id); };
 
@@ -143,7 +138,7 @@ export default function App() {
   }, [path]); // eslint-disable-line react-hooks/exhaustive-deps
 
   // Mastered review: words due today plus the ones already reviewed today.
-  const masteredWords = sets.find(x => x.id === 'mastered').words;
+  const masteredWords = WORDS.filter(w => stageOfWord(w) === 'mastered');
   const reviewWords = masteredWords.filter(w => isDue(stages[w.lower]) || reviewedToday(stages[w.lower]));
   const reviewDoneSet = new Set(reviewWords.filter(w => reviewedToday(stages[w.lower])).map(w => w.lower));
   const nextDueEntry = masteredWords.map(w => stages[w.lower]).filter(e => !isDue(e))
@@ -170,14 +165,13 @@ export default function App() {
 
       {screen === 'home' && (
         <Home
-          sets={sets}
-          setId={practiceSet.id}
+          picker={pickerProps}
           onSetChange={changeSet}
           practiceSet={practiceSet}
           quizSaved={quizSaved}
           onPick={id => navigate(`/${id}/${practiceSet.id}`)}
           today={{
-            letters: Object.keys(letterWords).sort(),
+            letters,
             letter: daily.letter,
             letterWords: todayLetterWords,
             letterDone: todayLetterWords.filter(w => todayLetterDone.has(w.lower)).length,
@@ -231,8 +225,8 @@ export default function App() {
       )}
       {screen === 'browse' && (
         <Browse
-          sets={sets}
-          setId={routeSet.id}
+          picker={pickerProps}
+          set={routeSet}
           onSetChange={id => navigate(`/browse/${id}`, { replace: true })}
           stages={stages}
           onStageChange={changeStage}

@@ -81,7 +81,10 @@ brought back on request. When the stages arrived, every word was reset to New.
   review today); stages and everything else stay. Letter order: A–Z or 🔀 Shuffle
   (`vocab.letterShuffle`). ✅ *Mastered review* — Mastered words that are due, random order; each card ends
   with Forgot (F) / Knew it (Enter). Inside a walk, 🔀 Shuffle mixes the remaining cards.
-- **Home**: set chips (All, one per stage, then one per letter) → **Pick the meaning**, **Spell the word** or
+- **Practice sets** (`src/sets.js`): two chip rows that combine — stage (All stages / one stage) and letter
+  (All letters / one letter); counts reflect the other row's choice. Set id: `all` | `recall` | `b` |
+  `recall-b` (used in URLs and saved progress); the last choice is saved in `vocab.practiceSet`.
+- **Home**: set chips (stage row + letter row) → **Pick the meaning**, **Spell the word** or
   **Browse words**; voice picker; **Clear today's progress** and **Clear all saved data** (removes all
   `vocab.*` localStorage keys after a confirm).
 - **Pick the meaning** (multiple choice, `Quiz` with `mode="pick"`): see the word, choose its meaning from 4
@@ -96,8 +99,7 @@ brought back on request. When the stages arrived, every word was reset to New.
 - **Browse**: set chips, search by word only, rows collapsed until expanded (meaning, trick,
   "How to use", examples), 🔊 and a stage pill + menu per row, Shuffle / A–Z, pages of 60 rows loaded on scroll.
 - **Routing** (`src/router.js`, hash-based so GitHub Pages needs no rewrites): `#/`, `#/browse/<set>`,
-  `#/spell/<set>`, `#/pick/<set>`, `#/today/letter`, `#/today/review` (<set> = all | new | recognise | recall | pronounce |
-  mastered | a | b ...). Browser Back/Forward move between screens; unknown routes redirect home. Set chips
+  `#/spell/<set>`, `#/pick/<set>`, `#/today/letter`, `#/today/review` (<set> = all | <stage> | <letter> | <stage>-<letter>, e.g. recall-b). Browser Back/Forward move between screens; unknown routes redirect home. Set chips
   in Browse use `replace`. (A Back-button "are you sure?" guard was tried and removed at the user's
   request — don't re-add it.)
 - **Pronunciation**: browser text-to-speech (`src/speech.js`); novelty macOS voices filtered out;
@@ -112,7 +114,8 @@ brought back on request. When the stages arrived, every word was reset to New.
 - `src/daily.js` — pure daily-task logic + `vocab.today` storage.
 - `src/spellProgress.js` — saved Spell progress per set (`vocab.spell`).
 - `src/speech.js` — voice ranking and `speak()`.
-- `src/App.jsx` — routes → screens, sets (All / stages / letters), stage state, clear data, toast.
+- `src/sets.js` — set ids (`makeSetId`, `parseSetId`), labels and `buildSet` (stage × letter filter).
+- `src/App.jsx` — routes → screens, practice set from the URL/saved id, stage state, clear data, toast.
 - `src/router.js` — `useRoute`, `navigate(to, {replace})`, `href`.
 - `src/components/` — `Home`, `Today`, `Walk` (card-by-card go-through), `Quiz` (Spell the word / Pick the meaning),
   `Browse`, `WordDetails`, `SetPicker`, `StagePicker`, `SpeakButton`, `VoicePicker`.
