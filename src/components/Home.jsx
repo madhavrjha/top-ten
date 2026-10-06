@@ -15,11 +15,10 @@ export default function Home({
       {hasWords && <Today {...today} />}
 
       <h2 className="section-title spaced">Practice set</h2>
-      <SetPicker {...picker} stage={practiceSet.stage} letter={practiceSet.letter} rarity={practiceSet.rarity} onChange={onSetChange} />
-      <p className="muted small-text">
-        {`${practiceSet.label}: ${count} word${count === 1 ? '' : 's'}.`}
-        {practiceSet.stage && ` ${stageInfo(practiceSet.stage).hint}`}
-      </p>
+      <SetPicker {...picker} filter={practiceSet.filter} onChange={onSetChange} />
+      {practiceSet.filter.stage.length === 1 && (
+        <p className="muted small-text">💡 {stageInfo(practiceSet.filter.stage[0]).hint}</p>
+      )}
 
       <div className="levels">
         <button className="level-card" disabled={!count} onClick={() => onPick('pick')}>

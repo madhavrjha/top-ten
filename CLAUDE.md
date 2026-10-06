@@ -88,11 +88,14 @@ brought back on request. When the stages arrived, every word was reset to New.
   (1 rare … 7 very common) from the `wordfreq` library; phrases/hyphenated words = rarest part − 1 (estimate).
   🟢 Common ≥ 3.5, 🟡 Medium ≥ 2.5, 🔴 Rare below. Shown as a dot on Browse rows and a badge next to the
   meaning (`RarityBadge`). Known quirk: names inflate some scores (e.g. "bob").
-- **Practice sets** (`src/sets.js`): three chip rows that combine — stage, letter and how common (each has an
-  "All"/"Any" chip); counts reflect the other rows' choices. Set id = parts joined by "-", in order
-  stage-letter-rarity: `all` | `recall` | `b` | `common` | `recall-b` | `recall-b-common` (used in URLs and saved
-  progress); the last choice is saved in `vocab.practiceSet`.
-- **Home**: set chips (stage, letter and how-common rows) → **Pick the meaning**, **Spell the word** or
+- **Practice sets / filters** (`src/sets.js`, `SetPicker.jsx`): a collapsible filter panel (summary line + word
+  count + Clear; open by default on Home, closed in Browse) with three groups — Stage, Letter, How common.
+  **Multi-select**: any number of chips per group (none = Any), e.g. Recognise + Recall · A, B · Common.
+  Each chip's count = words it covers with the other groups' choices. Set id: groups joined by "-", values by
+  ".", fixed order stage-letter-rarity: `all` | `recall` | `a.b` | `recognise.recall-a.b-common` (used in URLs and
+  saved progress); the last choice is saved in `vocab.practiceSet`. The user likes the dark theme — keep
+  new UI on the colour tokens so dark mode stays good.
+- **Home**: filter panel → **Pick the meaning**, **Spell the word** or
   **Browse words**; voice picker; **Clear today's progress** and **Clear all saved data** (removes all
   `vocab.*` localStorage keys after a confirm).
 - **Pick the meaning** (multiple choice, `Quiz` with `mode="pick"`): see the word, choose its meaning from 4
@@ -104,10 +107,10 @@ brought back on request. When the stages arrived, every word was reset to New.
   Progress is saved after every answer per set (`src/spellProgress.js`, key `vocab.spell` =
   `{ <setId>: { remaining: [lower...], cleared } }`) and resumed when the set is reopened; Home shows
   "Resume spelling"; "Start over" resets the set; finishing a set clears its entry.
-- **Browse**: set chips, search by word only, rows collapsed until expanded (meaning, trick,
+- **Browse**: filter panel (collapsed), search by word only, rows collapsed until expanded (meaning, trick,
   "How to use", examples), 🔊, a rarity dot and a stage pill + menu per row; order A–Z / 🟢 Common first / 🔀 Shuffle; pages of 60 rows loaded on scroll.
 - **Routing** (`src/router.js`, hash-based so GitHub Pages needs no rewrites): `#/`, `#/browse/<set>`,
-  `#/spell/<set>`, `#/pick/<set>`, `#/today/letter`, `#/today/review` (<set> = all, or stage/letter/rarity parts joined by "-", e.g. recall-b, b-common). Browser Back/Forward move between screens; unknown routes redirect home. Set chips
+  `#/spell/<set>`, `#/pick/<set>`, `#/today/letter`, `#/today/review` (<set> = a set id, e.g. all, recall-b, recognise.recall-a.b-common). Browser Back/Forward move between screens; unknown routes redirect home. Set chips
   in Browse use `replace`. (A Back-button "are you sure?" guard was tried and removed at the user's
   request — don't re-add it.)
 - **Pronunciation**: browser text-to-speech (`src/speech.js`); novelty macOS voices filtered out;
@@ -122,7 +125,7 @@ brought back on request. When the stages arrived, every word was reset to New.
 - `src/daily.js` — pure daily-task logic + `vocab.today` storage.
 - `src/spellProgress.js` — saved Spell progress per set (`vocab.spell`).
 - `src/speech.js` — voice ranking and `speak()`.
-- `src/sets.js` — set ids (`makeSetId`, `parseSetId`), labels and `buildSet` (stage × letter × rarity filter).
+- `src/sets.js` — filter ↔ set id (`makeSetId`, `parseSetId`), `setLabel`, `filterWords`, `buildSet`.
 - `src/rarity.js` — `RARITIES` thresholds and `rarityOf(freq)`; `src/frequency.json` — generated scores (don't hand-edit).
 - `scripts/frequency.py` — regenerates `src/frequency.json` with wordfreq (run from `.venv`).
 - `src/App.jsx` — routes → screens, practice set from the URL/saved id, stage state, clear data, toast.

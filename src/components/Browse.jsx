@@ -94,7 +94,7 @@ export default function Browse({ picker, set, onSetChange, stages, onStageChange
         />
       </div>
       <div className="browse-sets">
-        <SetPicker {...picker} stage={set.stage} letter={set.letter} rarity={set.rarity} onChange={onSetChange} />
+        <SetPicker {...picker} filter={set.filter} onChange={onSetChange} defaultOpen={false} />
       </div>
       <div className="browse-order">
         <span className="muted small-text">Order:</span>
@@ -108,7 +108,7 @@ export default function Browse({ picker, set, onSetChange, stages, onStageChange
 
       {list.length === 0 && (
         <p className="muted center">
-          {(set.stage || set.rarity) && !query ? `No ${set.label} words yet.` : 'No matching words.'}
+          {query ? 'No matching words.' : 'No words match these filters.'}
         </p>
       )}
       {list.length > 0 && (
