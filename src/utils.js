@@ -1,3 +1,5 @@
+import { rarityOf } from './rarity.js';
+
 export function shuffle(arr) {
   const a = arr.slice();
   for (let i = a.length - 1; i > 0; i--) {
@@ -12,8 +14,9 @@ export function norm(s) {
 }
 
 // Normalizes raw word entries once at load time and precomputes the
-// lowercase word and meaning key used by the quiz.
-export function prepareWords(list) {
+// lowercase word, the meaning key used by the quiz, and how common it is
+// (frequency: { "<lower>": Zipf score }).
+export function prepareWords(list, frequency = {}) {
   return list
     .filter(w => w && w.word && w.meaning)
     .map(w => {
@@ -31,6 +34,8 @@ export function prepareWords(list) {
         } : null,
         lower: word.toLowerCase(),
         key: norm(meaning),
+        freq: frequency[word.toLowerCase()] ?? null,
+        rarity: rarityOf(frequency[word.toLowerCase()]),
       };
     })
     .sort((a, b) => a.word.localeCompare(b.word));

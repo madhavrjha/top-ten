@@ -15,10 +15,13 @@ just `Word`, or WhatsApp lines with timestamps (`[7:33 pm, 3/10/2026] Madhav: ..
 3. Fix spelling mistakes (e.g. "adevnture" → adventure, "apparant" → apparent) and say which you fixed.
 4. Write each entry into `src/words/<first-letter>.json` (create the file if the letter is new).
    Keep the array sorted alphabetically by `word`; `word` is lowercase unless a proper noun.
-5. Validate: every entry has `word`, `meaning`, `trick`, exactly 2 `examples`, and `usage`; each
+5. Score how common the new words are: `.venv/bin/python scripts/frequency.py` (rewrites
+   `src/frequency.json`). One-time setup if `.venv` is missing: `python3 -m venv .venv && .venv/bin/pip install wordfreq`
+   (the system Python refuses global pip installs).
+6. Validate: every entry has `word`, `meaning`, `trick`, exactly 2 `examples`, and `usage`; each
    example should contain the word (or a form of it); JSON parses;
    `npx vite build --logLevel error` succeeds.
-6. Do NOT commit/push until the user says so ("commit and push" is the usual phrase).
+7. Do NOT commit/push until the user says so ("commit and push" is the usual phrase).
 
 ### Writing entries
 ```json
@@ -81,10 +84,15 @@ brought back on request. When the stages arrived, every word was reset to New.
   review today); stages and everything else stay. Letter order: A–Z or 🔀 Shuffle
   (`vocab.letterShuffle`). ✅ *Mastered review* — Mastered words that are due, random order; each card ends
   with Forgot (F) / Knew it (Enter). Inside a walk, 🔀 Shuffle mixes the remaining cards.
-- **Practice sets** (`src/sets.js`): two chip rows that combine — stage (All stages / one stage) and letter
-  (All letters / one letter); counts reflect the other row's choice. Set id: `all` | `recall` | `b` |
-  `recall-b` (used in URLs and saved progress); the last choice is saved in `vocab.practiceSet`.
-- **Home**: set chips (stage row + letter row) → **Pick the meaning**, **Spell the word** or
+- **How common** (`src/rarity.js`, `src/frequency.json`, `scripts/frequency.py`): each word's Zipf score
+  (1 rare … 7 very common) from the `wordfreq` library; phrases/hyphenated words = rarest part − 1 (estimate).
+  🟢 Common ≥ 3.5, 🟡 Medium ≥ 2.5, 🔴 Rare below. Shown as a dot on Browse rows and a badge next to the
+  meaning (`RarityBadge`). Known quirk: names inflate some scores (e.g. "bob").
+- **Practice sets** (`src/sets.js`): three chip rows that combine — stage, letter and how common (each has an
+  "All"/"Any" chip); counts reflect the other rows' choices. Set id = parts joined by "-", in order
+  stage-letter-rarity: `all` | `recall` | `b` | `common` | `recall-b` | `recall-b-common` (used in URLs and saved
+  progress); the last choice is saved in `vocab.practiceSet`.
+- **Home**: set chips (stage, letter and how-common rows) → **Pick the meaning**, **Spell the word** or
   **Browse words**; voice picker; **Clear today's progress** and **Clear all saved data** (removes all
   `vocab.*` localStorage keys after a confirm).
 - **Pick the meaning** (multiple choice, `Quiz` with `mode="pick"`): see the word, choose its meaning from 4
@@ -97,9 +105,9 @@ brought back on request. When the stages arrived, every word was reset to New.
   `{ <setId>: { remaining: [lower...], cleared } }`) and resumed when the set is reopened; Home shows
   "Resume spelling"; "Start over" resets the set; finishing a set clears its entry.
 - **Browse**: set chips, search by word only, rows collapsed until expanded (meaning, trick,
-  "How to use", examples), 🔊 and a stage pill + menu per row, Shuffle / A–Z, pages of 60 rows loaded on scroll.
+  "How to use", examples), 🔊, a rarity dot and a stage pill + menu per row; order A–Z / 🟢 Common first / 🔀 Shuffle; pages of 60 rows loaded on scroll.
 - **Routing** (`src/router.js`, hash-based so GitHub Pages needs no rewrites): `#/`, `#/browse/<set>`,
-  `#/spell/<set>`, `#/pick/<set>`, `#/today/letter`, `#/today/review` (<set> = all | <stage> | <letter> | <stage>-<letter>, e.g. recall-b). Browser Back/Forward move between screens; unknown routes redirect home. Set chips
+  `#/spell/<set>`, `#/pick/<set>`, `#/today/letter`, `#/today/review` (<set> = all, or stage/letter/rarity parts joined by "-", e.g. recall-b, b-common). Browser Back/Forward move between screens; unknown routes redirect home. Set chips
   in Browse use `replace`. (A Back-button "are you sure?" guard was tried and removed at the user's
   request — don't re-add it.)
 - **Pronunciation**: browser text-to-speech (`src/speech.js`); novelty macOS voices filtered out;
@@ -107,18 +115,20 @@ brought back on request. When the stages arrived, every word was reset to New.
 
 ## Files
 - `src/words/<letter>.json` — the data. Loaded automatically via `import.meta.glob` in `src/words.js`.
-- `src/utils.js` — `shuffle`, `norm`, `prepareWords` (precomputes `lower` and meaning `key`), date helpers
+- `src/utils.js` — `shuffle`, `norm`, `prepareWords` (precomputes `lower`, meaning `key`, `freq`, `rarity`), date helpers
   (`today`, `addDays`, `daysBetween`), `clearSavedData`.
 - `src/session.js` — pure quiz logic (modes 'spell' / 'pick', options for pick) + spelling check with a light stemmer.
 - `src/stages.js` — stage storage, `setStage`, `gradeReview`, `isDue`, `dueLabel`, `INTERVALS`.
 - `src/daily.js` — pure daily-task logic + `vocab.today` storage.
 - `src/spellProgress.js` — saved Spell progress per set (`vocab.spell`).
 - `src/speech.js` — voice ranking and `speak()`.
-- `src/sets.js` — set ids (`makeSetId`, `parseSetId`), labels and `buildSet` (stage × letter filter).
+- `src/sets.js` — set ids (`makeSetId`, `parseSetId`), labels and `buildSet` (stage × letter × rarity filter).
+- `src/rarity.js` — `RARITIES` thresholds and `rarityOf(freq)`; `src/frequency.json` — generated scores (don't hand-edit).
+- `scripts/frequency.py` — regenerates `src/frequency.json` with wordfreq (run from `.venv`).
 - `src/App.jsx` — routes → screens, practice set from the URL/saved id, stage state, clear data, toast.
 - `src/router.js` — `useRoute`, `navigate(to, {replace})`, `href`.
 - `src/components/` — `Home`, `Today`, `Walk` (card-by-card go-through), `Quiz` (Spell the word / Pick the meaning),
-  `Browse`, `WordDetails`, `SetPicker`, `StagePicker`, `SpeakButton`, `VoicePicker`.
+  `Browse`, `WordDetails`, `SetPicker`, `StagePicker`, `RarityBadge`, `SpeakButton`, `VoicePicker`.
 - `vite.config.js` — `base: '/top-ten/'` for builds.
 
 ## Deploy

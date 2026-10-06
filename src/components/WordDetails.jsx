@@ -1,10 +1,11 @@
 import SpeakButton from './SpeakButton.jsx';
+import RarityBadge from './RarityBadge.jsx';
 
 export default function WordDetails({ word, showTitle = true }) {
   return (
     <div className="details">
       {showTitle && <h3 className="word-title">{word.word} <SpeakButton text={word.word} /></h3>}
-      <p><span className="label">Meaning:</span> {word.meaning}</p>
+      <p><span className="label">Meaning:</span> {word.meaning} <RarityBadge word={word} /></p>
       {word.trick && <p><span className="label">Trick:</span> {word.trick}</p>}
       {word.usage && (
         <div className="usage">

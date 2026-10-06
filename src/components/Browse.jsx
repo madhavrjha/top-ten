@@ -3,6 +3,7 @@ import WordDetails from './WordDetails.jsx';
 import SetPicker from './SetPicker.jsx';
 import SpeakButton from './SpeakButton.jsx';
 import StagePicker from './StagePicker.jsx';
+import RarityBadge from './RarityBadge.jsx';
 import { stageInfo, dueLabel } from '../stages.js';
 import { shuffle } from '../utils.js';
 
@@ -13,9 +14,11 @@ export default function Browse({ picker, set, onSetChange, stages, onStageChange
   const [query, setQuery] = useState('');
   const [open, setOpen] = useState(() => new Set());
   const [limit, setLimit] = useState(PAGE);
-  // null = A–Z order; a number = shuffled (changing it reshuffles).
-  const [shuffleId, setShuffleId] = useState(null);
-  const shuffled = shuffleId !== null;
+  // 'az' (grouped by letter), 'common' (most common first) or 'shuffle'.
+  const [order, setOrder] = useState('az');
+  // Changing it reshuffles.
+  const [shuffleId, setShuffleId] = useState(0);
+  const flat = order !== 'az';
   const sentinel = useRef(null);
 
   // Typing stays responsive; filtering runs on the deferred value.
@@ -25,11 +28,13 @@ export default function Browse({ picker, set, onSetChange, stages, onStageChange
   // A random rank per word, made once per Shuffle click, so changing a stage
   // (which rebuilds the set) doesn't reorder the list.
   const rank = useMemo(
-    () => (shuffleId === null ? null : new Map(shuffle(picker.words).map((w, i) => [w.lower, i]))),
-    [shuffleId, picker.words]);
-  const words = useMemo(
-    () => (rank ? [...setWords].sort((a, b) => rank.get(a.lower) - rank.get(b.lower)) : setWords),
-    [setWords, rank]);
+    () => (order === 'shuffle' ? new Map(shuffle(picker.words).map((w, i) => [w.lower, i])) : null),
+    [order, shuffleId, picker.words]); // eslint-disable-line react-hooks/exhaustive-deps
+  const words = useMemo(() => {
+    if (rank) return [...setWords].sort((a, b) => rank.get(a.lower) - rank.get(b.lower));
+    if (order === 'common') return [...setWords].sort((a, b) => (b.freq ?? -1) - (a.freq ?? -1));
+    return setWords;
+  }, [setWords, rank, order]);
 
   // Search by word only, so meanings stay hidden until expanded.
   const list = useMemo(() => {
@@ -38,10 +43,11 @@ export default function Browse({ picker, set, onSetChange, stages, onStageChange
   }, [words, deferredQuery]);
 
   // Back to the first page when the set or search changes.
-  useEffect(() => setLimit(PAGE), [setId, shuffleId, deferredQuery]);
+  useEffect(() => setLimit(PAGE), [setId, order, shuffleId, deferredQuery]);
 
-  const reshuffle = () => {
-    setShuffleId(n => (n ?? 0) + 1);
+  const changeOrder = o => {
+    if (o === 'shuffle') setShuffleId(n => n + 1);
+    setOrder(o);
     window.scrollTo({ top: 0 });
   };
 
@@ -56,9 +62,9 @@ export default function Browse({ picker, set, onSetChange, stages, onStageChange
     return () => io.disconnect();
   }, [list, limit]);
 
-  // A–Z: grouped under letter headings. Shuffled: one flat list.
+  // A–Z: grouped under letter headings. Common first / shuffled: one flat list.
   const groups = useMemo(() => {
-    if (shuffled) return [{ letter: null, words: list.slice(0, limit) }];
+    if (flat) return [{ letter: null, words: list.slice(0, limit) }];
     const g = [];
     for (const w of list.slice(0, limit)) {
       const letter = w.word[0].toUpperCase();
@@ -66,7 +72,7 @@ export default function Browse({ picker, set, onSetChange, stages, onStageChange
       g[g.length - 1].words.push(w);
     }
     return g;
-  }, [list, limit, shuffled]);
+  }, [list, limit, flat]);
 
   const toggle = useCallback(word => setOpen(prev => {
     const next = new Set(prev);
@@ -88,20 +94,21 @@ export default function Browse({ picker, set, onSetChange, stages, onStageChange
         />
       </div>
       <div className="browse-sets">
-        <SetPicker {...picker} stage={set.stage} letter={set.letter} onChange={onSetChange} />
+        <SetPicker {...picker} stage={set.stage} letter={set.letter} rarity={set.rarity} onChange={onSetChange} />
       </div>
       <div className="browse-order">
-        <button type="button" className={shuffled ? 'primary' : 'ghost'} onClick={reshuffle}>
-          🔀 {shuffled ? 'Shuffle again' : 'Shuffle'}
-        </button>
-        {shuffled && (
-          <button type="button" className="ghost" onClick={() => setShuffleId(null)}>A–Z order</button>
-        )}
+        <span className="muted small-text">Order:</span>
+        <button type="button" className={`set-chip ${order === 'az' ? 'active' : ''}`} aria-pressed={order === 'az'}
+          onClick={() => changeOrder('az')}>A–Z</button>
+        <button type="button" className={`set-chip ${order === 'common' ? 'active' : ''}`} aria-pressed={order === 'common'}
+          onClick={() => changeOrder('common')}>🟢 Common first</button>
+        <button type="button" className={`set-chip ${order === 'shuffle' ? 'active' : ''}`} aria-pressed={order === 'shuffle'}
+          onClick={() => changeOrder('shuffle')}>🔀 {order === 'shuffle' ? 'Shuffle again' : 'Shuffle'}</button>
       </div>
 
       {list.length === 0 && (
         <p className="muted center">
-          {set.stage && !query ? `No ${set.label} words yet.` : 'No matching words.'}
+          {(set.stage || set.rarity) && !query ? `No ${set.label} words yet.` : 'No matching words.'}
         </p>
       )}
       {list.length > 0 && (
@@ -109,7 +116,7 @@ export default function Browse({ picker, set, onSetChange, stages, onStageChange
       )}
 
       {groups.map(g => (
-        <div key={g.letter ?? 'shuffled'} className="letter-group">
+        <div key={g.letter ?? 'flat'} className="letter-group">
           {g.letter && <h2 className="letter">{g.letter}</h2>}
           <div className="word-list">
             {g.words.map(w => (
@@ -139,6 +146,7 @@ const WordRow = memo(function WordRow({ word, entry, isOpen, onToggle, onStageCh
         <SpeakButton text={word.word} className="row-speak" />
         <button className="word-toggle" onClick={() => onToggle(word.word)} aria-expanded={isOpen}>
           <span className="word-name">{word.word}</span>
+          <RarityBadge word={word} compact />
           <svg className="chevron" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
             <path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" strokeWidth="2"
               strokeLinecap="round" strokeLinejoin="round" />

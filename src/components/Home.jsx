@@ -15,7 +15,7 @@ export default function Home({
       {hasWords && <Today {...today} />}
 
       <h2 className="section-title spaced">Practice set</h2>
-      <SetPicker {...picker} stage={practiceSet.stage} letter={practiceSet.letter} onChange={onSetChange} />
+      <SetPicker {...picker} stage={practiceSet.stage} letter={practiceSet.letter} rarity={practiceSet.rarity} onChange={onSetChange} />
       <p className="muted small-text">
         {`${practiceSet.label}: ${count} word${count === 1 ? '' : 's'}.`}
         {practiceSet.stage && ` ${stageInfo(practiceSet.stage).hint}`}
