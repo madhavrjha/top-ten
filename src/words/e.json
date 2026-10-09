@@ -1,0 +1,2922 @@
+[
+  {
+    "word": "earflaps",
+    "memory": "ear-covering flaps",
+    "meaning": "Flaps on a hat that fold down to cover the ears",
+    "hindi": "कान ढकने वाले पल्ले",
+    "trick": "EAR + FLAPS: flaps that hang over your ears.",
+    "examples": [
+      "He wore an enormous Russian fur hat with earflaps pulled down.",
+      "In winter my grandfather wears a woolly cap with earflaps."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "a hat with earflaps / pull down the earflaps",
+      "partners": [
+        "hat with earflaps",
+        "pull down the earflaps",
+        "fur earflaps"
+      ]
+    }
+  },
+  {
+    "word": "earnest",
+    "memory": "serious, sincere",
+    "meaning": "Very serious and sincere in what you say or do",
+    "hindi": "गंभीर, सच्चा",
+    "trick": "EARNEST sounds like 'honest' - serious and sincere.",
+    "examples": [
+      "The man who came to give the news was so earnest.",
+      "He made an earnest promise to work harder."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be earnest / an earnest + noun / in earnest",
+      "partners": [
+        "earnest effort",
+        "earnest request",
+        "in earnest"
+      ]
+    }
+  },
+  {
+    "word": "earnestly",
+    "memory": "sincerely, seriously",
+    "meaning": "In a serious and sincere way, really meaning it",
+    "hindi": "सच्चे मन से, गंभीरता से",
+    "trick": "EARNEST + -LY: saying it with an honest, serious face.",
+    "examples": [
+      "\"Yes, please,\" the girl said earnestly, almost eagerly.",
+      "She earnestly hoped her brother would get the job."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "say/hope/ask something earnestly",
+      "partners": [
+        "earnestly hope",
+        "said earnestly",
+        "earnestly believe"
+      ]
+    }
+  },
+  {
+    "word": "earnestness",
+    "memory": "sincerity, seriousness",
+    "meaning": "The quality of being serious and sincere",
+    "hindi": "गंभीरता, सच्चाई",
+    "trick": "EARNEST + -NESS: the state of being earnest.",
+    "examples": [
+      "His look was one of guileless yet ironclad earnestness.",
+      "The earnestness in her voice made me trust her."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "with earnestness / the earnestness of someone",
+      "partners": [
+        "with great earnestness",
+        "deep earnestness",
+        "earnestness in his voice"
+      ]
+    }
+  },
+  {
+    "word": "eaves",
+    "memory": "roof edges",
+    "meaning": "The lower edges of a roof that stick out over the walls",
+    "hindi": "छज्जा, छप्पर का किनारा",
+    "trick": "Birds nest under the EAVES - the 'eave'-ning shade of the roof.",
+    "examples": [
+      "Icicles hung like crystals from the eaves of houses.",
+      "Pigeons built a nest under the eaves of our house."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "under the eaves / from the eaves of something",
+      "partners": [
+        "under the eaves",
+        "from the eaves",
+        "roof eaves"
+      ]
+    }
+  },
+  {
+    "word": "eclipsed",
+    "memory": "beaten, surpassed",
+    "meaning": "Did better than or went beyond (a record or achievement); also made to look less important",
+    "hindi": "पीछे छोड़ा, मात दी",
+    "trick": "In an ECLIPSE the moon covers the sun - a new record covers the old one.",
+    "examples": [
+      "Six weeks later, his record was eclipsed by another runner.",
+      "Her sales this year eclipsed last year's total."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something is eclipsed by something / eclipse someone/something",
+      "partners": [
+        "record was eclipsed",
+        "eclipsed by",
+        "completely eclipsed"
+      ]
+    }
+  },
+  {
+    "word": "eclipsing",
+    "memory": "passing, going beyond",
+    "meaning": "Going beyond or surpassing (a number or record); also making something look less important",
+    "hindi": "पार करते हुए, पीछे छोड़ते हुए",
+    "trick": "ECLIPSING: covering the old mark, like the moon covering the sun.",
+    "examples": [
+      "After eclipsing 3,200 pull-ups, I worked out the math.",
+      "The movie is eclipsing every box-office record this year."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "eclipsing something",
+      "partners": [
+        "eclipsing the record",
+        "eclipsing a total",
+        "eclipsing rivals"
+      ]
+    }
+  },
+  {
+    "word": "ecstasies",
+    "memory": "great joy, delight",
+    "meaning": "Feelings of very great happiness or excitement",
+    "hindi": "अत्यधिक आनंद, परमानंद",
+    "trick": "ECSTASIES - 'ex-stasis': so happy you jump out of your place.",
+    "examples": [
+      "The pigs were in ecstasies over Napoleon's cunning.",
+      "The children were in ecstasies over the new puppy."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "be in ecstasies over/about something",
+      "partners": [
+        "in ecstasies",
+        "go into ecstasies",
+        "ecstasies of joy"
+      ]
+    }
+  },
+  {
+    "word": "ecstasy",
+    "memory": "great joy, bliss",
+    "meaning": "A feeling of very great happiness",
+    "hindi": "परमानंद, अत्यधिक खुशी",
+    "trick": "ECSTASY - so happy you are 'ex-static', not standing still.",
+    "examples": [
+      "In the ecstasy of that thought they leapt round and round in excitement.",
+      "Winning the match filled him with ecstasy."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in ecstasy / the ecstasy of something",
+      "partners": [
+        "pure ecstasy",
+        "in ecstasy",
+        "sheer ecstasy"
+      ]
+    }
+  },
+  {
+    "word": "ecstatic",
+    "memory": "overjoyed, thrilled",
+    "meaning": "Extremely happy and excited",
+    "hindi": "बेहद खुश, आनंदित",
+    "trick": "ECSTATIC - so happy you feel electric (static)!",
+    "examples": [
+      "Not long after, I received an ecstatic email from this student.",
+      "She was ecstatic when she passed the exam."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be ecstatic about/at something / an ecstatic + noun",
+      "partners": [
+        "ecstatic about",
+        "absolutely ecstatic",
+        "ecstatic crowd"
+      ]
+    }
+  },
+  {
+    "word": "edema",
+    "memory": "fluid swelling",
+    "meaning": "Swelling caused by too much fluid collecting in the body's tissues",
+    "hindi": "सूजन, शोफ",
+    "trick": "EDEMA - 'e-DEEMA': the leg puffs up like a balloon with water.",
+    "examples": [
+      "Uncontrolled pneumonia can lead to pulmonary edema, which can be deadly.",
+      "The doctor said the swelling in her feet was edema."
+    ],
+    "usage": {
+      "pos": "noun (medical)",
+      "pattern": "edema in/of something",
+      "partners": [
+        "pulmonary edema",
+        "leg edema",
+        "cause edema"
+      ]
+    }
+  },
+  {
+    "word": "edifice",
+    "memory": "structure, system",
+    "meaning": "A large, complex system of ideas or beliefs; also a large, impressive building",
+    "hindi": "ढाँचा, व्यवस्था; भव्य इमारत",
+    "trick": "EDIFICE - like 'edify' and 'office': a big built thing.",
+    "examples": [
+      "On top of this false edifice of rationality was, of course, process.",
+      "The old palace is a grand edifice in the city centre."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an edifice of something",
+      "partners": [
+        "false edifice",
+        "grand edifice",
+        "edifice of lies"
+      ]
+    }
+  },
+  {
+    "word": "eerily",
+    "memory": "strangely, spookily",
+    "meaning": "In a strange way that feels a little frightening",
+    "hindi": "अजीब तरह से, डरावने ढंग से",
+    "trick": "EERIE + -LY: like hearing a creepy 'eee' sound.",
+    "examples": [
+      "We end up feeling eerily similar to how we started: inadequate.",
+      "The street was eerily quiet at night."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "eerily + adjective / eerily + verb",
+      "partners": [
+        "eerily similar",
+        "eerily quiet",
+        "eerily echoes"
+      ]
+    }
+  },
+  {
+    "word": "effusive",
+    "memory": "gushing, overly warm",
+    "meaning": "Showing feelings in a very open, eager and lavish way",
+    "hindi": "उमड़ता हुआ, अति उत्साही",
+    "trick": "EFFUSIVE - feelings 'effuse' (pour out) like a fountain.",
+    "examples": [
+      "She filled all the spaces with effusive speech in a high, ringing voice.",
+      "He was effusive in his thanks after we helped him."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be effusive in/about something / effusive + noun",
+      "partners": [
+        "effusive praise",
+        "effusive thanks",
+        "effusive welcome"
+      ]
+    }
+  },
+  {
+    "word": "egghead",
+    "memory": "brainy person",
+    "meaning": "A very clever, studious person (informal, often mocking)",
+    "hindi": "पढ़ाकू, किताबी कीड़ा (बोलचाल)",
+    "trick": "EGGHEAD - a big bald head like an egg, full of brains.",
+    "examples": [
+      "He's an egghead now.",
+      "My cousin is an egghead who reads science books for fun."
+    ],
+    "usage": {
+      "pos": "noun (informal)",
+      "pattern": "be an egghead / an egghead + noun",
+      "partners": [
+        "a real egghead",
+        "egghead professor",
+        "egghead types"
+      ]
+    }
+  },
+  {
+    "word": "eggplant",
+    "memory": "purple vegetable",
+    "meaning": "A large, shiny purple vegetable (British: aubergine)",
+    "hindi": "बैंगन",
+    "trick": "EGGPLANT - early ones were white and looked like eggs.",
+    "examples": [
+      "He took a pinch of the pickled eggplant Mariam had made that summer.",
+      "My mother makes tasty curry with eggplant."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "eggplant + noun / cook eggplant",
+      "partners": [
+        "pickled eggplant",
+        "roasted eggplant",
+        "eggplant curry"
+      ]
+    }
+  },
+  {
+    "word": "eke",
+    "memory": "barely produce, squeeze",
+    "meaning": "To get or make something with great difficulty, a little at a time (used with 'out')",
+    "hindi": "मुश्किल से निकालना, खींचतान कर चलाना",
+    "trick": "EKE - 'eek!': the last tiny squeak you squeeze out.",
+    "examples": [
+      "She had to eke out the last few words in a tiny squeak.",
+      "They eke out a living by selling vegetables."
+    ],
+    "usage": {
+      "pos": "verb (phrasal: eke out)",
+      "pattern": "eke out something",
+      "partners": [
+        "eke out a living",
+        "eke out a win",
+        "eke out savings"
+      ]
+    }
+  },
+  {
+    "word": "EKG",
+    "memory": "heart test",
+    "meaning": "A medical test that records the heart's electrical activity (also ECG)",
+    "hindi": "हृदय जाँच, ईसीजी",
+    "trick": "EKG = ElectroKardioGram (German 'K') - the heart's zigzag line.",
+    "examples": [
+      "It looked like an arrhythmic EKG.",
+      "The doctor ordered an EKG to check his heart."
+    ],
+    "usage": {
+      "pos": "noun (abbreviation)",
+      "pattern": "do/have an EKG",
+      "partners": [
+        "have an EKG",
+        "EKG reading",
+        "abnormal EKG"
+      ]
+    }
+  },
+  {
+    "word": "elaborate",
+    "memory": "detailed, complicated",
+    "meaning": "Very detailed, long and carefully planned or worked out",
+    "hindi": "विस्तृत, जटिल",
+    "trick": "ELABORATE - lots of LABOUR went into it.",
+    "examples": [
+      "The only things that caught my attention were some elaborate tirades.",
+      "They made an elaborate plan for the wedding."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an elaborate + noun",
+      "partners": [
+        "elaborate plan",
+        "elaborate design",
+        "elaborate details"
+      ]
+    }
+  },
+  {
+    "word": "elaborated",
+    "memory": "developed in detail",
+    "meaning": "Developed or explained something in more detail",
+    "hindi": "विस्तार किया, विकसित किया",
+    "trick": "ELABORATED - put more LABOUR into an idea.",
+    "examples": [
+      "These three had elaborated old Major's teachings into a complete system of thought.",
+      "The teacher elaborated on the topic after class."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "elaborated something into something / elaborated on something",
+      "partners": [
+        "elaborated on",
+        "elaborated the idea",
+        "fully elaborated"
+      ]
+    }
+  },
+  {
+    "word": "elated",
+    "memory": "overjoyed, thrilled",
+    "meaning": "Very happy and excited",
+    "hindi": "बहुत खुश, प्रसन्न",
+    "trick": "ELATED - 'elevated' mood, flying high.",
+    "examples": [
+      "I thought I'd be elated, but I wasn't.",
+      "She was elated when she got the job offer."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be elated at/by/about something",
+      "partners": [
+        "elated by the news",
+        "feel elated",
+        "absolutely elated"
+      ]
+    }
+  },
+  {
+    "word": "electrocute",
+    "memory": "shock, kill by electricity",
+    "meaning": "To injure or kill someone with an electric shock",
+    "hindi": "बिजली का झटका देना, करंट से मारना",
+    "trick": "ELECTRO + exeCUTE: execute with electricity.",
+    "examples": [
+      "I heard they electrocute prisoners there.",
+      "Don't touch that wire - it could electrocute you."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "electrocute someone",
+      "partners": [
+        "electrocute someone",
+        "get electrocuted",
+        "nearly electrocute"
+      ]
+    }
+  },
+  {
+    "word": "electrocuted",
+    "memory": "shocked by electricity",
+    "meaning": "Injured or killed by an electric shock",
+    "hindi": "बिजली का झटका लगा, करंट से मरा",
+    "trick": "ELECTRO + exeCUTED.",
+    "examples": [
+      "There were rumours of prisoners being electrocuted in the prison.",
+      "The worker was nearly electrocuted while fixing the fan."
+    ],
+    "usage": {
+      "pos": "verb (past participle)",
+      "pattern": "be electrocuted / get electrocuted",
+      "partners": [
+        "was electrocuted",
+        "nearly electrocuted",
+        "accidentally electrocuted"
+      ]
+    }
+  },
+  {
+    "word": "electrolyte",
+    "memory": "body salt, mineral",
+    "meaning": "A mineral such as salt or potassium in body fluids that carries an electric charge",
+    "hindi": "इलेक्ट्रोलाइट, शरीर के लवण",
+    "trick": "ELECTRO + LYTE: 'light' salts that carry electricity in your body.",
+    "examples": [
+      "I didn't even consider my electrolyte or potassium levels.",
+      "Drink an electrolyte solution after long exercise."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "electrolyte levels / electrolyte + drink",
+      "partners": [
+        "electrolyte levels",
+        "electrolyte drink",
+        "electrolyte balance"
+      ]
+    }
+  },
+  {
+    "word": "elegant",
+    "memory": "graceful, stylish",
+    "meaning": "Graceful and attractive in a simple, well-designed way",
+    "hindi": "सुंदर, सुरुचिपूर्ण",
+    "trick": "ELEGANT - an ELEGANT ELEPHANT? No - think of a graceful swan.",
+    "examples": [
+      "First come the walls, then the elegant but strong roof.",
+      "She wore an elegant black dress to the party."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be elegant / an elegant + noun",
+      "partners": [
+        "elegant design",
+        "elegant dress",
+        "simple and elegant"
+      ]
+    }
+  },
+  {
+    "word": "elevation",
+    "memory": "height above sea",
+    "meaning": "Height above sea level; also the act of raising someone or something",
+    "hindi": "ऊँचाई; उन्नति",
+    "trick": "ELEVATION - an ELEVATOR takes you up to a higher elevation.",
+    "examples": [
+      "The battle played out along a ridgeline above 9,000 feet in elevation.",
+      "The village is at an elevation of 2,000 metres."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "at an elevation of + number / in elevation",
+      "partners": [
+        "high elevation",
+        "at an elevation of",
+        "gain elevation"
+      ]
+    }
+  },
+  {
+    "word": "elicit",
+    "memory": "draw out, bring out",
+    "meaning": "To get information or a reaction from someone",
+    "hindi": "निकलवाना, प्राप्त करना",
+    "trick": "ELICIT - 'E-LICK-it': lick it out of someone. (Not 'illicit' = illegal.)",
+    "examples": [
+      "The tactics helped gain trust and elicit the verbalization of needs.",
+      "The teacher's question failed to elicit an answer."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "elicit something from someone",
+      "partners": [
+        "elicit a response",
+        "elicit information",
+        "elicit a reaction"
+      ]
+    }
+  },
+  {
+    "word": "elliptical",
+    "memory": "oval-shaped",
+    "meaning": "Shaped like an oval; (as in a gym cross-trainer whose pedals move in an oval path)",
+    "hindi": "अंडाकार",
+    "trick": "ELLIPTICAL - from ELLIPSE, a stretched circle.",
+    "examples": [
+      "There was an elliptical trainer in the brand-new gym.",
+      "I use the elliptical machine for twenty minutes every morning."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an elliptical + noun",
+      "partners": [
+        "elliptical trainer",
+        "elliptical machine",
+        "elliptical orbit"
+      ]
+    }
+  },
+  {
+    "word": "elms",
+    "memory": "tall shade trees",
+    "meaning": "Tall trees with broad leaves and rough bark",
+    "hindi": "एल्म के पेड़",
+    "trick": "ELMS - think 'helms': tall trees standing like guards.",
+    "examples": [
+      "The pigeons cooed it in the elms.",
+      "Tall elms lined both sides of the old road."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "in the elms / a row of elms",
+      "partners": [
+        "tall elms",
+        "row of elms",
+        "under the elms"
+      ]
+    }
+  },
+  {
+    "word": "elope",
+    "memory": "run off to marry",
+    "meaning": "To run away secretly to get married",
+    "hindi": "भागकर शादी करना",
+    "trick": "ELOPE - 'Let's E-LOPE (gallop) away and marry!'",
+    "examples": [
+      "She'd tried to elope with a young man she'd fallen in love with.",
+      "The couple decided to elope because their parents disagreed."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "elope with someone / elope to somewhere",
+      "partners": [
+        "elope with",
+        "decide to elope",
+        "plan to elope"
+      ]
+    }
+  },
+  {
+    "word": "eloquence",
+    "memory": "persuasive speech",
+    "meaning": "The skill of speaking or writing in a powerful, persuasive way",
+    "hindi": "वाक्पटुता, वाक्चातुर्य",
+    "trick": "ELOQUENCE - 'e-LOQU' = speak out (as in loquacious).",
+    "examples": [
+      "In a moment Snowball's eloquence had carried them away.",
+      "The leader's eloquence moved the whole crowd."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the eloquence of someone / speak with eloquence",
+      "partners": [
+        "great eloquence",
+        "speak with eloquence",
+        "moving eloquence"
+      ]
+    }
+  },
+  {
+    "word": "elude",
+    "memory": "escape, avoid",
+    "meaning": "To escape from or avoid someone or something, often cleverly; also to be hard to achieve or remember",
+    "hindi": "बच निकलना, चकमा देना",
+    "trick": "ELUDE - E + LUDE (Latin 'play'): play your way out.",
+    "examples": [
+      "He seemed to think he'd somehow elude capture.",
+      "The thief managed to elude the police for weeks."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "elude someone/something",
+      "partners": [
+        "elude capture",
+        "elude the police",
+        "success eluded him"
+      ]
+    }
+  },
+  {
+    "word": "elusive",
+    "memory": "hard to catch",
+    "meaning": "Difficult to find, catch, understand or achieve",
+    "hindi": "मायावी, पकड़ में न आने वाला",
+    "trick": "ELUSIVE - it always ELUDES you.",
+    "examples": [
+      "I'd always been intrigued by it due to the elusive nature of the group.",
+      "Happiness can seem elusive when you chase it."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be elusive / an elusive + noun",
+      "partners": [
+        "elusive goal",
+        "elusive nature",
+        "remain elusive"
+      ]
+    }
+  },
+  {
+    "word": "emaciated",
+    "memory": "very thin, starved",
+    "meaning": "Extremely thin and weak because of illness or lack of food",
+    "hindi": "बहुत दुबला, कमज़ोर",
+    "trick": "EMACIATED - 'e-MEAT-ciated': no meat left on the bones.",
+    "examples": [
+      "By this time, he was emaciated and starved from the smallpox.",
+      "The rescued dog was emaciated and weak."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be emaciated / an emaciated + noun",
+      "partners": [
+        "emaciated body",
+        "look emaciated",
+        "emaciated figure"
+      ]
+    }
+  },
+  {
+    "word": "embellishments",
+    "memory": "added details, decorations",
+    "meaning": "Extra details added to a story to make it more interesting, often not true; also decorations",
+    "hindi": "अतिरंजना, सजावट",
+    "trick": "EMBELLISHMENTS - 'belle' = beautiful: making a story prettier.",
+    "examples": [
+      "We fill in a couple of the plot holes with our own embellishments.",
+      "His fishing story had a lot of embellishments."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "with embellishments / add embellishments to something",
+      "partners": [
+        "add embellishments",
+        "without embellishments",
+        "colourful embellishments"
+      ]
+    }
+  },
+  {
+    "word": "emblem",
+    "memory": "symbol, badge",
+    "meaning": "A design or object that represents a group, idea or country",
+    "hindi": "प्रतीक, चिह्न",
+    "trick": "EMBLEM - an EMBroidered badge on a blazer.",
+    "examples": [
+      "The emblem tells the world we are not to be messed with.",
+      "The lion is the emblem of our school."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the emblem of something",
+      "partners": [
+        "national emblem",
+        "school emblem",
+        "emblem of peace"
+      ]
+    }
+  },
+  {
+    "word": "embodiment",
+    "memory": "living example",
+    "meaning": "A person or thing that perfectly shows an idea or quality",
+    "hindi": "साकार रूप, मूर्त रूप",
+    "trick": "EMBODIMENT - an idea given a BODY.",
+    "examples": [
+      "She was the walking, breathing embodiment of their shame.",
+      "My grandmother is the embodiment of kindness."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the embodiment of something",
+      "partners": [
+        "the embodiment of",
+        "living embodiment",
+        "perfect embodiment"
+      ]
+    }
+  },
+  {
+    "word": "emboldened",
+    "memory": "made braver",
+    "meaning": "Made someone feel braver or more confident",
+    "hindi": "हौसला बढ़ा, साहसी बना",
+    "trick": "EMBOLDENED - made BOLD.",
+    "examples": [
+      "Then, as if emboldened, the other women pushed past Fariba.",
+      "Emboldened by his success, he asked for a raise."
+    ],
+    "usage": {
+      "pos": "verb (past) / adjective",
+      "pattern": "be emboldened by something / embolden someone",
+      "partners": [
+        "emboldened by",
+        "feel emboldened",
+        "emboldened to act"
+      ]
+    }
+  },
+  {
+    "word": "embroidered",
+    "memory": "decorated with stitching",
+    "meaning": "Decorated with patterns sewn on with thread",
+    "hindi": "कढ़ाई किया हुआ",
+    "trick": "EMBROIDERED - 'broidered' sounds like 'braided' thread.",
+    "examples": [
+      "The shawl's edges were embroidered with gold thread.",
+      "She wore a white kurta embroidered with blue flowers."
+    ],
+    "usage": {
+      "pos": "verb (past participle) / adjective",
+      "pattern": "embroidered with something",
+      "partners": [
+        "embroidered with gold",
+        "hand-embroidered",
+        "embroidered shawl"
+      ]
+    }
+  },
+  {
+    "word": "eminent",
+    "memory": "important, respected",
+    "meaning": "Famous and respected, especially in a particular field",
+    "hindi": "प्रतिष्ठित, प्रसिद्ध",
+    "trick": "EMINENT - stands out like a mountain peak. (Not 'imminent' = about to happen.)",
+    "examples": [
+      "Half a dozen of the more eminent pigs sat round the long table.",
+      "An eminent doctor spoke at the conference."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an eminent + noun",
+      "partners": [
+        "eminent scientist",
+        "eminent scholar",
+        "eminent doctor"
+      ]
+    }
+  },
+  {
+    "word": "empath",
+    "memory": "deeply feeling person",
+    "meaning": "A person who can feel and understand other people's emotions very strongly",
+    "hindi": "दूसरों का दर्द समझने वाला",
+    "trick": "EMPATH - from EMPATHy: feels what you feel.",
+    "examples": [
+      "She believed she had become a healer and an empath.",
+      "As an empath, she always knows when her friends are sad."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "be an empath",
+      "partners": [
+        "a true empath",
+        "an empath and healer",
+        "natural empath"
+      ]
+    }
+  },
+  {
+    "word": "employ",
+    "memory": "use, apply",
+    "meaning": "To use a method, skill or tool; also to give someone a paid job",
+    "hindi": "इस्तेमाल करना; नौकरी देना",
+    "trick": "EMPLOY - you employ workers AND employ tools: both get put to use.",
+    "examples": [
+      "I had no idea where to employ backstops.",
+      "We must employ a new method to solve this problem."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "employ something / employ someone as something",
+      "partners": [
+        "employ a method",
+        "employ a strategy",
+        "employ staff"
+      ]
+    }
+  },
+  {
+    "word": "employer",
+    "memory": "boss, company",
+    "meaning": "A person or company that pays people to work for them",
+    "hindi": "मालिक, नियोक्ता",
+    "trick": "EMPLOYER - the one who EMPLOYS; employee is the one employed.",
+    "examples": [
+      "I have fixed up with my employer for two days' leave.",
+      "My employer gave me a bonus this year."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "someone's employer / work for an employer",
+      "partners": [
+        "my employer",
+        "former employer",
+        "large employer"
+      ]
+    }
+  },
+  {
+    "word": "enact",
+    "memory": "carry out, act out",
+    "meaning": "To put something into action or act it out; also to make a law official",
+    "hindi": "लागू करना, अमल में लाना; कानून बनाना",
+    "trick": "EN-ACT: put it into ACTion.",
+    "examples": [
+      "How we are is the easiest thing to enact and the most effective.",
+      "The government will enact a new law next month."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "enact something",
+      "partners": [
+        "enact a law",
+        "enact a plan",
+        "enact change"
+      ]
+    }
+  },
+  {
+    "word": "enamel",
+    "memory": "shiny coloured coating",
+    "meaning": "A hard, shiny, coloured coating on metal or pottery; also the hard surface of teeth",
+    "hindi": "मीनाकारी, इनेमल; दाँतों की परत",
+    "trick": "ENAMEL - think 'meena-kari': shiny colour on silver.",
+    "examples": [
+      "Tariq bought silver earrings with an enamel butterfly on each.",
+      "Brushing too hard can damage your tooth enamel."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "enamel + noun / tooth enamel",
+      "partners": [
+        "enamel butterfly",
+        "tooth enamel",
+        "enamel paint"
+      ]
+    }
+  },
+  {
+    "word": "enchanted",
+    "memory": "charmed, delighted",
+    "meaning": "Charmed or delighted greatly; also put under a magic spell",
+    "hindi": "मोहित किया, मंत्रमुग्ध किया",
+    "trick": "ENCHANTED - as if a magic CHANT was sung.",
+    "examples": [
+      "The tiniest changes in the baby enchanted her.",
+      "The children were enchanted by the puppet show."
+    ],
+    "usage": {
+      "pos": "verb (past) / adjective",
+      "pattern": "something enchants someone / be enchanted by something",
+      "partners": [
+        "enchanted by",
+        "enchanted forest",
+        "completely enchanted"
+      ]
+    }
+  },
+  {
+    "word": "enchanting",
+    "memory": "charming, delightful",
+    "meaning": "Very charming and delightful",
+    "hindi": "मनमोहक, आकर्षक",
+    "trick": "ENCHANTING - like a magic CHANT pulling you in.",
+    "examples": [
+      "He liked the enchanting sounds the Arabic words made.",
+      "The hill station has an enchanting view of the valley."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an enchanting + noun / be enchanting",
+      "partners": [
+        "enchanting smile",
+        "enchanting view",
+        "enchanting voice"
+      ]
+    }
+  },
+  {
+    "word": "enchantment",
+    "memory": "delight, charm",
+    "meaning": "A feeling of great delight, as if under a spell; also magic",
+    "hindi": "मोहकता, मंत्रमुग्धता",
+    "trick": "ENCHANTMENT - the state of being under a CHANT.",
+    "examples": [
+      "Whenever Jalil talked like this, Mariam would listen with enchantment.",
+      "The old town has a special enchantment at night."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "with enchantment / the enchantment of something",
+      "partners": [
+        "with enchantment",
+        "sense of enchantment",
+        "full of enchantment"
+      ]
+    }
+  },
+  {
+    "word": "endearments",
+    "memory": "loving words",
+    "meaning": "Words or actions that express love or affection",
+    "hindi": "प्यार भरे शब्द, दुलार",
+    "trick": "ENDEARMENTS - words that make you DEAR to someone.",
+    "examples": [
+      "Jalil came every Thursday, all smiles and gifts and endearments.",
+      "Grandma always greets us with hugs and endearments."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "with endearments / whisper endearments",
+      "partners": [
+        "terms of endearment",
+        "whisper endearments",
+        "sweet endearments"
+      ]
+    }
+  },
+  {
+    "word": "endeavor",
+    "memory": "try hard, strive",
+    "meaning": "To try very hard to do something (US spelling; British 'endeavour'); also an attempt or effort",
+    "hindi": "प्रयास करना, कोशिश करना",
+    "trick": "ENDEAVOR - 'END-eavor': try till the END.",
+    "examples": [
+      "I will always endeavor to uphold the honor of the Rangers.",
+      "We endeavor to reply to every email within a day."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "endeavor to do something",
+      "partners": [
+        "endeavor to help",
+        "endeavor to improve",
+        "always endeavor"
+      ]
+    }
+  },
+  {
+    "word": "endocrine",
+    "memory": "hormone glands",
+    "meaning": "Relating to the glands that make hormones and release them into the blood",
+    "hindi": "अंतःस्रावी, हार्मोन ग्रंथि संबंधी",
+    "trick": "ENDO (inside) + CRINE (secrete): glands secreting inside the body.",
+    "examples": [
+      "His office tested my endocrine system.",
+      "The thyroid is part of the endocrine system."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "endocrine + noun",
+      "partners": [
+        "endocrine system",
+        "endocrine gland",
+        "endocrine disorder"
+      ]
+    }
+  },
+  {
+    "word": "endorphins",
+    "memory": "feel-good chemicals",
+    "meaning": "Chemicals made in the brain that reduce pain and make you feel good",
+    "hindi": "आनंद हार्मोन, एंडोर्फिन",
+    "trick": "ENDORPHINS - ENDO + mORPHINE: the body's own painkiller.",
+    "examples": [
+      "Some scientists think it's the result of endorphins flooding your nervous system.",
+      "A morning run releases endorphins and lifts my mood."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "release endorphins",
+      "partners": [
+        "release endorphins",
+        "endorphin rush",
+        "boost endorphins"
+      ]
+    }
+  },
+  {
+    "word": "endure",
+    "memory": "bear, survive",
+    "meaning": "To suffer something painful patiently; also to last a long time",
+    "hindi": "सहना, झेलना; टिके रहना",
+    "trick": "ENDURE - hold on till the END.",
+    "examples": [
+      "Despite the cruelties of their world, the heroines do endure.",
+      "She had to endure a lot of pain after the surgery."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "endure something",
+      "partners": [
+        "endure pain",
+        "endure hardship",
+        "learn to endure"
+      ]
+    }
+  },
+  {
+    "word": "endured",
+    "memory": "suffered, bore",
+    "meaning": "Suffered something painful or difficult patiently",
+    "hindi": "सहा, झेला",
+    "trick": "ENDURED - held on until the END.",
+    "examples": [
+      "This is my reward for everything I've endured.",
+      "They endured a long, cold winter without heating."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "endured something",
+      "partners": [
+        "endured pain",
+        "endured hardship",
+        "endured years of"
+      ]
+    }
+  },
+  {
+    "word": "enemy",
+    "memory": "opponent, foe",
+    "meaning": "A person or thing that is against or harms someone or something",
+    "hindi": "दुश्मन, शत्रु",
+    "trick": "ENEMY - 'an-NOT-my' friend.",
+    "examples": [
+      "Certainty is the enemy of growth.",
+      "Laziness is the biggest enemy of success."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the enemy of something / someone's enemy",
+      "partners": [
+        "enemy of",
+        "bitter enemy",
+        "worst enemy"
+      ]
+    }
+  },
+  {
+    "word": "engraved",
+    "memory": "cut into, marked",
+    "meaning": "Marked deeply with lines or cuts; also with words cut into a hard surface",
+    "hindi": "खुदा हुआ, अंकित",
+    "trick": "ENGRAVED - like letters cut into a GRAVE stone.",
+    "examples": [
+      "Her arms and back were engraved with marks of pain.",
+      "His name was engraved on the silver trophy."
+    ],
+    "usage": {
+      "pos": "verb (past participle) / adjective",
+      "pattern": "be engraved with something / engraved on something",
+      "partners": [
+        "engraved with",
+        "engraved on",
+        "engraved name"
+      ]
+    }
+  },
+  {
+    "word": "engulf",
+    "memory": "swallow up, cover",
+    "meaning": "To surround and cover something completely",
+    "hindi": "निगल लेना, घेर लेना",
+    "trick": "ENGULF - a GULF of water swallows everything.",
+    "examples": [
+      "She watched the shadows engulf the neighboring house-fronts.",
+      "Flames began to engulf the old building."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "engulf someone/something",
+      "partners": [
+        "flames engulf",
+        "engulf the city",
+        "engulf in darkness"
+      ]
+    }
+  },
+  {
+    "word": "enigmas",
+    "memory": "mysteries, puzzles",
+    "meaning": "Things or people that are mysterious and hard to understand",
+    "hindi": "पहेलियाँ, रहस्य",
+    "trick": "ENIGMAS - the ENIGMA machine made secret codes nobody could read.",
+    "examples": [
+      "They are existential riddles wrapped in enigmas.",
+      "Some of life's enigmas will never be solved."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "be an enigma / enigmas of something",
+      "partners": [
+        "riddles and enigmas",
+        "great enigmas",
+        "enigmas of life"
+      ]
+    }
+  },
+  {
+    "word": "enlisted",
+    "memory": "lower-rank, non-officer",
+    "meaning": "(Of soldiers) belonging to the ranks below officers; also joined the armed forces",
+    "hindi": "सैनिक (गैर-अधिकारी); सेना में भर्ती हुआ",
+    "trick": "ENLISTED - your name is on the LIST of ordinary soldiers.",
+    "examples": [
+      "When you're an enlisted guy and an Admiral wants a word, you get nervous.",
+      "My uncle enlisted in the army at eighteen."
+    ],
+    "usage": {
+      "pos": "adjective / verb (past)",
+      "pattern": "an enlisted + noun / enlisted in something",
+      "partners": [
+        "enlisted man",
+        "enlisted soldiers",
+        "enlisted in the army"
+      ]
+    }
+  },
+  {
+    "word": "enormity",
+    "memory": "huge seriousness, scale",
+    "meaning": "The great size or seriousness of something, especially something important or bad",
+    "hindi": "विशालता, गंभीरता",
+    "trick": "ENORMITY - ENORMous importance.",
+    "examples": [
+      "Both of them were speechless before the enormity of what had just happened.",
+      "He slowly realised the enormity of his mistake."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the enormity of something",
+      "partners": [
+        "enormity of the task",
+        "enormity of the crime",
+        "full enormity"
+      ]
+    }
+  },
+  {
+    "word": "enormous",
+    "memory": "huge, gigantic",
+    "meaning": "Extremely large",
+    "hindi": "विशाल, बहुत बड़ा",
+    "trick": "ENORMOUS - 'E-NORMOUS': out of the NORM in size.",
+    "examples": [
+      "It showed an enormous face, more than a metre wide.",
+      "They live in an enormous house near the beach."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an enormous + noun / be enormous",
+      "partners": [
+        "enormous amount",
+        "enormous house",
+        "enormous difference"
+      ]
+    }
+  },
+  {
+    "word": "enormously",
+    "memory": "hugely, greatly",
+    "meaning": "To a very great degree",
+    "hindi": "बहुत अधिक, अत्यधिक",
+    "trick": "ENORMOUS + -LY.",
+    "examples": [
+      "England could feed an enormously greater number of animals.",
+      "The book was enormously popular with children."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "enormously + adjective / verb + enormously",
+      "partners": [
+        "enormously popular",
+        "enormously helpful",
+        "grow enormously"
+      ]
+    }
+  },
+  {
+    "word": "ensconced",
+    "memory": "settled comfortably",
+    "meaning": "Settled in a safe, comfortable place",
+    "hindi": "आराम से जमा हुआ, बैठा हुआ",
+    "trick": "ENSCONCED - snug in a 'sconce' (a cosy nook).",
+    "examples": [
+      "Major was already ensconced on his bed of straw.",
+      "The cat was ensconced on the warm sofa."
+    ],
+    "usage": {
+      "pos": "verb (past participle) / adjective",
+      "pattern": "be ensconced in/on something",
+      "partners": [
+        "ensconced in a chair",
+        "comfortably ensconced",
+        "firmly ensconced"
+      ]
+    }
+  },
+  {
+    "word": "ensnared",
+    "memory": "caught, trapped",
+    "meaning": "Caught or trapped in something difficult to escape",
+    "hindi": "फँसा हुआ, जाल में फँसा",
+    "trick": "ENSNARED - caught in a SNARE (trap).",
+    "examples": [
+      "When you become ensnared in activities that don't better you, move on!",
+      "The bird was ensnared in a fishing net."
+    ],
+    "usage": {
+      "pos": "verb (past participle)",
+      "pattern": "be ensnared in something",
+      "partners": [
+        "ensnared in",
+        "ensnared by",
+        "become ensnared"
+      ]
+    }
+  },
+  {
+    "word": "ensue",
+    "memory": "follow, result",
+    "meaning": "To happen after something, often as a result of it",
+    "hindi": "परिणामस्वरूप होना, बाद में होना",
+    "trick": "ENSUE - sounds like 'and SUE': a fight, and then a lawsuit follows.",
+    "examples": [
+      "Panic attacks ensue; tears are shed.",
+      "When the lights went out, chaos ensued."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "something ensues / ensue from something",
+      "partners": [
+        "chaos ensued",
+        "panic ensued",
+        "in the ensuing"
+      ]
+    }
+  },
+  {
+    "word": "entanglement",
+    "memory": "complication, involvement",
+    "meaning": "A difficult or complicated situation you are involved in",
+    "hindi": "उलझन, झंझट",
+    "trick": "ENTANGLEMENT - TANGLED up like knotted wires.",
+    "examples": [
+      "Some business entanglement might prevent Jalil from coming on Thursday.",
+      "He avoided any legal entanglement with the company."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an entanglement with/in something",
+      "partners": [
+        "business entanglement",
+        "legal entanglement",
+        "romantic entanglement"
+      ]
+    }
+  },
+  {
+    "word": "entice",
+    "memory": "tempt, lure",
+    "meaning": "To persuade someone to do something by offering something attractive",
+    "hindi": "लुभाना, ललचाना",
+    "trick": "ENTICE - offer 'NICE' things to tempt someone.",
+    "examples": [
+      "I'd written the letter so as to entice his mistress to his room.",
+      "The shop uses big discounts to entice customers."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "entice someone to do something / entice someone into something",
+      "partners": [
+        "entice customers",
+        "entice someone into",
+        "entice with offers"
+      ]
+    }
+  },
+  {
+    "word": "enticed",
+    "memory": "tempted, lured",
+    "meaning": "Persuaded someone by offering something attractive",
+    "hindi": "लुभाया, ललचाया",
+    "trick": "ENTICED - lured with something NICE.",
+    "examples": [
+      "I enticed her to come along by promising a vacation.",
+      "The smell of fresh bread enticed us into the bakery."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "enticed someone to do something / into something",
+      "partners": [
+        "enticed by",
+        "enticed into",
+        "enticed away"
+      ]
+    }
+  },
+  {
+    "word": "enticing",
+    "memory": "tempting, attractive",
+    "meaning": "Attractive and tempting",
+    "hindi": "लुभावना, आकर्षक",
+    "trick": "ENTICING - something so NICE you can't resist.",
+    "examples": [
+      "This feels sexy and enticing and may feel good for a while.",
+      "The cake in the window looked very enticing."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be enticing / an enticing + noun",
+      "partners": [
+        "enticing offer",
+        "enticing smell",
+        "look enticing"
+      ]
+    }
+  },
+  {
+    "word": "entitled",
+    "memory": "feeling deserving, spoiled",
+    "meaning": "Believing you deserve special treatment without earning it; also having a right to something",
+    "hindi": "हकदार समझने वाला, घमंडी; अधिकारी",
+    "trick": "ENTITLED - acts like they hold a TITLE (lord) and deserve everything.",
+    "examples": [
+      "Entitled people exude a delusional degree of self-confidence.",
+      "She's entitled to her own opinion."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "entitled + people / be entitled to something / to do something",
+      "partners": [
+        "entitled people",
+        "feel entitled",
+        "entitled to"
+      ]
+    }
+  },
+  {
+    "word": "entrails",
+    "memory": "guts, insides",
+    "meaning": "The inner organs of an animal or person, especially the intestines",
+    "hindi": "अँतड़ियाँ, आँतें",
+    "trick": "ENTRAILS - the TRAIL of tubes inside a body.",
+    "examples": [
+      "In one downward stroke, she removed the gills and the entrails of the fish.",
+      "The cook cleaned the fish and threw away the entrails."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "remove the entrails",
+      "partners": [
+        "remove the entrails",
+        "fish entrails",
+        "animal entrails"
+      ]
+    }
+  },
+  {
+    "word": "entrancing",
+    "memory": "captivating, charming",
+    "meaning": "So beautiful or interesting that you can't stop watching",
+    "hindi": "मंत्रमुग्ध करने वाला, मनमोहक",
+    "trick": "ENTRANCING - puts you in a TRANCE.",
+    "examples": [
+      "What was it about a season's first snowfall that was so entrancing?",
+      "The dancer's movements were entrancing."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be entrancing / an entrancing + noun",
+      "partners": [
+        "entrancing music",
+        "entrancing view",
+        "entrancing performance"
+      ]
+    }
+  },
+  {
+    "word": "entrepreneur",
+    "memory": "business starter",
+    "meaning": "A person who starts and runs their own business, taking financial risks",
+    "hindi": "उद्यमी, व्यवसायी",
+    "trick": "ENTREPRENEUR - 'enter-preneur': ENTERs business on their own.",
+    "examples": [
+      "The idea of being an entrepreneur had always appealed to me.",
+      "My friend left his job to become an entrepreneur."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "become an entrepreneur",
+      "partners": [
+        "young entrepreneur",
+        "successful entrepreneur",
+        "become an entrepreneur"
+      ]
+    }
+  },
+  {
+    "word": "envied",
+    "memory": "been jealous of",
+    "meaning": "Wanted something that someone else has; felt jealous of",
+    "hindi": "ईर्ष्या की, जलन हुई",
+    "trick": "ENVIED - 'ENVY-d': green with envy.",
+    "examples": [
+      "Your friend Rumi would have envied my production.",
+      "Everyone envied her new car."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "envied someone / envied someone's something",
+      "partners": [
+        "widely envied",
+        "envied by many",
+        "envied his success"
+      ]
+    }
+  },
+  {
+    "word": "eons",
+    "memory": "ages, very long times",
+    "meaning": "Extremely long periods of time",
+    "hindi": "युग, बहुत लंबा समय",
+    "trick": "EONS - 'EONS' sounds like 'aeons' = ages and ages.",
+    "examples": [
+      "Seconds on that clock now feel like Paleolithic eons.",
+      "It's been eons since I last saw my school friends."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "for eons / eons ago",
+      "partners": [
+        "eons ago",
+        "for eons",
+        "feels like eons"
+      ]
+    }
+  },
+  {
+    "word": "epicenter",
+    "memory": "central point, hub",
+    "meaning": "The central point of an activity; also the point on the ground above an earthquake's origin",
+    "hindi": "केंद्र, मुख्य स्थान; भूकंप का केंद्र",
+    "trick": "EPI (upon) + CENTER: the very centre of the action.",
+    "examples": [
+      "Harvard had been the world epicenter of negotiating theory.",
+      "Mumbai is the epicenter of India's film industry."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the epicenter of something",
+      "partners": [
+        "epicenter of",
+        "world epicenter",
+        "earthquake epicenter"
+      ]
+    }
+  },
+  {
+    "word": "epitomize",
+    "memory": "perfectly represent",
+    "meaning": "To be a perfect example of something",
+    "hindi": "का आदर्श उदाहरण होना, प्रतीक होना",
+    "trick": "EPITOMIZE - 'epi-TOME': the whole book in one example.",
+    "examples": [
+      "The case came to epitomize everything not to do in a crisis.",
+      "Her hard work epitomizes the spirit of our team."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "epitomize something",
+      "partners": [
+        "epitomize the spirit",
+        "come to epitomize",
+        "epitomize success"
+      ]
+    }
+  },
+  {
+    "word": "equilibrium",
+    "memory": "balance, stability",
+    "meaning": "A state of balance or calm",
+    "hindi": "संतुलन, स्थिरता",
+    "trick": "EQUI (equal) + LIBRA (scales): equal on both sides.",
+    "examples": [
+      "Psychological pain shows that something is out of equilibrium.",
+      "Yoga helps me keep my emotional equilibrium."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in/out of equilibrium / restore equilibrium",
+      "partners": [
+        "out of equilibrium",
+        "restore equilibrium",
+        "emotional equilibrium"
+      ]
+    }
+  },
+  {
+    "word": "errant",
+    "memory": "stray, misplaced",
+    "meaning": "Going in the wrong direction or out of place; also behaving badly",
+    "hindi": "भटका हुआ, गलत जगह",
+    "trick": "ERRANT - from ERR: something that has gone wrong.",
+    "examples": [
+      "You are now one errant shoelace-trip away from disaster.",
+      "An errant ball broke the neighbour's window."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an errant + noun",
+      "partners": [
+        "errant ball",
+        "errant shot",
+        "errant child"
+      ]
+    }
+  },
+  {
+    "word": "erratic",
+    "memory": "unpredictable, irregular",
+    "meaning": "Not steady or regular; changing without warning",
+    "hindi": "अस्थिर, अनियमित",
+    "trick": "ERRATIC - from ERR: wandering all over the place.",
+    "examples": [
+      "They saw the Taliban like an erratic cousin prone to unpredictable acts.",
+      "His erratic driving scared all of us."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be erratic / an erratic + noun",
+      "partners": [
+        "erratic behaviour",
+        "erratic driving",
+        "erratic moods"
+      ]
+    }
+  },
+  {
+    "word": "erupted",
+    "memory": "broke out suddenly",
+    "meaning": "Started suddenly and strongly; also (of a volcano) burst out",
+    "hindi": "अचानक फूट पड़ा, भड़क उठा",
+    "trick": "ERUPTED - like a volcano ERUPTING.",
+    "examples": [
+      "Within six months, Beatlemania had erupted.",
+      "Laughter erupted when the teacher slipped."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something erupted / erupted into something",
+      "partners": [
+        "erupted into",
+        "violence erupted",
+        "volcano erupted"
+      ]
+    }
+  },
+  {
+    "word": "escalating",
+    "memory": "getting worse, rising",
+    "meaning": "Becoming bigger, worse or more serious",
+    "hindi": "बढ़ता हुआ, तेज़ होता हुआ",
+    "trick": "ESCALATING - going up like an ESCALATOR.",
+    "examples": [
+      "Not only was the bickering still going on, it was escalating.",
+      "Escalating prices are hurting families."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "something is escalating / escalating + noun",
+      "partners": [
+        "escalating costs",
+        "escalating tension",
+        "escalating conflict"
+      ]
+    }
+  },
+  {
+    "word": "escarpment",
+    "memory": "steep slope, cliff",
+    "meaning": "A long, steep slope or cliff at the edge of a high area",
+    "hindi": "खड़ी ढलान, कगार",
+    "trick": "ESCARPMENT - a SCARP (steep face) like a scar on the hill.",
+    "examples": [
+      "The road winds up a parched rock escarpment for ten miles.",
+      "We hiked to the top of the escarpment for the view."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an escarpment / up/along the escarpment",
+      "partners": [
+        "rock escarpment",
+        "steep escarpment",
+        "along the escarpment"
+      ]
+    }
+  },
+  {
+    "word": "escort",
+    "memory": "companion, guard",
+    "meaning": "A person who goes with someone to protect or guide them",
+    "hindi": "साथी, रक्षक",
+    "trick": "ESCORT - 'ESCape-proof CORT': someone who walks beside you for safety.",
+    "examples": [
+      "No women outside the house without a male escort.",
+      "The minister arrived with a police escort."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "under escort / a + noun + escort",
+      "partners": [
+        "police escort",
+        "male escort",
+        "armed escort"
+      ]
+    }
+  },
+  {
+    "word": "escorted",
+    "memory": "accompanied, led",
+    "meaning": "Went with someone to guide or protect them",
+    "hindi": "साथ ले गया, पहुँचाया",
+    "trick": "ESCORT = a guard who goes along with you.",
+    "examples": [
+      "Afsoon escorted her back to the room upstairs.",
+      "The guard escorted the old man across the road."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "escorted someone to/back to somewhere",
+      "partners": [
+        "escorted her home",
+        "escorted by police",
+        "escorted out of the building"
+      ]
+    }
+  },
+  {
+    "word": "esoteric",
+    "memory": "specialised, obscure",
+    "meaning": "Understood by only a few people with special knowledge",
+    "hindi": "गूढ़, विशेष ज्ञान वाला",
+    "trick": "ESOTERIC - 'eso' = inside: only for insiders.",
+    "examples": [
+      "I taught myself web design, marketing and other esoteric topics.",
+      "His hobby is collecting esoteric old maps."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an esoteric + noun / be esoteric",
+      "partners": [
+        "esoteric topics",
+        "esoteric knowledge",
+        "esoteric interests"
+      ]
+    }
+  },
+  {
+    "word": "espouse",
+    "memory": "support, promote",
+    "meaning": "To openly support a belief or cause; also (old) to marry",
+    "hindi": "समर्थन करना, अपनाना",
+    "trick": "ESPOUSE - like a SPOUSE, you 'marry' an idea and stand by it.",
+    "examples": [
+      "Onoda tried to use his fame to espouse the values of Old Japan.",
+      "Many young people espouse the idea of saving water."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "espouse a cause / a belief / values",
+      "partners": [
+        "espouse a cause",
+        "espouse the values",
+        "espouse a view"
+      ]
+    }
+  },
+  {
+    "word": "essentially",
+    "memory": "basically, really",
+    "meaning": "In the most basic or important way; when you come down to it",
+    "hindi": "मूल रूप से, असल में",
+    "trick": "ESSENTIALLY = in ESSENCE.",
+    "examples": [
+      "Both he and his commander knew it was essentially a suicide mission.",
+      "The two phones are essentially the same."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "be essentially + noun/adjective",
+      "partners": [
+        "essentially the same",
+        "essentially a",
+        "is essentially"
+      ]
+    }
+  },
+  {
+    "word": "estranged",
+    "memory": "separated, no longer close",
+    "meaning": "No longer living with or friendly with a family member or partner",
+    "hindi": "अलग हुआ, दूर हुआ",
+    "trick": "ESTRANGED - became a STRANGER to your own family.",
+    "examples": [
+      "He had murdered his estranged wife and the pilot.",
+      "She called her estranged brother after ten years."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "estranged + wife/husband/family / be estranged from someone",
+      "partners": [
+        "estranged wife",
+        "estranged father",
+        "estranged from his family"
+      ]
+    }
+  },
+  {
+    "word": "etched",
+    "memory": "engraved, fixed deeply",
+    "meaning": "Fixed firmly in the mind; also cut or carved into a surface",
+    "hindi": "अंकित, खुदा हुआ",
+    "trick": "ETCHED - like letters scratched into stone, they never fade.",
+    "examples": [
+      "His movements were permanently etched in my brain like a cave painting.",
+      "Her name was etched on the silver cup."
+    ],
+    "usage": {
+      "pos": "verb (past) / adjective",
+      "pattern": "be etched in someone's memory / etched with something",
+      "partners": [
+        "etched in my memory",
+        "etched on the glass",
+        "etched with stars"
+      ]
+    }
+  },
+  {
+    "word": "eternal",
+    "memory": "endless, forever",
+    "meaning": "Lasting forever or seeming to have no end",
+    "hindi": "अनंत, शाश्वत",
+    "trick": "ETERNAL - ETERNITY never ends.",
+    "examples": [
+      "I was on an eternal march beneath a black sky full of stars.",
+      "The queue at the bank felt eternal."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an eternal + noun",
+      "partners": [
+        "eternal love",
+        "eternal life",
+        "eternal wait"
+      ]
+    }
+  },
+  {
+    "word": "ethic",
+    "memory": "principle, attitude to work",
+    "meaning": "A set of beliefs about how to behave, especially an attitude to hard work",
+    "hindi": "नैतिकता, सिद्धांत",
+    "trick": "ETHIC - ETHICS = right and wrong; work ethic = how seriously you work.",
+    "examples": [
+      "My work ethic is the most important factor in all my success.",
+      "Her strong work ethic got her promoted."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a/the + work ethic / the ethic of something",
+      "partners": [
+        "work ethic",
+        "strong ethic",
+        "Protestant ethic"
+      ]
+    }
+  },
+  {
+    "word": "ethnic",
+    "memory": "of a cultural group",
+    "meaning": "Belonging to a group of people with a shared race, culture or language",
+    "hindi": "जातीय, नस्ली",
+    "trick": "ETHNIC - ETHNIC food comes from a particular people's culture.",
+    "examples": [
+      "Tariq and his parents were ethnic Pashtuns but spoke Farsi around Laila.",
+      "The city has many ethnic restaurants."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "ethnic + group/noun",
+      "partners": [
+        "ethnic group",
+        "ethnic minority",
+        "ethnic food"
+      ]
+    }
+  },
+  {
+    "word": "ethos",
+    "memory": "spirit, guiding values",
+    "meaning": "The typical spirit, values and attitudes of a group",
+    "hindi": "मूल्य, भावना",
+    "trick": "ETHOS - the 'ethics' that a group lives by.",
+    "examples": [
+      "He was still living the SEAL ethos every day.",
+      "The school's ethos is kindness and hard work."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the ethos of something / live the ethos",
+      "partners": [
+        "company ethos",
+        "team ethos",
+        "the SEAL ethos"
+      ]
+    }
+  },
+  {
+    "word": "etiquette",
+    "memory": "manners, polite rules",
+    "meaning": "The accepted rules of polite behaviour",
+    "hindi": "शिष्टाचार, तौर-तरीके",
+    "trick": "ETIQUETTE - like a 'ticket' you need to enter polite society.",
+    "examples": [
+      "Then there was my etiquette, which needed work too.",
+      "Table etiquette says you shouldn't talk with food in your mouth."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "etiquette of something / follow etiquette",
+      "partners": [
+        "table etiquette",
+        "office etiquette",
+        "social etiquette"
+      ]
+    }
+  },
+  {
+    "word": "euphoria",
+    "memory": "great joy, elation",
+    "meaning": "A strong feeling of great happiness and excitement",
+    "hindi": "अत्यधिक खुशी, उल्लास",
+    "trick": "EUPHORIA - 'eu' = good + 'phoria' = feeling: feeling very good.",
+    "examples": [
+      "She had another of those little sparks of euphoria.",
+      "There was euphoria in the streets after the win."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a feeling/sense of euphoria / in euphoria",
+      "partners": [
+        "sense of euphoria",
+        "bouts of euphoria",
+        "wave of euphoria"
+      ]
+    }
+  },
+  {
+    "word": "euphoric",
+    "memory": "overjoyed, elated",
+    "meaning": "Feeling or causing intense happiness and excitement",
+    "hindi": "बेहद खुश, उल्लसित",
+    "trick": "EUPHORIC - in a state of EUPHORIA.",
+    "examples": [
+      "The fear was becoming euphoric and blinding.",
+      "The fans were euphoric after the final goal."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be/feel euphoric / a euphoric + noun",
+      "partners": [
+        "feel euphoric",
+        "euphoric mood",
+        "euphoric crowd"
+      ]
+    }
+  },
+  {
+    "word": "evaporated",
+    "memory": "vanished, faded away",
+    "meaning": "Disappeared gradually; also turned from liquid into vapour",
+    "hindi": "गायब हो गया, उड़ गया",
+    "trick": "EVAPORATED - like water in the sun, the feeling dried up.",
+    "examples": [
+      "The earlier pleasure over his approval of her cooking had evaporated.",
+      "The puddle evaporated in the afternoon heat."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something evaporated / have evaporated",
+      "partners": [
+        "hope evaporated",
+        "the water evaporated",
+        "anger evaporated"
+      ]
+    }
+  },
+  {
+    "word": "ever-dwindling",
+    "memory": "always shrinking",
+    "meaning": "Becoming smaller and smaller all the time",
+    "hindi": "लगातार घटता हुआ",
+    "trick": "EVER + DWINDLING - always getting less, like a candle burning down.",
+    "examples": [
+      "We save our ever-dwindling energy for what truly matters: family and friends.",
+      "Our ever-dwindling savings worried us."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an/the ever-dwindling + noun",
+      "partners": [
+        "ever-dwindling supply",
+        "ever-dwindling savings",
+        "ever-dwindling numbers"
+      ]
+    }
+  },
+  {
+    "word": "evicted",
+    "memory": "thrown out of home",
+    "meaning": "Forced to leave a home or building by law",
+    "hindi": "बेदखल किया गया, निकाला गया",
+    "trick": "EVICTED - 'e' = out + 'vict' (like VICTory): the landlord wins and you're out.",
+    "examples": [
+      "You aren't getting evicted because of other people.",
+      "The family was evicted for not paying rent."
+    ],
+    "usage": {
+      "pos": "verb (past / passive)",
+      "pattern": "be/get evicted from somewhere / evict someone",
+      "partners": [
+        "evicted from the flat",
+        "get evicted",
+        "evicted tenants"
+      ]
+    }
+  },
+  {
+    "word": "evil",
+    "memory": "very wicked, cruel",
+    "meaning": "Morally very bad and cruel; also great harm",
+    "hindi": "दुष्ट, बुरा; बुराई",
+    "trick": "EVIL is LIVE spelled backwards.",
+    "examples": [
+      "Evil people never believe that they are evil.",
+      "The villain had an evil laugh."
+    ],
+    "usage": {
+      "pos": "adjective / noun",
+      "pattern": "be evil / an evil + noun / good and evil",
+      "partners": [
+        "evil person",
+        "evil plan",
+        "good and evil"
+      ]
+    }
+  },
+  {
+    "word": "eviscerate",
+    "memory": "destroy, tear apart",
+    "meaning": "To destroy or weaken completely; also to remove the insides of",
+    "hindi": "नष्ट करना, जड़ से मिटाना",
+    "trick": "EVISCERATE - 'e' = out + 'viscera' = guts: rip the guts out of something.",
+    "examples": [
+      "It's up to you to find ways to eviscerate your excuses.",
+      "The critic eviscerated the new film in his review."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "eviscerate something / someone",
+      "partners": [
+        "eviscerate an argument",
+        "eviscerate the opposition",
+        "eviscerate your excuses"
+      ]
+    }
+  },
+  {
+    "word": "exacerbated",
+    "memory": "made worse",
+    "meaning": "Made a problem or bad situation worse",
+    "hindi": "और बिगाड़ा, बढ़ाया",
+    "trick": "EXACERBATED - EXTRA ACID on a wound makes it worse.",
+    "examples": [
+      "He could barely breathe, which exacerbated his problem.",
+      "The rain exacerbated the traffic jam."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something exacerbated something / be exacerbated by something",
+      "partners": [
+        "exacerbated the problem",
+        "exacerbated by stress",
+        "exacerbated tensions"
+      ]
+    }
+  },
+  {
+    "word": "exaggerate",
+    "memory": "overstate, inflate",
+    "meaning": "To make something seem bigger, better or worse than it really is",
+    "hindi": "बढ़ा-चढ़ाकर कहना",
+    "trick": "EXAGGERATE - double G, because you double everything.",
+    "examples": [
+      "Yes, sometimes I exaggerate my own successes.",
+      "Don't exaggerate, it was only a small scratch."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "exaggerate something / exaggerate (about something)",
+      "partners": [
+        "exaggerate the truth",
+        "exaggerate your success",
+        "greatly exaggerate"
+      ]
+    }
+  },
+  {
+    "word": "exasperated",
+    "memory": "fed up, annoyed",
+    "meaning": "Very annoyed and frustrated, especially after a long time",
+    "hindi": "झुंझलाया हुआ, तंग आया",
+    "trick": "EXASPERATED - so fed up you let out an EXASperated breath.",
+    "examples": [
+      "She was more exhausted than exasperated.",
+      "The teacher was exasperated by the noisy class."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be exasperated with/by someone/something",
+      "partners": [
+        "exasperated sigh",
+        "exasperated with him",
+        "exasperated by the delay"
+      ]
+    }
+  },
+  {
+    "word": "exasperation",
+    "memory": "frustration, annoyance",
+    "meaning": "A feeling of great annoyance and frustration",
+    "hindi": "झुंझलाहट, खीज",
+    "trick": "EXASPERATION - the feeling of being EXASPERATED.",
+    "examples": [
+      "He looked at me with a mix of respect and funny exasperation.",
+      "She threw up her hands in exasperation."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in exasperation / with exasperation",
+      "partners": [
+        "in exasperation",
+        "sigh of exasperation",
+        "growing exasperation"
+      ]
+    }
+  },
+  {
+    "word": "excelled",
+    "memory": "did very well",
+    "meaning": "Did something extremely well; was very good at something",
+    "hindi": "उत्कृष्ट रहा, बहुत अच्छा किया",
+    "trick": "EXCELLED - became EXCELLENT.",
+    "examples": [
+      "At my new university I excelled for the first time.",
+      "She excelled at maths in school."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "excelled at/in something",
+      "partners": [
+        "excelled at sport",
+        "excelled in studies",
+        "excelled academically"
+      ]
+    }
+  },
+  {
+    "word": "excellence",
+    "memory": "great quality",
+    "meaning": "The quality of being outstanding or extremely good",
+    "hindi": "उत्कृष्टता, श्रेष्ठता",
+    "trick": "EXCELLENCE - what EXCELLENT things have.",
+    "examples": [
+      "The cost of missing so much excellence in this world felt huge to me.",
+      "The hospital is known for its excellence in care."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "excellence in something / a centre of excellence",
+      "partners": [
+        "academic excellence",
+        "pursuit of excellence",
+        "excellence in service"
+      ]
+    }
+  },
+  {
+    "word": "excesses",
+    "memory": "overindulgences",
+    "meaning": "Acts of doing or having too much of something, especially pleasures",
+    "hindi": "अति, ज़्यादतियाँ",
+    "trick": "EXCESSES - EXCESS = more than needed; many such binges.",
+    "examples": [
+      "As with most excesses in life, you have to drown in them to see they don't make you happy.",
+      "After the holiday excesses, he started a diet."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "the excesses of something",
+      "partners": [
+        "holiday excesses",
+        "excesses of youth",
+        "financial excesses"
+      ]
+    }
+  },
+  {
+    "word": "exclaimed",
+    "memory": "cried out",
+    "meaning": "Said something suddenly and loudly from surprise or strong feeling",
+    "hindi": "चिल्लाया, बोल उठा",
+    "trick": "EXCLAIMED - EXCLAMATION mark (!) at the end.",
+    "examples": [
+      "\"What's that?\" he exclaimed.",
+      "\"What a lovely surprise!\" she exclaimed."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "\"...,\" someone exclaimed / exclaimed that...",
+      "partners": [
+        "exclaimed in surprise",
+        "exclaimed loudly",
+        "she exclaimed"
+      ]
+    }
+  },
+  {
+    "word": "excruciating",
+    "memory": "agonising, unbearable",
+    "meaning": "Extremely painful; also very embarrassing or boring",
+    "hindi": "असहनीय, बेहद दर्दनाक",
+    "trick": "EXCRUCIATING - 'cruci' = CROSS: pain like being on a cross.",
+    "examples": [
+      "My left ear was throbbing in excruciating pain.",
+      "Waiting for the exam results was excruciating."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "excruciating + pain / be excruciating",
+      "partners": [
+        "excruciating pain",
+        "excruciating detail",
+        "excruciating wait"
+      ]
+    }
+  },
+  {
+    "word": "excused",
+    "memory": "justified, explained away",
+    "meaning": "Gave a reason to explain or justify a fault; also allowed to leave",
+    "hindi": "सफ़ाई दी, बहाना बनाया",
+    "trick": "EXCUSED - gave an EXCUSE.",
+    "examples": [
+      "She was late every morning and excused herself by saying she had overslept.",
+      "He excused himself and left the table."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "excused oneself (by doing something) / be excused from something",
+      "partners": [
+        "excused herself",
+        "excused from class",
+        "excused his behaviour"
+      ]
+    }
+  },
+  {
+    "word": "execration",
+    "memory": "hatred, cursing",
+    "meaning": "Strong expressions of hatred or curses",
+    "hindi": "घोर निंदा, धिक्कार",
+    "trick": "EXECRATION - sounds like 'EXECUTION': the crowd curses the condemned man.",
+    "examples": [
+      "I hoped the crowd would greet me with howls of execration.",
+      "The traitor's name was met with execration."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "howls/cries of execration",
+      "partners": [
+        "howls of execration",
+        "public execration",
+        "object of execration"
+      ]
+    }
+  },
+  {
+    "word": "exert",
+    "memory": "use, apply",
+    "meaning": "To use power, influence or effort",
+    "hindi": "डालना (दबाव/प्रभाव), लगाना",
+    "trick": "EXERT - put EXTRA effort out.",
+    "examples": [
+      "She had no authority to exert over him.",
+      "Parents exert a lot of influence on their children."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "exert something (on/over someone) / exert yourself",
+      "partners": [
+        "exert influence",
+        "exert pressure",
+        "exert authority"
+      ]
+    }
+  },
+  {
+    "word": "exerted",
+    "memory": "applied, used",
+    "meaning": "Used power, influence or pressure on someone",
+    "hindi": "डाला, लगाया",
+    "trick": "EXERTED - the past of EXERT: pushed with force.",
+    "examples": [
+      "He kept talking about the influence the other robbers exerted on him.",
+      "The crowd exerted pressure on the gate."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "exerted something on/over someone",
+      "partners": [
+        "exerted influence",
+        "exerted pressure",
+        "exerted force"
+      ]
+    }
+  },
+  {
+    "word": "exertion",
+    "memory": "effort, hard work",
+    "meaning": "Hard physical or mental effort",
+    "hindi": "परिश्रम, मेहनत",
+    "trick": "EXERTION - what you do when you EXERT yourself.",
+    "examples": [
+      "Slow, repetitive physical exertion puts me in a trancelike state.",
+      "He was red-faced from the exertion of climbing the stairs."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "physical exertion / the exertion of doing something",
+      "partners": [
+        "physical exertion",
+        "after exertion",
+        "great exertion"
+      ]
+    }
+  },
+  {
+    "word": "exhaustion",
+    "memory": "extreme tiredness",
+    "meaning": "A state of being extremely tired",
+    "hindi": "थकावट, थकान",
+    "trick": "EXHAUSTION - your energy's EXHAUST pipe is empty.",
+    "examples": [
+      "His eyes were streaming with tears of exhaustion.",
+      "She fell asleep from exhaustion."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "from/with exhaustion / sheer exhaustion",
+      "partners": [
+        "sheer exhaustion",
+        "physical exhaustion",
+        "collapse from exhaustion"
+      ]
+    }
+  },
+  {
+    "word": "exhibit",
+    "memory": "show, display",
+    "meaning": "To show a quality or feeling; also to put on public display",
+    "hindi": "दिखाना, प्रदर्शित करना",
+    "trick": "EXHIBIT - an EXHIBITION shows things to people.",
+    "examples": [
+      "Often they grew up with parents who each exhibit one of these traits.",
+      "Some dogs exhibit fear during storms."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "exhibit something (a trait/sign/behaviour)",
+      "partners": [
+        "exhibit signs of",
+        "exhibit behaviour",
+        "exhibit symptoms"
+      ]
+    }
+  },
+  {
+    "word": "exhibited",
+    "memory": "shown in public",
+    "meaning": "Shown at a public show or exhibition; also displayed a quality",
+    "hindi": "प्रदर्शित किया गया",
+    "trick": "EXHIBITED - put on show at an EXHIBITION.",
+    "examples": [
+      "The name under which he had been exhibited was Willingdon Beauty.",
+      "Her paintings were exhibited in Delhi."
+    ],
+    "usage": {
+      "pos": "verb (past / passive)",
+      "pattern": "be exhibited at somewhere / exhibited something",
+      "partners": [
+        "exhibited at the show",
+        "exhibited in a gallery",
+        "exhibited signs"
+      ]
+    }
+  },
+  {
+    "word": "exhilarating",
+    "memory": "thrilling, exciting",
+    "meaning": "Making you feel very happy and excited",
+    "hindi": "रोमांचक, उत्साहजनक",
+    "trick": "EXHILARATING - like a HILARIOUS ride: you scream with joy.",
+    "examples": [
+      "The feeling was exhilarating.",
+      "The roller-coaster ride was exhilarating."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be exhilarating / an exhilarating + noun",
+      "partners": [
+        "exhilarating experience",
+        "exhilarating ride",
+        "exhilarating feeling"
+      ]
+    }
+  },
+  {
+    "word": "exhilaration",
+    "memory": "thrill, excitement",
+    "meaning": "A feeling of great happiness and excitement",
+    "hindi": "रोमांच, उल्लास",
+    "trick": "EXHILARATION - the feeling from something EXHILARATING.",
+    "examples": [
+      "Despite the exhilaration inside, she fell asleep.",
+      "He felt pure exhilaration at the top of the hill."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a feeling/sense of exhilaration / with exhilaration",
+      "partners": [
+        "sense of exhilaration",
+        "pure exhilaration",
+        "feeling of exhilaration"
+      ]
+    }
+  },
+  {
+    "word": "existential",
+    "memory": "about life's meaning",
+    "meaning": "Relating to human existence and the meaning of life; also threatening survival",
+    "hindi": "अस्तित्व संबंधी",
+    "trick": "EXISTENTIAL - about why we EXIST.",
+    "examples": [
+      "Our crisis is no longer material; it's existential.",
+      "Turning forty gave him some existential worries."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an existential + noun",
+      "partners": [
+        "existential crisis",
+        "existential question",
+        "existential threat"
+      ]
+    }
+  },
+  {
+    "word": "existential crisis",
+    "memory": "questioning life's meaning",
+    "meaning": "A time of doubting the meaning or purpose of your life",
+    "hindi": "जीवन के अर्थ पर संकट",
+    "trick": "EXISTENTIAL CRISIS - 'Why do I EXIST?' panic.",
+    "examples": [
+      "The prince returned to the palace and found himself in an existential crisis.",
+      "Losing his job sent him into an existential crisis."
+    ],
+    "usage": {
+      "pos": "noun phrase",
+      "pattern": "have/go through an existential crisis",
+      "partners": [
+        "have an existential crisis",
+        "midlife existential crisis",
+        "go through an existential crisis"
+      ]
+    }
+  },
+  {
+    "word": "exotic",
+    "memory": "strange, foreign",
+    "meaning": "Unusual and interesting because it comes from a distant place",
+    "hindi": "विदेशी, अनोखा",
+    "trick": "EXOTIC - 'exo' = outside: from outside your world.",
+    "examples": [
+      "Teachers and students stared at me like I was some exotic species.",
+      "The zoo has many exotic birds."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an exotic + noun",
+      "partners": [
+        "exotic species",
+        "exotic fruit",
+        "exotic places"
+      ]
+    }
+  },
+  {
+    "word": "expectantly",
+    "memory": "hopefully, eagerly",
+    "meaning": "In a way that shows you are waiting for something to happen",
+    "hindi": "उम्मीद से, आशा भरी नज़रों से",
+    "trick": "EXPECTANTLY - EXPECTING something any moment.",
+    "examples": [
+      "She looked over expectantly.",
+      "The dog looked up expectantly at the food."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "look/wait expectantly (at someone)",
+      "partners": [
+        "look expectantly",
+        "wait expectantly",
+        "stare expectantly"
+      ]
+    }
+  },
+  {
+    "word": "expedition",
+    "memory": "journey, exploring trip",
+    "meaning": "An organised journey for a purpose, such as exploring",
+    "hindi": "अभियान, खोज-यात्रा",
+    "trick": "EXPEDITION - 'ex' + 'ped' (foot): going out on foot to explore.",
+    "examples": [
+      "He signed up to join an expedition to the Amazon rain forest.",
+      "They went on an expedition to climb Everest."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an expedition to somewhere / go on an expedition",
+      "partners": [
+        "go on an expedition",
+        "scientific expedition",
+        "expedition to the Amazon"
+      ]
+    }
+  },
+  {
+    "word": "expelled",
+    "memory": "thrown out",
+    "meaning": "Officially forced to leave a school or organisation",
+    "hindi": "निकाला गया, निष्कासित",
+    "trick": "EXPELLED - 'ex' = out + 'pel' = push: pushed out.",
+    "examples": [
+      "Having been expelled from school, I was homeschooled for the rest of the year.",
+      "He was expelled for cheating in the exam."
+    ],
+    "usage": {
+      "pos": "verb (past / passive)",
+      "pattern": "be expelled from somewhere",
+      "partners": [
+        "expelled from school",
+        "expelled from the party",
+        "get expelled"
+      ]
+    }
+  },
+  {
+    "word": "explicable",
+    "memory": "explainable",
+    "meaning": "Able to be explained or understood",
+    "hindi": "समझ में आने योग्य",
+    "trick": "EXPLICABLE - can be EXPLAINED (opposite: inexplicable).",
+    "examples": [
+      "The thief killed him for no explicable reason.",
+      "His anger was explicable once we heard the story."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be explicable / an explicable + noun (often 'no explicable reason')",
+      "partners": [
+        "no explicable reason",
+        "easily explicable",
+        "explicable by"
+      ]
+    }
+  },
+  {
+    "word": "expostulate",
+    "memory": "protest, object",
+    "meaning": "To argue or protest strongly with someone",
+    "hindi": "विरोध करना, आपत्ति करना",
+    "trick": "EXPOSTULATE - EXPOSE your complaint loudly.",
+    "examples": [
+      "Raymond began to expostulate, and my lawyer, too, protested.",
+      "She started to expostulate about the unfair fine."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "expostulate (with someone) about something",
+      "partners": [
+        "expostulate with",
+        "begin to expostulate",
+        "expostulate angrily"
+      ]
+    }
+  },
+  {
+    "word": "expounded",
+    "memory": "explained in detail",
+    "meaning": "Explained or described something in detail",
+    "hindi": "विस्तार से समझाया",
+    "trick": "EXPOUNDED - EXPLAINED with a POUND of detail.",
+    "examples": [
+      "They held secret meetings and expounded the principles of Animalism.",
+      "The professor expounded his theory for an hour."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "expounded something / expounded on something",
+      "partners": [
+        "expounded the principles",
+        "expounded on",
+        "expounded his views"
+      ]
+    }
+  },
+  {
+    "word": "expulsion",
+    "memory": "forced removal",
+    "meaning": "The act of forcing someone to leave a place or group",
+    "hindi": "निष्कासन, निकाला जाना",
+    "trick": "EXPULSION - the noun of EXPEL.",
+    "examples": [
+      "Despite the shock of Snowball's expulsion, the animals were dismayed.",
+      "The fight led to his expulsion from school."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "someone's expulsion / expulsion from somewhere",
+      "partners": [
+        "expulsion from school",
+        "face expulsion",
+        "sudden expulsion"
+      ]
+    }
+  },
+  {
+    "word": "exquisite",
+    "memory": "perfect, beautifully fine",
+    "meaning": "Extremely beautiful, fine or delightful",
+    "hindi": "उत्कृष्ट, अति सुंदर",
+    "trick": "EXQUISITE - so EXcellent it's a QUIck SITE to remember.",
+    "examples": [
+      "'What if' is an exquisite reply to anyone who has ever doubted you.",
+      "She wore an exquisite silk sari."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an exquisite + noun",
+      "partners": [
+        "exquisite taste",
+        "exquisite detail",
+        "exquisite beauty"
+      ]
+    }
+  },
+  {
+    "word": "extenuating",
+    "memory": "excusing, lessening blame",
+    "meaning": "Making a wrong action seem less serious or more excusable",
+    "hindi": "दोष कम करने वाले",
+    "trick": "EXTENUATING - makes the blame 'TENUOUS' (thin).",
+    "examples": [
+      "He pleaded guilty, but with extenuating circumstances.",
+      "Because of extenuating circumstances, she got extra time."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "extenuating circumstances",
+      "partners": [
+        "extenuating circumstances",
+        "extenuating factors",
+        "without extenuating reasons"
+      ]
+    }
+  },
+  {
+    "word": "extenuation",
+    "memory": "excuse, mitigation",
+    "meaning": "A reason that makes a wrong act seem less serious",
+    "hindi": "दोष में कमी, सफ़ाई",
+    "trick": "EXTENUATION - the excuse that EXTENUATES (thins) the blame.",
+    "examples": [
+      "A sudden impulse might serve as extenuation for the crime.",
+      "He offered his illness in extenuation of his absence."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in extenuation of something / serve as extenuation",
+      "partners": [
+        "in extenuation",
+        "serve as extenuation",
+        "plea of extenuation"
+      ]
+    }
+  },
+  {
+    "word": "exterminator",
+    "memory": "pest killer",
+    "meaning": "A person whose job is killing insects, rats and other pests",
+    "hindi": "कीट-नाशक कर्मचारी",
+    "trick": "EXTERMINATOR - he TERMINATES the pests.",
+    "examples": [
+      "It was my job to unlock the hospital kitchen for the exterminator.",
+      "We called an exterminator to get rid of the cockroaches."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "call/hire an exterminator",
+      "partners": [
+        "pest exterminator",
+        "call an exterminator",
+        "the exterminator came"
+      ]
+    }
+  },
+  {
+    "word": "extravagance",
+    "memory": "overspending, luxury",
+    "meaning": "Spending too much money or using too much of something",
+    "hindi": "फ़िज़ूलखर्ची, अपव्यय",
+    "trick": "EXTRAVAGANCE - EXTRA spending beyond what you need.",
+    "examples": [
+      "He gave her enough money to live on, without extravagance.",
+      "Buying a new car every year is pure extravagance."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "without extravagance / an extravagance",
+      "partners": [
+        "without extravagance",
+        "pure extravagance",
+        "a small extravagance"
+      ]
+    }
+  },
+  {
+    "word": "extravagant",
+    "memory": "wasteful, overspending",
+    "meaning": "Spending or costing much more than is sensible",
+    "hindi": "फ़िज़ूलखर्च, खर्चीला",
+    "trick": "EXTRAVAGANT - EXTRA + VAGANT (wandering): money wanders away.",
+    "examples": [
+      "They no longer had to support five extravagant human beings.",
+      "They threw an extravagant wedding party."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an extravagant + noun / be extravagant",
+      "partners": [
+        "extravagant lifestyle",
+        "extravagant gift",
+        "extravagant spending"
+      ]
+    }
+  },
+  {
+    "word": "extremist",
+    "memory": "radical, fanatic",
+    "meaning": "Holding extreme political or religious views, often supporting violence",
+    "hindi": "कट्टरपंथी, उग्रवादी",
+    "trick": "EXTREMIST - goes to the EXTREME.",
+    "examples": [
+      "Al Qaeda allied with existing extremist networks in Africa.",
+      "The police arrested members of an extremist group."
+    ],
+    "usage": {
+      "pos": "adjective / noun",
+      "pattern": "an extremist + noun / extremists",
+      "partners": [
+        "extremist group",
+        "extremist views",
+        "extremist networks"
+      ]
+    }
+  },
+  {
+    "word": "extricates",
+    "memory": "frees, pulls out",
+    "meaning": "Frees someone or something from a difficult situation or place",
+    "hindi": "निकालता है, छुड़ाता है",
+    "trick": "EXTRICATES - 'ex' = out of + 'tric' (like TRICKy) : out of a tricky spot.",
+    "examples": [
+      "Travel extricates you from the values of your culture.",
+      "He carefully extricates the cat from the tree branches."
+    ],
+    "usage": {
+      "pos": "verb (he/she/it)",
+      "pattern": "extricates someone/something from something",
+      "partners": [
+        "extricates you from",
+        "extricates himself from",
+        "extricates itself"
+      ]
+    }
+  },
+  {
+    "word": "exuberant",
+    "memory": "full of energy, joyful",
+    "meaning": "Full of energy, excitement and cheerfulness",
+    "hindi": "उत्साही, जोशीला",
+    "trick": "EXUBERANT - like an EXcited UBER driver singing all the way.",
+    "examples": [
+      "This willing and even exuberant facing of death has ancient roots.",
+      "The exuberant children ran around the park."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be exuberant / an exuberant + noun",
+      "partners": [
+        "exuberant mood",
+        "exuberant children",
+        "exuberant welcome"
+      ]
+    }
+  },
+  {
+    "word": "exude",
+    "memory": "give off, radiate",
+    "meaning": "To show a quality or feeling strongly; also to give off a smell or liquid",
+    "hindi": "झलकाना, दिखाना; रिसना",
+    "trick": "EXUDE - 'ex' = out + 'ude' (like sweat): it oozes out of you.",
+    "examples": [
+      "Entitled people exude a crazy degree of self-confidence.",
+      "Good leaders exude calm in a crisis."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "exude something (confidence/charm/calm)",
+      "partners": [
+        "exude confidence",
+        "exude charm",
+        "exude warmth"
+      ]
+    }
+  },
+  {
+    "word": "exuding",
+    "memory": "radiating, showing",
+    "meaning": "Showing a quality or feeling strongly",
+    "hindi": "झलकाते हुए",
+    "trick": "EXUDING - confidence oozing out of you.",
+    "examples": [
+      "If he approaches exuding calm, the inmate will likely stay peaceful.",
+      "She walked in exuding confidence."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "exuding something",
+      "partners": [
+        "exuding confidence",
+        "exuding calm",
+        "exuding charm"
+      ]
+    }
+  },
+  {
+    "word": "exultant",
+    "memory": "triumphant, joyful",
+    "meaning": "Very happy and proud because of a success",
+    "hindi": "विजयी खुशी में, प्रफुल्लित",
+    "trick": "EXULTANT - EXcited + reSULT: happy about the result.",
+    "examples": [
+      "My lawyer was exultant.",
+      "The exultant team lifted the trophy."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be exultant / an exultant + noun",
+      "partners": [
+        "exultant mood",
+        "exultant crowd",
+        "exultant shout"
+      ]
+    }
+  },
+  {
+    "word": "exultation",
+    "memory": "triumphant joy",
+    "meaning": "A feeling of great happiness and triumph",
+    "hindi": "विजय का उल्लास, हर्ष",
+    "trick": "EXULTATION - the joy of a great RESULT.",
+    "examples": [
+      "The thought flooded my mind with a wild, absurd exultation.",
+      "There were shouts of exultation when the results came."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in exultation / a feeling of exultation",
+      "partners": [
+        "shouts of exultation",
+        "wild exultation",
+        "in exultation"
+      ]
+    }
+  },
+  {
+    "word": "eyeballing",
+    "memory": "staring at",
+    "meaning": "Looking hard at someone, often to judge or challenge them (informal)",
+    "hindi": "घूरते हुए (बोलचाल)",
+    "trick": "EYEBALLING - fixing your EYEBALLS on someone.",
+    "examples": [
+      "Even with Psycho eyeballing me, I couldn't hide it.",
+      "The coach was eyeballing the new players."
+    ],
+    "usage": {
+      "pos": "verb (-ing, informal)",
+      "pattern": "eyeballing someone/something",
+      "partners": [
+        "eyeballing me",
+        "eyeballing each other",
+        "eyeballing the crowd"
+      ]
+    }
+  },
+  {
+    "word": "eying",
+    "memory": "watching closely",
+    "meaning": "Looking at someone or something carefully, often with interest (also spelled 'eyeing')",
+    "hindi": "निहारते हुए, ताकते हुए",
+    "trick": "EYING - using your EYES on something you want.",
+    "examples": [
+      "The old fellows stood solemnly eying me.",
+      "The boy was eying the last piece of cake."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "eying someone/something",
+      "partners": [
+        "eying me",
+        "eying the food",
+        "eying suspiciously"
+      ]
+    }
+  }
+]

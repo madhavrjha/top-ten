@@ -1,0 +1,2982 @@
+[
+  {
+    "word": "gabled",
+    "memory": "with pointed roofs",
+    "meaning": "Having a triangular, pointed top part of a wall under a sloping roof",
+    "hindi": "त्रिकोणी छत वाला",
+    "trick": "GABLE = the triangle on top of a house; GABLED = having that triangle shape.",
+    "examples": [
+      "His front two teeth were pushed together like a gabled roof.",
+      "They live in an old gabled house near the river."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a gabled + noun",
+      "partners": [
+        "gabled roof",
+        "gabled house",
+        "gabled cottage"
+      ]
+    }
+  },
+  {
+    "word": "gag",
+    "memory": "choke, retch",
+    "meaning": "To feel like you are about to vomit; also a joke, or something put over the mouth to stop speaking",
+    "hindi": "उबकाई, मितली; मज़ाक",
+    "trick": "GAG sounds like 'gagh!' - the noise you make when you almost throw up.",
+    "examples": [
+      "It triggered the gag reflex.",
+      "The smell of rotten eggs made me gag."
+    ],
+    "usage": {
+      "pos": "verb / noun",
+      "pattern": "gag on something / make someone gag / the gag reflex",
+      "partners": [
+        "gag reflex",
+        "make someone gag",
+        "running gag"
+      ]
+    }
+  },
+  {
+    "word": "gait",
+    "memory": "way of walking",
+    "meaning": "A person's or animal's particular way of walking",
+    "hindi": "चाल, चलने का ढंग",
+    "trick": "GAIT sounds like 'gate' - the way you walk through the gate.",
+    "examples": [
+      "The dog had developed its master's queer, hunched-up gait.",
+      "I knew it was my father from his slow, heavy gait."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "walk with a ... gait / someone's gait",
+      "partners": [
+        "slow gait",
+        "unsteady gait",
+        "shuffling gait"
+      ]
+    }
+  },
+  {
+    "word": "gale",
+    "memory": "very strong wind",
+    "meaning": "A very strong wind",
+    "hindi": "आँधी, तेज़ हवा",
+    "trick": "GALE rhymes with 'sail' - a gale rips the sail.",
+    "examples": [
+      "The gale was so violent that the farm buildings rocked on their foundations.",
+      "The gale knocked down two trees in our street."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a gale blows / in a gale",
+      "partners": [
+        "strong gale",
+        "gale-force winds",
+        "gales of laughter"
+      ]
+    }
+  },
+  {
+    "word": "gallons",
+    "memory": "units of liquid",
+    "meaning": "Units for measuring liquid; one gallon is about 3.8 litres (US) or 4.5 litres (UK)",
+    "hindi": "गैलन (तरल नापने की इकाई)",
+    "trick": "GALLON - a big jug, like a GALLON of milk.",
+    "examples": [
+      "How many thousands of gallons of milk have you given this year?",
+      "The car's tank holds twelve gallons of petrol."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "gallons of + liquid",
+      "partners": [
+        "gallons of water",
+        "gallons of milk",
+        "a gallon of petrol"
+      ]
+    }
+  },
+  {
+    "word": "galvanized",
+    "memory": "zinc-coated",
+    "meaning": "Of metal: coated with zinc to stop rust; also shocked or excited into sudden action",
+    "hindi": "जस्ता चढ़ा हुआ; झकझोरकर सक्रिय किया",
+    "trick": "GALVANI (an Italian scientist) - galvanized steel gets a zinc 'shield' against rust.",
+    "examples": [
+      "Our tanks were made from galvanized steel.",
+      "The farmer fixed a galvanized bucket to the well rope."
+    ],
+    "usage": {
+      "pos": "adjective / verb (past)",
+      "pattern": "galvanized + metal / be galvanized into action",
+      "partners": [
+        "galvanized steel",
+        "galvanized iron",
+        "galvanized into action"
+      ]
+    }
+  },
+  {
+    "word": "gambit",
+    "memory": "clever opening move",
+    "meaning": "A clever action or remark used to gain an advantage, especially at the start",
+    "hindi": "चाल, दाँव",
+    "trick": "GAMBIT starts like GAME - the first clever move in the game (from chess).",
+    "examples": [
+      "I used his first name to complicate his gambit to bulldoze me.",
+      "Her opening gambit was to offer a free sample."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an opening gambit / a gambit to do something",
+      "partners": [
+        "opening gambit",
+        "clever gambit",
+        "risky gambit"
+      ]
+    }
+  },
+  {
+    "word": "gambled",
+    "memory": "bet money",
+    "meaning": "Risked money on a game or bet; also took a risky chance",
+    "hindi": "जुआ खेला; जोखिम उठाया",
+    "trick": "GAMBLE has GAME in it - playing games for money.",
+    "examples": [
+      "Husbands who gambled.",
+      "He gambled away all his savings at the casino."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "gamble on something / gamble something away",
+      "partners": [
+        "gambled away",
+        "gambled on",
+        "gambled everything"
+      ]
+    }
+  },
+  {
+    "word": "gambolled",
+    "memory": "jumped about playfully",
+    "meaning": "Ran and jumped about in a playful way (British spelling; US 'gamboled')",
+    "hindi": "उछले-कूदे, कुलाँचें भरीं",
+    "trick": "GAMBOL sounds like 'gamble' but lambs don't bet - they skip and play.",
+    "examples": [
+      "In the joy of that thought they gambolled round and round.",
+      "The lambs gambolled happily in the green field."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "gambol about/around somewhere",
+      "partners": [
+        "gambolled about",
+        "lambs gambolled",
+        "gambolled in the field"
+      ]
+    }
+  },
+  {
+    "word": "gaping",
+    "memory": "wide open",
+    "meaning": "Wide open, with a big gap",
+    "hindi": "चौड़ा खुला, बड़ा",
+    "trick": "GAPING has GAP in it - a big open gap.",
+    "examples": [
+      "There was a gaping space between her neck and the collar.",
+      "The storm left a gaping hole in the roof."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a gaping + noun",
+      "partners": [
+        "gaping hole",
+        "gaping wound",
+        "gaping mouth"
+      ]
+    }
+  },
+  {
+    "word": "garish",
+    "memory": "too bright, showy",
+    "meaning": "Too bright or colourful in an unpleasant way",
+    "hindi": "भड़कीला, चटकीला",
+    "trick": "GARISH sounds like 'glare-ish' - colours that glare at you.",
+    "examples": [
+      "She watched the horizon light up in garish shades of orange and yellow.",
+      "The shop was painted a garish pink."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "garish + colour/noun / be garish",
+      "partners": [
+        "garish colours",
+        "garish lights",
+        "garish shades"
+      ]
+    }
+  },
+  {
+    "word": "gash",
+    "memory": "deep cut",
+    "meaning": "A long, deep cut in the skin or a surface",
+    "hindi": "गहरा घाव, चीरा",
+    "trick": "GASH sounds like 'slash' - a slash leaves a gash.",
+    "examples": [
+      "Blood was flowing from the open gash on his cheek.",
+      "He got a gash on his knee when he fell off his bike."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a gash on/in something",
+      "partners": [
+        "deep gash",
+        "open gash",
+        "gash on the head"
+      ]
+    }
+  },
+  {
+    "word": "gasoline",
+    "memory": "petrol",
+    "meaning": "Fuel for cars (US word; British 'petrol')",
+    "hindi": "पेट्रोल",
+    "trick": "GAS + OIL + INE - the 'gas' Americans fill their cars with.",
+    "examples": [
+      "There was the glare off the road and the reek of gasoline.",
+      "We stopped to buy gasoline before the long drive."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "fill up with gasoline / the smell of gasoline",
+      "partners": [
+        "gasoline station",
+        "price of gasoline",
+        "smell of gasoline"
+      ]
+    }
+  },
+  {
+    "word": "gasp",
+    "memory": "sudden sharp breath",
+    "meaning": "A quick, loud breath in from surprise, shock or pain",
+    "hindi": "हाँफ, सिसकारी",
+    "trick": "GASP sounds like the sound itself - 'gasp!'",
+    "examples": [
+      "Out popped a little strangled gasp like a baby bird's hungry cry.",
+      "There was a gasp from the crowd when he fell."
+    ],
+    "usage": {
+      "pos": "noun / verb",
+      "pattern": "let out a gasp / gasp in surprise / gasp for breath",
+      "partners": [
+        "let out a gasp",
+        "gasp of surprise",
+        "gasp for air"
+      ]
+    }
+  },
+  {
+    "word": "gasps",
+    "memory": "short sharp breaths",
+    "meaning": "Short, quick breaths, or sounds like them",
+    "hindi": "हाँफें, साँसें",
+    "trick": "GASP + S - many little gasps.",
+    "examples": [
+      "Small waves were lapping the hot sand in little, flurried gasps.",
+      "After the race he spoke in short gasps."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "in gasps / gasps of + feeling",
+      "partners": [
+        "gasps of surprise",
+        "short gasps",
+        "in gasps"
+      ]
+    }
+  },
+  {
+    "word": "gaudy",
+    "memory": "too bright, showy",
+    "meaning": "Too bright and showy, in a cheap way",
+    "hindi": "भड़कीला, दिखावटी",
+    "trick": "GAUDY sounds like 'gold-y' - too much cheap gold and colour.",
+    "examples": [
+      "She had a rather gaudy scarf wound round her hair.",
+      "He wore a gaudy shirt with huge red flowers."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a gaudy + noun / be gaudy",
+      "partners": [
+        "gaudy colours",
+        "gaudy jewellery",
+        "gaudy decorations"
+      ]
+    }
+  },
+  {
+    "word": "gauge",
+    "memory": "judge, measure",
+    "meaning": "To judge or estimate something, like a mood or feeling; also to measure exactly",
+    "hindi": "आँकना, अंदाज़ा लगाना; नापना",
+    "trick": "GAUGE sounds like 'gage' - a fuel gauge measures; you gauge a mood.",
+    "examples": [
+      "One of us was trying to gauge the mood of the bad guy.",
+      "It's hard to gauge how people will react."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "gauge something / gauge how/whether ...",
+      "partners": [
+        "gauge the mood",
+        "gauge reaction",
+        "hard to gauge"
+      ]
+    }
+  },
+  {
+    "word": "gauging",
+    "memory": "judging, measuring",
+    "meaning": "Judging or estimating something, like someone's reaction",
+    "hindi": "आँकते हुए, अंदाज़ा लगाते हुए",
+    "trick": "GAUGE + -ING - like a meter reading someone's face.",
+    "examples": [
+      "Nana was watching her, gauging her reaction.",
+      "The teacher was gauging how much we had understood."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "be gauging something / gauging how ...",
+      "partners": [
+        "gauging reaction",
+        "gauging the mood",
+        "gauging interest"
+      ]
+    }
+  },
+  {
+    "word": "gaunt",
+    "memory": "very thin, bony",
+    "meaning": "Very thin and bony, often from illness, hunger or age",
+    "hindi": "दुबला-पतला, कमज़ोर",
+    "trick": "GAUNT sounds like 'gone' - all the flesh is gone.",
+    "examples": [
+      "He was a gaunt, stooping old man with a white beard.",
+      "After his illness, his face looked gaunt and pale."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "look gaunt / a gaunt + face/figure",
+      "partners": [
+        "gaunt face",
+        "gaunt figure",
+        "look gaunt"
+      ]
+    }
+  },
+  {
+    "word": "gauntlet",
+    "memory": "hard trial",
+    "meaning": "A hard series of dangers or tests one must pass through; also a long protective glove",
+    "hindi": "कठिन परीक्षा; लंबा दस्ताना",
+    "trick": "Run the GAUNTLET - pass between two lines of attackers; also throw down the gauntlet (a glove).",
+    "examples": [
+      "After running the desert gauntlet I'd earn some relief from the heat.",
+      "New players must run the gauntlet of tough training."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "run the gauntlet (of something) / throw down the gauntlet",
+      "partners": [
+        "run the gauntlet",
+        "throw down the gauntlet",
+        "pick up the gauntlet"
+      ]
+    }
+  },
+  {
+    "word": "gauze",
+    "memory": "thin bandage cloth",
+    "meaning": "Thin, loose cloth used for bandages",
+    "hindi": "पट्टी का कपड़ा, जाली",
+    "trick": "GAUZE sounds like 'gauze-pads' - the thin pad on a cut.",
+    "examples": [
+      "She wrapped both palms in layers of gauze and medical tape.",
+      "The nurse put a piece of gauze on the cut."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "wrap something in gauze / a piece of gauze",
+      "partners": [
+        "gauze bandage",
+        "layers of gauze",
+        "sterile gauze"
+      ]
+    }
+  },
+  {
+    "word": "gavel",
+    "memory": "judge's hammer",
+    "meaning": "A small wooden hammer a judge or chairperson bangs to get attention",
+    "hindi": "हथौड़ी (न्यायाधीश की)",
+    "trick": "GAVEL sounds like 'gravel' - bang, bang on the bench.",
+    "examples": [
+      "It was like a judge's gavel pounding again and again.",
+      "The judge banged the gavel and called for silence."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "bang/pound the gavel",
+      "partners": [
+        "judge's gavel",
+        "bang the gavel",
+        "gavel falls"
+      ]
+    }
+  },
+  {
+    "word": "gawk",
+    "memory": "stare stupidly",
+    "meaning": "To stare at someone or something in a rude or foolish way",
+    "hindi": "घूरना, टकटकी लगाना",
+    "trick": "GAWK sounds like 'gawk-gawk' - a goose staring open-mouthed.",
+    "examples": [
+      "Many people gawk at celebrities and follow their every move.",
+      "People stopped to gawk at the crashed car."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "gawk at someone/something",
+      "partners": [
+        "gawk at",
+        "stop and gawk",
+        "tourists gawk"
+      ]
+    }
+  },
+  {
+    "word": "gear",
+    "memory": "equipment",
+    "meaning": "Equipment or clothes needed for an activity; also a part of an engine that controls speed",
+    "hindi": "सामान, उपकरण; गियर",
+    "trick": "GEAR UP - put on all your kit before you start.",
+    "examples": [
+      "Then I needed to make some extra money to buy gear.",
+      "Pack your camping gear the night before."
+    ],
+    "usage": {
+      "pos": "noun (uncountable)",
+      "pattern": "buy/pack gear / + noun gear",
+      "partners": [
+        "sports gear",
+        "camping gear",
+        "running gear"
+      ]
+    }
+  },
+  {
+    "word": "geek",
+    "memory": "enthusiast, nerd",
+    "meaning": "Informal: a person very keen on and expert in one subject; also a dull, clumsy person",
+    "hindi": "शौक़ीन, धुनी (बोलचाल)",
+    "trick": "GEEK - a computer GEEK knows every key.",
+    "examples": [
+      "SBG was a big geek when it came to performance and recovery.",
+      "My brother is a computer geek who builds his own PCs."
+    ],
+    "usage": {
+      "pos": "noun (informal)",
+      "pattern": "a geek about something / a + subject + geek",
+      "partners": [
+        "computer geek",
+        "big geek",
+        "science geek"
+      ]
+    }
+  },
+  {
+    "word": "geese",
+    "memory": "big water birds",
+    "meaning": "Large water birds with long necks (plural of 'goose')",
+    "hindi": "हंस, बतखें (बड़ी)",
+    "trick": "One GOOSE, two GEESE - like one tooth, two teeth.",
+    "examples": [
+      "The geese rushed out and pecked at the men's legs.",
+      "A flock of geese flew over the lake."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "a flock of geese",
+      "partners": [
+        "flock of geese",
+        "wild geese",
+        "geese honking"
+      ]
+    }
+  },
+  {
+    "word": "generosity",
+    "memory": "kindness in giving",
+    "meaning": "Being kind and willing to give money, time or help",
+    "hindi": "उदारता, दरियादिली",
+    "trick": "GENEROUS + -ITY: a GENERAL who gives to all.",
+    "examples": [
+      "My thanks go to my in-laws for their generosity and many kindnesses.",
+      "Thank you for your generosity in helping us."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the generosity of someone / generosity to/towards someone",
+      "partners": [
+        "great generosity",
+        "thanks for your generosity",
+        "act of generosity"
+      ]
+    }
+  },
+  {
+    "word": "genitals",
+    "memory": "private parts",
+    "meaning": "The outer sex organs of the body",
+    "hindi": "गुप्तांग",
+    "trick": "GENITALS - from Latin 'genitalis', related to birth (like 'generate').",
+    "examples": [
+      "The doctor explained how to keep the genitals clean.",
+      "Boxers wear a guard to protect their genitals."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "protect/cover the genitals",
+      "partners": [
+        "male genitals",
+        "female genitals",
+        "external genitals"
+      ]
+    }
+  },
+  {
+    "word": "geraniums",
+    "memory": "red garden flowers",
+    "meaning": "Garden plants with bright red, pink or white flowers",
+    "hindi": "जेरेनियम के फूल",
+    "trick": "GERANIUM - 'Gerry's red ANIMUM' - the red pots on every windowsill.",
+    "examples": [
+      "There were red geraniums on the graves.",
+      "My mother grows geraniums on the balcony."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "grow/plant geraniums",
+      "partners": [
+        "red geraniums",
+        "pots of geraniums",
+        "pink geraniums"
+      ]
+    }
+  },
+  {
+    "word": "germophobe",
+    "memory": "germ-fearing person",
+    "meaning": "A person with an extreme fear of germs and dirt",
+    "hindi": "कीटाणुओं से डरने वाला",
+    "trick": "GERM + PHOBE (fear) - someone scared of germs.",
+    "examples": [
+      "Jack was a classic germophobe who refused to leave his house without gloves.",
+      "As a germophobe, she washes her hands twenty times a day."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a germophobe / be a germophobe",
+      "partners": [
+        "classic germophobe",
+        "real germophobe",
+        "total germophobe"
+      ]
+    }
+  },
+  {
+    "word": "gesticulated",
+    "memory": "waved hands about",
+    "meaning": "Made movements with the hands or arms while speaking, often from strong feeling",
+    "hindi": "हाथ हिलाए, इशारे किए",
+    "trick": "GESTICULATE = big GESTURES - hands flying while you talk.",
+    "examples": [
+      "Her hands gesticulated wildly, flying up nervously.",
+      "He gesticulated angrily at the referee."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "gesticulate (wildly) / gesticulate at someone",
+      "partners": [
+        "gesticulated wildly",
+        "gesticulated angrily",
+        "gesticulated at"
+      ]
+    }
+  },
+  {
+    "word": "gesturing",
+    "memory": "pointing, signalling",
+    "meaning": "Moving the hand or head to show or point to something",
+    "hindi": "इशारा करते हुए",
+    "trick": "GESTURE + -ING - pointing with your hand.",
+    "examples": [
+      "\"It's like looking at myself in a mirror,\" Lauer joked, gesturing toward me.",
+      "She was gesturing for me to sit down."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "gesturing to/toward someone / gesturing for someone to do something",
+      "partners": [
+        "gesturing toward",
+        "gesturing for someone to",
+        "gesturing wildly"
+      ]
+    }
+  },
+  {
+    "word": "getting on",
+    "memory": "growing old",
+    "meaning": "Becoming old (informal); also having a good relationship, or making progress",
+    "hindi": "बूढ़ा होना; निभना",
+    "trick": "GETTING ON in years - the years keep getting on top of you.",
+    "examples": [
+      "\"Well, she was getting on.\"",
+      "My grandfather is getting on, but he still walks every day."
+    ],
+    "usage": {
+      "pos": "phrasal verb (-ing, informal)",
+      "pattern": "someone is getting on (in years) / get on with someone",
+      "partners": [
+        "getting on in years",
+        "getting on a bit",
+        "get on well with"
+      ]
+    }
+  },
+  {
+    "word": "ghetto",
+    "memory": "poor crowded area",
+    "meaning": "A poor, crowded part of a city where a minority group lives; also (slang) rough or cheap-looking",
+    "hindi": "गरीब बस्ती, झुग्गी",
+    "trick": "GHETTO - first the walled area for Jews in Venice; now any poor, shut-off part of a city.",
+    "examples": [
+      "Masten was a rough neighbourhood, but it was not yet completely ghetto.",
+      "He grew up in a ghetto but became a famous doctor."
+    ],
+    "usage": {
+      "pos": "noun / adjective (slang)",
+      "pattern": "live in a ghetto / grow up in the ghetto",
+      "partners": [
+        "urban ghetto",
+        "inner-city ghetto",
+        "grow up in the ghetto"
+      ]
+    }
+  },
+  {
+    "word": "GI issues",
+    "memory": "stomach problems",
+    "meaning": "Problems with the stomach and gut, such as diarrhoea or cramps (GI = gastrointestinal)",
+    "hindi": "पेट की गड़बड़ी",
+    "trick": "GI = Gastro (stomach) + Intestinal - tummy trouble.",
+    "examples": [
+      "I was dizzy and lightheaded, and I was dealing with GI issues.",
+      "Spicy food gives some runners GI issues during a race."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "have/deal with GI issues",
+      "partners": [
+        "deal with GI issues",
+        "serious GI issues",
+        "GI issues during exercise"
+      ]
+    }
+  },
+  {
+    "word": "gibberish",
+    "memory": "nonsense talk",
+    "meaning": "Words or talk that make no sense",
+    "hindi": "बकवास, बेमतलब बातें",
+    "trick": "GIBBERISH sounds like 'jabber' - jabbering that nobody understands.",
+    "examples": [
+      "Sometimes she spoke gibberish and called out strange names.",
+      "The baby talked gibberish to his toys."
+    ],
+    "usage": {
+      "pos": "noun (uncountable)",
+      "pattern": "speak/talk gibberish / sound like gibberish",
+      "partners": [
+        "speak gibberish",
+        "pure gibberish",
+        "sound like gibberish"
+      ]
+    }
+  },
+  {
+    "word": "giddy",
+    "memory": "dizzy with joy",
+    "meaning": "Very happy and excited, almost dizzy; also feeling dizzy",
+    "hindi": "खुशी से झूमता; चक्कर आता हुआ",
+    "trick": "GIDDY - like a kid who spun round and round: dizzy and happy.",
+    "examples": [
+      "Laila sat on the edge of her bed, giddy with relief.",
+      "The children were giddy with excitement on the last day of school."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be giddy with + feeling / feel giddy",
+      "partners": [
+        "giddy with relief",
+        "giddy with excitement",
+        "feel giddy"
+      ]
+    }
+  },
+  {
+    "word": "gig",
+    "memory": "temporary job",
+    "meaning": "A job, especially a short or temporary one (informal); also a live music show",
+    "hindi": "काम, नौकरी (बोलचाल); कार्यक्रम",
+    "trick": "GIG - a quick job, like a musician's one-night show.",
+    "examples": [
+      "Maybe this kind of gig sounds disgusting to you.",
+      "She got a weekend gig at a coffee shop."
+    ],
+    "usage": {
+      "pos": "noun (informal)",
+      "pattern": "get/land a gig / a gig as + job",
+      "partners": [
+        "weekend gig",
+        "land a gig",
+        "side gig"
+      ]
+    }
+  },
+  {
+    "word": "gigantic",
+    "memory": "huge",
+    "meaning": "Extremely large",
+    "hindi": "विशाल, बहुत बड़ा",
+    "trick": "GIGANTIC comes from GIANT - giant-sized.",
+    "examples": [
+      "Babi worked at Silo, Kabul's gigantic bread factory.",
+      "There was a gigantic tree in the middle of the park."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a gigantic + noun",
+      "partners": [
+        "gigantic building",
+        "gigantic wave",
+        "gigantic task"
+      ]
+    }
+  },
+  {
+    "word": "gigs",
+    "memory": "live music shows",
+    "meaning": "Live performances by musicians or comedians (informal); also short jobs",
+    "hindi": "कार्यक्रम, शो (बोलचाल)",
+    "trick": "GIG + S - a band playing many shows.",
+    "examples": [
+      "They'd be loading vans from their small club gigs.",
+      "The band played three gigs in one weekend."
+    ],
+    "usage": {
+      "pos": "noun (plural, informal)",
+      "pattern": "play gigs / do gigs",
+      "partners": [
+        "play gigs",
+        "club gigs",
+        "live gigs"
+      ]
+    }
+  },
+  {
+    "word": "gilded",
+    "memory": "fancy, rich",
+    "meaning": "Rich and fancy, for wealthy people; also covered with a thin layer of gold",
+    "hindi": "शाही, ठाठदार; सुनहरा",
+    "trick": "GILDED = GOLD-ed - covered in gold, so rich and showy.",
+    "examples": [
+      "This was not a gilded event with big corporate sponsors.",
+      "The palace had gilded ceilings."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a gilded + noun",
+      "partners": [
+        "gilded age",
+        "gilded frame",
+        "gilded cage"
+      ]
+    }
+  },
+  {
+    "word": "gill",
+    "memory": "small drink measure",
+    "meaning": "An old unit for liquid, a quarter of a pint; also the breathing organ of a fish",
+    "hindi": "गिल (तरल का छोटा माप); गलफड़ा",
+    "trick": "A GILL of beer - a little glass, a quarter pint.",
+    "examples": [
+      "He was given an allowance of a gill of beer a day.",
+      "The old recipe asks for a gill of cream."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a gill of + liquid",
+      "partners": [
+        "a gill of beer",
+        "a gill of milk",
+        "a gill of cream"
+      ]
+    }
+  },
+  {
+    "word": "gilt",
+    "memory": "thin gold coating",
+    "meaning": "A thin layer of gold or gold-coloured paint",
+    "hindi": "सुनहरा मुलम्मा, सुनहरी परत",
+    "trick": "GILT sounds like GOLD - and is gold on top (not 'guilt').",
+    "examples": [
+      "It's olive green, with fading gilt scrolls around the lid.",
+      "The old book had gilt edges."
+    ],
+    "usage": {
+      "pos": "noun / adjective",
+      "pattern": "gilt + noun / covered in gilt",
+      "partners": [
+        "gilt edges",
+        "gilt frame",
+        "gilt lettering"
+      ]
+    }
+  },
+  {
+    "word": "glacial",
+    "memory": "icy, frozen",
+    "meaning": "Very cold and icy, or about glaciers; also extremely slow",
+    "hindi": "बर्फ़ीला; बहुत धीमा",
+    "trick": "GLACIAL comes from GLACIER - ice rivers.",
+    "examples": [
+      "I'd won a one-hundred-kilometer glacial trail race called Frozen Otter.",
+      "A glacial wind blew down from the mountains."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a glacial + noun / at a glacial pace",
+      "partners": [
+        "glacial lake",
+        "glacial wind",
+        "glacial pace"
+      ]
+    }
+  },
+  {
+    "word": "glare",
+    "memory": "harsh bright light",
+    "meaning": "Very strong, dazzling light; also an angry stare",
+    "hindi": "चकाचौंध, तेज़ रोशनी; गुस्से भरी घूर",
+    "trick": "GLARE - the sun's GLARE makes you squint.",
+    "examples": [
+      "What with the glare off the road and the reek of gasoline, I felt drowsy.",
+      "Wear sunglasses to cut the glare from the snow."
+    ],
+    "usage": {
+      "pos": "noun / verb",
+      "pattern": "the glare of/from something / glare at someone",
+      "partners": [
+        "glare of the sun",
+        "harsh glare",
+        "glare at someone"
+      ]
+    }
+  },
+  {
+    "word": "glaringly",
+    "memory": "very obviously",
+    "meaning": "In a very clear and obvious way (usually about something bad)",
+    "hindi": "साफ़-साफ़, बिल्कुल स्पष्ट",
+    "trick": "GLARINGLY obvious - so clear it glares at you.",
+    "examples": [
+      "It was becoming glaringly obvious that the method didn't work with kidnappers.",
+      "The mistake was glaringly obvious."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "glaringly + obvious/clear",
+      "partners": [
+        "glaringly obvious",
+        "glaringly clear",
+        "glaringly apparent"
+      ]
+    }
+  },
+  {
+    "word": "glazed",
+    "memory": "coated, shiny",
+    "meaning": "Covered with a thin shiny layer (ice, sugar, glass coating); also of eyes: dull and blank",
+    "hindi": "चमकदार परत वाला; पथराई (आँखें)",
+    "trick": "GLAZED doughnut - a shiny sugar coat; glazed trail - a slippery ice coat.",
+    "examples": [
+      "The trails seemed purposely glazed with slick ice.",
+      "She bought a box of glazed doughnuts."
+    ],
+    "usage": {
+      "pos": "adjective / verb (past)",
+      "pattern": "glazed with something / eyes glazed over",
+      "partners": [
+        "glazed with ice",
+        "glazed doughnuts",
+        "eyes glazed over"
+      ]
+    }
+  },
+  {
+    "word": "gleam",
+    "memory": "soft shine",
+    "meaning": "A soft, bright shine from a smooth surface",
+    "hindi": "चमक, आभा",
+    "trick": "GLEAM rhymes with 'beam' - a beam of shine.",
+    "examples": [
+      "Her eyes traced the gleam of its dark brown surface.",
+      "There was a gleam of light under the door."
+    ],
+    "usage": {
+      "pos": "noun / verb",
+      "pattern": "the gleam of something / a gleam in someone's eye",
+      "partners": [
+        "gleam of light",
+        "gleam in his eye",
+        "gleam of gold"
+      ]
+    }
+  },
+  {
+    "word": "gleaming",
+    "memory": "shining, sparkling",
+    "meaning": "Shining brightly, clean and polished",
+    "hindi": "चमचमाता हुआ",
+    "trick": "GLEAM + -ING - shining like a beam.",
+    "examples": [
+      "She saw a gleaming glass structure with plants inside it.",
+      "He drove a gleaming new car."
+    ],
+    "usage": {
+      "pos": "adjective / verb (-ing)",
+      "pattern": "a gleaming + noun",
+      "partners": [
+        "gleaming white",
+        "gleaming car",
+        "gleaming floors"
+      ]
+    }
+  },
+  {
+    "word": "glee",
+    "memory": "great delight",
+    "meaning": "Great happiness, often at someone else's bad luck",
+    "hindi": "खुशी, उल्लास",
+    "trick": "GLEE sounds like 'Gee!' - a happy shout.",
+    "examples": [
+      "She wouldn't have to watch the pity or the glee in their eyes.",
+      "The children shouted with glee when it snowed."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "with glee / in glee",
+      "partners": [
+        "shout with glee",
+        "pure glee",
+        "great glee"
+      ]
+    }
+  },
+  {
+    "word": "gliding",
+    "memory": "moving smoothly",
+    "meaning": "Moving smoothly and quietly, often through the air",
+    "hindi": "सरकते हुए, तैरते हुए (हवा में)",
+    "trick": "GLIDE - a glider plane moves without an engine, smoothly.",
+    "examples": [
+      "They watched a hawk gliding in circles above the village.",
+      "The swans were gliding across the lake."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "gliding through/across/over something",
+      "partners": [
+        "gliding across",
+        "gliding through the air",
+        "gliding silently"
+      ]
+    }
+  },
+  {
+    "word": "glimmer",
+    "memory": "faint light",
+    "meaning": "A faint, unsteady light; also a small sign of something, like hope",
+    "hindi": "टिमटिमाहट, हल्की रोशनी; आशा की किरण",
+    "trick": "GLIMMER - a GLIMpse of light.",
+    "examples": [
+      "There was a glimmer of dawn above the skylight.",
+      "We saw a glimmer of light at the end of the tunnel."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a glimmer of + light/hope",
+      "partners": [
+        "glimmer of hope",
+        "glimmer of light",
+        "faint glimmer"
+      ]
+    }
+  },
+  {
+    "word": "glimmers",
+    "memory": "shines faintly",
+    "meaning": "Shines faintly; also shows a small sign of something",
+    "hindi": "टिमटिमाता है, झलकता है",
+    "trick": "GLIMMER + S - it glimmers like a far-off star.",
+    "examples": [
+      "This approach removes barriers, glimmers with glory, and delivers peace.",
+      "A candle glimmers in the window."
+    ],
+    "usage": {
+      "pos": "verb (3rd person)",
+      "pattern": "something glimmers (with something)",
+      "partners": [
+        "glimmers with hope",
+        "light glimmers",
+        "glimmers faintly"
+      ]
+    }
+  },
+  {
+    "word": "glint",
+    "memory": "quick flash, sparkle",
+    "meaning": "A small, quick flash of light, often in someone's eyes",
+    "hindi": "चमक, झिलमिलाहट",
+    "trick": "GLINT rhymes with 'hint' - a hint of light.",
+    "examples": [
+      "She had big greenish eyes that shone with an inviting glint.",
+      "I saw the glint of a coin in the grass."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a glint in someone's eye / the glint of something",
+      "partners": [
+        "glint in her eye",
+        "glint of metal",
+        "glint of light"
+      ]
+    }
+  },
+  {
+    "word": "glistened",
+    "memory": "shone wetly",
+    "meaning": "Shone because it was wet or oily",
+    "hindi": "चमक उठा (गीला होकर)",
+    "trick": "GLISTEN - drops GLISTEN like little LISTENing eyes catching light.",
+    "examples": [
+      "Beads of sweat glistened on his forehead.",
+      "The grass glistened with morning dew."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something glistened (with something)",
+      "partners": [
+        "glistened with sweat",
+        "glistened with dew",
+        "glistened in the sun"
+      ]
+    }
+  },
+  {
+    "word": "glistening",
+    "memory": "shining, sparkling",
+    "meaning": "Shining and sparkling, often because wet or polished",
+    "hindi": "चमकता हुआ",
+    "trick": "GLISTEN + -ING - a wet, shining look.",
+    "examples": [
+      "Laila craned her neck to see its glistening tiles and golden dome.",
+      "The glistening sea looked beautiful at sunset."
+    ],
+    "usage": {
+      "pos": "adjective / verb (-ing)",
+      "pattern": "glistening + noun / glistening with something",
+      "partners": [
+        "glistening tiles",
+        "glistening with sweat",
+        "glistening eyes"
+      ]
+    }
+  },
+  {
+    "word": "glittering",
+    "memory": "sparkling",
+    "meaning": "Shining with many small flashes of light; also exciting and impressive",
+    "hindi": "जगमगाता हुआ, चमकीला",
+    "trick": "GLITTER - the sparkly powder kids sprinkle on cards.",
+    "examples": [
+      "Around Ahmad's neck was a glittering ALLAH pendant.",
+      "She wore a glittering dress to the party."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a glittering + noun",
+      "partners": [
+        "glittering lights",
+        "glittering career",
+        "glittering jewels"
+      ]
+    }
+  },
+  {
+    "word": "glitz",
+    "memory": "showy glamour",
+    "meaning": "Showy glamour and attractiveness, often with money (informal)",
+    "hindi": "चमक-दमक, ठाट-बाट",
+    "trick": "GLITZ = GLITter + ritZ - flashy, rich sparkle.",
+    "examples": [
+      "It was a generous gesture, but his glitz didn't impress me.",
+      "She loved the glitz and glamour of Bollywood parties."
+    ],
+    "usage": {
+      "pos": "noun (informal)",
+      "pattern": "the glitz (and glamour) of something",
+      "partners": [
+        "glitz and glamour",
+        "Hollywood glitz",
+        "all the glitz"
+      ]
+    }
+  },
+  {
+    "word": "gloating",
+    "memory": "smug, mean joy",
+    "meaning": "Showing pleasure in your own success or someone else's failure in a mean way",
+    "hindi": "इतराना, दूसरों की हार पर खुश होना",
+    "trick": "GLOATING - like a GOAT bleating 'I won, you lost!'",
+    "examples": [
+      "The Prosecutor turned to me with a gloating look in his eyes.",
+      "He was gloating about beating his brother at chess."
+    ],
+    "usage": {
+      "pos": "adjective / verb (-ing)",
+      "pattern": "gloat over/about something / a gloating look",
+      "partners": [
+        "gloating look",
+        "gloating over",
+        "gloating smile"
+      ]
+    }
+  },
+  {
+    "word": "glorious",
+    "memory": "wonderful, splendid",
+    "meaning": "Very great, splendid and worth praise; also very beautiful",
+    "hindi": "शानदार, गौरवशाली",
+    "trick": "GLORIOUS - full of GLORY.",
+    "examples": [
+      "When you chose it freely, it was a glorious milestone in your life.",
+      "We had a glorious holiday by the sea."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a glorious + noun / be glorious",
+      "partners": [
+        "glorious day",
+        "glorious victory",
+        "glorious weather"
+      ]
+    }
+  },
+  {
+    "word": "glossy",
+    "memory": "smooth and shiny",
+    "meaning": "Smooth and shiny on the surface",
+    "hindi": "चमकदार, चिकना",
+    "trick": "GLOSSY - like GLOSS paint or lip gloss.",
+    "examples": [
+      "Oblong, glossy, varnished black all over, it reminded me of the pen trays.",
+      "The horse had a glossy brown coat."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a glossy + noun",
+      "partners": [
+        "glossy hair",
+        "glossy magazine",
+        "glossy paper"
+      ]
+    }
+  },
+  {
+    "word": "gloved",
+    "memory": "wearing gloves",
+    "meaning": "Wearing a glove or gloves",
+    "hindi": "दस्ताने पहने हुए",
+    "trick": "GLOVE + D - hands in gloves.",
+    "examples": [
+      "Rasheed was drumming his gloved fingers and humming a song.",
+      "She waved her gloved hand from the bus."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "gloved + hand/fingers",
+      "partners": [
+        "gloved hand",
+        "gloved fingers",
+        "gloved fist"
+      ]
+    }
+  },
+  {
+    "word": "glowered",
+    "memory": "stared angrily",
+    "meaning": "Looked at someone in an angry way",
+    "hindi": "घूरा, गुस्से से देखा",
+    "trick": "GLOWER - eyes GLOW with anger.",
+    "examples": [
+      "If Zalmai reached for her, Rasheed glowered at her.",
+      "The teacher glowered at the noisy students."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "glower at someone",
+      "partners": [
+        "glowered at",
+        "glowered angrily",
+        "glowered across the room"
+      ]
+    }
+  },
+  {
+    "word": "glue",
+    "memory": "stick on",
+    "meaning": "To stick things together using a sticky substance",
+    "hindi": "चिपकाना",
+    "trick": "GLUE - stick it so it stays like 'GLUE-d to the TV'.",
+    "examples": [
+      "Laila watches Mariam glue strands of yarn onto her doll's head.",
+      "Glue the photo onto the card."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "glue something onto/to something",
+      "partners": [
+        "glue something on",
+        "glue together",
+        "glued to the screen"
+      ]
+    }
+  },
+  {
+    "word": "glum",
+    "memory": "sad, gloomy",
+    "meaning": "Sad and quiet, without hope",
+    "hindi": "उदास, मायूस",
+    "trick": "GLUM sounds like GLOOM - a gloomy face.",
+    "examples": [
+      "The doctor said it was nothing serious, but he was looking very glum.",
+      "Why do you look so glum today?"
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "look/feel glum",
+      "partners": [
+        "look glum",
+        "glum face",
+        "feel glum"
+      ]
+    }
+  },
+  {
+    "word": "glycogen",
+    "memory": "stored body sugar",
+    "meaning": "The form in which the body stores sugar (glucose) in muscles and the liver, used for energy",
+    "hindi": "ग्लाइकोजन (शरीर में जमा शर्करा)",
+    "trick": "GLYCO (sugar, like glucose) + GEN (make) - stored sugar fuel.",
+    "examples": [
+      "Muscles need glycogen and triglycerides to perform.",
+      "Runners eat pasta to fill up their glycogen before a race."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "store/burn glycogen / glycogen stores",
+      "partners": [
+        "glycogen stores",
+        "muscle glycogen",
+        "burn glycogen"
+      ]
+    }
+  },
+  {
+    "word": "gnarled",
+    "memory": "twisted, knobbly",
+    "meaning": "Twisted and rough with lumps, from age or hard work",
+    "hindi": "गाँठदार, टेढ़ा-मेढ़ा",
+    "trick": "GNARLED - silent G, like a gnarled old tree root, twisted.",
+    "examples": [
+      "The gnarled old hands were trembling.",
+      "A gnarled old oak stood at the gate."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "gnarled + hands/tree/fingers",
+      "partners": [
+        "gnarled hands",
+        "gnarled tree",
+        "gnarled fingers"
+      ]
+    }
+  },
+  {
+    "word": "gnats",
+    "memory": "tiny flies",
+    "meaning": "Very small flying insects that often bite",
+    "hindi": "छोटे मच्छर, भुनगे",
+    "trick": "GNATS - silent G; tiny like 'nits'.",
+    "examples": [
+      "The cooks fanned skewers with one hand and swatted gnats with the other.",
+      "Gnats buzzed around our heads near the pond."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "swat/swarm of gnats",
+      "partners": [
+        "swarm of gnats",
+        "swat gnats",
+        "cloud of gnats"
+      ]
+    }
+  },
+  {
+    "word": "gnawed",
+    "memory": "chewed, bit",
+    "meaning": "Kept biting or chewing on something; also worried someone constantly",
+    "hindi": "चबाया, कुतरा",
+    "trick": "GNAW - silent G; the dog gnawed (k-NAW-ed) the bone.",
+    "examples": [
+      "She picked at her hair and gnawed on the mole below her lip.",
+      "The dog gnawed on a bone all afternoon."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "gnaw on/at something",
+      "partners": [
+        "gnawed on",
+        "gnawed at",
+        "gnawed through"
+      ]
+    }
+  },
+  {
+    "word": "gnawing",
+    "memory": "chewing; nagging",
+    "meaning": "Biting or chewing again and again; also (of a feeling) worrying you constantly",
+    "hindi": "चबाते हुए; कचोटता हुआ",
+    "trick": "GNAW + -ING - like a mouse gnawing away.",
+    "examples": [
+      "I hurried down to the shoreline, gnawing on my sandwich.",
+      "I had a gnawing feeling that I had forgotten something."
+    ],
+    "usage": {
+      "pos": "verb (-ing) / adjective",
+      "pattern": "gnawing on something / a gnawing + feeling",
+      "partners": [
+        "gnawing on",
+        "gnawing doubt",
+        "gnawing hunger"
+      ]
+    }
+  },
+  {
+    "word": "goalie",
+    "memory": "goalkeeper",
+    "meaning": "Informal word for goalkeeper",
+    "hindi": "गोलकीपर",
+    "trick": "GOAL + IE - the one who guards the goal.",
+    "examples": [
+      "Some of those shots will slip by the goalie.",
+      "Our goalie saved three penalties."
+    ],
+    "usage": {
+      "pos": "noun (informal)",
+      "pattern": "get past the goalie / the goalie saves something",
+      "partners": [
+        "save by the goalie",
+        "beat the goalie",
+        "slip by the goalie"
+      ]
+    }
+  },
+  {
+    "word": "gobbled",
+    "memory": "ate quickly",
+    "meaning": "Ate something very quickly and greedily",
+    "hindi": "जल्दी-जल्दी खाया, गटक लिया",
+    "trick": "GOBBLE - a turkey says 'gobble gobble' while eating fast.",
+    "examples": [
+      "He brought me chocolate donuts, and I gobbled those in a few seconds.",
+      "The kids gobbled up all the pizza."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "gobble (up/down) something",
+      "partners": [
+        "gobbled up",
+        "gobbled down",
+        "gobbled it all"
+      ]
+    }
+  },
+  {
+    "word": "godforsaken",
+    "memory": "awful, remote",
+    "meaning": "Very unpleasant, empty or far away from everything",
+    "hindi": "बेकार, उजाड़, गया-गुज़रा",
+    "trick": "GOD-FORSAKEN - a place even God has left.",
+    "examples": [
+      "There isn't a court in this godforsaken country that will stop me.",
+      "Why did we come to this godforsaken town?"
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "this godforsaken + place",
+      "partners": [
+        "godforsaken place",
+        "godforsaken town",
+        "godforsaken hour"
+      ]
+    }
+  },
+  {
+    "word": "goofy",
+    "memory": "silly",
+    "meaning": "Silly and foolish, often in a funny way (informal)",
+    "hindi": "बेवकूफ़ाना, मज़ाकिया (बोलचाल)",
+    "trick": "GOOFY - like the Disney dog Goofy, always silly.",
+    "examples": [
+      "You try goofy visualization exercises about being more successful.",
+      "He made a goofy face to make the baby laugh."
+    ],
+    "usage": {
+      "pos": "adjective (informal)",
+      "pattern": "a goofy + noun / look goofy",
+      "partners": [
+        "goofy smile",
+        "goofy grin",
+        "goofy idea"
+      ]
+    }
+  },
+  {
+    "word": "gouged",
+    "memory": "dug out",
+    "meaning": "Dug or cut out with force, using something sharp",
+    "hindi": "खोदा गया, निकाला गया",
+    "trick": "GOUGE - a gouge is a carpenter's tool that scoops out wood.",
+    "examples": [
+      "The old wooden desk was gouged with deep scratches.",
+      "The bulldozer gouged a deep hole in the road."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "gouge something (out) / gouge a hole in something",
+      "partners": [
+        "gouged out",
+        "gouged a hole",
+        "deeply gouged"
+      ]
+    }
+  },
+  {
+    "word": "gouging",
+    "memory": "digging into",
+    "meaning": "Cutting or pushing into something deeply and roughly",
+    "hindi": "चुभते हुए, खोदते हुए",
+    "trick": "GOUGE + -ING - scooping into something like a chisel.",
+    "examples": [
+      "The sharp sunlight seemed to be gouging into my eyes.",
+      "The heavy table was gouging marks into the floor."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "gouging (into) something",
+      "partners": [
+        "gouging into",
+        "gouging out",
+        "gouging marks"
+      ]
+    }
+  },
+  {
+    "word": "government-subsidized",
+    "memory": "state-paid in part",
+    "meaning": "Partly paid for by the government to make it cheaper",
+    "hindi": "सरकारी सहायता वाला",
+    "trick": "GOVERNMENT + SUBSIDY - the government pays part of the bill.",
+    "examples": [
+      "We were living on welfare in government-subsidized housing.",
+      "Farmers get government-subsidized seeds and fertilizer."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "government-subsidized + noun",
+      "partners": [
+        "government-subsidized housing",
+        "government-subsidized loans",
+        "government-subsidized food"
+      ]
+    }
+  },
+  {
+    "word": "gown",
+    "memory": "long dress",
+    "meaning": "A long, elegant dress worn by a woman; also a loose robe worn by judges, graduates or patients",
+    "hindi": "लंबी पोशाक, गाउन",
+    "trick": "GOWN rhymes with 'down': a dress that flows all the way down.",
+    "examples": [
+      "She imagined her on horseback, smiling shyly behind a green gown.",
+      "The bride wore a beautiful white gown."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "wear a gown / a + adjective + gown",
+      "partners": [
+        "wedding gown",
+        "evening gown",
+        "hospital gown"
+      ]
+    }
+  },
+  {
+    "word": "grace",
+    "memory": "elegance, smooth beauty",
+    "meaning": "Smooth, easy and attractive movement or manner; also kindness or favour, or a short prayer before a meal",
+    "hindi": "शालीनता, सौम्यता; कृपा",
+    "trick": "GRACE = a GRACEful dancer moves with grace.",
+    "examples": [
+      "With speed and grace, I navigated steep, slippery trails.",
+      "The cat jumped onto the wall with easy grace."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "with grace / the grace of something",
+      "partners": [
+        "with grace",
+        "speed and grace",
+        "natural grace"
+      ]
+    }
+  },
+  {
+    "word": "graceful",
+    "memory": "elegant, smooth",
+    "meaning": "Moving or shaped in a smooth, attractive way",
+    "hindi": "सुंदर, सुडौल, शालीन",
+    "trick": "GRACE + FUL = full of grace, like a swan.",
+    "examples": [
+      "Nana loved the graceful curve of the pot's spout.",
+      "The dancer made a graceful turn on the stage."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a graceful + noun / be graceful",
+      "partners": [
+        "graceful curve",
+        "graceful movement",
+        "graceful dancer"
+      ]
+    }
+  },
+  {
+    "word": "graffiti",
+    "memory": "wall writing",
+    "meaning": "Words or drawings scribbled or sprayed on a wall in a public place",
+    "hindi": "दीवार पर लिखावट, दीवार चित्र",
+    "trick": "GRAFFITI = 'graph' (writing) on walls: spray-paint art on the city wall.",
+    "examples": [
+      "An invisible eraser wipes the Russian graffiti off the wall.",
+      "Someone sprayed graffiti on the school wall last night."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "spray/paint graffiti on something",
+      "partners": [
+        "spray graffiti",
+        "graffiti on the wall",
+        "remove graffiti"
+      ]
+    }
+  },
+  {
+    "word": "grainy",
+    "memory": "blurry, speckled",
+    "meaning": "(Of a photo or film) not sharp, with small dots visible; also having a rough texture of small grains",
+    "hindi": "धुंधला, दानेदार",
+    "trick": "GRAINY = full of GRAINs: tiny dots like sand all over the photo.",
+    "examples": [
+      "Beneath that, Mariam found another black-and-white photo, slightly more grainy.",
+      "The old video was grainy, but we could still see his face."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a grainy + photo/image / be grainy",
+      "partners": [
+        "grainy photo",
+        "grainy image",
+        "grainy video"
+      ]
+    }
+  },
+  {
+    "word": "grandiosely",
+    "memory": "very grandly",
+    "meaning": "In a grand, impressive or showy way, often more than needed",
+    "hindi": "भव्य रूप से, शानदार ढंग से",
+    "trick": "GRANDIOSE + LY: done in a GRAND, show-off style.",
+    "examples": [
+      "Shiva's hold on the imagination is made grandiosely obvious in The Immortals of Meluha.",
+      "He grandiosely announced that he would become a millionaire by thirty."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "do something grandiosely / grandiosely + adjective",
+      "partners": [
+        "grandiosely announce",
+        "grandiosely named",
+        "grandiosely obvious"
+      ]
+    }
+  },
+  {
+    "word": "granola",
+    "memory": "oat breakfast mix",
+    "meaning": "A breakfast food of baked oats, nuts and dried fruit; also (informal) describing a health-loving, nature-loving type of person",
+    "hindi": "ओट्स नाश्ता, जई-मेवा मिश्रण",
+    "trick": "GRANOLA = GRAINs + OLA: a crunchy bowl of grains for breakfast.",
+    "examples": [
+      "The race was full of skinny, granola-eating runners.",
+      "I have granola with milk for breakfast every day."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "eat granola / a granola + noun",
+      "partners": [
+        "granola bar",
+        "granola with yogurt",
+        "homemade granola"
+      ]
+    }
+  },
+  {
+    "word": "granular",
+    "memory": "grainy, in small bits",
+    "meaning": "Made of small grains or pieces; also very detailed",
+    "hindi": "दानेदार, कणों वाला",
+    "trick": "GRANULAR = made of GRAINs: granules of sugar.",
+    "examples": [
+      "Laila woke up when the first granular lumps of dirt hit the plastic.",
+      "This granular sugar dissolves quickly in tea."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "granular + noun / at a granular level",
+      "partners": [
+        "granular soil",
+        "granular sugar",
+        "granular detail"
+      ]
+    }
+  },
+  {
+    "word": "grave",
+    "memory": "very serious",
+    "meaning": "Very serious and worried-looking; also a hole in the ground where a dead person is buried",
+    "hindi": "गंभीर; कब्र",
+    "trick": "A GRAVE face: as serious as a graveyard.",
+    "examples": [
+      "Looking very grave, the Prosecutor drew himself up to his full height.",
+      "The doctor looked grave as he gave us the news."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "look/be grave / a grave + noun",
+      "partners": [
+        "look grave",
+        "grave danger",
+        "grave mistake"
+      ]
+    }
+  },
+  {
+    "word": "gravel",
+    "memory": "small stones",
+    "meaning": "Small loose stones used to make paths and roads",
+    "hindi": "बजरी, कंकड़",
+    "trick": "GRAVEL sounds like 'gravel-crunch': the sound of tyres on small stones.",
+    "examples": [
+      "We heard the old truck squeal to a stop on a patch of gravel.",
+      "The path to the house is covered with gravel."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "on gravel / a gravel + noun",
+      "partners": [
+        "gravel path",
+        "gravel road",
+        "patch of gravel"
+      ]
+    }
+  },
+  {
+    "word": "gravelly",
+    "memory": "hard, gritty",
+    "meaning": "Hard and rough, like full of small stones; also (of a voice) deep and rough",
+    "hindi": "कंकड़ीला, खुरदरा; भारी आवाज़",
+    "trick": "GRAVEL + LY: food or a voice that feels like gravel.",
+    "examples": [
+      "Sometimes he brought home leftovers: cold meatballs and stiff, gravelly rice.",
+      "The old man spoke in a deep, gravelly voice."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a gravelly + noun / be gravelly",
+      "partners": [
+        "gravelly voice",
+        "gravelly rice",
+        "gravelly soil"
+      ]
+    }
+  },
+  {
+    "word": "graveside",
+    "memory": "beside the grave",
+    "meaning": "The area next to a grave, especially during a burial",
+    "hindi": "कब्र के पास",
+    "trick": "GRAVE + SIDE: standing at the side of the grave.",
+    "examples": [
+      "Mullah Faizullah recited prayers at the graveside.",
+      "The family stood quietly at the graveside."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "at the graveside / a graveside + noun",
+      "partners": [
+        "at the graveside",
+        "graveside prayers",
+        "graveside service"
+      ]
+    }
+  },
+  {
+    "word": "graze",
+    "memory": "eat grass",
+    "meaning": "(Of animals) to eat grass in a field; also to scrape the skin lightly",
+    "hindi": "चरना; छिलना",
+    "trick": "GRAZE has GRA(ss) in it: cows graze on grass.",
+    "examples": [
+      "The shepherds led their flock to graze on the grassy hillside.",
+      "The cows graze in the field every morning."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "graze on something / graze in a field",
+      "partners": [
+        "graze on grass",
+        "cattle graze",
+        "graze in the field"
+      ]
+    }
+  },
+  {
+    "word": "grazing",
+    "memory": "eating grass",
+    "meaning": "(Of animals) eating grass in a field",
+    "hindi": "चरते हुए, चराई",
+    "trick": "GRAZING = animals busy with GRAss.",
+    "examples": [
+      "They spent their Sundays in the paddock, grazing side by side.",
+      "We saw sheep grazing on the hillside."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "be grazing on/in something",
+      "partners": [
+        "grazing cattle",
+        "grazing sheep",
+        "grazing land"
+      ]
+    }
+  },
+  {
+    "word": "greasy",
+    "memory": "oily",
+    "meaning": "Covered with or full of oil or fat",
+    "hindi": "चिकना, तेलिया",
+    "trick": "GREASY = full of GREASE: oily fingers after samosas.",
+    "examples": [
+      "The rice was judged either too greasy or too dry.",
+      "My fingers were greasy after eating the fries."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be greasy / greasy + noun",
+      "partners": [
+        "greasy food",
+        "greasy hair",
+        "greasy hands"
+      ]
+    }
+  },
+  {
+    "word": "grenade",
+    "memory": "small bomb",
+    "meaning": "A small bomb thrown by hand or fired from a gun",
+    "hindi": "हथगोला, ग्रेनेड",
+    "trick": "GRENADE looks like a pomegranate ('granada' in Spanish): a small round bomb.",
+    "examples": [
+      "The first grenade exploded at close range.",
+      "The soldier pulled the pin and threw the grenade."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "throw a grenade / a grenade explodes",
+      "partners": [
+        "throw a grenade",
+        "hand grenade",
+        "grenade attack"
+      ]
+    }
+  },
+  {
+    "word": "grievance",
+    "memory": "complaint",
+    "meaning": "A feeling or reason for complaint about something unfair",
+    "hindi": "शिकायत, गिला",
+    "trick": "GRIEVANCE comes from GRIEF: something that makes you grieve and complain.",
+    "examples": [
+      "I guessed she was making a grievance of it.",
+      "Workers can report any grievance to the manager."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "have a grievance against someone / make a grievance of something",
+      "partners": [
+        "have a grievance",
+        "air a grievance",
+        "grievance against"
+      ]
+    }
+  },
+  {
+    "word": "grievances",
+    "memory": "complaints",
+    "meaning": "Things that people feel are unfair and complain about",
+    "hindi": "शिकायतें, गिले",
+    "trick": "GRIEVANCES = a list of GRIEFs you keep complaining about.",
+    "examples": [
+      "Nana made Mariam another of her grievances against the world.",
+      "The staff met the boss to discuss their grievances."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "grievances against someone / air your grievances",
+      "partners": [
+        "air grievances",
+        "list of grievances",
+        "old grievances"
+      ]
+    }
+  },
+  {
+    "word": "grieve",
+    "memory": "mourn, feel sad",
+    "meaning": "To feel very sad, especially because someone has died",
+    "hindi": "शोक करना, दुखी होना",
+    "trick": "GRIEVE has GRIEF inside: to feel grief.",
+    "examples": [
+      "Joseph shall return to Canaan, grieve not.",
+      "It is natural to grieve when you lose a pet."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "grieve for/over someone or something",
+      "partners": [
+        "grieve for",
+        "grieve the loss",
+        "time to grieve"
+      ]
+    }
+  },
+  {
+    "word": "grieving",
+    "memory": "mourning",
+    "meaning": "Feeling deep sadness, especially after someone's death",
+    "hindi": "शोक मनाते हुए, दुखी",
+    "trick": "GRIEVING = in GRIEF right now.",
+    "examples": [
+      "I was still grieving, and my head was spinning.",
+      "She was still grieving for her father."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "be grieving for someone / a grieving + noun",
+      "partners": [
+        "still grieving",
+        "grieving family",
+        "grieving widow"
+      ]
+    }
+  },
+  {
+    "word": "grievous",
+    "memory": "serious, painful",
+    "meaning": "Very serious and causing great pain or suffering; (here) showing great suffering",
+    "hindi": "गंभीर, दर्दनाक, कष्टदायक",
+    "trick": "GRIEVOUS = causing GRIEF: 'grievous hurt' in Indian law (गंभीर चोट).",
+    "examples": [
+      "He made sure she had an eyeful of his grievous looks as they walked.",
+      "He suffered a grievous injury in the accident."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a grievous + noun",
+      "partners": [
+        "grievous injury",
+        "grievous harm",
+        "grievous loss"
+      ]
+    }
+  },
+  {
+    "word": "grille",
+    "memory": "front metal grid",
+    "meaning": "A metal grid on the front of a car; also a screen of metal bars over a window",
+    "hindi": "जाली, ग्रिल",
+    "trick": "GRILLE = like a cooking GRILL: metal bars in a grid.",
+    "examples": [
+      "Zalmai told her to turn the ambulance around, so the front grille faced him.",
+      "The car's front grille was damaged in the crash."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the front grille of something",
+      "partners": [
+        "front grille",
+        "radiator grille",
+        "metal grille"
+      ]
+    }
+  },
+  {
+    "word": "grim",
+    "memory": "bleak, hopeless",
+    "meaning": "Very bad and worrying, without hope; also very serious-looking",
+    "hindi": "निराशाजनक, गंभीर, भयानक",
+    "trick": "GRIM sounds like 'grimy, dim': a dark, gloomy picture.",
+    "examples": [
+      "The prognosis was grim.",
+      "The news from the flood area is grim."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be grim / a grim + noun",
+      "partners": [
+        "grim news",
+        "grim reality",
+        "look grim"
+      ]
+    }
+  },
+  {
+    "word": "grimace",
+    "memory": "make a pained face",
+    "meaning": "To twist your face because of pain or dislike; also the twisted face itself",
+    "hindi": "मुँह बनाना, मुँह बिगाड़ना",
+    "trick": "GRIMACE = a GRIM face: twisted in pain.",
+    "examples": [
+      "I was beat up, and I couldn't so much as grimace.",
+      "He tried not to grimace as the nurse gave him the injection."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "grimace in/with pain / grimace at something",
+      "partners": [
+        "grimace in pain",
+        "grimace with disgust",
+        "make a grimace"
+      ]
+    }
+  },
+  {
+    "word": "grimacing",
+    "memory": "making a pained face",
+    "meaning": "Twisting the face because of pain or dislike",
+    "hindi": "मुँह बनाते हुए, मुँह बिगाड़ते",
+    "trick": "GRIMACING = making a GRIM face.",
+    "examples": [
+      "She lowered her large body onto the chair beside the bed, grimacing.",
+      "He chewed once, then twice, before grimacing and spitting it out."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "..., grimacing / grimacing in pain",
+      "partners": [
+        "grimacing in pain",
+        "grimacing face",
+        "grimacing with disgust"
+      ]
+    }
+  },
+  {
+    "word": "grimy",
+    "memory": "dirty, sooty",
+    "meaning": "Covered with dirt",
+    "hindi": "मैला, गंदा",
+    "trick": "GRIMY = full of GRIME (dirt): grimy hands after fixing the bike.",
+    "examples": [
+      "He produced a rather grimy bandage and wrapped it round his right hand.",
+      "The windows of the old bus were grimy."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be grimy / a grimy + noun",
+      "partners": [
+        "grimy hands",
+        "grimy windows",
+        "grimy streets"
+      ]
+    }
+  },
+  {
+    "word": "grin",
+    "memory": "wide smile",
+    "meaning": "A wide smile showing the teeth; also to smile widely",
+    "hindi": "चौड़ी मुस्कान, खीस",
+    "trick": "GRIN = a big smile with all your teeth, like the Cheshire cat's grin.",
+    "examples": [
+      "She flashed an impish grin and nudged Laila with an elbow.",
+      "He had a big grin on his face after winning."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "flash/give someone a grin / a grin on someone's face",
+      "partners": [
+        "big grin",
+        "flash a grin",
+        "grin on his face"
+      ]
+    }
+  },
+  {
+    "word": "grinning",
+    "memory": "smiling widely",
+    "meaning": "Smiling widely, showing the teeth",
+    "hindi": "दाँत दिखाकर मुस्कुराते, खीसें निपोरते",
+    "trick": "GRINNING = wearing a big GRIN.",
+    "examples": [
+      "Jalil and the boys were grinning.",
+      "The kids came out of the shop grinning with ice creams."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "be grinning at someone / grinning from ear to ear",
+      "partners": [
+        "grinning from ear to ear",
+        "grinning face",
+        "grinning at"
+      ]
+    }
+  },
+  {
+    "word": "grit",
+    "memory": "toughness, determination",
+    "meaning": "Courage and determination to keep going when things are hard; also tiny pieces of stone or sand",
+    "hindi": "हिम्मत, दृढ़ता; रेत, कंकड़ी",
+    "trick": "GRIT your teeth and keep going: grit = never give up.",
+    "examples": [
+      "This is not about willpower or grit.",
+      "She finished the race on pure grit."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "show grit / take grit to do something",
+      "partners": [
+        "show grit",
+        "true grit",
+        "grit and determination"
+      ]
+    }
+  },
+  {
+    "word": "gritted",
+    "memory": "clenched tightly",
+    "meaning": "(Of teeth) pressed tightly together, from anger or effort",
+    "hindi": "भींचे हुए, कसकर दबाए",
+    "trick": "GRIT your teeth: past = gritted teeth.",
+    "examples": [
+      "Nana grabbed Mariam by the wrists and said through gritted teeth, \"You are clumsy.\"",
+      "He gritted his teeth and lifted the heavy box."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "grit your teeth / through gritted teeth",
+      "partners": [
+        "gritted his teeth",
+        "through gritted teeth",
+        "gritted her teeth"
+      ]
+    }
+  },
+  {
+    "word": "gritty",
+    "memory": "rough, harsh",
+    "meaning": "(Of a place) rough, dirty and unpleasant; also full of grit or sand; also brave and determined",
+    "hindi": "कठोर, गंदा; रेतीला",
+    "trick": "GRITTY = full of GRIT: dusty, rough streets.",
+    "examples": [
+      "We lived near a concrete jungle of gritty, dangerous streets.",
+      "The film shows the gritty side of city life."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a gritty + noun / be gritty",
+      "partners": [
+        "gritty streets",
+        "gritty dust",
+        "gritty realism"
+      ]
+    }
+  },
+  {
+    "word": "groan",
+    "memory": "pained moan",
+    "meaning": "A long, low sound of pain or unhappiness; also to make this sound",
+    "hindi": "कराह, आह",
+    "trick": "GROAN sounds like 'grown': grown-ups GROAN when they get up from the floor.",
+    "examples": [
+      "He opened his mouth, but all that came forth was a single, pained groan.",
+      "He let out a groan when he saw the bill."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "let out a groan / give a groan",
+      "partners": [
+        "let out a groan",
+        "loud groan",
+        "groan of pain"
+      ]
+    }
+  },
+  {
+    "word": "grope",
+    "memory": "feel around",
+    "meaning": "To search for something by feeling with your hands, often unable to see",
+    "hindi": "टटोलना, हाथ से ढूँढना",
+    "trick": "GROPE in the dark: hands GROPing for the switch.",
+    "examples": [
+      "Laila suddenly needed to grope for Mariam's arm, something to lean on.",
+      "I had to grope for the light switch in the dark."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "grope for something / grope around",
+      "partners": [
+        "grope for",
+        "grope in the dark",
+        "grope around"
+      ]
+    }
+  },
+  {
+    "word": "groped",
+    "memory": "felt around",
+    "meaning": "Searched by feeling with the hands, without seeing",
+    "hindi": "टटोला, टटोलते रहे",
+    "trick": "GROPE + D: they groped in the dark.",
+    "examples": [
+      "The first day, they groped and fumbled for each other in the dark.",
+      "She groped in her bag for her keys."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "groped for something / groped around",
+      "partners": [
+        "groped for",
+        "groped in the dark",
+        "groped around"
+      ]
+    }
+  },
+  {
+    "word": "groping",
+    "memory": "reaching, feeling around",
+    "meaning": "Reaching out and feeling with the hands; also searching uncertainly",
+    "hindi": "टटोलते हुए, हाथ बढ़ाते",
+    "trick": "GROPING = hands reaching and feeling everywhere.",
+    "examples": [
+      "There was a flurry of patting, clutching, tugging and groping to climb into her arms.",
+      "He was groping for the right words to say."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "be groping for something",
+      "partners": [
+        "groping for words",
+        "groping in the dark",
+        "groping hands"
+      ]
+    }
+  },
+  {
+    "word": "grouchy",
+    "memory": "bad-tempered, cranky",
+    "meaning": "Bad-tempered and complaining a lot (informal)",
+    "hindi": "चिड़चिड़ा, झक्की",
+    "trick": "GROUCHY sounds like 'grudge-y': always grumbling (Oscar the Grouch).",
+    "examples": [
+      "Grouchy Sister Katherine cared about us, cared about me.",
+      "Dad is always grouchy before his morning tea."
+    ],
+    "usage": {
+      "pos": "adjective (informal)",
+      "pattern": "be/feel grouchy / a grouchy + noun",
+      "partners": [
+        "grouchy mood",
+        "grouchy old man",
+        "feel grouchy"
+      ]
+    }
+  },
+  {
+    "word": "grove",
+    "memory": "small group of trees",
+    "meaning": "A small group of trees, often fruit trees",
+    "hindi": "कुंज, बगीचा, झुरमुट",
+    "trick": "GROVE: trees GROW in a grove.",
+    "examples": [
+      "Upstream, there was a circular grove of weeping willow trees.",
+      "We had a picnic in the mango grove."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a grove of + trees",
+      "partners": [
+        "mango grove",
+        "olive grove",
+        "grove of trees"
+      ]
+    }
+  },
+  {
+    "word": "growled",
+    "memory": "rumbled",
+    "meaning": "(Of a stomach) made a low rumbling noise from hunger; also (of an animal) made a low angry sound",
+    "hindi": "गुड़गुड़ाया; गुर्राया",
+    "trick": "GROWL = dog sound; my hungry stomach growled like a dog.",
+    "examples": [
+      "My stomach growled and my mind swirled.",
+      "The dog growled at the stranger at the gate."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something growled / growled at someone",
+      "partners": [
+        "stomach growled",
+        "dog growled",
+        "growled at"
+      ]
+    }
+  },
+  {
+    "word": "growling",
+    "memory": "rumbling",
+    "meaning": "(Of an engine or animal) making a low, deep, rough noise",
+    "hindi": "घरघराते हुए, गुर्राते",
+    "trick": "GROWLING engines sound like a growling dog.",
+    "examples": [
+      "She watched the buses growling idly at the curb.",
+      "I could hear the dog growling behind the door."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "be growling at someone/something",
+      "partners": [
+        "growling engine",
+        "growling dog",
+        "stomach growling"
+      ]
+    }
+  },
+  {
+    "word": "grub",
+    "memory": "food (informal)",
+    "meaning": "Food (informal); also a young insect that looks like a worm",
+    "hindi": "खाना (बोलचाल); इल्ली",
+    "trick": "GRUB sounds like 'grab': grab some grub!",
+    "examples": [
+      "How about having some grub with me?",
+      "Let's go and get some grub after the movie."
+    ],
+    "usage": {
+      "pos": "noun (informal)",
+      "pattern": "get/have some grub",
+      "partners": [
+        "get some grub",
+        "good grub",
+        "pub grub"
+      ]
+    }
+  },
+  {
+    "word": "grubby",
+    "memory": "dirty",
+    "meaning": "Dirty and not looked after",
+    "hindi": "मैला, गंदा",
+    "trick": "GRUBBY = dirty like a GRUB (worm) in the soil.",
+    "examples": [
+      "She could see the hotel's swimming pool, empty and grubby now.",
+      "The child's hands were grubby from playing outside."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be grubby / a grubby + noun",
+      "partners": [
+        "grubby hands",
+        "grubby clothes",
+        "grubby little room"
+      ]
+    }
+  },
+  {
+    "word": "grudges",
+    "memory": "long-held resentments",
+    "meaning": "Feelings of anger toward someone because of something they did in the past",
+    "hindi": "द्वेष, रंजिश, मन-मुटाव",
+    "trick": "GRUDGE = you GRUDGingly keep the anger inside.",
+    "examples": [
+      "He held grudges.",
+      "Life is too short to hold grudges."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "hold/bear grudges against someone",
+      "partners": [
+        "hold grudges",
+        "bear grudges",
+        "old grudges"
+      ]
+    }
+  },
+  {
+    "word": "grudging",
+    "memory": "unwilling, stingy",
+    "meaning": "Given or done unwillingly; (of a person) giving unwillingly",
+    "hindi": "अनिच्छुक, कंजूस, बेमन",
+    "trick": "GRUDGING = giving with a GRUDGE.",
+    "examples": [
+      "Their food was not doled out to them by a grudging master.",
+      "He gave me a grudging nod of approval."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a grudging + noun",
+      "partners": [
+        "grudging respect",
+        "grudging admiration",
+        "grudging acceptance"
+      ]
+    }
+  },
+  {
+    "word": "grueling",
+    "memory": "exhausting",
+    "meaning": "Very tiring and hard, needing great effort (US spelling; British: gruelling)",
+    "hindi": "थकाऊ, कठिन, कष्टदायक",
+    "trick": "GRUELING = so hard you are left eating only GRUEL (thin porridge).",
+    "examples": [
+      "Life will always be the most grueling endurance sport.",
+      "After a grueling day at work, I just want to sleep."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a grueling + noun",
+      "partners": [
+        "grueling schedule",
+        "grueling journey",
+        "grueling training"
+      ]
+    }
+  },
+  {
+    "word": "gruesome",
+    "memory": "horrible, shocking",
+    "meaning": "Very unpleasant and shocking, often involving death or injury",
+    "hindi": "भयानक, वीभत्स",
+    "trick": "GRUESOME sounds like 'grew some' fear: horrible enough to make you shiver.",
+    "examples": [
+      "This was Poland, so things had been pretty gruesome.",
+      "The police found a gruesome scene in the old house."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a gruesome + noun / be gruesome",
+      "partners": [
+        "gruesome murder",
+        "gruesome details",
+        "gruesome scene"
+      ]
+    }
+  },
+  {
+    "word": "gruff",
+    "memory": "rough, harsh",
+    "meaning": "(Of a voice or manner) rough, deep and unfriendly-sounding",
+    "hindi": "रूखा, कर्कश",
+    "trick": "GRUFF sounds like a dog's 'ruff': rough and short.",
+    "examples": [
+      "Napoleon read out the orders in a gruff soldierly style.",
+      "The old guard had a gruff voice but a kind heart."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a gruff + voice/manner",
+      "partners": [
+        "gruff voice",
+        "gruff manner",
+        "gruff reply"
+      ]
+    }
+  },
+  {
+    "word": "grumble",
+    "memory": "complain",
+    "meaning": "To complain in a low, unhappy way",
+    "hindi": "बड़बड़ाना, शिकायत करना",
+    "trick": "GRUMBLE sounds like a stomach rumble: a low, unhappy noise.",
+    "examples": [
+      "For myself I do not grumble, for I am one of the lucky ones.",
+      "Don't grumble about the food; just eat it."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "grumble about/at something",
+      "partners": [
+        "grumble about",
+        "grumble at",
+        "always grumble"
+      ]
+    }
+  },
+  {
+    "word": "grumbled",
+    "memory": "complained",
+    "meaning": "Complained in a low, unhappy way",
+    "hindi": "बड़बड़ाया, शिकायत की",
+    "trick": "GRUMBLE + D: he grumbled all day.",
+    "examples": [
+      "Nobody stole, and nobody grumbled over his rations.",
+      "She grumbled about the long queue."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "grumbled about/over something",
+      "partners": [
+        "grumbled about",
+        "grumbled over",
+        "grumbled that"
+      ]
+    }
+  },
+  {
+    "word": "grumbling",
+    "memory": "complaining",
+    "meaning": "Complaining in a low, unhappy way",
+    "hindi": "बड़बड़ाते हुए, शिकायत करते",
+    "trick": "GRUMBLING = a non-stop low complaint.",
+    "examples": [
+      "She was always grumbling that she couldn't make both ends meet.",
+      "Stop grumbling and help me clean up."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "be grumbling about something / grumbling that ...",
+      "partners": [
+        "always grumbling",
+        "grumbling about",
+        "stop grumbling"
+      ]
+    }
+  },
+  {
+    "word": "grumpy",
+    "memory": "bad-tempered",
+    "meaning": "Bad-tempered and easily annoyed",
+    "hindi": "चिड़चिड़ा, खीझा हुआ",
+    "trick": "GRUMPY: one of the Seven Dwarfs, always in a bad mood.",
+    "examples": [
+      "She was also grumpy and strict, and I loved her.",
+      "I'm always grumpy when I don't get enough sleep."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be/get grumpy / a grumpy + noun",
+      "partners": [
+        "grumpy mood",
+        "grumpy old man",
+        "feel grumpy"
+      ]
+    }
+  },
+  {
+    "word": "grunt",
+    "memory": "short low noise",
+    "meaning": "A short, low, rough sound like a pig makes",
+    "hindi": "घुरघुराहट, गुर्राहट",
+    "trick": "GRUNT = the 'oink-ugh' of a pig.",
+    "examples": [
+      "It was called the Pig because it sounded like the grunt of a barnyard hog.",
+      "He gave a grunt as he lifted the heavy box."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "give a grunt / the grunt of something",
+      "partners": [
+        "give a grunt",
+        "grunt of effort",
+        "low grunt"
+      ]
+    }
+  },
+  {
+    "word": "grunted",
+    "memory": "made a low sound",
+    "meaning": "Made a short low sound, often to show effort or a reply without words",
+    "hindi": "घुरघुराया, हुंकारा",
+    "trick": "GRUNT + ED: he grunted instead of answering.",
+    "examples": [
+      "He grunted, and told her to hand him a plate.",
+      "He just grunted when I said good morning."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "grunted at someone / grunted with effort",
+      "partners": [
+        "grunted in reply",
+        "grunted with effort",
+        "grunted at"
+      ]
+    }
+  },
+  {
+    "word": "grunting",
+    "memory": "making low sounds",
+    "meaning": "Making short, low, rough sounds, often from effort",
+    "hindi": "घुरघुराते हुए, हाँफते",
+    "trick": "GRUNTING = the gym sound when lifting weights.",
+    "examples": [
+      "We were gurgling, grunting, and gasping.",
+      "He was grunting as he pushed the car up the hill."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "be grunting with effort",
+      "partners": [
+        "grunting with effort",
+        "grunting noises",
+        "grunting and gasping"
+      ]
+    }
+  },
+  {
+    "word": "grunts",
+    "memory": "low sounds",
+    "meaning": "Short, low, rough sounds",
+    "hindi": "घुरघुराहटें, हुंकार",
+    "trick": "GRUNTS: many little 'ugh' sounds.",
+    "examples": [
+      "The squeals of young girls and the grunts of old women echoed in the bath.",
+      "The baby made happy little grunts while eating."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "the grunts of someone / make grunts",
+      "partners": [
+        "low grunts",
+        "grunts of effort",
+        "hungry grunts"
+      ]
+    }
+  },
+  {
+    "word": "guarantee",
+    "memory": "make sure",
+    "meaning": "To make certain that something will happen; also a firm promise, or a written promise to repair a product",
+    "hindi": "पक्का करना, सुनिश्चित करना; गारंटी",
+    "trick": "GUARANTEE has GUARD in it: guard the promise so it surely happens.",
+    "examples": [
+      "I took responsibility, to help guarantee that I will never suffer the same consequences again.",
+      "Hard work does not guarantee success, but it helps."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "guarantee something / guarantee that ...",
+      "partners": [
+        "guarantee success",
+        "guarantee that",
+        "can't guarantee"
+      ]
+    }
+  },
+  {
+    "word": "guardrail",
+    "memory": "safety railing",
+    "meaning": "A rail along a road edge, cliff or stairs to stop people or cars falling",
+    "hindi": "सुरक्षा रेलिंग, जंगला",
+    "trick": "GUARD + RAIL: a rail that guards you from falling.",
+    "examples": [
+      "Near a cliff edge without a guardrail, tension digs into your body.",
+      "The car hit the guardrail but did not go off the bridge."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "hit/hold the guardrail",
+      "partners": [
+        "hit the guardrail",
+        "metal guardrail",
+        "without a guardrail"
+      ]
+    }
+  },
+  {
+    "word": "guerrilla",
+    "memory": "irregular fighters",
+    "meaning": "(Of fighting) done by small groups of fighters who make surprise attacks; also such a fighter",
+    "hindi": "छापामार, गुरिल्ला",
+    "trick": "GUERRILLA (not gorilla!): small bands that hit and hide, like Shivaji's ganimi kava.",
+    "examples": [
+      "They began a guerrilla warfare campaign against the U.S. forces.",
+      "The guerrilla fighters hid in the forest."
+    ],
+    "usage": {
+      "pos": "adjective / noun",
+      "pattern": "guerrilla + warfare/fighter",
+      "partners": [
+        "guerrilla warfare",
+        "guerrilla fighters",
+        "guerrilla attack"
+      ]
+    }
+  },
+  {
+    "word": "guile",
+    "memory": "cunning, slyness",
+    "meaning": "Clever but dishonest ways of tricking people",
+    "hindi": "चालाकी, धूर्तता, छल",
+    "trick": "GUILE rhymes with 'wile' and starts like GUILty: sly tricks.",
+    "examples": [
+      "When he spoke, it was with a tinge of guile and tenderness.",
+      "The fox used guile to steal the crow's cheese."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "with guile / use guile",
+      "partners": [
+        "full of guile",
+        "without guile",
+        "use guile"
+      ]
+    }
+  },
+  {
+    "word": "guileless",
+    "memory": "innocent, honest",
+    "meaning": "Honest and innocent, with no wish to trick anyone",
+    "hindi": "भोला, निश्छल, सीधा-सादा",
+    "trick": "GUILE + LESS = no tricks at all, innocent like a child.",
+    "examples": [
+      "His look was one of guileless yet ironclad earnestness.",
+      "She has a guileless smile, like a small child."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a guileless + noun / be guileless",
+      "partners": [
+        "guileless smile",
+        "guileless face",
+        "guileless honesty"
+      ]
+    }
+  },
+  {
+    "word": "guillotine",
+    "memory": "beheading machine",
+    "meaning": "A machine with a heavy falling blade once used to cut off heads; also a paper-cutting machine",
+    "hindi": "गिलोटिन, सिर काटने की मशीन",
+    "trick": "GUILLOTINE: named after Dr Guillotin; guilty heads fall to the blade.",
+    "examples": [
+      "I wonder if any prisoner escaped in the nick of time before the guillotine falls.",
+      "The guillotine was used in France during the Revolution."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the guillotine falls / go to the guillotine",
+      "partners": [
+        "the guillotine falls",
+        "sent to the guillotine",
+        "paper guillotine"
+      ]
+    }
+  },
+  {
+    "word": "guinea pig",
+    "memory": "test subject",
+    "meaning": "A person or thing used to test something new; also a small furry pet animal",
+    "hindi": "प्रयोग का साधन, परीक्षण वस्तु",
+    "trick": "GUINEA PIG: the classic lab animal for experiments.",
+    "examples": [
+      "He became his own guinea pig and tested every muscle and joint.",
+      "I was the guinea pig for my sister's new recipe."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "be someone's guinea pig / use someone as a guinea pig",
+      "partners": [
+        "be a guinea pig",
+        "human guinea pig",
+        "use as a guinea pig"
+      ]
+    }
+  },
+  {
+    "word": "gurgled",
+    "memory": "bubbled",
+    "meaning": "(Of water) made a bubbling sound as it flowed",
+    "hindi": "कलकल किया, बुदबुदाया",
+    "trick": "GURGLE = the 'glug-glug' sound of water.",
+    "examples": [
+      "A stone fountain gurgled water all day in the summer.",
+      "The stream gurgled over the rocks."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something gurgled / gurgled water",
+      "partners": [
+        "water gurgled",
+        "stream gurgled",
+        "baby gurgled"
+      ]
+    }
+  },
+  {
+    "word": "gurgles",
+    "memory": "bubbly baby sounds",
+    "meaning": "Happy bubbling sounds made by a baby or by flowing water",
+    "hindi": "किलकारियाँ, कलकल",
+    "trick": "GURGLES: the baby's happy 'gu-gu' sounds.",
+    "examples": [
+      "She could hear the baby's hungry grunts, its gurgles and jabbering.",
+      "The baby gurgles happily when her mother sings."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "the gurgles of someone/something",
+      "partners": [
+        "baby gurgles",
+        "happy gurgles",
+        "gurgles of water"
+      ]
+    }
+  },
+  {
+    "word": "gurgling",
+    "memory": "making bubbly sounds",
+    "meaning": "Making a bubbling sound, like water in the throat or a stream",
+    "hindi": "गरारे जैसी आवाज़ करते, कलकल करते",
+    "trick": "GURGLING = like gargling water.",
+    "examples": [
+      "We were gurgling, grunting, and gasping.",
+      "We sat by the gurgling stream."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "be gurgling / a gurgling + noun",
+      "partners": [
+        "gurgling stream",
+        "gurgling baby",
+        "gurgling sound"
+      ]
+    }
+  },
+  {
+    "word": "gurney",
+    "memory": "hospital trolley bed",
+    "meaning": "A bed on wheels used to move patients in a hospital",
+    "hindi": "स्ट्रेचर, पहियों वाला बिस्तर",
+    "trick": "GURNEY = a JOURNEY bed: it carries patients down the corridor.",
+    "examples": [
+      "Laila lay on a gurney bed as the doctor scrubbed her hands.",
+      "The nurses pushed the patient on a gurney to the operation room."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "on a gurney",
+      "partners": [
+        "lie on a gurney",
+        "hospital gurney",
+        "wheel a gurney"
+      ]
+    }
+  },
+  {
+    "word": "gushing",
+    "memory": "pouring out",
+    "meaning": "Flowing out quickly in large amounts; also praising too much",
+    "hindi": "तेज़ी से बहते हुए, फूटते",
+    "trick": "GUSHING = a GUSH of water from a burst pipe.",
+    "examples": [
+      "Out the words came, like blood gushing from an artery.",
+      "Water was gushing from the broken pipe."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "be gushing from/out of something",
+      "partners": [
+        "gushing water",
+        "gushing from",
+        "gushing out"
+      ]
+    }
+  },
+  {
+    "word": "gust",
+    "memory": "sudden rush",
+    "meaning": "A sudden strong rush of wind; also a sudden burst of a feeling",
+    "hindi": "झोंका",
+    "trick": "GUST = a sudden GUSh of wind.",
+    "examples": [
+      "A gust of wind parted the drooping branches of the weeping willow.",
+      "A gust of wind blew my umbrella away."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a gust of wind/feeling",
+      "partners": [
+        "gust of wind",
+        "strong gust",
+        "sudden gust"
+      ]
+    }
+  },
+  {
+    "word": "gusto",
+    "memory": "great enjoyment",
+    "meaning": "Great energy and enjoyment while doing something",
+    "hindi": "जोश, उत्साह, मज़े से",
+    "trick": "GUSTO = with taste (gustar = to like): eat with gusto.",
+    "examples": [
+      "She brought gossip from Herat, delivered at length and with gusto.",
+      "The kids ate their pizza with gusto."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "with gusto",
+      "partners": [
+        "with gusto",
+        "with great gusto",
+        "sing with gusto"
+      ]
+    }
+  },
+  {
+    "word": "gut",
+    "memory": "clean out insides",
+    "meaning": "To remove the inner organs of a fish or animal before cooking; also the stomach, or (informal) instinct",
+    "hindi": "पेट साफ़ करना (मछली का); पेट; अंतर्मन",
+    "trick": "GUT the fish = take out its guts.",
+    "examples": [
+      "He taught her the proper way to gut a trout.",
+      "The fisherman gutted the fish quickly on the boat."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "gut a fish/animal",
+      "partners": [
+        "gut a fish",
+        "gut and clean",
+        "gutted the chicken"
+      ]
+    }
+  },
+  {
+    "word": "guttural",
+    "memory": "harsh, throaty",
+    "meaning": "(Of a sound) deep and rough, made at the back of the throat",
+    "hindi": "कंठ्य, खुरदरा, गले से निकली",
+    "trick": "GUTTURAL = from the 'gutter' of your throat: deep throaty sounds.",
+    "examples": [
+      "I heard guttural screams and high-pitched squeals.",
+      "The dog let out a low, guttural growl."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a guttural + sound/voice",
+      "partners": [
+        "guttural voice",
+        "guttural sound",
+        "guttural growl"
+      ]
+    }
+  },
+  {
+    "word": "guzzled",
+    "memory": "gulped down",
+    "meaning": "Drank or ate something quickly and greedily",
+    "hindi": "गटक गया, गटागट पिया",
+    "trick": "GUZZLE = GUlp + puZZLE: gulp it down fast.",
+    "examples": [
+      "Between laps, I guzzled water.",
+      "He guzzled a whole bottle of cola after the match."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "guzzled something (down)",
+      "partners": [
+        "guzzled water",
+        "guzzled down",
+        "guzzled beer"
+      ]
+    }
+  },
+  {
+    "word": "guzzling",
+    "memory": "gulping down",
+    "meaning": "Drinking or eating something quickly and greedily",
+    "hindi": "गटकते हुए, गटागट पीते",
+    "trick": "GUZZLING = gulping greedily, like a gas-guzzling car.",
+    "examples": [
+      "Erin was guzzling sake and babbling for hours.",
+      "The kids were guzzling lemonade in the heat."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "be guzzling something",
+      "partners": [
+        "guzzling water",
+        "guzzling beer",
+        "gas-guzzling"
+      ]
+    }
+  }
+]

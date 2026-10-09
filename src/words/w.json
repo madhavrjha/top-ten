@@ -1,5 +1,1963 @@
 [
   {
+    "word": "waded",
+    "memory": "walked through water",
+    "meaning": "Walked through water or mud with effort",
+    "hindi": "पानी में चले, हिलकर पार किया",
+    "trick": "WADED – rhymes with 'faded': walked till the shore faded.",
+    "examples": [
+      "I waded into the icy water and looked into the gray sky.",
+      "The kids waded across the shallow stream."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "waded into/through/across + water",
+      "partners": [
+        "waded into the water",
+        "waded across",
+        "waded through"
+      ]
+    }
+  },
+  {
+    "word": "wading",
+    "memory": "walking through water",
+    "meaning": "Walking through water or mud with effort",
+    "hindi": "पानी में चलना",
+    "trick": "WADING birds walk in WATER on long legs.",
+    "examples": [
+      "They had us facing the ocean, wading in and out of the surf for hours.",
+      "We went wading in the river on a hot day."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "wading in/through/across + water",
+      "partners": [
+        "wading in the water",
+        "wading through mud",
+        "go wading"
+      ]
+    }
+  },
+  {
+    "word": "wafted",
+    "memory": "gently blew, drifted",
+    "meaning": "Moved gently through the air, or made something do so",
+    "hindi": "हवा में फैलाया, लहराया",
+    "trick": "WAFTED – smells WAFT like a soft wave of air.",
+    "examples": [
+      "She tossed wild rue seeds on the fire and wafted the smoke toward her baby.",
+      "The smell of fresh bread wafted from the kitchen."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something wafted (from/through somewhere) / wafted something toward someone",
+      "partners": [
+        "smell wafted",
+        "wafted through the air",
+        "wafted in"
+      ]
+    }
+  },
+  {
+    "word": "wagers",
+    "memory": "bets",
+    "meaning": "Bets; money or things risked on a result",
+    "hindi": "शर्तें, दाँव",
+    "trick": "WAGERS – you bet your WAGES.",
+    "examples": [
+      "Militiamen in the mountains settled wagers over their marksmanship.",
+      "The friends made small wagers on the cricket match."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "make/place/settle wagers (on something)",
+      "partners": [
+        "place wagers",
+        "settle wagers",
+        "small wagers"
+      ]
+    }
+  },
+  {
+    "word": "wagged",
+    "memory": "shook, moved",
+    "meaning": "Moved quickly from side to side or up and down",
+    "hindi": "हिलाया, डुलाया",
+    "trick": "A dog WAGGED its tail.",
+    "examples": [
+      "They looked at me and wagged their heads awkwardly.",
+      "The puppy wagged its tail happily."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "wagged + tail/head/finger",
+      "partners": [
+        "wagged its tail",
+        "wagged a finger",
+        "wagged their heads"
+      ]
+    }
+  },
+  {
+    "word": "waging",
+    "memory": "carrying on, fighting",
+    "meaning": "Carrying on a war or fight",
+    "hindi": "छेड़ना, लड़ना",
+    "trick": "WAGING war – soldiers get WAGES for waging war.",
+    "examples": [
+      "He was still waging war against the local population long after the war ended.",
+      "The town is waging a campaign against plastic bags."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "waging war/a campaign (against someone/something)",
+      "partners": [
+        "waging war",
+        "waging a campaign",
+        "waging a battle"
+      ]
+    }
+  },
+  {
+    "word": "wagon",
+    "memory": "cart, car",
+    "meaning": "A vehicle for carrying things or people; a 'station ...' is a long car with a big back space",
+    "hindi": "गाड़ी, छकड़ा",
+    "trick": "WAGON – sounds like 'wag-on': it carries loads along.",
+    "examples": [
+      "A camp doctor worked out of a station wagon made into a mobile clinic.",
+      "The farmer loaded hay onto the wagon."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a station wagon / load something onto a wagon",
+      "partners": [
+        "station wagon",
+        "horse-drawn wagon",
+        "covered wagon"
+      ]
+    }
+  },
+  {
+    "word": "wailed",
+    "memory": "hit hard; cried loudly",
+    "meaning": "(informal, '... on someone') hit someone hard again and again; also cried loudly in pain or sadness",
+    "hindi": "पीटा (बोलचाल); ज़ोर से रोया",
+    "trick": "WAILED on him = hit him till he WAILED.",
+    "examples": [
+      "In the fight, I wailed on him.",
+      "The child wailed when she lost her toy."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "wailed on someone (informal) / wailed (in pain)",
+      "partners": [
+        "wailed on him",
+        "wailed loudly",
+        "wailed in pain"
+      ]
+    }
+  },
+  {
+    "word": "wailing",
+    "memory": "crying loudly",
+    "meaning": "Crying loudly with a long high sound",
+    "hindi": "रोना-चिल्लाना, विलाप",
+    "trick": "WAILING like a WHALE's long sad sound.",
+    "examples": [
+      "Soon the baby was wailing.",
+      "We heard a siren wailing in the street."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "someone/something is wailing",
+      "partners": [
+        "baby wailing",
+        "sirens wailing",
+        "wailing loudly"
+      ]
+    }
+  },
+  {
+    "word": "wails",
+    "memory": "loud cries",
+    "meaning": "Long, loud, high cries of pain or sadness",
+    "hindi": "चीखें, विलाप",
+    "trick": "WAILS – sounds like WHALES' long cries.",
+    "examples": [
+      "The wails and the screams filled the room.",
+      "The baby's wails woke up the whole house."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "the wails of someone",
+      "partners": [
+        "loud wails",
+        "wails of grief",
+        "baby's wails"
+      ]
+    }
+  },
+  {
+    "word": "waive",
+    "memory": "give up, drop",
+    "meaning": "To choose not to apply a rule, fee or right",
+    "hindi": "छोड़ देना, माफ़ करना",
+    "trick": "WAIVE – WAVE goodbye to the rule.",
+    "examples": [
+      "Top athletes had begged him to waive his standards, but he never budged.",
+      "The bank agreed to waive the late fee."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "waive + a fee/rule/right",
+      "partners": [
+        "waive the fee",
+        "waive a rule",
+        "waive your right"
+      ]
+    }
+  },
+  {
+    "word": "waived",
+    "memory": "set aside, dropped",
+    "meaning": "Not applied; set aside (of a rule, fee or requirement)",
+    "hindi": "माफ़ किया, छूट दी",
+    "trick": "WAIVED – the rule was WAVED away.",
+    "examples": [
+      "He argued the race requirements should be waived because I was busy as a SEAL.",
+      "The entry fee was waived for students."
+    ],
+    "usage": {
+      "pos": "verb (past participle)",
+      "pattern": "something is/was waived / waived something",
+      "partners": [
+        "fee waived",
+        "requirements waived",
+        "waived the rule"
+      ]
+    }
+  },
+  {
+    "word": "wallow",
+    "memory": "sink in sadness",
+    "meaning": "To let yourself stay in a bad feeling, like self-pity, for a long time; also (of animals) to roll in mud or water",
+    "hindi": "दुख में डूबे रहना; कीचड़ में लोटना",
+    "trick": "WALLOW – like a buffalo wallowing in mud, you sit in your sadness.",
+    "examples": [
+      "Some days, all you want to do is stay home and wallow.",
+      "Don't wallow in self-pity; get up and try again."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "wallow in something",
+      "partners": [
+        "wallow in self-pity",
+        "wallow in misery",
+        "wallow in mud"
+      ]
+    }
+  },
+  {
+    "word": "wand",
+    "memory": "thin handheld rod",
+    "meaning": "A thin stick or handheld device, e.g. the probe used for scans; also a magic stick",
+    "hindi": "छड़ी; जादू की छड़ी",
+    "trick": "WAND – a magician's WAND, and a doctor's scan wand too.",
+    "examples": [
+      "He took over the wand, rolled it on my chest, and looked at the monitor.",
+      "The magician waved his wand."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "wave/hold a wand",
+      "partners": [
+        "magic wand",
+        "wave a wand",
+        "ultrasound wand"
+      ]
+    }
+  },
+  {
+    "word": "wandered",
+    "memory": "roamed, strayed",
+    "meaning": "Walked around with no fixed aim, or went away from the right place",
+    "hindi": "भटके, घूमे",
+    "trick": "WANDERED – you WONDER where they went.",
+    "examples": [
+      "They murdered locals who wandered too far into the jungle.",
+      "We wandered around the market all evening."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "wandered + around/off/into + place",
+      "partners": [
+        "wandered around",
+        "wandered off",
+        "wandered into"
+      ]
+    }
+  },
+  {
+    "word": "wanly",
+    "memory": "weakly, palely",
+    "meaning": "In a pale, tired or weak way",
+    "hindi": "फीकेपन से, थके ढंग से",
+    "trick": "WANLY – a WAN (pale) smile, like a WANing moon.",
+    "examples": [
+      "Mariam smiled wanly.",
+      "He smiled wanly after the long night shift."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "smile wanly",
+      "partners": [
+        "smiled wanly",
+        "wanly lit",
+        "nodded wanly"
+      ]
+    }
+  },
+  {
+    "word": "war-ravaged",
+    "memory": "destroyed by war",
+    "meaning": "Badly damaged or ruined by war",
+    "hindi": "युद्ध से तबाह",
+    "trick": "WAR + RAVAGED (ravage = wreck) = wrecked by war.",
+    "examples": [
+      "Love may not be the first thing that comes to mind about war-ravaged Afghanistan.",
+      "Aid trucks reached the war-ravaged city."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a war-ravaged + country/city",
+      "partners": [
+        "war-ravaged country",
+        "war-ravaged city",
+        "war-ravaged region"
+      ]
+    }
+  },
+  {
+    "word": "warbling",
+    "memory": "singing sweetly",
+    "meaning": "Singing with gentle, trembling notes, like a bird",
+    "hindi": "चहचहाना, कूकना",
+    "trick": "WARBLING – a WARBLER is a little singing bird.",
+    "examples": [
+      "Outside, an oriole was warbling.",
+      "Birds were warbling in the trees at dawn."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "a bird is warbling",
+      "partners": [
+        "birds warbling",
+        "warbling song",
+        "warbling away"
+      ]
+    }
+  },
+  {
+    "word": "ward off",
+    "memory": "keep away",
+    "meaning": "To stop something bad from coming near or harming you",
+    "hindi": "दूर रखना, बचाव करना",
+    "trick": "A WARD (guard) keeps danger OFF.",
+    "examples": [
+      "The dragon on the sugar bowl was meant to ward off evil.",
+      "She takes vitamin C to ward off colds."
+    ],
+    "usage": {
+      "pos": "phrasal verb",
+      "pattern": "ward off something",
+      "partners": [
+        "ward off evil",
+        "ward off colds",
+        "ward off danger"
+      ]
+    }
+  },
+  {
+    "word": "warden",
+    "memory": "keeper, guard",
+    "meaning": "A person in charge of a place such as a prison or a home for old people",
+    "hindi": "संरक्षक, जेलर",
+    "trick": "WARDEN guards the WARD.",
+    "examples": [
+      "The doorkeeper told me I must see the warden first.",
+      "The warden checked every room at night."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the warden of + place",
+      "partners": [
+        "prison warden",
+        "hostel warden",
+        "game warden"
+      ]
+    }
+  },
+  {
+    "word": "wardrobe",
+    "memory": "clothes, cupboard",
+    "meaning": "All the clothes a person owns; also a tall cupboard for clothes",
+    "hindi": "कपड़े, पोशाकें; अलमारी",
+    "trick": "WARDROBE – it WARDS (guards) your ROBES.",
+    "examples": [
+      "I switched up my wardrobe, which was increasingly influenced by hip hop culture.",
+      "She needs a new winter wardrobe."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "someone's wardrobe / update your wardrobe",
+      "partners": [
+        "winter wardrobe",
+        "update your wardrobe",
+        "wardrobe door"
+      ]
+    }
+  },
+  {
+    "word": "warfare",
+    "memory": "fighting, war",
+    "meaning": "The activity of fighting a war, often of a certain kind",
+    "hindi": "युद्ध, लड़ाई",
+    "trick": "WAR + FARE = how a war fares (goes).",
+    "examples": [
+      "They began a guerrilla warfare campaign against the U.S. forces.",
+      "Modern warfare uses drones."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "guerrilla/modern + warfare",
+      "partners": [
+        "guerrilla warfare",
+        "modern warfare",
+        "chemical warfare"
+      ]
+    }
+  },
+  {
+    "word": "wariness",
+    "memory": "caution, distrust",
+    "meaning": "Being careful because you don't trust someone or something",
+    "hindi": "सावधानी, संदेह",
+    "trick": "WARINESS = being WARY, aware of danger.",
+    "examples": [
+      "The Mujahideen killed him, Aziza said, her mouth set with wariness.",
+      "The cat watched the dog with wariness."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "wariness of/toward someone or something",
+      "partners": [
+        "wariness of strangers",
+        "natural wariness",
+        "with wariness"
+      ]
+    }
+  },
+  {
+    "word": "warlords",
+    "memory": "armed local rulers",
+    "meaning": "Military leaders who control an area with their own armed groups",
+    "hindi": "सरदार, युद्ध-सामंत",
+    "trick": "WAR + LORDS = lords who rule by war.",
+    "examples": [
+      "The Americans have armed the warlords once more.",
+      "The country was split among rival warlords."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "local/rival warlords",
+      "partners": [
+        "local warlords",
+        "rival warlords",
+        "powerful warlords"
+      ]
+    }
+  },
+  {
+    "word": "warmth",
+    "memory": "friendliness",
+    "meaning": "Friendly, kind feeling; also a gentle heat",
+    "hindi": "अपनापन, आत्मीयता; गर्माहट",
+    "trick": "WARMTH – a WARM heart.",
+    "examples": [
+      "I used his first name, adding more warmth into the conversation.",
+      "I could feel the warmth of the fire."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "warmth of something / with warmth",
+      "partners": [
+        "human warmth",
+        "warmth of the sun",
+        "great warmth"
+      ]
+    }
+  },
+  {
+    "word": "warp",
+    "memory": "twist, bend",
+    "meaning": "A twist or bend out of shape; a 'time ...' feels as if time has stopped or gone back",
+    "hindi": "मोड़, विकृति",
+    "trick": "WARP – wood WARPS (bends) in the rain; time warp = time bent.",
+    "examples": [
+      "I was trapped in the coaches' dream state: a Larry Bird time warp.",
+      "This old village feels like a time warp."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a time warp / in a time warp",
+      "partners": [
+        "time warp",
+        "stuck in a time warp",
+        "warp speed"
+      ]
+    }
+  },
+  {
+    "word": "warped",
+    "memory": "twisted, distorted",
+    "meaning": "(of a mind or ideas) strange and unhealthy; also bent out of shape",
+    "hindi": "विकृत, टेढ़ा",
+    "trick": "WARPED – like a WARPED wooden door that won't shut straight.",
+    "examples": [
+      "In his warped mind, Trunnis Jr. was his prince.",
+      "The rain left the wooden table warped."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a warped + mind/sense of humour",
+      "partners": [
+        "warped mind",
+        "warped sense of humour",
+        "warped view"
+      ]
+    }
+  },
+  {
+    "word": "warts",
+    "memory": "skin lumps; flaws",
+    "meaning": "Small hard lumps on the skin; '... and all' means including all the faults",
+    "hindi": "मस्से; कमियाँ",
+    "trick": "WARTS and all = love it with all its ugly bumps.",
+    "examples": [
+      "We accept it, warts and all.",
+      "She loves her old car, warts and all."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "warts and all / have warts",
+      "partners": [
+        "warts and all",
+        "remove warts",
+        "skin warts"
+      ]
+    }
+  },
+  {
+    "word": "wary",
+    "memory": "cautious, watchful",
+    "meaning": "Careful because you think there may be danger or a problem",
+    "hindi": "सावधान, चौकन्ना",
+    "trick": "WARY – beWARe, be wARY.",
+    "examples": [
+      "They are forever wary of the creaking bedsprings.",
+      "Be wary of strangers asking for money."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be wary of someone/something",
+      "partners": [
+        "wary of strangers",
+        "remain wary",
+        "wary eye"
+      ]
+    }
+  },
+  {
+    "word": "wasted",
+    "memory": "exhausted, drained",
+    "meaning": "(informal) extremely tired or weak; also very drunk; also used without benefit",
+    "hindi": "थका-हारा, बेदम (बोलचाल); बर्बाद",
+    "trick": "WASTED – all your energy is WASTED, nothing left.",
+    "examples": [
+      "Emotionally, I was wasted.",
+      "After the long hike, we were completely wasted."
+    ],
+    "usage": {
+      "pos": "adjective (informal)",
+      "pattern": "be/feel wasted",
+      "partners": [
+        "completely wasted",
+        "feel wasted",
+        "emotionally wasted"
+      ]
+    }
+  },
+  {
+    "word": "waver",
+    "memory": "doubt, hesitate",
+    "meaning": "To become unsure or weaker in a belief or decision",
+    "hindi": "डगमगाना, हिचकिचाना",
+    "trick": "WAVER – your mind WAVES back and forth.",
+    "examples": [
+      "They didn't waver, but my belief was shakier than I cared to admit.",
+      "Don't waver when you know you are right."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "waver (in something) / never waver",
+      "partners": [
+        "never waver",
+        "waver in your belief",
+        "begin to waver"
+      ]
+    }
+  },
+  {
+    "word": "wavered",
+    "memory": "slipped, drifted",
+    "meaning": "Became weaker or less steady; moved away for a moment",
+    "hindi": "डगमगाया, भटका",
+    "trick": "WAVERED – went WAVY, not straight and steady.",
+    "examples": [
+      "When Mariam spoke, his attention never wavered.",
+      "Her voice wavered as she said goodbye."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something (never) wavered",
+      "partners": [
+        "never wavered",
+        "voice wavered",
+        "attention wavered"
+      ]
+    }
+  },
+  {
+    "word": "wavering",
+    "memory": "hesitating, unsure",
+    "meaning": "Being unsure and unable to decide",
+    "hindi": "डगमगाते हुए, असमंजस में",
+    "trick": "WAVERING – a mind WAVING between two choices.",
+    "examples": [
+      "He could see me wavering, considering my options.",
+      "She was wavering between tea and coffee."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "wavering (between A and B)",
+      "partners": [
+        "wavering between",
+        "wavering support",
+        "without wavering"
+      ]
+    }
+  },
+  {
+    "word": "waylaid",
+    "memory": "held up, thrown off",
+    "meaning": "Stopped or delayed so that you can't go on as planned; thrown off balance; also stopped to be spoken to or attacked",
+    "hindi": "रुका हुआ, भटका हुआ",
+    "trick": "WAYLAID – something LAID across your WAY.",
+    "examples": [
+      "She remembered how she had shuffled about feeling waylaid, out of balance.",
+      "I was waylaid by a neighbour on my way to work."
+    ],
+    "usage": {
+      "pos": "verb (past participle)",
+      "pattern": "be/feel waylaid (by someone/something)",
+      "partners": [
+        "waylaid by",
+        "feel waylaid",
+        "got waylaid"
+      ]
+    }
+  },
+  {
+    "word": "weaned",
+    "memory": "taken off milk",
+    "meaning": "(of a baby or young animal) made to stop drinking its mother's milk; also made to stop depending on something",
+    "hindi": "दूध छुड़ाया गया",
+    "trick": "WEANED – no longer needs the mother's milk; WEaned = WE can eat now.",
+    "examples": [
+      "As soon as they were weaned, Napoleon took them away from their mothers.",
+      "The puppies were weaned at eight weeks."
+    ],
+    "usage": {
+      "pos": "verb (past participle)",
+      "pattern": "be weaned (off/from something)",
+      "partners": [
+        "weaned off",
+        "weaned from",
+        "fully weaned"
+      ]
+    }
+  },
+  {
+    "word": "wearying",
+    "memory": "tiring",
+    "meaning": "Making you feel tired",
+    "hindi": "थकाऊ, थकाने वाला",
+    "trick": "WEARYING – makes you WEARY, worn out.",
+    "examples": [
+      "He looked like a traveler at the end of a long and wearying journey.",
+      "Waiting in the long queue was wearying."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a wearying + journey/day",
+      "partners": [
+        "wearying journey",
+        "long and wearying",
+        "wearying task"
+      ]
+    }
+  },
+  {
+    "word": "weasel",
+    "memory": "small sly animal",
+    "meaning": "A small thin animal with a long body; also (informal) a sly, untrustworthy person",
+    "hindi": "नेवले जैसा जानवर; चालाक आदमी",
+    "trick": "WEASEL – sneaks in like a sly EASEL thief.",
+    "examples": [
+      "A plump little man with huge glasses made me think of an overfed weasel.",
+      "A weasel ran across the field."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a weasel / like a weasel",
+      "partners": [
+        "sly weasel",
+        "weasel words",
+        "little weasel"
+      ]
+    }
+  },
+  {
+    "word": "weathering",
+    "memory": "getting through",
+    "meaning": "Getting through a difficult time safely; also being worn by wind and rain",
+    "hindi": "झेलना, सहना",
+    "trick": "WEATHERING the storm = surviving bad WEATHER.",
+    "examples": [
+      "It comes with the emotional turbulence of weathering rejections.",
+      "The small shop is weathering the slowdown well."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "weathering + a storm/crisis",
+      "partners": [
+        "weathering the storm",
+        "weathering a crisis",
+        "weathering rejections"
+      ]
+    }
+  },
+  {
+    "word": "weaved",
+    "memory": "zigzagged",
+    "meaning": "Moved in and out among things, changing direction often",
+    "hindi": "टेढ़े-मेढ़े चले, बल खाते निकले",
+    "trick": "WEAVED – like a thread WEAVING in and out of cloth.",
+    "examples": [
+      "Red Toyota trucks weaved through the streets.",
+      "The bike weaved through heavy traffic."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "weaved through/between + things",
+      "partners": [
+        "weaved through traffic",
+        "weaved between",
+        "weaved in and out"
+      ]
+    }
+  },
+  {
+    "word": "wedge",
+    "memory": "split, divider",
+    "meaning": "Something that divides people ('drive a ... between'); also a thick-to-thin block used to fill a gap or split things",
+    "hindi": "फूट, दरार; फन्नी",
+    "trick": "WEDGE – a wedge splits wood, and splits friends too.",
+    "examples": [
+      "It helped us drive a wedge between them and end the stalemate.",
+      "Money drove a wedge between the two brothers."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "drive a wedge between people",
+      "partners": [
+        "drive a wedge",
+        "heel wedge",
+        "wedge of cheese"
+      ]
+    }
+  },
+  {
+    "word": "wedlock",
+    "memory": "marriage",
+    "meaning": "The state of being married (formal); 'out of ...' = outside marriage",
+    "hindi": "विवाह, शादी का बंधन",
+    "trick": "WEDLOCK – WED and LOCKed together.",
+    "examples": [
+      "Jalil had relations with Nana out of wedlock.",
+      "They were joined in wedlock last spring."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "out of wedlock / in wedlock",
+      "partners": [
+        "out of wedlock",
+        "born out of wedlock",
+        "holy wedlock"
+      ]
+    }
+  },
+  {
+    "word": "wee",
+    "memory": "very early; small",
+    "meaning": "'The ... hours' = the very early hours after midnight; also (Scottish, informal) small",
+    "hindi": "तड़के; छोटा",
+    "trick": "WEE hours = tiny hours, very early.",
+    "examples": [
+      "That's why guys like me showed up in the wee hours.",
+      "I finished the book in the wee hours of the morning."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "in the wee hours (of the morning)",
+      "partners": [
+        "wee hours",
+        "wee small hours",
+        "a wee bit"
+      ]
+    }
+  },
+  {
+    "word": "weed",
+    "memory": "unwanted plant",
+    "meaning": "A wild plant growing where it is not wanted; used for someone treated as worthless",
+    "hindi": "जंगली घास, खरपतवार",
+    "trick": "WEED – you pull it out, nobody NEEDs it.",
+    "examples": [
+      "Jalil didn't treat her as a weed.",
+      "He pulled every weed from the garden."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "pull (up) a weed / treat someone as a weed",
+      "partners": [
+        "pull a weed",
+        "garden weed",
+        "grow like a weed"
+      ]
+    }
+  },
+  {
+    "word": "weeding",
+    "memory": "removing wild plants",
+    "meaning": "Removing unwanted wild plants from the ground",
+    "hindi": "निराई करना, खरपतवार हटाना",
+    "trick": "WEEDING – taking out the WEEDS.",
+    "examples": [
+      "The animals were weeding the turnip field.",
+      "Grandma spends her mornings weeding the garden."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "weeding + a field/garden / weeding out something",
+      "partners": [
+        "weeding the garden",
+        "weeding the field",
+        "weeding out"
+      ]
+    }
+  },
+  {
+    "word": "weeping",
+    "memory": "drooping; crying",
+    "meaning": "(of a tree) with branches hanging down, as in '... willow'; also crying",
+    "hindi": "झुकी डालियों वाला; रोता हुआ",
+    "trick": "A WEEPING willow's branches hang down like falling tears.",
+    "examples": [
+      "There was a circular grove of weeping willow trees.",
+      "A big weeping willow stands by the lake."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a weeping + willow / weeping (crying)",
+      "partners": [
+        "weeping willow",
+        "weeping softly",
+        "weeping fig"
+      ]
+    }
+  },
+  {
+    "word": "welfare",
+    "memory": "government aid",
+    "meaning": "Money and help from the government for poor people; also health, safety and happiness",
+    "hindi": "सरकारी सहायता; कल्याण",
+    "trick": "WELFARE – helps you FARE WELL.",
+    "examples": [
+      "We were once poor, surviving on welfare.",
+      "The family lived on welfare for a year."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "live on / be on welfare / the welfare of someone",
+      "partners": [
+        "on welfare",
+        "child welfare",
+        "welfare of"
+      ]
+    }
+  },
+  {
+    "word": "welled",
+    "memory": "filled up",
+    "meaning": "(of tears or liquid) rose up and filled",
+    "hindi": "भर आईं, उमड़ आईं",
+    "trick": "WELLED – water rises in a WELL; tears rise in eyes.",
+    "examples": [
+      "My eyes welled with tears.",
+      "Tears welled up in her eyes at the airport."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "eyes welled (up) with tears / tears welled up",
+      "partners": [
+        "welled up",
+        "welled with tears",
+        "eyes welled"
+      ]
+    }
+  },
+  {
+    "word": "welts",
+    "memory": "raised marks",
+    "meaning": "Raised red marks on the skin, from a hit or a bite",
+    "hindi": "सूजे निशान, चोट के निशान",
+    "trick": "WELTS – skin swells up like a belt mark.",
+    "examples": [
+      "I was covered in welts from my neck to my knees.",
+      "The mosquito bites left red welts on his arm."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "covered in welts / leave welts",
+      "partners": [
+        "red welts",
+        "covered in welts",
+        "leave welts"
+      ]
+    }
+  },
+  {
+    "word": "went by",
+    "memory": "passed",
+    "meaning": "(of time) passed",
+    "hindi": "बीत गई, गुज़र गई",
+    "trick": "WENT BY – time walked right past you.",
+    "examples": [
+      "After that I can't remember much; somehow the night went by.",
+      "The holidays went by so fast."
+    ],
+    "usage": {
+      "pos": "phrasal verb (past)",
+      "pattern": "time/days/the night went by",
+      "partners": [
+        "days went by",
+        "years went by",
+        "time went by"
+      ]
+    }
+  },
+  {
+    "word": "wept",
+    "memory": "cried",
+    "meaning": "Cried tears",
+    "hindi": "रोया, रोई",
+    "trick": "WEPT – past of WEEP, like keep/kept.",
+    "examples": [
+      "My mom wept as she parked next to their old wooden house.",
+      "She wept with joy at her son's wedding."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "wept (for/over someone or something) / wept with joy",
+      "partners": [
+        "wept openly",
+        "wept with joy",
+        "wept into his chest"
+      ]
+    }
+  },
+  {
+    "word": "westward",
+    "memory": "toward the west",
+    "meaning": "Moving or facing toward the west",
+    "hindi": "पश्चिम की ओर",
+    "trick": "WEST + WARD (direction) = toward the west.",
+    "examples": [
+      "With the sun's westward crawl, Mariam's anxiety really grew.",
+      "The birds flew westward before the storm."
+    ],
+    "usage": {
+      "pos": "adjective / adverb",
+      "pattern": "move/head westward / a westward + journey",
+      "partners": [
+        "head westward",
+        "westward journey",
+        "westward movement"
+      ]
+    }
+  },
+  {
+    "word": "whack",
+    "memory": "disorder; hard hit",
+    "meaning": "'Out of ...' (informal) = not working properly, out of order; also a hard hit",
+    "hindi": "गड़बड़ (बोलचाल); ज़ोरदार मार",
+    "trick": "Out of WHACK – like a machine that needs a WHACK to work again.",
+    "examples": [
+      "If our values are poorly chosen, everything else will be out of whack.",
+      "My sleep is out of whack after the long flight."
+    ],
+    "usage": {
+      "pos": "noun (informal)",
+      "pattern": "out of whack / give something a whack",
+      "partners": [
+        "out of whack",
+        "give it a whack",
+        "a good whack"
+      ]
+    }
+  },
+  {
+    "word": "whacked",
+    "memory": "hit, smacked",
+    "meaning": "Hit hard or sharply",
+    "hindi": "मारा, थप्पड़ मारा",
+    "trick": "WHACKED – the sound 'WHACK!' when you hit.",
+    "examples": [
+      "She kicked his shin, and he playfully whacked the back of her head.",
+      "He whacked the ball over the fence."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "whacked someone/something (on the head/with something)",
+      "partners": [
+        "whacked the ball",
+        "whacked on the head",
+        "playfully whacked"
+      ]
+    }
+  },
+  {
+    "word": "whacked out",
+    "memory": "crazy, odd",
+    "meaning": "(informal) crazy or very strange; also very tired",
+    "hindi": "पागल, सनकी (बोलचाल)",
+    "trick": "WHACKED OUT – like a head whacked too hard, acting crazy.",
+    "examples": [
+      "Most of the guys thought I was whacked out, but my old instructor loved it.",
+      "His plan sounded totally whacked out."
+    ],
+    "usage": {
+      "pos": "adjective (informal)",
+      "pattern": "be/seem whacked out",
+      "partners": [
+        "totally whacked out",
+        "whacked out idea",
+        "seem whacked out"
+      ]
+    }
+  },
+  {
+    "word": "wharves",
+    "memory": "landing places for ships",
+    "meaning": "Platforms by the water where ships load and unload (plural of wharf)",
+    "hindi": "घाट, बंदरगाह",
+    "trick": "WHARVES: ships park by the WHARF like cars in a garage; f→ves like leaf→leaves.",
+    "examples": [
+      "I was strolling slowly along the wharves in the cool evening.",
+      "Fishing boats were tied up at the wharves."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "along/on the wharves",
+      "partners": [
+        "along the wharves",
+        "busy wharves",
+        "old wharves"
+      ]
+    }
+  },
+  {
+    "word": "whatnot",
+    "memory": "other such things",
+    "meaning": "Informal: other things of the same kind; and so on",
+    "hindi": "वगैरह, ऐसी चीज़ें (बोलचाल)",
+    "trick": "WHAT-NOT = 'what else? not important' – etc.",
+    "examples": [
+      "Now and then she got a little present, a pair of stockings or whatnot.",
+      "The drawer was full of pens, keys and whatnot."
+    ],
+    "usage": {
+      "pos": "noun (informal)",
+      "pattern": "something, something and whatnot",
+      "partners": [
+        "and whatnot",
+        "or whatnot"
+      ]
+    }
+  },
+  {
+    "word": "wheelbarrow",
+    "memory": "one-wheeled cart",
+    "meaning": "A small cart with one wheel at the front and two handles, pushed by hand",
+    "hindi": "ठेला, एक पहिए की गाड़ी",
+    "trick": "WHEEL + BARROW (old word for a carrying frame) = a carrier on a wheel.",
+    "examples": [
+      "She remembered the sound of a wheelbarrow's squeaky iron wheels bouncing over rocks.",
+      "He moved the bricks in a wheelbarrow."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "push a wheelbarrow / carry something in a wheelbarrow",
+      "partners": [
+        "push a wheelbarrow",
+        "a wheelbarrow full of",
+        "garden wheelbarrow"
+      ]
+    }
+  },
+  {
+    "word": "wheezed",
+    "memory": "breathed noisily",
+    "meaning": "Breathed with a whistling, rough sound because the chest was tight",
+    "hindi": "घरघराहट से साँस ली",
+    "trick": "WHEEZE sounds like the air squeezing out: wheeeez.",
+    "examples": [
+      "The men wheezed and coughed, their eyes wide with fear.",
+      "The old man wheezed as he climbed the stairs."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "someone wheezed / wheezed and coughed",
+      "partners": [
+        "wheezed and coughed",
+        "wheezed loudly",
+        "wheezed for breath"
+      ]
+    }
+  },
+  {
+    "word": "wheezing",
+    "memory": "noisy breathing",
+    "meaning": "Breathing with a whistling, rough sound; also making such a sound",
+    "hindi": "घरघराहट, साँस की सीटी",
+    "trick": "WHEEZING = the whistle of a tight chest.",
+    "examples": [
+      "And then she was coughing and wheezing.",
+      "The child was wheezing because of his asthma."
+    ],
+    "usage": {
+      "pos": "verb (-ing form) / adjective",
+      "pattern": "be wheezing / a wheezing + noise/cough",
+      "partners": [
+        "wheezing noise",
+        "coughing and wheezing",
+        "start wheezing"
+      ]
+    }
+  },
+  {
+    "word": "whelped",
+    "memory": "gave birth (dog)",
+    "meaning": "(Of a dog or similar animal) gave birth to young",
+    "hindi": "(कुतिया ने) बच्चे दिए, ब्याई",
+    "trick": "WHELP = puppy; WHELPED = had puppies.",
+    "examples": [
+      "Jessie and Bluebell had both whelped, giving birth to nine sturdy puppies.",
+      "Our dog whelped six puppies last night."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "an animal whelped / whelped + number + puppies",
+      "partners": [
+        "whelped puppies",
+        "recently whelped",
+        "whelped a litter"
+      ]
+    }
+  },
+  {
+    "word": "whiff",
+    "memory": "faint smell",
+    "meaning": "A quick, faint smell of something; also a slight sign of something",
+    "hindi": "हल्की गंध, भभका",
+    "trick": "WHIFF – a quick sniff.",
+    "examples": [
+      "When they breezed by, Mariam caught a whiff of their perfume.",
+      "I caught a whiff of fresh bread from the bakery."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "catch/get a whiff of something",
+      "partners": [
+        "catch a whiff",
+        "a whiff of perfume",
+        "a whiff of smoke"
+      ]
+    }
+  },
+  {
+    "word": "whim",
+    "memory": "sudden wish",
+    "meaning": "A sudden wish or idea, often without a good reason",
+    "hindi": "सनक, मनमौज",
+    "trick": "WHIM – 'why him?' – no reason, just a sudden mood.",
+    "examples": [
+      "He surrounded the child with servants who catered to his every whim.",
+      "She bought the dress on a whim."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "on a whim / someone's every whim",
+      "partners": [
+        "on a whim",
+        "every whim",
+        "cater to someone's whims"
+      ]
+    }
+  },
+  {
+    "word": "whimper",
+    "memory": "weak crying sound",
+    "meaning": "A low, weak, crying sound made in pain or fear",
+    "hindi": "सिसकी, कराह",
+    "trick": "WHIMPER – a WHIMpering puppy: soft and weak.",
+    "examples": [
+      "The little girl let out a whimper when the needle went in.",
+      "The puppy gave a small whimper at the door."
+    ],
+    "usage": {
+      "pos": "noun / verb",
+      "pattern": "let out a whimper / whimper with pain",
+      "partners": [
+        "let out a whimper",
+        "soft whimper",
+        "whimper in fear"
+      ]
+    }
+  },
+  {
+    "word": "whined",
+    "memory": "made long sad sound",
+    "meaning": "(Of a dog) made a long, high, sad sound; also complained in an annoying way",
+    "hindi": "कूँ-कूँ की, रोया; शिकायत की",
+    "trick": "WHINE – a dog's high 'eeeee'; a child who WHINES is moaning too.",
+    "examples": [
+      "The cows lowed it, the dogs whined it, the sheep bleated it.",
+      "The dog whined at the door to go out."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "someone/an animal whined / whined about something",
+      "partners": [
+        "whined softly",
+        "whined at the door",
+        "whined about"
+      ]
+    }
+  },
+  {
+    "word": "whining",
+    "memory": "high sad noises",
+    "meaning": "Making long, high, unpleasant sounds; also complaining in an annoying way",
+    "hindi": "कूँ-कूँ, रोना-धोना",
+    "trick": "WHINING – like a dog's 'eeee' or a moaning child.",
+    "examples": [
+      "Khadim followed her in the schoolyard, making little whining noises.",
+      "Stop whining and finish your homework."
+    ],
+    "usage": {
+      "pos": "verb (-ing form) / adjective",
+      "pattern": "a whining + noise/voice / stop whining",
+      "partners": [
+        "whining noise",
+        "whining voice",
+        "stop whining"
+      ]
+    }
+  },
+  {
+    "word": "whinnied",
+    "memory": "neighed softly",
+    "meaning": "(Of a horse) made a soft, high neighing sound",
+    "hindi": "हिनहिनाया",
+    "trick": "WHINNIED – a horse goes 'whin-nee!'",
+    "examples": [
+      "The dogs whined it, the horses whinnied it, the ducks quacked it.",
+      "The horse whinnied when it saw the apple."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "a horse whinnied",
+      "partners": [
+        "horse whinnied",
+        "whinnied softly",
+        "whinnied loudly"
+      ]
+    }
+  },
+  {
+    "word": "whinnying",
+    "memory": "horse neighing",
+    "meaning": "The soft, high sound a horse makes",
+    "hindi": "हिनहिनाहट",
+    "trick": "WHINNYING – the horse's 'whin-nee' sound.",
+    "examples": [
+      "She could see tiny sheep and horses but couldn't hear their bleating and whinnying.",
+      "We heard the whinnying of horses in the stable."
+    ],
+    "usage": {
+      "pos": "noun / verb (-ing form)",
+      "pattern": "the whinnying of horses",
+      "partners": [
+        "whinnying of horses",
+        "loud whinnying",
+        "neighing and whinnying"
+      ]
+    }
+  },
+  {
+    "word": "whiny",
+    "memory": "complaining, moaning",
+    "meaning": "Informal: complaining a lot in an annoying, weak voice",
+    "hindi": "शिकायती, रोतला (बोलचाल)",
+    "trick": "WHINY = full of WHINES.",
+    "examples": [
+      "I sounded whiny, but I knew I needed some comfort.",
+      "The tired child was whiny all evening."
+    ],
+    "usage": {
+      "pos": "adjective (informal)",
+      "pattern": "be whiny / a whiny + person/voice",
+      "partners": [
+        "whiny voice",
+        "whiny child",
+        "sound whiny"
+      ]
+    }
+  },
+  {
+    "word": "whipcrack",
+    "memory": "sharp crack sound",
+    "meaning": "The sharp, loud sound of a whip; anything as sudden and sharp",
+    "hindi": "कोड़े की चटाक",
+    "trick": "WHIP + CRACK = the 'crack!' of a whip.",
+    "examples": [
+      "And so, with that crisp, whipcrack sound, it all began.",
+      "The door shut with a whipcrack bang."
+    ],
+    "usage": {
+      "pos": "noun / adjective",
+      "pattern": "a whipcrack + sound / with a whipcrack",
+      "partners": [
+        "whipcrack sound",
+        "a sharp whipcrack",
+        "whipcrack speed"
+      ]
+    }
+  },
+  {
+    "word": "whipped",
+    "memory": "moved suddenly",
+    "meaning": "Moved something quickly and suddenly; also hit with a whip, or beat (cream) fast",
+    "hindi": "झटके से घुमाया; कोड़े मारे, फेंटा",
+    "trick": "WHIP moves fast – she WHIPPED her head round.",
+    "examples": [
+      "Some days she whipped her head side to side when they tried to feed her.",
+      "He whipped around when he heard his name."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "whipped + something + round/around / whipped out something",
+      "partners": [
+        "whipped around",
+        "whipped out",
+        "whipped cream"
+      ]
+    }
+  },
+  {
+    "word": "whirred",
+    "memory": "buzzed softly",
+    "meaning": "Made a low, steady buzzing sound, like fast wings or a machine",
+    "hindi": "भिनभिनाया, घरघराया",
+    "trick": "WHIRR – the sound a fan or wings make: whirrrr.",
+    "examples": [
+      "A dragonfly whirred nearby.",
+      "The old fan whirred above our heads."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something whirred",
+      "partners": [
+        "whirred nearby",
+        "fan whirred",
+        "engine whirred"
+      ]
+    }
+  },
+  {
+    "word": "whirring",
+    "memory": "busy, buzzing",
+    "meaning": "Busy and active without stopping (of the mind); also making a steady buzzing sound",
+    "hindi": "लगातार चलता, घरघराता",
+    "trick": "WHIRRING – a mind spinning like a fan: whirrr.",
+    "examples": [
+      "Our minds are constantly whirring, making more and more connections.",
+      "I could hear the whirring of the washing machine."
+    ],
+    "usage": {
+      "pos": "verb (-ing form) / noun",
+      "pattern": "be whirring / the whirring of something",
+      "partners": [
+        "mind whirring",
+        "whirring sound",
+        "whirring fan"
+      ]
+    }
+  },
+  {
+    "word": "whisking",
+    "memory": "flicking quickly",
+    "meaning": "Moving something quickly with a light sweeping action; also beating eggs or cream fast",
+    "hindi": "झटकना, फुर्ती से हिलाना; फेंटना",
+    "trick": "WHISK – the kitchen whisk moves fast, so does the tail.",
+    "examples": [
+      "When he argued, he skipped from side to side, whisking his tail.",
+      "She was whisking eggs for an omelette."
+    ],
+    "usage": {
+      "pos": "verb (-ing form)",
+      "pattern": "whisking + something (off/away) / whisking eggs",
+      "partners": [
+        "whisking his tail",
+        "whisking eggs",
+        "whisking away"
+      ]
+    }
+  },
+  {
+    "word": "whittle",
+    "memory": "wear away slowly",
+    "meaning": "To use up or reduce something little by little; also to carve wood by cutting small pieces",
+    "hindi": "धीरे-धीरे गँवाना, घटाना; लकड़ी छीलना",
+    "trick": "WHITTLE – like a knife shaving wood, little by little.",
+    "examples": [
+      "Most people whittle their days away chasing a little more money or fame.",
+      "He likes to whittle small animals from wood."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "whittle away something / whittle something down",
+      "partners": [
+        "whittle away",
+        "whittle down",
+        "whittle wood"
+      ]
+    }
+  },
+  {
+    "word": "wholly",
+    "memory": "completely",
+    "meaning": "Completely; fully",
+    "hindi": "पूरी तरह, सर्वथा",
+    "trick": "WHOLLY = the WHOLE way.",
+    "examples": [
+      "In a criminal court the wholly passive idea of tolerance must give way to justice.",
+      "I wholly agree with you."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "wholly + adjective / wholly agree",
+      "partners": [
+        "wholly agree",
+        "wholly responsible",
+        "not wholly"
+      ]
+    }
+  },
+  {
+    "word": "whooshing",
+    "memory": "rushing sound",
+    "meaning": "Moving fast with a soft rushing sound, like air or water",
+    "hindi": "सरसराहट, सनसनाहट",
+    "trick": "WHOOSH – the sound air makes rushing past.",
+    "examples": [
+      "Was he listening to the air whooshing in and out of her nose?",
+      "Cars went whooshing past on the highway."
+    ],
+    "usage": {
+      "pos": "verb (-ing form) / adjective",
+      "pattern": "something whooshing + in/past/by",
+      "partners": [
+        "whooshing sound",
+        "whooshing past",
+        "whooshing wind"
+      ]
+    }
+  },
+  {
+    "word": "wick",
+    "memory": "lamp/candle string",
+    "meaning": "The string in a candle or lamp that you light",
+    "hindi": "बत्ती",
+    "trick": "WICK – the stick-like thread you lick with flame.",
+    "examples": [
+      "The lamp was smoking, so he stopped pacing to lower the wick.",
+      "She trimmed the wick of the candle."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "light/trim/lower the wick",
+      "partners": [
+        "candle wick",
+        "trim the wick",
+        "lower the wick"
+      ]
+    }
+  },
+  {
+    "word": "wicked",
+    "memory": "terrible, fierce",
+    "meaning": "Informal: very bad, strong or fierce; also evil or morally wrong",
+    "hindi": "भयंकर, ज़बरदस्त; दुष्ट",
+    "trick": "WICKED witch – evil; a WICKED tantrum – very fierce.",
+    "examples": [
+      "Zalmai threw a wicked tantrum when Rasheed sold the TV.",
+      "She has a wicked temper when she is hungry."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a wicked + tantrum/temper / wicked + person",
+      "partners": [
+        "wicked tantrum",
+        "wicked witch",
+        "wicked sense of humour"
+      ]
+    }
+  },
+  {
+    "word": "wicker",
+    "memory": "woven twigs",
+    "meaning": "Thin twigs or canes woven together to make baskets or furniture",
+    "hindi": "बेंत, बुनी टहनियाँ",
+    "trick": "WICKER – woven like a WICKER basket of sticks.",
+    "examples": [
+      "In the yard, Aziza lay in a wicker cradle, dressed in layers of clothing.",
+      "We sat on wicker chairs on the porch."
+    ],
+    "usage": {
+      "pos": "noun / adjective",
+      "pattern": "wicker + basket/chair",
+      "partners": [
+        "wicker basket",
+        "wicker chair",
+        "wicker furniture"
+      ]
+    }
+  },
+  {
+    "word": "widow",
+    "memory": "v-shaped hairline; husbandless woman",
+    "meaning": "In \"...'s peak\": a V-shaped point of hair in the middle of the forehead; also a woman whose husband has died",
+    "hindi": "माथे पर नुकीली हेयरलाइन; विधवा",
+    "trick": "WIDOW ~ VIDHWA (विधवा) – sounds alike.",
+    "examples": [
+      "She would see his wide, crooked smile, his widow's peak, his cleft chin.",
+      "After her husband died, the widow lived alone."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a widow / a widow's peak",
+      "partners": [
+        "widow's peak",
+        "young widow",
+        "left a widow"
+      ]
+    }
+  },
+  {
+    "word": "wig",
+    "memory": "false hair",
+    "meaning": "A cover of false or real hair worn on the head",
+    "hindi": "नकली बाल, विग",
+    "trick": "WIG sits on the head like a BIG hat of hair.",
+    "examples": [
+      "The actor wore a long black wig in the play.",
+      "She bought a wig after losing her hair."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "wear a wig / put on a wig",
+      "partners": [
+        "wear a wig",
+        "curly wig",
+        "put on a wig"
+      ]
+    }
+  },
+  {
+    "word": "willows",
+    "memory": "weeping trees",
+    "meaning": "Trees with long, thin, hanging branches, often found near water",
+    "hindi": "बेंत के पेड़, विलो वृक्ष",
+    "trick": "WILLOWS weep – their branches droop down like tears.",
+    "examples": [
+      "In the center, in the shade of the willows, was the clearing.",
+      "Ducks swam under the willows by the river."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "in the shade of the willows / under the willows",
+      "partners": [
+        "weeping willows",
+        "shade of the willows",
+        "circle of willows"
+      ]
+    }
+  },
+  {
+    "word": "winced",
+    "memory": "flinched in pain",
+    "meaning": "Made a quick face or small movement because of pain or something unpleasant",
+    "hindi": "सिकुड़ा, (दर्द से) मुँह बनाया",
+    "trick": "WINCED – 'wince' sounds like 'ouch-since' – a quick ouch face.",
+    "examples": [
+      "He took one look at her and winced with distaste.",
+      "I winced when the doctor gave me the injection."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "someone winced (at/with something)",
+      "partners": [
+        "winced in pain",
+        "winced at",
+        "winced slightly"
+      ]
+    }
+  },
+  {
+    "word": "winches",
+    "memory": "lifting machines",
+    "meaning": "Machines that lift or pull heavy things by winding a rope or chain around a drum",
+    "hindi": "चरखी, भार उठाने की मशीनें",
+    "trick": "WINCH – it WINDS the rope to lift the load.",
+    "examples": [
+      "We rushed along the water front, among cranes and winches.",
+      "The boat was pulled out of the water with winches."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "cranes and winches / pull something with a winch",
+      "partners": [
+        "cranes and winches",
+        "electric winches",
+        "heavy winches"
+      ]
+    }
+  },
+  {
+    "word": "wincing",
+    "memory": "flinching",
+    "meaning": "Making a quick face or small movement because of pain or something unpleasant",
+    "hindi": "सिकुड़ना, मुँह बनाना",
+    "trick": "WINCING – a quick 'ouch' face.",
+    "examples": [
+      "Laila couldn't help wincing and pulling back.",
+      "He kept wincing as he walked on his hurt ankle."
+    ],
+    "usage": {
+      "pos": "verb (-ing form)",
+      "pattern": "be wincing (in pain) / without wincing",
+      "partners": [
+        "wincing in pain",
+        "wincing slightly",
+        "without wincing"
+      ]
+    }
+  },
+  {
+    "word": "windfalls",
+    "memory": "fallen fruit; unexpected money",
+    "meaning": "Fruit blown down from a tree by the wind; also money or luck you did not expect",
+    "hindi": "हवा से गिरे फल; अचानक मिला धन",
+    "trick": "WIND + FALLS = what the wind makes fall.",
+    "examples": [
+      "The grass of the orchard was littered with windfalls.",
+      "The children collected windfalls under the apple tree."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "collect windfalls / a windfall of + money",
+      "partners": [
+        "apple windfalls",
+        "collect windfalls",
+        "unexpected windfalls"
+      ]
+    }
+  },
+  {
+    "word": "winding",
+    "memory": "ending slowly",
+    "meaning": "In \"... down\": coming slowly to an end; also having many bends and turns",
+    "hindi": "धीरे-धीरे ख़त्म होता; घुमावदार",
+    "trick": "WINDING DOWN – like a clock spring slowly stopping.",
+    "examples": [
+      "The clock was winding down on his effort to win again.",
+      "The party was winding down by midnight."
+    ],
+    "usage": {
+      "pos": "verb (-ing form)",
+      "pattern": "something is winding down / a winding + road/path",
+      "partners": [
+        "winding down",
+        "winding road",
+        "winding path"
+      ]
+    }
+  },
+  {
+    "word": "windless",
+    "memory": "still, no wind",
+    "meaning": "Having no wind; calm and still",
+    "hindi": "बिना हवा का, शांत",
+    "trick": "WIND + LESS = no wind.",
+    "examples": [
+      "The air was windless and smelled like burning coal.",
+      "It was a hot, windless afternoon."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a windless + day/night / be windless",
+      "partners": [
+        "windless day",
+        "windless night",
+        "still and windless"
+      ]
+    }
+  },
+  {
+    "word": "windmill",
+    "memory": "wind-powered mill",
+    "meaning": "A building or tower with large blades that the wind turns to make power or grind grain",
+    "hindi": "पवनचक्की",
+    "trick": "WIND + MILL = a mill run by wind.",
+    "examples": [
+      "Long live the windmill!",
+      "The old windmill still turns on windy days."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "build a windmill / an old windmill",
+      "partners": [
+        "old windmill",
+        "build a windmill",
+        "windmill blades"
+      ]
+    }
+  },
+  {
+    "word": "windowsill",
+    "memory": "window ledge",
+    "meaning": "The flat shelf at the bottom of a window",
+    "hindi": "खिड़की की चौखट, खिड़की की पट्टी",
+    "trick": "WINDOW + SILL = the shelf under the window.",
+    "examples": [
+      "If it was raining, they leaned on the windowsill and watched the rain drops.",
+      "The cat sleeps on the windowsill in the sun."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "on the windowsill",
+      "partners": [
+        "on the windowsill",
+        "lean on the windowsill",
+        "kitchen windowsill"
+      ]
+    }
+  },
+  {
+    "word": "windshield",
+    "memory": "car front glass",
+    "meaning": "US spelling: the glass window at the front of a car (British: windscreen)",
+    "hindi": "गाड़ी का अगला शीशा",
+    "trick": "WIND + SHIELD = shields you from the wind.",
+    "examples": [
+      "Oh, I broke your windshield, but I was really mad.",
+      "Rain ran down the windshield as we drove."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a cracked/broken windshield / clean the windshield",
+      "partners": [
+        "cracked windshield",
+        "windshield wipers",
+        "clean the windshield"
+      ]
+    }
+  },
+  {
+    "word": "windward",
+    "memory": "facing the wind",
+    "meaning": "On the side facing the wind",
+    "hindi": "हवा की ओर वाला",
+    "trick": "WIND + WARD (towards) = toward the wind.",
+    "examples": [
+      "The wind whips up sand off the shallow, windward slopes.",
+      "The trees on the windward side of the hill are bent."
+    ],
+    "usage": {
+      "pos": "adjective / adverb",
+      "pattern": "the windward + side/slope",
+      "partners": [
+        "windward side",
+        "windward slopes",
+        "windward coast"
+      ]
+    }
+  },
+  {
+    "word": "winging",
+    "memory": "improvising",
+    "meaning": "In \"... it\": doing something without planning or preparing (informal)",
+    "hindi": "बिना तैयारी के करना (बोलचाल)",
+    "trick": "WINGING IT – flapping your WINGS and hoping to fly.",
+    "examples": [
+      "I was winging it for real.",
+      "I didn't prepare my speech, so I'm winging it."
+    ],
+    "usage": {
+      "pos": "verb (-ing form, informal)",
+      "pattern": "be winging it",
+      "partners": [
+        "winging it",
+        "just winging it"
+      ]
+    }
+  },
+  {
+    "word": "winked",
+    "memory": "flashed, gleamed",
+    "meaning": "(Of a light or feeling) shone or flashed briefly; also closed one eye quickly as a signal",
+    "hindi": "चमका, झलका; आँख मारी",
+    "trick": "WINK – a quick flash, like an eye blinking.",
+    "examples": [
+      "Suspicion and doubt winked out of his eyes.",
+      "He winked at me to show he was joking."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something winked (out of something) / winked at someone",
+      "partners": [
+        "winked at",
+        "winked slyly",
+        "lights winked"
+      ]
+    }
+  },
+  {
+    "word": "winnow",
+    "memory": "sift, separate",
+    "meaning": "To separate the good or true from the bad or false; also to blow chaff away from grain",
+    "hindi": "छाँटना, अलग करना; फटकना",
+    "trick": "WINNOW – wind blows the chaff away; WIN the grain.",
+    "examples": [
+      "They use new information to winnow true ideas from false ones.",
+      "Farmers winnow rice to remove the husk."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "winnow something from something / winnow something down",
+      "partners": [
+        "winnow out",
+        "winnow down",
+        "winnow grain"
+      ]
+    }
+  },
+  {
+    "word": "wiry",
+    "memory": "stiff, coarse",
+    "meaning": "(Of hair) stiff and rough like wire; also (of a person) thin but strong",
+    "hindi": "सख़्त, खुरदुरा; दुबला-पतला मज़बूत",
+    "trick": "WIRY = like WIRE.",
+    "examples": [
+      "She had short, wiry black hair and a round, friendly face.",
+      "The wiry old farmer could lift heavy sacks."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "wiry + hair / a wiry + person/build",
+      "partners": [
+        "wiry hair",
+        "wiry build",
+        "small and wiry"
+      ]
+    }
+  },
+  {
+    "word": "wisps",
+    "memory": "thin strands",
+    "meaning": "Small thin pieces of hair, smoke or cloud",
+    "hindi": "लटें, पतली लकीरें",
+    "trick": "WISP – a whisper of hair or smoke.",
+    "examples": [
+      "His red ears were framed in wisps of silky white hair.",
+      "Wisps of smoke rose from the fire."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "wisps of + hair/smoke/cloud",
+      "partners": [
+        "wisps of hair",
+        "wisps of smoke",
+        "wisps of cloud"
+      ]
+    }
+  },
+  {
+    "word": "wistful",
+    "memory": "sadly longing",
+    "meaning": "Sadly thinking about something you had or want",
+    "hindi": "हसरत भरा, उदास-सा",
+    "trick": "WISTFUL – WISHFUL + sad.",
+    "examples": [
+      "Mariam could tell by the wistful light in her eyes that she had been happy.",
+      "He gave a wistful smile as he looked at old photos."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a wistful + smile/look / feel wistful",
+      "partners": [
+        "wistful smile",
+        "wistful look",
+        "wistful voice"
+      ]
+    }
+  },
+  {
     "word": "with one accord",
     "memory": "all agreeing",
     "meaning": "Everyone agreeing together; all at the same time",
@@ -16,6 +1974,663 @@
         "agreed with one accord",
         "stood up with one accord",
         "with one accord, they cheered"
+      ]
+    }
+  },
+  {
+    "word": "withered",
+    "memory": "faded, shrunken",
+    "meaning": "Dried up, shrunken and looking old or weak",
+    "hindi": "मुरझाया, सूखा",
+    "trick": "WITHERED – flowers WITHER without water.",
+    "examples": [
+      "She was ashamed of her withered looks and swollen lip.",
+      "The withered plants needed water."
+    ],
+    "usage": {
+      "pos": "adjective / verb (past)",
+      "pattern": "withered + looks/leaves / something withered",
+      "partners": [
+        "withered leaves",
+        "withered hands",
+        "withered flowers"
+      ]
+    }
+  },
+  {
+    "word": "without further ado",
+    "memory": "right away",
+    "meaning": "Immediately, without any more delay or talk",
+    "hindi": "बिना देर किए, तुरंत",
+    "trick": "ADO = fuss; no more ADO – just DO it.",
+    "examples": [
+      "Without further ado, let me begin.",
+      "Without further ado, here is our winner!"
+    ],
+    "usage": {
+      "pos": "phrase",
+      "pattern": "without further ado, + clause",
+      "partners": [
+        "and so, without further ado",
+        "let's begin without further ado"
+      ]
+    }
+  },
+  {
+    "word": "wits",
+    "memory": "clear thinking",
+    "meaning": "The ability to think quickly and clearly; mind or sense",
+    "hindi": "होश, समझ, सूझबूझ",
+    "trick": "WITS – WIT keeps you sharp; lose your wits = lose your head.",
+    "examples": [
+      "To be terrified and still have your wits about you shows courage.",
+      "We were tired and at our wits' end."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "have your wits about you / at your wits' end",
+      "partners": [
+        "keep your wits about you",
+        "at your wits' end",
+        "scared out of your wits"
+      ]
+    }
+  },
+  {
+    "word": "wobbled",
+    "memory": "shook unsteadily",
+    "meaning": "Moved unsteadily from side to side",
+    "hindi": "डगमगाया, हिला",
+    "trick": "WOBBLE – a jelly that wobbles.",
+    "examples": [
+      "The world wobbled on its axis.",
+      "The table wobbled when I leaned on it."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something wobbled",
+      "partners": [
+        "wobbled slightly",
+        "table wobbled",
+        "wobbled on"
+      ]
+    }
+  },
+  {
+    "word": "wobbling",
+    "memory": "moving unsteadily",
+    "meaning": "Moving unsteadily from side to side",
+    "hindi": "डगमगाता, हिलता-डुलता",
+    "trick": "WOBBLING – a jelly wobbling on a plate.",
+    "examples": [
+      "I saw him as a blurred dark form wobbling in the heat haze.",
+      "The child was wobbling on his new bicycle."
+    ],
+    "usage": {
+      "pos": "verb (-ing form)",
+      "pattern": "something is wobbling / wobbling on something",
+      "partners": [
+        "wobbling about",
+        "wobbling on",
+        "wobbling legs"
+      ]
+    }
+  },
+  {
+    "word": "wobbly",
+    "memory": "weak, unsteady",
+    "meaning": "Weak and unsteady; shaking or likely to fall",
+    "hindi": "कमज़ोर, डगमग",
+    "trick": "WOBBLY = it WOBBLES.",
+    "examples": [
+      "I still had stress fractures in my feet and my ankle tendons were wobbly.",
+      "My legs felt wobbly after the long run."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "feel/be wobbly / a wobbly + chair/table",
+      "partners": [
+        "wobbly legs",
+        "wobbly table",
+        "feel wobbly"
+      ]
+    }
+  },
+  {
+    "word": "woebegone",
+    "memory": "very sad",
+    "meaning": "Looking very sad and miserable",
+    "hindi": "बेहद उदास, दुखी",
+    "trick": "WOE-BEGONE – full of WOE (sorrow).",
+    "examples": [
+      "With a woebegone expression on his face, he asked if she needed anything.",
+      "The lost puppy looked woebegone in the rain."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a woebegone + look/expression / look woebegone",
+      "partners": [
+        "woebegone expression",
+        "woebegone look",
+        "look woebegone"
+      ]
+    }
+  },
+  {
+    "word": "wolf down",
+    "memory": "eat fast, gobble",
+    "meaning": "To eat food very quickly and greedily",
+    "hindi": "जल्दी-जल्दी निगलना, भकोसना",
+    "trick": "A hungry WOLF gulps its food DOWN.",
+    "examples": [
+      "The waiter brought the starter, which she began to wolf down hungrily.",
+      "The boys wolf down their lunch in five minutes."
+    ],
+    "usage": {
+      "pos": "phrasal verb",
+      "pattern": "wolf down something / wolf something down",
+      "partners": [
+        "wolf down food",
+        "wolf down a meal",
+        "wolf it down"
+      ]
+    }
+  },
+  {
+    "word": "wolfish",
+    "memory": "fierce, greedy",
+    "meaning": "Like a wolf: fierce, hungry or threatening",
+    "hindi": "भेड़िये जैसा, लालची",
+    "trick": "WOLFISH = like a WOLF.",
+    "examples": [
+      "The guards leered in with their red eyes and wolfish smiles.",
+      "He gave the cake a wolfish look."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a wolfish + grin/smile/look",
+      "partners": [
+        "wolfish grin",
+        "wolfish smile",
+        "wolfish look"
+      ]
+    }
+  },
+  {
+    "word": "wonky",
+    "memory": "odd, strange",
+    "meaning": "Informal: a bit odd or strange; also crooked or not working properly",
+    "hindi": "अजीब; टेढ़ा, ख़राब (बोलचाल)",
+    "trick": "WONKY – sounds like WONKY-DONKEY: a bit off.",
+    "examples": [
+      "It sounds wonky, but this way of life has some benefits.",
+      "The picture on the wall is a bit wonky."
+    ],
+    "usage": {
+      "pos": "adjective (informal)",
+      "pattern": "sound/look wonky / a wonky + thing",
+      "partners": [
+        "sounds wonky",
+        "wonky wheel",
+        "a bit wonky"
+      ]
+    }
+  },
+  {
+    "word": "woodpecker",
+    "memory": "wood-pecking bird",
+    "meaning": "A bird that pecks holes in tree trunks with its strong beak",
+    "hindi": "कठफोड़वा",
+    "trick": "WOOD + PECKER = pecks the wood.",
+    "examples": [
+      "You will always have weaknesses to work on if you want to be as hard as woodpecker lips.",
+      "A woodpecker was tapping on the old tree."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a woodpecker + pecks/taps",
+      "partners": [
+        "woodpecker tapping",
+        "green woodpecker",
+        "woodpecker beak"
+      ]
+    }
+  },
+  {
+    "word": "woozy",
+    "memory": "dizzy",
+    "meaning": "Informal: dizzy, weak and unable to think clearly",
+    "hindi": "चक्कर, सुस्ती (बोलचाल)",
+    "trick": "WOOZY – sounds like 'oozy': your head feels oozy.",
+    "examples": [
+      "I felt woozy as my mother seemed to float above the table.",
+      "The medicine made me feel woozy."
+    ],
+    "usage": {
+      "pos": "adjective (informal)",
+      "pattern": "feel/be woozy",
+      "partners": [
+        "feel woozy",
+        "a bit woozy",
+        "woozy from"
+      ]
+    }
+  },
+  {
+    "word": "wore on",
+    "memory": "passed slowly",
+    "meaning": "(Of time) passed, often slowly",
+    "hindi": "(समय) बीतता गया",
+    "trick": "Time WORE ON like shoes wearing out slowly.",
+    "examples": [
+      "As the weeks wore on, I got used to the Russian frankness.",
+      "As the night wore on, the guests grew tired."
+    ],
+    "usage": {
+      "pos": "phrasal verb (past)",
+      "pattern": "as the + time + wore on",
+      "partners": [
+        "as the day wore on",
+        "as the weeks wore on",
+        "the night wore on"
+      ]
+    }
+  },
+  {
+    "word": "world-spinning",
+    "memory": "world-changing",
+    "meaning": "Informal: so important it could change the world (often said with doubt)",
+    "hindi": "दुनिया बदल देने वाला",
+    "trick": "WORLD-SPINNING – so big it makes the world spin.",
+    "examples": [
+      "He would tell you how world-spinning his work was.",
+      "She thinks every idea she has is world-spinning."
+    ],
+    "usage": {
+      "pos": "adjective (informal)",
+      "pattern": "how world-spinning something is / a world-spinning + idea",
+      "partners": [
+        "world-spinning idea",
+        "world-spinning work"
+      ]
+    }
+  },
+  {
+    "word": "worldly",
+    "memory": "material, earthly",
+    "meaning": "Of material things and life on earth rather than spiritual matters; also experienced in life",
+    "hindi": "सांसारिक, भौतिक; दुनियादार",
+    "trick": "WORLD-LY = of this WORLD, not of heaven.",
+    "examples": [
+      "People who chase worldly pleasures suffer because of them.",
+      "He gave away all his worldly goods."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "worldly + pleasures/goods/knowledge",
+      "partners": [
+        "worldly pleasures",
+        "worldly goods",
+        "worldly knowledge"
+      ]
+    }
+  },
+  {
+    "word": "worn",
+    "memory": "tired out",
+    "meaning": "Very tired; also damaged from long use",
+    "hindi": "थका हुआ, बेदम; घिसा हुआ",
+    "trick": "WORN like old shoes – used up.",
+    "examples": [
+      "Mentally, I was worn to the nub.",
+      "After the long trip, we were worn out."
+    ],
+    "usage": {
+      "pos": "adjective / verb (past participle)",
+      "pattern": "be worn (out) / worn + noun",
+      "partners": [
+        "worn out",
+        "worn to the nub",
+        "worn clothes"
+      ]
+    }
+  },
+  {
+    "word": "worse",
+    "memory": "even more bad",
+    "meaning": "In \"or ...\": something even more bad; also more bad than before",
+    "hindi": "इससे भी बुरा, बदतर",
+    "trick": "WORSE – bad, worse, worst.",
+    "examples": [
+      "He made money by borrowing from people or, worse, taking credit for their ideas.",
+      "The rain made the traffic even worse."
+    ],
+    "usage": {
+      "pos": "adjective / adverb",
+      "pattern": "or worse, + clause / get worse",
+      "partners": [
+        "or worse",
+        "get worse",
+        "even worse"
+      ]
+    }
+  },
+  {
+    "word": "wound",
+    "memory": "tense, worked up",
+    "meaning": "In \"... up\": nervous, upset or angry; also wrapped round (past of wind)",
+    "hindi": "तनाव में, उत्तेजित; लपेटा",
+    "trick": "WOUND UP – like a clock spring, wound tight.",
+    "examples": [
+      "Once they label their feelings, they can talk about them without getting wound up.",
+      "She was so wound up before the exam that she couldn't sleep."
+    ],
+    "usage": {
+      "pos": "adjective / verb (past participle)",
+      "pattern": "get wound up / tightly wound",
+      "partners": [
+        "wound up",
+        "tightly wound",
+        "wound round"
+      ]
+    }
+  },
+  {
+    "word": "wounded",
+    "memory": "hurt, upset",
+    "meaning": "Showing hurt feelings; also injured",
+    "hindi": "आहत, दुखी; घायल",
+    "trick": "WOUNDED – a hurt feeling is a wound too.",
+    "examples": [
+      "He gave her a wounded look.",
+      "She felt wounded by his harsh words."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a wounded + look/pride / feel wounded",
+      "partners": [
+        "wounded look",
+        "wounded pride",
+        "badly wounded"
+      ]
+    }
+  },
+  {
+    "word": "woven",
+    "memory": "knitted together",
+    "meaning": "Made by crossing threads or strips over and under each other",
+    "hindi": "बुना हुआ",
+    "trick": "WOVEN – past of WEAVE: weave, wove, woven.",
+    "examples": [
+      "The bed had a blanket knit in a tightly woven, honeycomb design.",
+      "She carried a basket woven from grass."
+    ],
+    "usage": {
+      "pos": "adjective / verb (past participle)",
+      "pattern": "woven + from/of something / tightly woven",
+      "partners": [
+        "tightly woven",
+        "hand-woven",
+        "woven basket"
+      ]
+    }
+  },
+  {
+    "word": "wrangle",
+    "memory": "obtain with effort",
+    "meaning": "To get something by long arguing or hard work; also to argue",
+    "hindi": "जुगाड़ करना, मशक्कत से पाना; झगड़ना",
+    "trick": "WRANGLE – WRestle + tANGLE to get what you want.",
+    "examples": [
+      "To hold the race, he had to wrangle permissions from five government agencies.",
+      "She managed to wrangle two free tickets."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "wrangle something from someone / wrangle over something",
+      "partners": [
+        "wrangle permission",
+        "wrangle a deal",
+        "wrangle over money"
+      ]
+    }
+  },
+  {
+    "word": "wrath",
+    "memory": "great anger",
+    "meaning": "Very great anger",
+    "hindi": "क्रोध, प्रकोप",
+    "trick": "WRATH – rhymes with BATH: a hot bath of anger.",
+    "examples": [
+      "Rather than face his father's wrath, he decided to get away.",
+      "The boy feared his mother's wrath."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "someone's wrath / face the wrath of someone",
+      "partners": [
+        "father's wrath",
+        "face the wrath",
+        "incur the wrath"
+      ]
+    }
+  },
+  {
+    "word": "wreaking",
+    "memory": "causing",
+    "meaning": "Causing (great damage or harm)",
+    "hindi": "मचाना, ढाना",
+    "trick": "WREAKING havoc – WRECKING things.",
+    "examples": [
+      "The drought was wreaking havoc everywhere.",
+      "The storm is wreaking havoc on the coast."
+    ],
+    "usage": {
+      "pos": "verb (-ing form)",
+      "pattern": "wreaking havoc on something",
+      "partners": [
+        "wreaking havoc",
+        "wreaking damage",
+        "wreaking revenge"
+      ]
+    }
+  },
+  {
+    "word": "wreck",
+    "memory": "mess, ruin",
+    "meaning": "A person or life in a very bad, messy state; also a badly damaged vehicle or ship",
+    "hindi": "बरबाद, तबाही; मलबा",
+    "trick": "WRECK – a wrecked car, a wrecked life.",
+    "examples": [
+      "My life was more or less a wreck the whole time.",
+      "After the exams, I was a nervous wreck."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "be a wreck / a nervous wreck",
+      "partners": [
+        "nervous wreck",
+        "total wreck",
+        "car wreck"
+      ]
+    }
+  },
+  {
+    "word": "wrench",
+    "memory": "painful parting",
+    "meaning": "A painful feeling of sadness at leaving someone or something; also a tool for turning nuts",
+    "hindi": "दुखद बिछड़न; पाना (औज़ार)",
+    "trick": "WRENCH – your heart is twisted like a nut.",
+    "examples": [
+      "Leaving home would have been a wrench.",
+      "It was a real wrench to say goodbye to my friends."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "be a wrench (to do something)",
+      "partners": [
+        "a real wrench",
+        "a painful wrench",
+        "a wrench to leave"
+      ]
+    }
+  },
+  {
+    "word": "wretched",
+    "memory": "miserable, bad",
+    "meaning": "Very bad, miserable or unpleasant",
+    "hindi": "अभागा, नीच, बेचारा",
+    "trick": "WRETCHED – a WRETCH feels wretched.",
+    "examples": [
+      "A man's heart is a wretched, wretched thing.",
+      "I felt wretched after the fight with my friend."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "feel wretched / a wretched + thing/person",
+      "partners": [
+        "feel wretched",
+        "wretched life",
+        "wretched weather"
+      ]
+    }
+  },
+  {
+    "word": "wriggle",
+    "memory": "twist and squirm",
+    "meaning": "To twist and turn your body quickly, often to get free",
+    "hindi": "छटपटाना, कसमसाना",
+    "trick": "WRIGGLE – a WORM wriggles.",
+    "examples": [
+      "She was trying to wriggle free of his hands.",
+      "The baby tried to wriggle out of his jacket."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "wriggle free / wriggle out of something",
+      "partners": [
+        "wriggle free",
+        "wriggle out of",
+        "wriggle about"
+      ]
+    }
+  },
+  {
+    "word": "wriggled",
+    "memory": "twisted, squirmed",
+    "meaning": "Twisted and turned the body quickly",
+    "hindi": "छटपटाया, कसमसाया",
+    "trick": "WRIGGLED – like a worm.",
+    "examples": [
+      "The fish wriggled and shifted in his hands.",
+      "The little boy wriggled in his seat."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "someone wriggled (free/out of something)",
+      "partners": [
+        "wriggled free",
+        "wriggled out",
+        "wriggled in his seat"
+      ]
+    }
+  },
+  {
+    "word": "wringing",
+    "memory": "squeezing out",
+    "meaning": "Twisting and squeezing something to get water out",
+    "hindi": "निचोड़ना",
+    "trick": "WRING – twist a RING of cloth to squeeze it.",
+    "examples": [
+      "Her pink hands were wringing soapy water from one of the shirts.",
+      "She was wringing out the wet towel."
+    ],
+    "usage": {
+      "pos": "verb (-ing form)",
+      "pattern": "wringing (out) something / wringing water from something",
+      "partners": [
+        "wringing out",
+        "wringing wet",
+        "wringing her hands"
+      ]
+    }
+  },
+  {
+    "word": "writhing",
+    "memory": "squirming, crawling",
+    "meaning": "Twisting and turning; (of a place) full of moving creatures",
+    "hindi": "छटपटाता, कुलबुलाता",
+    "trick": "WRITHING – like a snake twisting.",
+    "examples": [
+      "The floor was writhing with them.",
+      "The pot was writhing with worms."
+    ],
+    "usage": {
+      "pos": "verb (-ing form)",
+      "pattern": "be writhing with something / writhing in pain",
+      "partners": [
+        "writhing with",
+        "writhing in pain",
+        "writhing snakes"
+      ]
+    }
+  },
+  {
+    "word": "wrung",
+    "memory": "exhausted",
+    "meaning": "In \"... out\": extremely tired; also squeezed water out (past of wring)",
+    "hindi": "थका-हारा, निढाल; निचोड़ा",
+    "trick": "WRUNG out like a wet cloth.",
+    "examples": [
+      "I felt dead and buried, dehydrated and wrung out.",
+      "After the long day, she felt wrung out."
+    ],
+    "usage": {
+      "pos": "adjective / verb (past participle)",
+      "pattern": "feel wrung out / wrung out something",
+      "partners": [
+        "wrung out",
+        "feel wrung out",
+        "wrung her hands"
+      ]
+    }
+  },
+  {
+    "word": "wry",
+    "memory": "dry, mocking",
+    "meaning": "Showing dry, slightly mocking humour",
+    "hindi": "व्यंग्यपूर्ण, हल्का तंज़ भरा",
+    "trick": "WRY – a WRY smile is a little twisted.",
+    "examples": [
+      "The instructor nodded with a wry smile.",
+      "He made a wry joke about his bad luck."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a wry + smile/humour/look",
+      "partners": [
+        "wry smile",
+        "wry humour",
+        "wry look"
+      ]
+    }
+  },
+  {
+    "word": "wussed",
+    "memory": "chickened out",
+    "meaning": "Informal: backed out of something because of fear",
+    "hindi": "डर के पीछे हट गया (बोलचाल)",
+    "trick": "WUSS = a weakling; WUSSED out = acted like one.",
+    "examples": [
+      "Sometimes I wussed out and had to face myself in the mirror.",
+      "He wussed out of the bungee jump at the last minute."
+    ],
+    "usage": {
+      "pos": "verb (past, informal)",
+      "pattern": "wussed out (of something)",
+      "partners": [
+        "wussed out",
+        "wussed out of"
       ]
     }
   }

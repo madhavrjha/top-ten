@@ -1,0 +1,2775 @@
+[
+  {
+    "word": "laborious",
+    "memory": "full of hard work",
+    "meaning": "Needing or involving a lot of hard, tiring work",
+    "hindi": "मेहनत भरा, कष्टसाध्य",
+    "trick": "LABORIOUS = full of LABOUR.",
+    "examples": [
+      "Our lives are miserable, laborious, and short.",
+      "Copying the book by hand was a laborious job."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a laborious + task/process",
+      "partners": [
+        "laborious task",
+        "laborious process",
+        "slow and laborious"
+      ]
+    }
+  },
+  {
+    "word": "labour",
+    "memory": "hard work, toil",
+    "meaning": "Hard physical work (British spelling; US 'labor'); also workers, or giving birth",
+    "hindi": "मेहनत, श्रम",
+    "trick": "LABOUR = LAB work that is hard.",
+    "examples": [
+      "Our labour tills the soil, yet none of us owns more than his bare skin.",
+      "The house was built by hand with years of labour."
+    ],
+    "usage": {
+      "pos": "noun (British spelling)",
+      "pattern": "the labour of someone / hard labour",
+      "partners": [
+        "hard labour",
+        "manual labour",
+        "labour of love"
+      ]
+    }
+  },
+  {
+    "word": "laced up",
+    "memory": "tied shoelaces",
+    "meaning": "Tied the laces of shoes or boots",
+    "hindi": "फीते बाँधे",
+    "trick": "LACED UP = pulled the LACES UP tight.",
+    "examples": [
+      "I put on some sweats and laced up my running shoes.",
+      "She laced up her boots and went for a walk."
+    ],
+    "usage": {
+      "pos": "phrasal verb (past)",
+      "pattern": "lace up something / lace something up",
+      "partners": [
+        "laced up shoes",
+        "laced up boots",
+        "laced up tightly"
+      ]
+    }
+  },
+  {
+    "word": "lactic acid",
+    "memory": "muscle burn chemical",
+    "meaning": "A chemical that builds up in the muscles during hard exercise and causes a burning feeling; also found in sour milk",
+    "hindi": "लैक्टिक अम्ल (मांसपेशियों में जलन वाला रसायन)",
+    "trick": "LACTIC = milk (lactose): the acid of sour milk and sore muscles.",
+    "examples": [
+      "A burst of oxygen can help break down lactic acid in your muscles.",
+      "After running, the lactic acid made my legs burn."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "lactic acid builds up / break down lactic acid",
+      "partners": [
+        "lactic acid build-up",
+        "break down lactic acid"
+      ]
+    }
+  },
+  {
+    "word": "lactose intolerant",
+    "memory": "can't digest milk",
+    "meaning": "Unable to digest the sugar in milk, so dairy food causes stomach problems",
+    "hindi": "दूध न पचा पाने वाला",
+    "trick": "LACTOSE = milk sugar; INTOLERANT = can't bear it.",
+    "examples": [
+      "My body had become lactose intolerant, and I hadn't touched dairy in years.",
+      "She drinks almond milk because she is lactose intolerant."
+    ],
+    "usage": {
+      "pos": "adjective (phrase)",
+      "pattern": "be/become lactose intolerant",
+      "partners": [
+        "become lactose intolerant",
+        "slightly lactose intolerant"
+      ]
+    }
+  },
+  {
+    "word": "lading",
+    "memory": "cargo loading",
+    "meaning": "The loading of goods onto a ship; the goods themselves (mostly in the 'bill of ...', a shipping document listing cargo)",
+    "hindi": "माल लदाई; लदान",
+    "trick": "LADING = LOADING: 'lade' is an old word for load.",
+    "examples": [
+      "There was a pile of bills of lading waiting on my desk.",
+      "The ship's captain signed the bill of lading."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "bill of lading",
+      "partners": [
+        "bill of lading",
+        "bills of lading"
+      ]
+    }
+  },
+  {
+    "word": "lady-parts",
+    "memory": "private parts",
+    "meaning": "A woman's private parts (informal, humorous)",
+    "hindi": "स्त्री के गुप्तांग (बोलचाल)",
+    "trick": "LADY + PARTS: a jokey, polite-sounding way to say it.",
+    "examples": [
+      "The comedian used the silly word \"lady-parts\" to make the audience laugh.",
+      "The health leaflet avoided jokey words like lady-parts."
+    ],
+    "usage": {
+      "pos": "noun (plural, informal, humorous)",
+      "pattern": "someone's lady-parts",
+      "partners": [
+        "her lady-parts",
+        "jokey lady-parts"
+      ]
+    }
+  },
+  {
+    "word": "lagoons",
+    "memory": "shallow lakes",
+    "meaning": "Shallow lakes of salt water separated from the sea by sand or rocks",
+    "hindi": "खारी झीलें, लैगून",
+    "trick": "LAGOONS: lakes that LAG behind the sea, cut off by sand.",
+    "examples": [
+      "There were dozens of paintings of birds wading in lagoons.",
+      "The island is famous for its blue lagoons."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "in/around lagoons",
+      "partners": [
+        "blue lagoons",
+        "shallow lagoons",
+        "coastal lagoons"
+      ]
+    }
+  },
+  {
+    "word": "laid",
+    "memory": "claimed; put down",
+    "meaning": "Past of 'lay': claimed as one's own; also put something down carefully",
+    "hindi": "दावा किया; रखा",
+    "trick": "LAID = past of LAY: hens LAID eggs, people LAID claim.",
+    "examples": [
+      "She was tired of being lied to, laid claim to, used.",
+      "He laid the baby gently on the bed."
+    ],
+    "usage": {
+      "pos": "verb (past / past participle)",
+      "pattern": "lay claim to something / lay something on/down",
+      "partners": [
+        "laid claim to",
+        "laid down",
+        "laid out"
+      ]
+    }
+  },
+  {
+    "word": "lain",
+    "memory": "lay, rested",
+    "meaning": "Past participle of 'lie': been lying down or resting",
+    "hindi": "लेटे थे, लेटी थी",
+    "trick": "LIE - LAY - LAIN: she had LAIN on the bed.",
+    "examples": [
+      "She had lain on a clean, proper bed in a well-lit room.",
+      "The book had lain on the shelf for years."
+    ],
+    "usage": {
+      "pos": "verb (past participle)",
+      "pattern": "have lain (down) / have lain somewhere",
+      "partners": [
+        "had lain down",
+        "have lain awake",
+        "had lain there"
+      ]
+    }
+  },
+  {
+    "word": "lamb",
+    "memory": "young sheep meat",
+    "meaning": "Meat from a young sheep; also a young sheep",
+    "hindi": "भेड़ का मांस, मेमना",
+    "trick": "LAMB with a silent B: a baby sheep, and its meat in a curry.",
+    "examples": [
+      "Mariam put the rice and the lamb and okra qurma in front of him.",
+      "We had lamb curry for dinner."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "lamb + dish / roast lamb",
+      "partners": [
+        "lamb curry",
+        "roast lamb",
+        "leg of lamb"
+      ]
+    }
+  },
+  {
+    "word": "lame",
+    "memory": "uncool, weak",
+    "meaning": "Uncool, dull or not convincing (informal); also unable to walk well because of an injured leg",
+    "hindi": "बेकार, घटिया (बोलचाल); लंगड़ा",
+    "trick": "LAME = LAME excuse: weak, like a limping leg.",
+    "examples": [
+      "People who are indifferent are lame and scared.",
+      "That was a lame excuse for missing class."
+    ],
+    "usage": {
+      "pos": "adjective (informal)",
+      "pattern": "be lame / a lame + excuse/joke",
+      "partners": [
+        "lame excuse",
+        "lame joke",
+        "so lame"
+      ]
+    }
+  },
+  {
+    "word": "lameness",
+    "memory": "uncoolness",
+    "meaning": "Being dull, boring or uncool (informal, humorous); also being unable to walk properly",
+    "hindi": "फीकापन, बेकारपन (बोलचाल); लंगड़ापन",
+    "trick": "LAME + NESS = the state of being lame.",
+    "examples": [
+      "For a teenager in 1998, losing my band shirts felt like death by lameness.",
+      "He laughed at the lameness of his own joke."
+    ],
+    "usage": {
+      "pos": "noun (informal)",
+      "pattern": "the lameness of something",
+      "partners": [
+        "sheer lameness",
+        "the lameness of"
+      ]
+    }
+  },
+  {
+    "word": "lament",
+    "memory": "sorrow, regret",
+    "meaning": "A strong feeling or expression of grief or regret; also (verb) to feel or say sadly that you are sorry about something",
+    "hindi": "विलाप, शोक; अफ़सोस करना",
+    "trick": "LAMENT sounds like 'lamb meant' to die: everyone cries in sorrow.",
+    "examples": [
+      "A dry, barren field, out beyond wish and lament.",
+      "Her song was a lament for her lost home."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a lament for someone/something / lament something",
+      "partners": [
+        "a lament for",
+        "a sad lament",
+        "lament the loss of"
+      ]
+    }
+  },
+  {
+    "word": "lamentation",
+    "memory": "loud mourning",
+    "meaning": "Loud crying or sad words that show deep sorrow",
+    "hindi": "विलाप, रोना-धोना",
+    "trick": "LAMENT + ATION: the act of lamenting out loud.",
+    "examples": [
+      "A cry of lamentation went up.",
+      "There was great lamentation in the village after the flood."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "lamentation over/for someone or something",
+      "partners": [
+        "a cry of lamentation",
+        "great lamentation",
+        "lamentation over"
+      ]
+    }
+  },
+  {
+    "word": "lamenting",
+    "memory": "complaining sadly",
+    "meaning": "Expressing sadness or regret about something; complaining",
+    "hindi": "अफ़सोस करना, रोना",
+    "trick": "LAMENTING = lamenting your fate: 'la-MENT-ing' like moaning 'mmm'.",
+    "examples": [
+      "Instead of lamenting about the world's darkness, you could just remove the glasses.",
+      "Stop lamenting the past and plan for tomorrow."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "lamenting (about) something",
+      "partners": [
+        "lamenting the loss",
+        "lamenting about",
+        "lamenting the fact that"
+      ]
+    }
+  },
+  {
+    "word": "lamppost",
+    "memory": "street light pole",
+    "meaning": "A tall post in a street with a light at the top",
+    "hindi": "बिजली का खंभा",
+    "trick": "LAMP + POST: a post holding a lamp.",
+    "examples": [
+      "When the dog wants to stop at a lamppost, the old man won't let him.",
+      "He leaned against a lamppost and waited for the bus."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "at/against/by a lamppost",
+      "partners": [
+        "lean against a lamppost",
+        "under a lamppost",
+        "street lamppost"
+      ]
+    }
+  },
+  {
+    "word": "lampposts",
+    "memory": "street light poles",
+    "meaning": "Tall posts in a street with lights at the top",
+    "hindi": "बिजली के खंभे",
+    "trick": "LAMP + POSTS: posts holding lamps.",
+    "examples": [
+      "Satellite dishes had been hung from lampposts.",
+      "Flags were tied to the lampposts for the festival."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "on/from lampposts",
+      "partners": [
+        "hang from lampposts",
+        "rows of lampposts",
+        "old lampposts"
+      ]
+    }
+  },
+  {
+    "word": "lamps",
+    "memory": "lights",
+    "meaning": "Devices that give light, often using electricity or oil",
+    "hindi": "दीपक, बत्तियाँ",
+    "trick": "LAMPS: Aladdin's lamps give light (and wishes).",
+    "examples": [
+      "Just then the street lamps came on, all together.",
+      "Diwali homes are full of little oil lamps."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "turn on / light the lamps",
+      "partners": [
+        "street lamps",
+        "oil lamps",
+        "the lamps came on"
+      ]
+    }
+  },
+  {
+    "word": "languid",
+    "memory": "slow, relaxed",
+    "meaning": "Slow, relaxed and without energy; also lazy-looking in a pleasant way",
+    "hindi": "सुस्त, शिथिल",
+    "trick": "LANGUID ~ 'LANG-gid': long and lazy, like a lazy afternoon.",
+    "examples": [
+      "On the whole, they seemed languid and exhausted.",
+      "We spent a languid afternoon lying by the pool."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be languid / a languid + noun",
+      "partners": [
+        "a languid afternoon",
+        "languid movements",
+        "languid smile"
+      ]
+    }
+  },
+  {
+    "word": "lantern",
+    "memory": "lamp in a case",
+    "meaning": "A lamp in a glass or metal case with a handle, carried or hung up",
+    "hindi": "लालटेन",
+    "trick": "LANTERN = Hindi 'laaltain' comes from it!",
+    "examples": [
+      "With the ring of light from his lantern dancing from side to side, he crossed the yard.",
+      "Grandpa took a lantern when he went out to the cowshed at night."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "carry/hang a lantern",
+      "partners": [
+        "carry a lantern",
+        "paper lantern",
+        "lantern light"
+      ]
+    }
+  },
+  {
+    "word": "lapis lazuli",
+    "memory": "blue gemstone",
+    "meaning": "A bright deep-blue stone used in jewellery",
+    "hindi": "लाजवर्द, नीला रत्न",
+    "trick": "LAPIS (Latin 'stone') + LAZULI (from 'azure', blue) = blue stone.",
+    "examples": [
+      "She wore a choker with lapis lazuli beads.",
+      "The old temple walls were decorated with lapis lazuli."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "lapis lazuli beads/stones",
+      "partners": [
+        "lapis lazuli beads",
+        "a lapis lazuli ring",
+        "blue lapis lazuli"
+      ]
+    }
+  },
+  {
+    "word": "lapping",
+    "memory": "gently splashing",
+    "meaning": "(Of water) washing gently against something with soft sounds; also drinking with the tongue",
+    "hindi": "हल्के से टकराना; जीभ से चाटना",
+    "trick": "LAPPING: waves go 'lap, lap' on the shore, like a dog's tongue.",
+    "examples": [
+      "I can see the ocean below, lapping and frothing against cliffs.",
+      "The cat was lapping up milk from a bowl."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "something lapping against/at something / lapping up something",
+      "partners": [
+        "waves lapping",
+        "lapping against the shore",
+        "lapping up milk"
+      ]
+    }
+  },
+  {
+    "word": "laps",
+    "memory": "rounds",
+    "meaning": "Complete circles or turns around a track or something; also the tops of the thighs when sitting",
+    "hindi": "चक्कर; गोद",
+    "trick": "LAPS: run laps around the track - round and round.",
+    "examples": [
+      "I stared at the clock's second hand making laps.",
+      "She swims twenty laps every morning."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "run/swim/do laps (around something)",
+      "partners": [
+        "run laps",
+        "swim laps",
+        "laps around the track"
+      ]
+    }
+  },
+  {
+    "word": "lapse",
+    "memory": "slip into",
+    "meaning": "To gradually pass into a worse or different state; also (noun) a small mistake or failure",
+    "hindi": "चले जाना, पड़ जाना; चूक",
+    "trick": "LAPSE ~ 'collapse' without 'col': slip and fall into something.",
+    "examples": [
+      "Nana laughed so hard that Mariam thought she would lapse into one of her fits.",
+      "After the long meeting, he began to lapse into silence."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "lapse into something",
+      "partners": [
+        "lapse into silence",
+        "a lapse in memory",
+        "a lapse of judgement"
+      ]
+    }
+  },
+  {
+    "word": "lashed",
+    "memory": "struck hard",
+    "meaning": "Hit someone or something hard, especially with a whip or stick; also tied tightly",
+    "hindi": "कोड़े मारे, ज़ोर से मारा",
+    "trick": "LASHED: a whip's sound 'lash!' as it strikes.",
+    "examples": [
+      "The rider lashed the horse with a whip to make it run.",
+      "The rain lashed against the windows all night."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "lashed someone/something / lashed at someone / lashed against something",
+      "partners": [
+        "lashed at",
+        "rain lashed",
+        "lashed out"
+      ]
+    }
+  },
+  {
+    "word": "lashes",
+    "memory": "eyelashes",
+    "meaning": "The short hairs on the edges of the eyelids; also hits with a whip",
+    "hindi": "पलकें; कोड़े",
+    "trick": "LASHES: EYE + LASHES = the hairs that flick like tiny whips.",
+    "examples": [
+      "He had the prettiest lashes, thick like yours.",
+      "The baby has long, dark lashes."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "long/thick lashes",
+      "partners": [
+        "long lashes",
+        "thick lashes",
+        "false lashes"
+      ]
+    }
+  },
+  {
+    "word": "lashing out",
+    "memory": "attacking wildly",
+    "meaning": "Suddenly hitting or attacking, often in all directions; also speaking angrily at someone",
+    "hindi": "अंधाधुंध मारना; भड़कना",
+    "trick": "LASHING OUT: a whip flicking OUT at everyone.",
+    "examples": [
+      "The men came in with whips in their hands, lashing out in all directions.",
+      "He kept lashing out at his friends when he was stressed."
+    ],
+    "usage": {
+      "pos": "phrasal verb (-ing)",
+      "pattern": "lashing out at someone/something",
+      "partners": [
+        "lashing out at",
+        "lashing out in anger",
+        "lashing out wildly"
+      ]
+    }
+  },
+  {
+    "word": "lashings",
+    "memory": "beatings",
+    "meaning": "Beatings with a whip; (figurative) harsh attacks; also British informal 'lots of'",
+    "hindi": "कोड़ों की मार, प्रहार",
+    "trick": "LASHINGS: many lashes = many blows.",
+    "examples": [
+      "Many still suffered from the emotional scars the lashings of war had left.",
+      "In the story, the thief was given ten lashings as punishment."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "the lashings of something / give someone lashings",
+      "partners": [
+        "severe lashings",
+        "public lashings",
+        "lashings of war"
+      ]
+    }
+  },
+  {
+    "word": "lasting",
+    "memory": "long-term, enduring",
+    "meaning": "Continuing for a long time; permanent",
+    "hindi": "स्थायी, टिकाऊ",
+    "trick": "LASTING: it LASTS a long time.",
+    "examples": [
+      "Entitled people can't improve their lives in any lasting or meaningful way.",
+      "Good habits bring lasting results."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a lasting + noun / have a lasting effect on something",
+      "partners": [
+        "lasting effect",
+        "lasting peace",
+        "lasting impression"
+      ]
+    }
+  },
+  {
+    "word": "latch",
+    "memory": "hold on",
+    "meaning": "(with onto) To hold on firmly to something or depend on it; also (noun) a small bar that keeps a door closed",
+    "hindi": "पकड़ लेना, चिपक जाना; कुंडी",
+    "trick": "LATCH: a door latch grips tight; to latch onto = grip and not let go.",
+    "examples": [
+      "It gave us something to latch onto during Hell Week.",
+      "Close the gate and put the latch down."
+    ],
+    "usage": {
+      "pos": "verb / noun",
+      "pattern": "latch onto something / on the latch",
+      "partners": [
+        "latch onto",
+        "door latch",
+        "lift the latch"
+      ]
+    }
+  },
+  {
+    "word": "lateness",
+    "memory": "late time",
+    "meaning": "The fact of being late in the day or night; also being late for something",
+    "hindi": "देर, विलंब",
+    "trick": "LATE + NESS: how late it is.",
+    "examples": [
+      "He pointed out the lateness of the hour and asked for an adjournment.",
+      "The teacher was angry about his lateness for class."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the lateness of something",
+      "partners": [
+        "the lateness of the hour",
+        "lateness for work",
+        "despite the lateness"
+      ]
+    }
+  },
+  {
+    "word": "lathered",
+    "memory": "covered with foam",
+    "meaning": "Covered something with soapy foam",
+    "hindi": "झाग लगाया",
+    "trick": "LATHER = foam: shaving foam. LATHERED = put foam on.",
+    "examples": [
+      "After shaving, I lathered up my scalp.",
+      "He lathered his face before shaving."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "lathered (up) something",
+      "partners": [
+        "lathered up",
+        "lathered his face",
+        "lathered with soap"
+      ]
+    }
+  },
+  {
+    "word": "latrine",
+    "memory": "toilet",
+    "meaning": "A simple toilet, especially in a camp or army base",
+    "hindi": "शौचालय, संडास",
+    "trick": "LATRINE ~ 'lat-REEN': army word for the loo; Hindi 'laitrin'.",
+    "examples": [
+      "In boot camp the drill sergeant made me clean the latrine.",
+      "The soldiers dug a latrine near the camp."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "clean/dig a latrine",
+      "partners": [
+        "clean the latrine",
+        "dig a latrine",
+        "camp latrine"
+      ]
+    }
+  },
+  {
+    "word": "latter",
+    "memory": "second one",
+    "meaning": "The second of two things or people just mentioned",
+    "hindi": "बाद वाला, उत्तरार्द्ध",
+    "trick": "LATTER = LATER one; FORMER = first one.",
+    "examples": [
+      "The latter will help you discover the former.",
+      "Between tea and coffee, I prefer the latter."
+    ],
+    "usage": {
+      "pos": "noun / adjective",
+      "pattern": "the latter / the latter + noun",
+      "partners": [
+        "the latter",
+        "the former and the latter",
+        "the latter part"
+      ]
+    }
+  },
+  {
+    "word": "lavishing",
+    "memory": "giving generously",
+    "meaning": "Giving someone a lot of something, often too much",
+    "hindi": "लुटाना, खुलकर देना",
+    "trick": "LAVISH ~ 'lava': gifts pour out like lava.",
+    "examples": [
+      "He spoiled the child, lavishing him with food and gifts.",
+      "She keeps lavishing praise on her new puppy."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "lavishing something on someone / lavishing someone with something",
+      "partners": [
+        "lavishing praise on",
+        "lavishing gifts",
+        "lavishing attention on"
+      ]
+    }
+  },
+  {
+    "word": "lawn",
+    "memory": "grass area",
+    "meaning": "An area of short, cut grass near a house or in a park",
+    "hindi": "घास का मैदान, लॉन",
+    "trick": "LAWN = the green lawn you mow on Sunday.",
+    "examples": [
+      "Don't care about buying that new lawn ornament.",
+      "The children played on the lawn."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "on the lawn / mow the lawn",
+      "partners": [
+        "mow the lawn",
+        "front lawn",
+        "lawn ornament"
+      ]
+    }
+  },
+  {
+    "word": "lawsuit",
+    "memory": "court case",
+    "meaning": "A claim or complaint taken to a court of law",
+    "hindi": "मुकदमा",
+    "trick": "LAW + SUIT: a suit (case) in law.",
+    "examples": [
+      "He had become much disheartened after losing money in a lawsuit.",
+      "The company faced a lawsuit from its customers."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "file a lawsuit against someone",
+      "partners": [
+        "file a lawsuit",
+        "lose a lawsuit",
+        "lawsuit against"
+      ]
+    }
+  },
+  {
+    "word": "lay",
+    "memory": "was lying",
+    "meaning": "Past tense of 'lie': was in a flat, resting position; also (verb) to produce eggs or put something down",
+    "hindi": "लेटा रहा, पड़ा था; अंडे देना",
+    "trick": "LIE → LAY (past). Hens LAY eggs (present). 'Yesterday I lay in bed.'",
+    "examples": [
+      "Laila lay curled up on the floor, gasping.",
+      "Hens lay eggs; he lay on the sofa all afternoon."
+    ],
+    "usage": {
+      "pos": "verb (past of lie)",
+      "pattern": "someone lay (down) on something / lay eggs",
+      "partners": [
+        "lay on the floor",
+        "lay awake",
+        "lay eggs"
+      ]
+    }
+  },
+  {
+    "word": "leaflets",
+    "memory": "printed notices",
+    "meaning": "Printed sheets of paper with information, given out free",
+    "hindi": "पर्चे, पैम्फ़लेट",
+    "trick": "LEAF-LETS: little leaves (sheets) of paper.",
+    "examples": [
+      "The military dropped thousands of leaflets announcing that the war was over.",
+      "Volunteers handed out leaflets at the station."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "hand out / drop leaflets",
+      "partners": [
+        "hand out leaflets",
+        "drop leaflets",
+        "election leaflets"
+      ]
+    }
+  },
+  {
+    "word": "leagued",
+    "memory": "joined, allied",
+    "meaning": "Joined together with others for a shared purpose, often a bad one",
+    "hindi": "साठ-गाँठ की, मिल गए",
+    "trick": "LEAGUE = a group of teams; leagued = joined a team.",
+    "examples": [
+      "There was good reason for killing the traitors who had leagued themselves with Snowball.",
+      "The two gangs leagued together against the police."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "leagued (themselves) with someone / leagued together",
+      "partners": [
+        "leagued with",
+        "leagued together",
+        "leagued against"
+      ]
+    }
+  },
+  {
+    "word": "leather",
+    "memory": "animal skin",
+    "meaning": "Animal skin treated and used to make shoes, bags, clothes, etc.",
+    "hindi": "चमड़ा",
+    "trick": "LEATHER: the 'leather' jacket (chamde ki jacket).",
+    "examples": [
+      "Napoleon appeared in a black coat and leather leggings.",
+      "He bought a brown leather belt."
+    ],
+    "usage": {
+      "pos": "noun / adjective",
+      "pattern": "leather + noun / made of leather",
+      "partners": [
+        "leather jacket",
+        "leather shoes",
+        "made of leather"
+      ]
+    }
+  },
+  {
+    "word": "leathery",
+    "memory": "tough, wrinkled",
+    "meaning": "(Of skin) hard, dry and rough, like leather",
+    "hindi": "चमड़े जैसा, खुरदुरा",
+    "trick": "LEATHER + Y: looking like leather.",
+    "examples": [
+      "She passed old vendors with leathery faces sitting in the shade.",
+      "The farmer's hands were leathery from years in the sun."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "leathery + noun",
+      "partners": [
+        "leathery skin",
+        "leathery face",
+        "leathery hands"
+      ]
+    }
+  },
+  {
+    "word": "ledges",
+    "memory": "narrow shelves",
+    "meaning": "Narrow flat shelves sticking out from a wall, window or cliff",
+    "hindi": "छज्जे, कगार",
+    "trick": "LEDGES: the EDGES you can put a cup on.",
+    "examples": [
+      "Mariam saw no cups of tea steaming from window ledges.",
+      "Pigeons sat on the window ledges."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "on the ledges",
+      "partners": [
+        "window ledges",
+        "rock ledges",
+        "narrow ledges"
+      ]
+    }
+  },
+  {
+    "word": "leech",
+    "memory": "parasite, sponger",
+    "meaning": "A person who lives off others and gives nothing back; also a blood-sucking worm",
+    "hindi": "परजीवी, मुफ़्तख़ोर; जोंक",
+    "trick": "LEECH = the blood-sucking worm (jonk) that clings and drains you.",
+    "examples": [
+      "Jimmy was a professional leech, living off his family's money.",
+      "Don't be a leech; pay your share of the rent."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a leech (on someone)",
+      "partners": [
+        "a professional leech",
+        "a leech on society",
+        "blood-sucking leech"
+      ]
+    }
+  },
+  {
+    "word": "leeks",
+    "memory": "onion-like vegetables",
+    "meaning": "Long vegetables like large green onions",
+    "hindi": "लीक (हरे प्याज़ जैसी सब्ज़ी)",
+    "trick": "LEEKS look like big spring onions that 'leak' flavour into soup.",
+    "examples": [
+      "She cooked leeks and ground beef for dinner.",
+      "Mum added leeks to the potato soup."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "chop/cook leeks",
+      "partners": [
+        "chopped leeks",
+        "leek soup",
+        "fresh leeks"
+      ]
+    }
+  },
+  {
+    "word": "leer",
+    "memory": "nasty smile",
+    "meaning": "An unpleasant look or smile, often showing evil or rude interest; also (verb) to look at someone in that way",
+    "hindi": "कुटिल मुस्कान, घूरना",
+    "trick": "LEER ~ 'leery': a sly sideways look that makes you uneasy.",
+    "examples": [
+      "The crack wasn't a smile any longer now but a mocking leer.",
+      "The villain gave a cruel leer."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a mocking leer / leer at someone",
+      "partners": [
+        "a mocking leer",
+        "an evil leer",
+        "leer at"
+      ]
+    }
+  },
+  {
+    "word": "leering",
+    "memory": "staring nastily",
+    "meaning": "Looking at someone in an unpleasant, rude or creepy way",
+    "hindi": "घूरता हुआ, बुरी नज़र से देखना",
+    "trick": "LEERING = staring with a creepy grin.",
+    "examples": [
+      "Khadim shadowed Laila in the schoolyard, leering.",
+      "The man kept leering at the girls, so the guard asked him to leave."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "leering at someone",
+      "partners": [
+        "leering at",
+        "a leering smile",
+        "leering face"
+      ]
+    }
+  },
+  {
+    "word": "leeway",
+    "memory": "freedom, flexibility",
+    "meaning": "The amount of freedom to act or decide as you want",
+    "hindi": "छूट, आज़ादी",
+    "trick": "LEE-WAY: some extra WAY (room) to move.",
+    "examples": [
+      "I was given command of my own schedule and leeway to operate.",
+      "My boss gives me a lot of leeway in my work."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "leeway to do something / leeway in something",
+      "partners": [
+        "give someone leeway",
+        "a lot of leeway",
+        "leeway to decide"
+      ]
+    }
+  },
+  {
+    "word": "legend",
+    "memory": "old story",
+    "meaning": "An old, famous story that may or may not be true; also a very famous person",
+    "hindi": "किंवदंती, दंतकथा; महान व्यक्ति",
+    "trick": "LEGEND: legends are 'read' stories (Latin legere = to read).",
+    "examples": [
+      "As the legend goes, the prince sat under that tree for forty-nine days.",
+      "Sachin Tendulkar is a cricket legend."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "as the legend goes / according to legend",
+      "partners": [
+        "as the legend goes",
+        "according to legend",
+        "a living legend"
+      ]
+    }
+  },
+  {
+    "word": "leggings",
+    "memory": "leg coverings",
+    "meaning": "Coverings for the legs; tight trousers or protective coverings worn over the lower legs",
+    "hindi": "लेगिंग्स, पैर ढकने का वस्त्र",
+    "trick": "LEG + GINGS: things you wear on your legs.",
+    "examples": [
+      "Napoleon appeared in a black coat and leather leggings.",
+      "She wore black leggings under her kurta."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "wear leggings",
+      "partners": [
+        "leather leggings",
+        "black leggings",
+        "wear leggings"
+      ]
+    }
+  },
+  {
+    "word": "legitimate",
+    "memory": "real, genuine",
+    "meaning": "Real, valid and reasonable; also allowed by law, or (of a child) born to married parents",
+    "hindi": "वास्तविक, जायज़; वैध",
+    "trick": "LEGIT-imate: 'legit' = real and fair.",
+    "examples": [
+      "Much of the self-help world sells highs rather than solving legitimate problems.",
+      "She had a legitimate reason for missing the meeting."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a legitimate + noun / legitimate claim to something",
+      "partners": [
+        "legitimate reason",
+        "legitimate problem",
+        "legitimate claim"
+      ]
+    }
+  },
+  {
+    "word": "leisure",
+    "memory": "free time",
+    "meaning": "Free time when you can relax and do what you enjoy",
+    "hindi": "फ़ुर्सत, आराम",
+    "trick": "LEISURE ~ 'lazy-sure': surely time to be lazy.",
+    "examples": [
+      "No animal in England knows the meaning of happiness or leisure.",
+      "She reads novels in her leisure time."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "at leisure / leisure time",
+      "partners": [
+        "leisure time",
+        "at your leisure",
+        "leisure activities"
+      ]
+    }
+  },
+  {
+    "word": "leniency",
+    "memory": "softness, mercy",
+    "meaning": "Being less strict or less harsh than expected in punishing or controlling",
+    "hindi": "नरमी, ढील",
+    "trick": "LENIENCY ~ 'lean-y': leaning soft, not strict.",
+    "examples": [
+      "I have reservations about your parents' leniency with you.",
+      "The judge showed leniency because it was his first offence."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "leniency with/towards someone / show leniency",
+      "partners": [
+        "show leniency",
+        "ask for leniency",
+        "leniency towards"
+      ]
+    }
+  },
+  {
+    "word": "lentils",
+    "memory": "pulses, dal",
+    "meaning": "Small round dried seeds cooked as food",
+    "hindi": "दाल, मसूर",
+    "trick": "LENTILS = dal; LENS was named after the lentil's shape!",
+    "examples": [
+      "All morning, Mariam cleaned lentils and moistened rice.",
+      "Mum made soup with red lentils."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "cook/soak lentils",
+      "partners": [
+        "red lentils",
+        "lentil soup",
+        "cooked lentils"
+      ]
+    }
+  },
+  {
+    "word": "lessening",
+    "memory": "reducing",
+    "meaning": "Becoming or making something smaller or weaker",
+    "hindi": "कम होना, घटना",
+    "trick": "LESS + ENING: making it LESS.",
+    "examples": [
+      "Laila notices how her stutter is lessening.",
+      "The pain is slowly lessening."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "something is lessening / lessening something",
+      "partners": [
+        "lessening the pain",
+        "lessening tension",
+        "gradually lessening"
+      ]
+    }
+  },
+  {
+    "word": "let by",
+    "memory": "let pass",
+    "meaning": "To allow someone or something to pass",
+    "hindi": "जाने देना, रास्ता देना",
+    "trick": "LET BY: let them go BY you (step aside).",
+    "examples": [
+      "We stood aside from the doorway to let the coffin by.",
+      "Please move over and let the ambulance by."
+    ],
+    "usage": {
+      "pos": "phrasal verb",
+      "pattern": "let someone/something by",
+      "partners": [
+        "let the car by",
+        "step aside to let someone by",
+        "let them by"
+      ]
+    }
+  },
+  {
+    "word": "lethargic",
+    "memory": "sluggish, tired",
+    "meaning": "Lacking energy and enthusiasm; sleepy and slow",
+    "hindi": "सुस्त, आलसी",
+    "trick": "LETHARGIC ~ 'let-her-gic': let her sleep, she's too tired.",
+    "examples": [
+      "Her eyes had a lethargic, faraway look in them.",
+      "I always feel lethargic after a heavy lunch."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "feel/become lethargic",
+      "partners": [
+        "feel lethargic",
+        "lethargic look",
+        "lethargic and tired"
+      ]
+    }
+  },
+  {
+    "word": "lethargy",
+    "memory": "sluggishness",
+    "meaning": "A state of having no energy or interest in doing things",
+    "hindi": "सुस्ती, आलस्य",
+    "trick": "LETHARGY ~ 'Lethe', the river of forgetting: drowsy and dull.",
+    "examples": [
+      "People fall into inaction and lethargy for fear of failing.",
+      "The hot weather filled everyone with lethargy."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "fall into lethargy / a feeling of lethargy",
+      "partners": [
+        "fall into lethargy",
+        "shake off lethargy",
+        "sense of lethargy"
+      ]
+    }
+  },
+  {
+    "word": "lettuce",
+    "memory": "salad leaves",
+    "meaning": "A plant with large green leaves eaten raw in salads",
+    "hindi": "सलाद पत्ता",
+    "trick": "LETTUCE ~ 'let us' eat salad.",
+    "examples": [
+      "Limp leaves of lettuce and blackened bananas for dinner.",
+      "She put lettuce and tomato in the sandwich."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "leaves of lettuce / a head of lettuce",
+      "partners": [
+        "a head of lettuce",
+        "lettuce leaves",
+        "fresh lettuce"
+      ]
+    }
+  },
+  {
+    "word": "levitating",
+    "memory": "floating in air",
+    "meaning": "Rising and floating in the air, as if by magic",
+    "hindi": "हवा में तैरना, उड़ना",
+    "trick": "LEVITATING ~ 'elevating': lifting up into the air.",
+    "examples": [
+      "He was levitating over the mud, riding a whole different Zen.",
+      "The magician pretended to be levitating above the stage."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "levitating above/over something",
+      "partners": [
+        "levitating above",
+        "appear to be levitating",
+        "levitating in the air"
+      ]
+    }
+  },
+  {
+    "word": "lewd",
+    "memory": "indecent, vulgar",
+    "meaning": "Rude in a sexual way; showing improper sexual interest",
+    "hindi": "अश्लील, बदनीयत",
+    "trick": "LEWD ~ 'lewd = rude' in a dirty way.",
+    "examples": [
+      "So many lewd men in this town now.",
+      "The comedian was criticised for his lewd jokes."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "lewd + noun",
+      "partners": [
+        "lewd jokes",
+        "lewd comments",
+        "lewd behaviour"
+      ]
+    }
+  },
+  {
+    "word": "liable",
+    "memory": "legally responsible",
+    "meaning": "Legally responsible for something, such as paying a cost; also likely to do something",
+    "hindi": "ज़िम्मेदार, उत्तरदायी; संभावित",
+    "trick": "LIABLE ~ LIAbility: you're on the hook (liable) for it.",
+    "examples": [
+      "The publishers are not in any way liable for the views in this book.",
+      "The driver is liable for any damage to the car."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be liable for something / be liable to do something",
+      "partners": [
+        "liable for damages",
+        "held liable",
+        "liable to change"
+      ]
+    }
+  },
+  {
+    "word": "liaison",
+    "memory": "love affair",
+    "meaning": "A secret or short sexual relationship; also contact and cooperation between groups",
+    "hindi": "प्रेम-संबंध; संपर्क, तालमेल",
+    "trick": "LIAISON ~ 'link-sun': a link between two people or groups.",
+    "examples": [
+      "The day after his mother's funeral he was starting a liaison with a girl.",
+      "She works as a liaison between the school and parents."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a liaison with someone / liaison between groups",
+      "partners": [
+        "a secret liaison",
+        "liaison with",
+        "liaison officer"
+      ]
+    }
+  },
+  {
+    "word": "liberating",
+    "memory": "freeing",
+    "meaning": "Making you feel free and relieved from worries or limits",
+    "hindi": "मुक्त करने वाला, राहत देने वाला",
+    "trick": "LIBERATING ~ LIBERTY: it sets you free.",
+    "examples": [
+      "That's why letting go is so liberating.",
+      "Quitting the stressful job felt liberating."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be/feel liberating",
+      "partners": [
+        "feel liberating",
+        "a liberating experience",
+        "truly liberating"
+      ]
+    }
+  },
+  {
+    "word": "liberty",
+    "memory": "freedom",
+    "meaning": "The state of being free, not in prison or controlled",
+    "hindi": "आज़ादी, स्वतंत्रता",
+    "trick": "LIBERTY: the Statue of Liberty stands for freedom.",
+    "examples": [
+      "You're being deprived of your liberty.",
+      "Every citizen has the right to liberty."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "deprive someone of their liberty / at liberty to do something",
+      "partners": [
+        "personal liberty",
+        "deprived of liberty",
+        "at liberty to"
+      ]
+    }
+  },
+  {
+    "word": "lid",
+    "memory": "cover",
+    "meaning": "A removable cover on top of a box, pot or other container",
+    "hindi": "ढक्कन",
+    "trick": "LID: put the LID on the pot.",
+    "examples": [
+      "The screws in the lid of the coffin had now been driven home.",
+      "Put the lid on the pot so the food cooks faster."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the lid of something / put the lid on something",
+      "partners": [
+        "put the lid on",
+        "lift the lid",
+        "pot lid"
+      ]
+    }
+  },
+  {
+    "word": "lieutenant",
+    "memory": "junior officer",
+    "meaning": "A junior officer in the army or navy",
+    "hindi": "लेफ़्टिनेंट, सैन्य अधिकारी",
+    "trick": "LIEU-TENANT (French 'place-holder'): one who holds the place for a captain.",
+    "examples": [
+      "After five hours, the lieutenant in charge asked me to take over.",
+      "Her brother became a lieutenant in the army."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the lieutenant in charge / second lieutenant",
+      "partners": [
+        "second lieutenant",
+        "lieutenant in charge",
+        "army lieutenant"
+      ]
+    }
+  },
+  {
+    "word": "likelihood",
+    "memory": "chance, probability",
+    "meaning": "The chance that something will happen",
+    "hindi": "संभावना",
+    "trick": "LIKELY + HOOD: how likely it is.",
+    "examples": [
+      "He would do everything to change his circumstances, no matter the likelihood of failure.",
+      "There is a high likelihood of rain today."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the likelihood of something / in all likelihood",
+      "partners": [
+        "likelihood of failure",
+        "in all likelihood",
+        "high likelihood"
+      ]
+    }
+  },
+  {
+    "word": "limbo",
+    "memory": "uncertain waiting",
+    "meaning": "An uncertain state where you wait and nothing is decided",
+    "hindi": "अधर में, असमंजस",
+    "trick": "LIMBO: like the limbo dance, stuck bent under the bar - neither up nor down.",
+    "examples": [
+      "We were in limbo and she remained in a state of shock.",
+      "My visa is in limbo until the office replies."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "be in limbo / leave someone in limbo",
+      "partners": [
+        "in limbo",
+        "left in limbo",
+        "state of limbo"
+      ]
+    }
+  },
+  {
+    "word": "limbs",
+    "memory": "arms and legs",
+    "meaning": "Arms and legs of a person or animal; also large branches of a tree",
+    "hindi": "अंग, हाथ-पैर",
+    "trick": "LIMBS: limbs are the 'limb'-ers (movers) of the body.",
+    "examples": [
+      "Tariq works with an NGO that fits amputees with prosthetic limbs.",
+      "After the long run, my limbs felt heavy."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "arms and limbs / artificial limbs",
+      "partners": [
+        "prosthetic limbs",
+        "tired limbs",
+        "broken limbs"
+      ]
+    }
+  },
+  {
+    "word": "limestone",
+    "memory": "white rock",
+    "meaning": "A white or grey stone used for building and making cement",
+    "hindi": "चूना पत्थर",
+    "trick": "LIME + STONE: the stone that gives lime (chuna).",
+    "examples": [
+      "There was a good quarry of limestone on the farm.",
+      "The old church was built of limestone."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "made of limestone / a limestone + noun",
+      "partners": [
+        "limestone quarry",
+        "limestone cliffs",
+        "built of limestone"
+      ]
+    }
+  },
+  {
+    "word": "limp",
+    "memory": "floppy, weak",
+    "meaning": "Soft and loose, without strength or firmness; also (verb) to walk unevenly because of a hurt leg",
+    "hindi": "ढीला, शिथिल; लंगड़ाना",
+    "trick": "LIMP: a limp noodle - no strength, just hangs.",
+    "examples": [
+      "He sank back in his chair, looking limp and dejected.",
+      "The flowers were limp because no one had watered them."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "go limp / be limp",
+      "partners": [
+        "go limp",
+        "limp body",
+        "limp handshake"
+      ]
+    }
+  },
+  {
+    "word": "limped",
+    "memory": "walked unevenly",
+    "meaning": "Walked with difficulty because of a hurt leg or foot",
+    "hindi": "लंगड़ाया",
+    "trick": "LIMPED: one leg went limp, so he limped.",
+    "examples": [
+      "She limped and huffed her way across the clearing.",
+      "He twisted his ankle and limped home."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "limped (along/across/to somewhere)",
+      "partners": [
+        "limped home",
+        "limped along",
+        "limped off the field"
+      ]
+    }
+  },
+  {
+    "word": "limping",
+    "memory": "walking unevenly",
+    "meaning": "Walking with difficulty because of a hurt leg or foot",
+    "hindi": "लंगड़ाते हुए",
+    "trick": "LIMPING: walking with a limp leg.",
+    "examples": [
+      "Looking back, I saw Pérez limping along some fifty yards behind.",
+      "The dog was limping after it hurt its paw."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "limping along/towards something",
+      "partners": [
+        "limping along",
+        "limping badly",
+        "limping off"
+      ]
+    }
+  },
+  {
+    "word": "linebacker",
+    "memory": "football defender",
+    "meaning": "A defensive player in American football, usually big and strong",
+    "hindi": "लाइनबैकर (अमेरिकी फ़ुटबॉल का रक्षक खिलाड़ी)",
+    "trick": "LINE + BACKER: stands BACK of the line to stop runners.",
+    "examples": [
+      "There was this one big guy who looked like a linebacker from the Raiders.",
+      "He's so big and strong he could be a linebacker."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "look like a linebacker / play linebacker",
+      "partners": [
+        "look like a linebacker",
+        "play linebacker",
+        "a former linebacker"
+      ]
+    }
+  },
+  {
+    "word": "liner",
+    "memory": "inner lining layer",
+    "meaning": "A thin layer of material fitted inside something such as a coat, poncho or bin; also a large passenger ship",
+    "hindi": "अस्तर, भीतरी परत; बड़ा जहाज़",
+    "trick": "LINER lines the INside of something.",
+    "examples": [
+      "Kate placed a poncho liner over my body as I shivered in the fog.",
+      "Put a new liner in the dustbin before you throw the rubbish."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a liner for something / a + noun + liner",
+      "partners": [
+        "poncho liner",
+        "bin liner",
+        "ocean liner"
+      ]
+    }
+  },
+  {
+    "word": "lingered",
+    "memory": "stayed on, remained",
+    "meaning": "Stayed somewhere longer than usual, or was slow to go away",
+    "hindi": "ठहरा रहा, बना रहा",
+    "trick": "LINGER = LONGER: lingered = stayed longer.",
+    "examples": [
+      "Jalil's eyes met Mariam's, lingered for a moment, then dropped.",
+      "The smell of fresh bread lingered in the kitchen all morning."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something lingered / someone lingered over something",
+      "partners": [
+        "lingered for a moment",
+        "lingered on",
+        "doubts lingered"
+      ]
+    }
+  },
+  {
+    "word": "lingering",
+    "memory": "staying on, remaining",
+    "meaning": "Lasting for a long time or slow to go away; also staying somewhere longer than needed",
+    "hindi": "बना रहने वाला, देर तक रहने वाला",
+    "trick": "LINGERING = staying LONGER than expected.",
+    "examples": [
+      "Nana gave a slow smile of lingering forgiveness.",
+      "She still had a lingering cough a week after the cold."
+    ],
+    "usage": {
+      "pos": "adjective / verb (-ing)",
+      "pattern": "a lingering + noun / be lingering somewhere",
+      "partners": [
+        "lingering doubt",
+        "lingering smell",
+        "lingering in the doorway"
+      ]
+    }
+  },
+  {
+    "word": "linoleum",
+    "memory": "vinyl floor covering",
+    "meaning": "A tough, smooth, washable floor covering made in sheets",
+    "hindi": "फ़र्श का चिकना आवरण",
+    "trick": "LINO + LEUM: LINseed OIL was used to make it (lino floor).",
+    "examples": [
+      "Tariq scrubs the toilet and mops the linoleum floor.",
+      "The old kitchen had cracked linoleum on the floor."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a linoleum floor / lay linoleum",
+      "partners": [
+        "linoleum floor",
+        "old linoleum",
+        "cracked linoleum"
+      ]
+    }
+  },
+  {
+    "word": "linseed",
+    "memory": "flax seed",
+    "meaning": "The seed of the flax plant, used for oil and animal feed",
+    "hindi": "अलसी",
+    "trick": "LINSEED = LINen plant's SEED (flax gives linen).",
+    "examples": [
+      "Lump sugar and linseed cake grew on the hedges.",
+      "My grandmother adds roasted linseed to her laddoos."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "linseed + noun",
+      "partners": [
+        "linseed oil",
+        "linseed cake",
+        "roasted linseed"
+      ]
+    }
+  },
+  {
+    "word": "lint",
+    "memory": "fluff, tiny fibres",
+    "meaning": "Tiny bits of fluff or thread that collect on clothes or in corners",
+    "hindi": "रोएँ, धागे के रेशे",
+    "trick": "LINT is LITTLE bits of thread.",
+    "examples": [
+      "The drawers were full of dust and lint.",
+      "He brushed the lint off his black jacket."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "lint on something / remove lint",
+      "partners": [
+        "dust and lint",
+        "pocket lint",
+        "lint roller"
+      ]
+    }
+  },
+  {
+    "word": "listless",
+    "memory": "tired, lifeless",
+    "meaning": "Having no energy or interest in anything",
+    "hindi": "सुस्त, बेजान",
+    "trick": "LIST-LESS: no 'list' (old word for desire) — no wish to do anything.",
+    "examples": [
+      "Aziza became even more listless.",
+      "The heat made the children listless all afternoon."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be/become listless / a listless + noun",
+      "partners": [
+        "feel listless",
+        "listless and tired",
+        "a listless child"
+      ]
+    }
+  },
+  {
+    "word": "litter",
+    "memory": "scattered heap, rubble",
+    "meaning": "A messy heap of things lying around; also rubbish dropped in public places; also baby animals born together",
+    "hindi": "बिखरा ढेर, मलबा; कूड़ा",
+    "trick": "LITTER = LITTLE bits scattered everywhere.",
+    "examples": [
+      "They stood gazing sadly at the litter of fallen stone.",
+      "Please don't drop litter in the park."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a litter of something / drop litter",
+      "partners": [
+        "a litter of stones",
+        "drop litter",
+        "a litter of puppies"
+      ]
+    }
+  },
+  {
+    "word": "littered",
+    "memory": "scattered over, covered",
+    "meaning": "Covered with things lying untidily all over",
+    "hindi": "बिखरा पड़ा, अटा पड़ा",
+    "trick": "LITTERED = LITTER all over the place.",
+    "examples": [
+      "The grass of the orchard was littered with fallen apples.",
+      "Clothes littered the floor of his room."
+    ],
+    "usage": {
+      "pos": "verb (past) / adjective",
+      "pattern": "something is littered with something / things littered something",
+      "partners": [
+        "littered with",
+        "littered the floor",
+        "littered streets"
+      ]
+    }
+  },
+  {
+    "word": "littering",
+    "memory": "lying scattered",
+    "meaning": "Lying scattered untidily around a place; also dropping rubbish in public",
+    "hindi": "बिखरे पड़े; कूड़ा फैलाना",
+    "trick": "LITTERING = LITTER lying around.",
+    "examples": [
+      "Mariam saw small mounds of garbage littering the street.",
+      "He was fined for littering on the beach."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "things littering somewhere / be fined for littering",
+      "partners": [
+        "littering the street",
+        "fined for littering",
+        "no littering"
+      ]
+    }
+  },
+  {
+    "word": "liveliest",
+    "memory": "most energetic, cheerful",
+    "meaning": "The most full of energy, fun and life",
+    "hindi": "सबसे जीवंत, सबसे ज़िंदादिल",
+    "trick": "LIVELIEST = the most ALIVE of all.",
+    "examples": [
+      "She was just about the liveliest, happiest person I'd ever met.",
+      "The market is liveliest on Sunday mornings."
+    ],
+    "usage": {
+      "pos": "adjective (superlative)",
+      "pattern": "the liveliest + noun / be the liveliest",
+      "partners": [
+        "the liveliest person",
+        "liveliest part",
+        "liveliest time"
+      ]
+    }
+  },
+  {
+    "word": "lives",
+    "memory": "lifetimes",
+    "meaning": "The whole time that people are alive (plural of life)",
+    "hindi": "ज़िंदगियाँ, जीवन",
+    "trick": "LIFE → LIVES (like knife → knives).",
+    "examples": [
+      "Her parents saved for their whole lives to send her to med school.",
+      "They have lived in this village all their lives."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "all your lives / save lives",
+      "partners": [
+        "whole lives",
+        "daily lives",
+        "save lives"
+      ]
+    }
+  },
+  {
+    "word": "livid",
+    "memory": "furious, very angry",
+    "meaning": "Extremely angry; also dark bluish-grey in colour, like a bruise",
+    "hindi": "आग-बबूला, बहुत ग़ुस्से में",
+    "trick": "LIVID: face goes red-blue like a bruise when LIVID with anger.",
+    "examples": [
+      "Our instructor was livid as he looked at the company.",
+      "Dad was livid when he saw the broken window."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be livid (with someone) / livid about something",
+      "partners": [
+        "absolutely livid",
+        "livid with rage",
+        "livid about"
+      ]
+    }
+  },
+  {
+    "word": "living off",
+    "memory": "surviving on",
+    "meaning": "Getting the food or money needed to live from something or someone",
+    "hindi": "के सहारे जीना, पर गुज़ारा करना",
+    "trick": "LIVING OFF the land = the land feeds you.",
+    "examples": [
+      "He lived on that island for thirty years, living off insects and rodents.",
+      "He is still living off his parents at thirty."
+    ],
+    "usage": {
+      "pos": "phrasal verb (-ing)",
+      "pattern": "be living off something / someone",
+      "partners": [
+        "living off the land",
+        "living off savings",
+        "living off his parents"
+      ]
+    }
+  },
+  {
+    "word": "lizard",
+    "memory": "reptile, gecko",
+    "meaning": "A small reptile with four legs, a long tail and scaly skin",
+    "hindi": "छिपकली",
+    "trick": "LIZARD sounds like 'lazy': it lies lazily on the wall in the sun.",
+    "examples": [
+      "On the evening the toothless lizard comes to ask for your hand.",
+      "A small lizard ran across the kitchen wall."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a lizard + verb",
+      "partners": [
+        "a small lizard",
+        "house lizard",
+        "lizard on the wall"
+      ]
+    }
+  },
+  {
+    "word": "loafers",
+    "memory": "slip-on shoes",
+    "meaning": "Leather shoes without laces that you slip your feet into; also lazy people",
+    "hindi": "बिना फीते के जूते; आलसी लोग",
+    "trick": "LOAFERS: shoes so easy that even a lazy LOAFER can slip them on.",
+    "examples": [
+      "He had a pair of loafers custom-made for the deputy minister.",
+      "He wore brown loafers with his jeans."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "a pair of loafers / wear loafers",
+      "partners": [
+        "a pair of loafers",
+        "leather loafers",
+        "brown loafers"
+      ]
+    }
+  },
+  {
+    "word": "loafing",
+    "memory": "lazing around",
+    "meaning": "Spending time lazily, doing nothing useful",
+    "hindi": "आवारागर्दी, निठल्ले बैठना",
+    "trick": "LOAF of bread just sits there doing nothing — LOAFING.",
+    "examples": [
+      "Her adult kids are loafing around on her couch, eating her food.",
+      "Stop loafing around and help me clean the house."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "be loafing (around/about) somewhere",
+      "partners": [
+        "loafing around",
+        "loafing about",
+        "loafing on the couch"
+      ]
+    }
+  },
+  {
+    "word": "loathed",
+    "memory": "hated",
+    "meaning": "Hated very much",
+    "hindi": "घृणा की, बहुत नफ़रत की",
+    "trick": "LOATHED = LOADS of hate.",
+    "examples": [
+      "The other teachers loathed him.",
+      "She loathed waking up early in winter."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "loathed someone / something / loathed doing something",
+      "partners": [
+        "loathed him",
+        "loathed each other",
+        "loathed doing"
+      ]
+    }
+  },
+  {
+    "word": "loathsome",
+    "memory": "disgusting, hateful",
+    "meaning": "Very unpleasant and causing hatred or disgust",
+    "hindi": "घिनौना, घृणित",
+    "trick": "LOATHSOME = something you LOATHE.",
+    "examples": [
+      "Being a harami was an ugly, loathsome thing, like an insect.",
+      "The rotten garbage had a loathsome smell."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a loathsome + noun / find something loathsome",
+      "partners": [
+        "loathsome creature",
+        "loathsome smell",
+        "loathsome behaviour"
+      ]
+    }
+  },
+  {
+    "word": "loaves",
+    "memory": "whole breads",
+    "meaning": "Whole pieces of bread baked in one shape (plural of loaf)",
+    "hindi": "डबलरोटियाँ, रोटी के बड़े टुकड़े",
+    "trick": "LOAF → LOAVES (like leaf → leaves).",
+    "examples": [
+      "Women carried out bowls of qurma and loaves of bread.",
+      "She bought two loaves of bread from the bakery."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "loaves of + bread",
+      "partners": [
+        "loaves of bread",
+        "fresh loaves",
+        "two loaves"
+      ]
+    }
+  },
+  {
+    "word": "lobotomized",
+    "memory": "brain-dulled, mindless",
+    "meaning": "Having had brain surgery that cuts nerve links in the front of the brain; (informal) dull and unable to think",
+    "hindi": "दिमाग़ सुन्न, बेअक़्ल (बोलचाल)",
+    "trick": "LOBE + TOMY (cut): the front brain lobe was cut.",
+    "examples": [
+      "Some great athletes are as dumb as a lobotomized rock.",
+      "After the long exam, I felt lobotomized and couldn't think."
+    ],
+    "usage": {
+      "pos": "adjective (past participle)",
+      "pattern": "be/feel lobotomized / a lobotomized + noun",
+      "partners": [
+        "feel lobotomized",
+        "lobotomized patient",
+        "as if lobotomized"
+      ]
+    }
+  },
+  {
+    "word": "locked eyes",
+    "memory": "looked at each other",
+    "meaning": "Looked straight at each other and held the look for a moment",
+    "hindi": "नज़रें मिलीं, एक-दूसरे को देखा",
+    "trick": "LOCKED EYES = two gazes stuck together like a lock and key.",
+    "examples": [
+      "We locked eyes, and I saw he couldn't find an answer.",
+      "The two players locked eyes before the final point."
+    ],
+    "usage": {
+      "pos": "verb phrase (past)",
+      "pattern": "lock eyes (with someone)",
+      "partners": [
+        "locked eyes with",
+        "briefly locked eyes"
+      ]
+    }
+  },
+  {
+    "word": "lodger",
+    "memory": "paying tenant",
+    "meaning": "A person who pays to live in a room in someone else's house",
+    "hindi": "किरायेदार",
+    "trick": "LODGER stays in your LODGE (house) for rent.",
+    "examples": [
+      "The lodger on the second floor, a plumber, came up with him.",
+      "The old lady rents her spare room to a student lodger."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "take in a lodger / a lodger in somewhere",
+      "partners": [
+        "take in a lodger",
+        "student lodger",
+        "the lodger upstairs"
+      ]
+    }
+  },
+  {
+    "word": "loft",
+    "memory": "attic, upper room",
+    "meaning": "A room or space just under the roof of a house or barn",
+    "hindi": "अटारी, दुछत्ती",
+    "trick": "LOFT is ALOFT — high up under the roof.",
+    "examples": [
+      "He took them up into a loft reached only by a ladder.",
+      "We keep our old suitcases in the loft."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in the loft / up into the loft",
+      "partners": [
+        "in the loft",
+        "hay loft",
+        "loft ladder"
+      ]
+    }
+  },
+  {
+    "word": "lofty",
+    "memory": "high, grand",
+    "meaning": "Very high or ambitious, often too much so; also proud and superior",
+    "hindi": "ऊँचा, बुलंद; घमंडी",
+    "trick": "LOFTY = up in the LOFT, very high.",
+    "examples": [
+      "Accept yourself and work without judgment or lofty expectations.",
+      "She has lofty dreams of becoming a famous singer."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "lofty + noun / be lofty",
+      "partners": [
+        "lofty expectations",
+        "lofty goals",
+        "lofty ideals"
+      ]
+    }
+  },
+  {
+    "word": "logistics",
+    "memory": "practical details",
+    "meaning": "The practical planning and arranging of how something is done",
+    "hindi": "व्यवस्था, इंतज़ाम",
+    "trick": "LOGISTICS = the LOGIC of getting things to the right place.",
+    "examples": [
+      "She couldn't quite picture the logistics of it.",
+      "We still have to work out the logistics of the trip."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the logistics of something / doing something",
+      "partners": [
+        "the logistics of",
+        "work out the logistics",
+        "travel logistics"
+      ]
+    }
+  },
+  {
+    "word": "loitering",
+    "memory": "hanging around",
+    "meaning": "Standing or waiting somewhere with no clear purpose",
+    "hindi": "बेवजह घूमना, मंडराना",
+    "trick": "LOITERING = LOW-ITERING: walking slowly in circles with nothing to do.",
+    "examples": [
+      "Some of them stayed loitering in the street under my window.",
+      "Boys were loitering outside the shop all evening."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "be loitering somewhere / around somewhere",
+      "partners": [
+        "loitering around",
+        "loitering outside",
+        "no loitering"
+      ]
+    }
+  },
+  {
+    "word": "lolloping",
+    "memory": "bouncy, bounding",
+    "meaning": "Moving or behaving in a clumsy, bouncy, energetic way",
+    "hindi": "उछलता-कूदता, उमंग भरा",
+    "trick": "LOLLOPING: like a puppy bouncing along 'lol-lop, lol-lop'.",
+    "examples": [
+      "Mariam found it exhausting to watch the girl's lolloping enthusiasm.",
+      "The puppy came lolloping across the garden."
+    ],
+    "usage": {
+      "pos": "adjective / verb (-ing)",
+      "pattern": "a lolloping + noun / come lolloping along",
+      "partners": [
+        "lolloping enthusiasm",
+        "lolloping along",
+        "lolloping puppy"
+      ]
+    }
+  },
+  {
+    "word": "lone",
+    "memory": "single, alone",
+    "meaning": "Being the only one; on its own",
+    "hindi": "अकेला, इकलौता",
+    "trick": "LONE = alONE.",
+    "examples": [
+      "I was a lone fish in a glass box aquarium.",
+      "A lone tree stood in the middle of the field."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a lone + noun",
+      "partners": [
+        "a lone fish",
+        "lone wolf",
+        "a lone voice"
+      ]
+    }
+  },
+  {
+    "word": "long-winded",
+    "memory": "too wordy, lengthy",
+    "meaning": "Going on for too long and using too many words",
+    "hindi": "लंबा-चौड़ा, उबाऊ रूप से लंबा",
+    "trick": "LONG-WINDED: talks so long he runs out of wind (breath).",
+    "examples": [
+      "Mammy was muttering long-winded prayers that rolled on and on.",
+      "The manager gave a long-winded speech that bored everyone."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a long-winded + noun / be long-winded",
+      "partners": [
+        "long-winded speech",
+        "long-winded explanation",
+        "long-winded prayers"
+      ]
+    }
+  },
+  {
+    "word": "looked over",
+    "memory": "glanced across",
+    "meaning": "Turned the eyes towards someone or something nearby; also examined something quickly",
+    "hindi": "की तरफ़ देखा; सरसरी नज़र डाली",
+    "trick": "LOOKED OVER = eyes go OVER to the other side.",
+    "examples": [
+      "Mariam looked over to Rasheed.",
+      "He looked over the report before the meeting."
+    ],
+    "usage": {
+      "pos": "phrasal verb (past)",
+      "pattern": "looked over to/at someone / looked something over",
+      "partners": [
+        "looked over to",
+        "looked over at",
+        "looked over the papers"
+      ]
+    }
+  },
+  {
+    "word": "looked up",
+    "memory": "admired, respected",
+    "meaning": "(with 'to') admired and respected someone; also searched for information in a book or online",
+    "hindi": "आदर किया, सम्मान से देखा; खोजा",
+    "trick": "LOOKED UP to: you look UP at someone above you — a role model.",
+    "examples": [
+      "Josh had been a person I looked up to.",
+      "I looked up the word in the dictionary."
+    ],
+    "usage": {
+      "pos": "phrasal verb (past)",
+      "pattern": "looked up to someone / looked something up",
+      "partners": [
+        "looked up to",
+        "looked up the word",
+        "looked up online"
+      ]
+    }
+  },
+  {
+    "word": "lookout",
+    "memory": "viewpoint, watch place",
+    "meaning": "A high place from which you can see far around; also a person who keeps watch",
+    "hindi": "देखने की ऊँची जगह; पहरेदार",
+    "trick": "LOOK + OUT: a place to LOOK OUT far.",
+    "examples": [
+      "There was a lookout on the edge of the clearing where Mariam liked to go.",
+      "We stopped at a lookout to see the valley below."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a lookout + place / keep a lookout for something",
+      "partners": [
+        "mountain lookout",
+        "keep a lookout",
+        "on the lookout"
+      ]
+    }
+  },
+  {
+    "word": "loom",
+    "memory": "tower over",
+    "meaning": "To appear large and threatening over someone; also a machine for weaving cloth",
+    "hindi": "डराते हुए मंडराना; करघा",
+    "trick": "LOOM: a big shadow LOOMS like a dark cloud over you.",
+    "examples": [
+      "Rasheed seemed to loom over the woman.",
+      "Dark clouds began to loom over the hills."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "loom over/above someone / something",
+      "partners": [
+        "loom over",
+        "loom large",
+        "loom ahead"
+      ]
+    }
+  },
+  {
+    "word": "loomed",
+    "memory": "towered, hovered",
+    "meaning": "Appeared large, threatening or close",
+    "hindi": "मंडराया, सामने खड़ा हुआ",
+    "trick": "LOOMED: rose up like a big dark shape.",
+    "examples": [
+      "He looked like a gorilla and loomed like a godfather of pain.",
+      "The exam loomed closer every day."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "loomed over someone / loomed ahead",
+      "partners": [
+        "loomed over",
+        "loomed large",
+        "loomed ahead"
+      ]
+    }
+  },
+  {
+    "word": "looming",
+    "memory": "towering, approaching",
+    "meaning": "Appearing large and threatening above something; also coming close in time",
+    "hindi": "सिर पर मंडराता, निकट आता",
+    "trick": "LOOMING = a giant shadow coming closer.",
+    "examples": [
+      "The Safid-koh mountains were looming over Gul Daman.",
+      "With exams looming, he studied every night."
+    ],
+    "usage": {
+      "pos": "verb (-ing) / adjective",
+      "pattern": "looming over something / a looming + noun",
+      "partners": [
+        "looming over",
+        "looming deadline",
+        "looming crisis"
+      ]
+    }
+  },
+  {
+    "word": "loony",
+    "memory": "crazy person",
+    "meaning": "(informal, offensive) a mad or very silly person; also crazy",
+    "hindi": "पागल, सनकी (बोलचाल)",
+    "trick": "LOONY comes from LUNATIC (moon-struck).",
+    "examples": [
+      "At least she's not a loony like yours.",
+      "My cousin acts like a loony when he's excited."
+    ],
+    "usage": {
+      "pos": "noun (informal)",
+      "pattern": "a loony / be loony",
+      "partners": [
+        "a loony",
+        "complete loony",
+        "loony idea"
+      ]
+    }
+  },
+  {
+    "word": "loped",
+    "memory": "ran with long steps",
+    "meaning": "Ran easily with long, relaxed strides",
+    "hindi": "लंबे कदमों से भागा",
+    "trick": "LOPED: long legs LEAPed lightly — like a wolf.",
+    "examples": [
+      "Eventually the dogs gave up and loped off.",
+      "The tall boy loped across the field to catch the ball."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "loped off / loped across/along something",
+      "partners": [
+        "loped off",
+        "loped away",
+        "loped across"
+      ]
+    }
+  },
+  {
+    "word": "lopsided",
+    "memory": "uneven, crooked",
+    "meaning": "With one side lower, bigger or heavier than the other",
+    "hindi": "टेढ़ा, एक तरफ़ झुका",
+    "trick": "LOP-SIDED: one side LOPPED (cut) off, so it leans.",
+    "examples": [
+      "The course was laid out like a lopsided figure eight.",
+      "The cake came out lopsided from the oven."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a lopsided + noun / be lopsided",
+      "partners": [
+        "lopsided smile",
+        "lopsided shape",
+        "lopsided result"
+      ]
+    }
+  },
+  {
+    "word": "lord",
+    "memory": "act superior",
+    "meaning": "(in '... it over') to behave as if you are better than others and order them around; also a man of high rank",
+    "hindi": "रौब जमाना, धौंस दिखाना; मालिक",
+    "trick": "LORD it over: act like a LORD over servants.",
+    "examples": [
+      "Don't lord it over your team; it won't help you advance.",
+      "He likes to lord it over his younger brothers."
+    ],
+    "usage": {
+      "pos": "verb (phrase)",
+      "pattern": "lord it over someone",
+      "partners": [
+        "lord it over",
+        "lord it over others"
+      ]
+    }
+  },
+  {
+    "word": "lore",
+    "memory": "tales, legends",
+    "meaning": "Old stories and knowledge passed down among a group of people",
+    "hindi": "कहानियाँ, लोक-कथाएँ",
+    "trick": "LORE = stories told and stORE'd in memory.",
+    "examples": [
+      "Ahmad and Noor had always been like lore to her.",
+      "Village lore says the old well is haunted."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the lore of something / family lore",
+      "partners": [
+        "family lore",
+        "local lore",
+        "ancient lore"
+      ]
+    }
+  },
+  {
+    "word": "lorry",
+    "memory": "truck",
+    "meaning": "(British) a large motor vehicle for carrying goods",
+    "hindi": "ट्रक",
+    "trick": "LORRY carries a LOT of load — British word for truck.",
+    "examples": [
+      "Your friend was in a lorry full of refugees headed for Peshawar.",
+      "A lorry loaded with bricks blocked the road."
+    ],
+    "usage": {
+      "pos": "noun (British)",
+      "pattern": "a lorry full of something / a lorry driver",
+      "partners": [
+        "lorry driver",
+        "lorry full of",
+        "heavy lorry"
+      ]
+    }
+  },
+  {
+    "word": "lose",
+    "memory": "shed, drop",
+    "meaning": "To get rid of something such as weight; also to stop having something or fail to win",
+    "hindi": "कम करना, घटाना; खोना, हारना",
+    "trick": "LOSE has one O — it LOSt an O (don't confuse with 'loose').",
+    "examples": [
+      "Goals like 'lose fifteen pounds' produce limited happiness.",
+      "I want to lose five kilos before the wedding."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "lose something / lose weight",
+      "partners": [
+        "lose weight",
+        "lose fifteen pounds",
+        "lose a game"
+      ]
+    }
+  },
+  {
+    "word": "lounge",
+    "memory": "relaxing room",
+    "meaning": "A room for sitting and relaxing; also to sit or lie lazily",
+    "hindi": "बैठक, आराम-कक्ष; आराम से पसरना",
+    "trick": "LOUNGE: a room to LOUNGE (lie lazily) on sofas.",
+    "examples": [
+      "The classroom doubled as our lounge.",
+      "We waited in the airport lounge for our flight."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in the lounge / an airport lounge",
+      "partners": [
+        "airport lounge",
+        "hotel lounge",
+        "lounge chair"
+      ]
+    }
+  },
+  {
+    "word": "lousy",
+    "memory": "very bad, poor",
+    "meaning": "(informal) very bad or of poor quality",
+    "hindi": "घटिया, बेकार (बोलचाल)",
+    "trick": "LOUSY = full of LICE (louse) → really bad.",
+    "examples": [
+      "Making money by itself was a lousy measure of success.",
+      "The food at that hotel was lousy."
+    ],
+    "usage": {
+      "pos": "adjective (informal)",
+      "pattern": "a lousy + noun / feel lousy",
+      "partners": [
+        "lousy weather",
+        "lousy food",
+        "feel lousy"
+      ]
+    }
+  },
+  {
+    "word": "lout",
+    "memory": "rude, rough man",
+    "meaning": "A rude, rough and badly behaved man",
+    "hindi": "असभ्य, उजड्ड आदमी",
+    "trick": "LOUT is LOUD and rude.",
+    "examples": [
+      "Bukowski was an alcoholic, a gambler, a lout and a cheapskate.",
+      "Some lout pushed past us in the queue."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a lout / a drunken lout",
+      "partners": [
+        "a drunken lout",
+        "a lazy lout",
+        "young louts"
+      ]
+    }
+  },
+  {
+    "word": "lowdown",
+    "memory": "mean, dishonest",
+    "meaning": "(informal) mean and dishonest; also (noun) the true facts about something",
+    "hindi": "नीच, घटिया (बोलचाल); अंदर की बात",
+    "trick": "LOWDOWN: a trick that is LOW and DOWN-right mean.",
+    "examples": [
+      "It would be a lowdown trick to shoot him like that.",
+      "Taking credit for her work was a lowdown thing to do."
+    ],
+    "usage": {
+      "pos": "adjective (informal)",
+      "pattern": "a lowdown + noun / get the lowdown on something",
+      "partners": [
+        "lowdown trick",
+        "dirty lowdown",
+        "get the lowdown"
+      ]
+    }
+  },
+  {
+    "word": "lowed",
+    "memory": "mooed",
+    "meaning": "(of a cow) made a deep, long sound",
+    "hindi": "रंभाई",
+    "trick": "LOWED: a cow's 'mooo' is a LOW sound.",
+    "examples": [
+      "The cows lowed it, the dogs whined it, the sheep bleated it.",
+      "The cows lowed softly in the barn at night."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "cattle lowed",
+      "partners": [
+        "cows lowed",
+        "cattle lowed",
+        "lowed softly"
+      ]
+    }
+  },
+  {
+    "word": "lowly",
+    "memory": "humble, low-ranking",
+    "meaning": "Low in rank or importance; humble",
+    "hindi": "मामूली, छोटा, साधारण",
+    "trick": "LOWLY = LOW in rank.",
+    "examples": [
+      "Nana's father was a lowly stone carver in a nearby village.",
+      "He started as a lowly clerk and became the manager."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a lowly + noun",
+      "partners": [
+        "a lowly clerk",
+        "lowly job",
+        "lowly position"
+      ]
+    }
+  },
+  {
+    "word": "LSD",
+    "memory": "hallucination drug",
+    "meaning": "A powerful illegal drug that makes people see and hear things that are not there",
+    "hindi": "नशीली दवा (एल एस डी), भ्रम पैदा करने वाली दवा",
+    "trick": "LSD = Lucy in the Sky with Diamonds — trippy visions.",
+    "examples": [
+      "I just used my LSD hallucinations to make a point about happiness.",
+      "The film warns young people about the dangers of LSD."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "take LSD / on LSD",
+      "partners": [
+        "take LSD",
+        "on LSD",
+        "LSD trip"
+      ]
+    }
+  },
+  {
+    "word": "lucid",
+    "memory": "clear-headed, clear",
+    "meaning": "Able to think clearly and be fully aware; also easy to understand",
+    "hindi": "सचेत, होश में; स्पष्ट",
+    "trick": "LUCID = LUCe (light): a mind full of light, clear.",
+    "examples": [
+      "Out on the playground, staying lucid was the easy part.",
+      "Grandpa was weak but still lucid enough to talk."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "stay/remain lucid / a lucid + noun",
+      "partners": [
+        "stay lucid",
+        "lucid dream",
+        "lucid explanation"
+      ]
+    }
+  },
+  {
+    "word": "ludicrous",
+    "memory": "ridiculous, absurd",
+    "meaning": "So silly or unreasonable that it is laughable",
+    "hindi": "बेतुका, हास्यास्पद",
+    "trick": "LUDICROUS: LUDO-crazy — silly as a game.",
+    "examples": [
+      "The idea that we would ever run out of money sounded ludicrous.",
+      "It's ludicrous to pay that much for a T-shirt."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "it is ludicrous to do something / sound ludicrous",
+      "partners": [
+        "sound ludicrous",
+        "ludicrous idea",
+        "ludicrous price"
+      ]
+    }
+  },
+  {
+    "word": "lugging",
+    "memory": "dragging, hauling",
+    "meaning": "Carrying or pulling something heavy with great effort",
+    "hindi": "घसीटकर ढोना, भारी चीज़ उठाना",
+    "trick": "LUGGING your LUGGAGE.",
+    "examples": [
+      "Thin boys were lugging sacks of wheat flour.",
+      "She was lugging two heavy bags up the stairs."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "be lugging something (up/around somewhere)",
+      "partners": [
+        "lugging bags",
+        "lugging around",
+        "lugging sacks"
+      ]
+    }
+  },
+  {
+    "word": "lullaby",
+    "memory": "sleep song",
+    "meaning": "A soft, gentle song sung to make a baby sleep",
+    "hindi": "लोरी",
+    "trick": "LULL + a BYE-bye: a song that lulls baby to sleep.",
+    "examples": [
+      "He bounced her in his arms and hummed a lullaby.",
+      "My mother sang me a lullaby every night."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "sing/hum a lullaby (to someone)",
+      "partners": [
+        "sing a lullaby",
+        "hum a lullaby",
+        "soft lullaby"
+      ]
+    }
+  },
+  {
+    "word": "lump",
+    "memory": "solid shapeless mass",
+    "meaning": "A solid piece of something with no clear shape; also a small swelling on the body",
+    "hindi": "ढेला, गांठ; सूजन",
+    "trick": "LUMP = a lumpy, bumpy piece.",
+    "examples": [
+      "My upper body felt like a lump of dough.",
+      "She put a lump of sugar in her tea."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a lump of something / a lump in/on something",
+      "partners": [
+        "a lump of sugar",
+        "a lump of dough",
+        "lump in the throat"
+      ]
+    }
+  },
+  {
+    "word": "luncheon",
+    "memory": "formal lunch",
+    "meaning": "(formal, old-fashioned) a lunch, often a formal one",
+    "hindi": "दोपहर का भोजन",
+    "trick": "LUNCHEON = a fancy LUNCH.",
+    "examples": [
+      "I proposed she should have luncheon with me.",
+      "The club holds a luncheon for its members every year."
+    ],
+    "usage": {
+      "pos": "noun (formal)",
+      "pattern": "have luncheon (with someone) / a luncheon for someone",
+      "partners": [
+        "have luncheon",
+        "charity luncheon",
+        "luncheon party"
+      ]
+    }
+  },
+  {
+    "word": "lunged",
+    "memory": "jumped forward, sprang",
+    "meaning": "Moved forward suddenly and forcefully, often to attack",
+    "hindi": "झपटा, टूट पड़ा",
+    "trick": "LUNGED: a sudden leap with full LUNGS of air.",
+    "examples": [
+      "He bared his yellow teeth and lunged at me.",
+      "The dog lunged at the postman."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "lunged at someone / lunged for something",
+      "partners": [
+        "lunged at",
+        "lunged forward",
+        "lunged for"
+      ]
+    }
+  },
+  {
+    "word": "lurched",
+    "memory": "jerked, jolted",
+    "meaning": "Made a sudden, unsteady movement; also moved in an unsteady, swaying way",
+    "hindi": "झटका खाया, लड़खड़ाया",
+    "trick": "LURCHED: the bus LURCHED and everyone fell forward.",
+    "examples": [
+      "He lurched across the yard and kicked off his boots.",
+      "The bus lurched forward and I grabbed the rail."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "lurched forward/across something",
+      "partners": [
+        "lurched forward",
+        "lurched across",
+        "stomach lurched"
+      ]
+    }
+  },
+  {
+    "word": "lure",
+    "memory": "attraction, temptation",
+    "meaning": "Something that strongly attracts or tempts people; also to tempt someone",
+    "hindi": "आकर्षण, लालच; लुभाना",
+    "trick": "LURE = a fishing bait that LURES fish in.",
+    "examples": [
+      "It's tough to ignore that kind of glittering lure.",
+      "The lure of city life pulls many young people from villages."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the lure of something / lure someone into something",
+      "partners": [
+        "the lure of",
+        "glittering lure",
+        "lure customers"
+      ]
+    }
+  },
+  {
+    "word": "lurked",
+    "memory": "hid, lay hidden",
+    "meaning": "Was present but hidden, often waiting to cause harm",
+    "hindi": "छिपा रहा, घात लगाए रहा",
+    "trick": "LURKED: like a wolf LURKING in the dark.",
+    "examples": [
+      "She could hear the insincerity that had always lurked beneath.",
+      "A thief lurked in the shadows of the alley."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something lurked behind/beneath something",
+      "partners": [
+        "lurked beneath",
+        "lurked behind",
+        "lurked in the shadows"
+      ]
+    }
+  },
+  {
+    "word": "lush",
+    "memory": "green, thick, rich",
+    "meaning": "(of plants) growing thickly and healthily; also rich and comfortable",
+    "hindi": "हरा-भरा, घना",
+    "trick": "LUSH: rain makes everything LUSH green.",
+    "examples": [
+      "The valley below was carpeted by lush farming fields.",
+      "After the monsoon, the hills were lush and green."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "lush + noun / be lush",
+      "partners": [
+        "lush green",
+        "lush fields",
+        "lush garden"
+      ]
+    }
+  },
+  {
+    "word": "luxuriant",
+    "memory": "rich, abundant",
+    "meaning": "Rich and plentiful; (of plants or hair) growing thickly and well",
+    "hindi": "भरपूर, समृद्ध; घना",
+    "trick": "LUXURIANT = LUXURY-rich and abundant.",
+    "examples": [
+      "A new life, luxuriant with possibility and joy.",
+      "She had luxuriant black hair down to her waist."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "luxuriant + noun / be luxuriant with something",
+      "partners": [
+        "luxuriant hair",
+        "luxuriant growth",
+        "luxuriant with possibility"
+      ]
+    }
+  },
+  {
+    "word": "lyrical",
+    "memory": "poetic, beautifully expressed",
+    "meaning": "Expressing feelings in a beautiful, poetic way, like a song",
+    "hindi": "काव्यात्मक, भावपूर्ण",
+    "trick": "LYRICAL = like song LYRICS.",
+    "examples": [
+      "The novel is written in often lyrical prose.",
+      "The writer gave a lyrical description of the sunset."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "lyrical + noun / wax lyrical about something",
+      "partners": [
+        "lyrical prose",
+        "lyrical style",
+        "wax lyrical"
+      ]
+    }
+  }
+]

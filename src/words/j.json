@@ -1,0 +1,559 @@
+[
+  {
+    "word": "jabbering",
+    "memory": "babbling, chattering",
+    "meaning": "Fast, unclear talk or baby sounds that make little sense",
+    "hindi": "बड़बड़ाहट, बकबक",
+    "trick": "JAB-JAB-JAB: the mouth jabs out sounds non-stop.",
+    "examples": [
+      "She could hear the baby's hungry grunts, its gurgles and jabbering.",
+      "The kids kept jabbering in the back seat all the way home."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the jabbering of someone / stop jabbering",
+      "partners": [
+        "constant jabbering",
+        "baby jabbering",
+        "jabbering away"
+      ]
+    }
+  },
+  {
+    "word": "jackhammered",
+    "memory": "shook violently, shivered",
+    "meaning": "Shook hard and fast, like a road drill (informal; here, shivering from cold and fear)",
+    "hindi": "बुरी तरह काँपे",
+    "trick": "A JACKHAMMER drill shakes the whole body: the cold men jackhammered.",
+    "examples": [
+      "Guys wheezed, coughed, and jackhammered, their eyes wide with terror.",
+      "After the ice-cold swim, my whole body jackhammered."
+    ],
+    "usage": {
+      "pos": "verb (past, informal)",
+      "pattern": "someone's body/teeth jackhammered",
+      "partners": [
+        "teeth jackhammered",
+        "jackhammered with cold"
+      ]
+    }
+  },
+  {
+    "word": "jackhammering",
+    "memory": "shaking hard, shivering",
+    "meaning": "Shaking hard and fast, like a road drill (informal; here, shivering from cold and fear)",
+    "hindi": "बुरी तरह काँपना, थरथराना",
+    "trick": "A JACKHAMMER drill never stops shaking: neither do freezing men.",
+    "examples": [
+      "Guys were jackhammering and sniffling, their minds slowly starting to crack.",
+      "My heart was jackhammering before the interview."
+    ],
+    "usage": {
+      "pos": "verb (-ing, informal)",
+      "pattern": "be jackhammering (with cold/fear)",
+      "partners": [
+        "heart jackhammering",
+        "jackhammering with cold"
+      ]
+    }
+  },
+  {
+    "word": "jacuzzi",
+    "memory": "hot bubble bath",
+    "meaning": "A large bath or small pool with jets of warm bubbling water (from a brand name)",
+    "hindi": "गर्म बुलबुलों वाला टब",
+    "trick": "JACUZZI: say it fast and it sounds like bubbles going 'zzi-zzi'.",
+    "examples": [
+      "In my dream, I was sitting in a Jacuzzi with him.",
+      "The hotel has a pool and a jacuzzi on the roof."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "sit/relax in a jacuzzi",
+      "partners": [
+        "hot jacuzzi",
+        "relax in the jacuzzi",
+        "hotel jacuzzi"
+      ]
+    }
+  },
+  {
+    "word": "jade",
+    "memory": "green stone, green",
+    "meaning": "A hard green stone used for jewellery and carvings; also its light green colour",
+    "hindi": "हरा पत्थर, हरिताश्म",
+    "trick": "JADE is a gem that is GREEN: think 'jade green'.",
+    "examples": [
+      "He made these beautiful, jade green swans.",
+      "She wore a necklace made of jade."
+    ],
+    "usage": {
+      "pos": "noun / adjective (colour)",
+      "pattern": "jade green / made of jade",
+      "partners": [
+        "jade green",
+        "jade necklace",
+        "carved jade"
+      ]
+    }
+  },
+  {
+    "word": "jagged",
+    "memory": "sharp, uneven",
+    "meaning": "Having rough, sharp, uneven edges or points",
+    "hindi": "नुकीला, खुरदरा, दाँतेदार",
+    "trick": "JAGGED edges JAB you like a saw's teeth.",
+    "examples": [
+      "The jagged pieces of the broken glass fell to the ground.",
+      "Be careful, the edge of this tin is jagged."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "jagged + noun / a jagged edge",
+      "partners": [
+        "jagged edge",
+        "jagged rocks",
+        "jagged glass"
+      ]
+    }
+  },
+  {
+    "word": "janitor",
+    "memory": "cleaner, caretaker",
+    "meaning": "A person whose job is to clean and look after a building",
+    "hindi": "चौकीदार, सफ़ाईकर्मी",
+    "trick": "JANITOR guards the 'janu-door' (door) and keeps the building clean.",
+    "examples": [
+      "Tariq was hired as a janitor and handyman.",
+      "The school janitor mops the floors every evening."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "work as a janitor / the janitor of a building",
+      "partners": [
+        "school janitor",
+        "hired as a janitor",
+        "night janitor"
+      ]
+    }
+  },
+  {
+    "word": "jealous",
+    "memory": "envious",
+    "meaning": "Unhappy because someone has something you want; also afraid of losing someone's love to another person",
+    "hindi": "ईर्ष्यालु, जलने वाला",
+    "trick": "JEALOUS people are 'jal-ous': they jal (burn) inside.",
+    "examples": [
+      "People who pointed out his lazy lifestyle were just \"jealous\", he said.",
+      "My little brother gets jealous when I get new clothes."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be jealous of someone / something",
+      "partners": [
+        "jealous of",
+        "get jealous",
+        "jealous friend"
+      ]
+    }
+  },
+  {
+    "word": "jeers",
+    "memory": "mocking shouts",
+    "meaning": "Loud rude shouts or laughs that make fun of someone",
+    "hindi": "ताने, हूटिंग, फब्तियाँ",
+    "trick": "JEERS sound like 'cheers' turned nasty: the crowd jeers instead of cheers.",
+    "examples": [
+      "There were heckles and jeers.",
+      "The player ignored the jeers from the crowd."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "jeers from someone / be met with jeers",
+      "partners": [
+        "jeers from the crowd",
+        "boos and jeers",
+        "met with jeers"
+      ]
+    }
+  },
+  {
+    "word": "jetted",
+    "memory": "shot quickly",
+    "meaning": "Moved very fast in one direction, like a jet",
+    "hindi": "तेज़ी से निकले, फुर्ती से गए",
+    "trick": "JETTED = moved like a JET.",
+    "examples": [
+      "Several guys dropped their tanks, then jetted to the surface of the pool.",
+      "The swimmer jetted across the pool to win the race."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "jetted to/off/across somewhere",
+      "partners": [
+        "jetted to the surface",
+        "jetted off",
+        "jetted across"
+      ]
+    }
+  },
+  {
+    "word": "jewelry",
+    "memory": "ornaments",
+    "meaning": "Rings, necklaces, bracelets, etc. worn for decoration (US spelling; British 'jewellery')",
+    "hindi": "गहने, ज़ेवर",
+    "trick": "JEWELRY is made of JEWELs.",
+    "examples": [
+      "\"Nomad jewelry,\" she said.",
+      "My grandmother gave me her old gold jewelry."
+    ],
+    "usage": {
+      "pos": "noun (uncountable, US spelling)",
+      "pattern": "wear jewelry / a piece of jewelry",
+      "partners": [
+        "gold jewelry",
+        "piece of jewelry",
+        "wear jewelry"
+      ]
+    }
+  },
+  {
+    "word": "jiffy",
+    "memory": "a moment",
+    "meaning": "A very short time (informal)",
+    "hindi": "पल भर में, झट से (बोलचाल)",
+    "trick": "JIFFY = 'Jiff-ee': done in a jiff, in a snap.",
+    "examples": [
+      "He shouted that he'd be with us in a jiffy.",
+      "Wait here, I'll be back in a jiffy."
+    ],
+    "usage": {
+      "pos": "noun (informal)",
+      "pattern": "in a jiffy",
+      "partners": [
+        "in a jiffy",
+        "back in a jiffy",
+        "ready in a jiffy"
+      ]
+    }
+  },
+  {
+    "word": "jingled",
+    "memory": "tinkled, clinked",
+    "meaning": "Made a light ringing sound, like small metal things knocking together",
+    "hindi": "खनके, छनछनाए",
+    "trick": "JINGLE BELLS: bells that jingled.",
+    "examples": [
+      "The keys jingled.",
+      "The coins jingled in his pocket as he walked."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something jingled / someone jingled something",
+      "partners": [
+        "keys jingled",
+        "coins jingled",
+        "bells jingled"
+      ]
+    }
+  },
+  {
+    "word": "jittery",
+    "memory": "nervous, jumpy",
+    "meaning": "Nervous and unable to relax",
+    "hindi": "घबराया हुआ, बेचैन",
+    "trick": "JITTERY = JITTERs: shaky like too much coffee.",
+    "examples": [
+      "Her own mind was a jittery, muddled mess.",
+      "I always feel jittery before an exam."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "feel/be jittery / a jittery + noun",
+      "partners": [
+        "feel jittery",
+        "jittery nerves",
+        "a bit jittery"
+      ]
+    }
+  },
+  {
+    "word": "jog",
+    "memory": "nudge, shake",
+    "meaning": "To push or shake someone gently; also to run slowly for exercise",
+    "hindi": "हिलाना, झकझोरना; धीरे दौड़ना",
+    "trick": "JOG someone's shoulder to wake them, JOG in the park to keep fit.",
+    "examples": [
+      "Marie had to jog my shoulders and shout my name to wake me.",
+      "I jog in the park every morning."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "jog someone's arm/shoulder / jog someone's memory",
+      "partners": [
+        "jog someone's memory",
+        "jog someone's arm",
+        "go for a jog"
+      ]
+    }
+  },
+  {
+    "word": "jolted",
+    "memory": "jerked, shook",
+    "meaning": "Moved suddenly and roughly; also shocked or surprised",
+    "hindi": "झटका खाया, झटके से हिला",
+    "trick": "JOLTED: like a jolt of electricity making you jump.",
+    "examples": [
+      "The woman's head jolted back as if he had thrown a brick at her.",
+      "The bus jolted to a stop and everyone fell forward."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something jolted (back/forward) / jolted someone awake",
+      "partners": [
+        "jolted awake",
+        "jolted back",
+        "jolted to a stop"
+      ]
+    }
+  },
+  {
+    "word": "jolts",
+    "memory": "bumps, jerks",
+    "meaning": "Sudden rough shakes or movements; also sudden shocks",
+    "hindi": "झटके, धचके",
+    "trick": "JOLTS on a bumpy road JOLT your bones.",
+    "examples": [
+      "The glare, the smell of gasoline and the jolts made me feel drowsy.",
+      "The old bus gave us painful jolts on the rough road."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "the jolts of something / with jolts",
+      "partners": [
+        "sudden jolts",
+        "jolts and bumps",
+        "painful jolts"
+      ]
+    }
+  },
+  {
+    "word": "jostling",
+    "memory": "pushing, shoving",
+    "meaning": "Pushing roughly against others in a crowd, often to get somewhere first",
+    "hindi": "धक्का-मुक्की करना",
+    "trick": "JOSTLING = JUST pushing to get in front.",
+    "examples": [
+      "The children were jostling with one another to climb into her arms.",
+      "People were jostling to get on the crowded train."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "jostle with someone / jostle for something / to do something",
+      "partners": [
+        "jostling for position",
+        "jostling with one another",
+        "jostling crowd"
+      ]
+    }
+  },
+  {
+    "word": "jovial",
+    "memory": "cheerful, friendly",
+    "meaning": "Cheerful and friendly in a warm, hearty way",
+    "hindi": "हँसमुख, ख़ुशमिज़ाज",
+    "trick": "JOVIAL = JOLLY + JOY: always smiling.",
+    "examples": [
+      "Mariam remembered the jovial way he had pushed his gifts at her.",
+      "Our jovial neighbour always greets us with a joke."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be jovial / a jovial + person/manner",
+      "partners": [
+        "jovial mood",
+        "jovial man",
+        "jovial manner"
+      ]
+    }
+  },
+  {
+    "word": "joyous",
+    "memory": "very happy",
+    "meaning": "Full of joy; very happy",
+    "hindi": "आनंदमय, ख़ुशी भरा",
+    "trick": "JOYOUS = full of JOY.",
+    "examples": [
+      "They are some of the most meaningful and joyous things we'll ever do.",
+      "The wedding was a joyous day for the whole family."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a joyous + occasion/moment",
+      "partners": [
+        "joyous occasion",
+        "joyous celebration",
+        "joyous moment"
+      ]
+    }
+  },
+  {
+    "word": "jubilant",
+    "memory": "overjoyed, triumphant",
+    "meaning": "Extremely happy and excited, especially because of a success",
+    "hindi": "बेहद ख़ुश, उल्लासित",
+    "trick": "JUBILANT people celebrate a JUBILEE.",
+    "examples": [
+      "She pictured Zalmai's jubilant, running welcomes when Rasheed came home.",
+      "The jubilant fans danced after their team won."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be jubilant (at/about something) / a jubilant + noun",
+      "partners": [
+        "jubilant crowd",
+        "jubilant fans",
+        "jubilant mood"
+      ]
+    }
+  },
+  {
+    "word": "juggle",
+    "memory": "manage several things",
+    "meaning": "To deal with several tasks or problems at the same time; also to keep several objects in the air by throwing and catching",
+    "hindi": "कई काम एक साथ संभालना; करतब से गेंदें उछालना",
+    "trick": "A JUGGLER keeps many balls up, like you juggle work and home.",
+    "examples": [
+      "This drill tested our ability to juggle several stresses at once.",
+      "Many mothers juggle a job and a family."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "juggle something (and something) / juggle multiple things",
+      "partners": [
+        "juggle work and family",
+        "juggle multiple tasks",
+        "juggle priorities"
+      ]
+    }
+  },
+  {
+    "word": "junkie",
+    "memory": "fan, enthusiast",
+    "meaning": "Someone who is very keen on something (informal); also a drug addict",
+    "hindi": "शौक़ीन, दीवाना (बोलचाल); नशेड़ी",
+    "trick": "JUNKIE: hooked on something, like junk food.",
+    "examples": [
+      "Erin is a self-improvement junkie.",
+      "My brother is a news junkie who reads every paper."
+    ],
+    "usage": {
+      "pos": "noun (informal)",
+      "pattern": "a + something + junkie",
+      "partners": [
+        "news junkie",
+        "adrenaline junkie",
+        "fitness junkie"
+      ]
+    }
+  },
+  {
+    "word": "jurisdiction",
+    "memory": "legal area, authority",
+    "meaning": "An area, or the official power, where a court or authority can make legal decisions",
+    "hindi": "अधिकार क्षेत्र",
+    "trick": "JURIS = law (like jury, justice) + DICTION = speaking: where the law speaks.",
+    "examples": [
+      "New York has more hostage negotiation jobs than any other jurisdiction in the country.",
+      "This case is outside the local court's jurisdiction."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "within/outside someone's jurisdiction / have jurisdiction over something",
+      "partners": [
+        "within the jurisdiction",
+        "have jurisdiction over",
+        "legal jurisdiction"
+      ]
+    }
+  },
+  {
+    "word": "jury",
+    "memory": "panel of citizens",
+    "meaning": "A group of ordinary people who listen to a court case and decide if someone is guilty",
+    "hindi": "जूरी, पंच-मंडल",
+    "trick": "JURY decides like a JUDGE, but they are ordinary people.",
+    "examples": [
+      "These people were staring hard at me, and I guessed they were the jury.",
+      "The jury found him not guilty."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the jury finds someone guilty/not guilty / serve on a jury",
+      "partners": [
+        "the jury decided",
+        "serve on a jury",
+        "jury verdict"
+      ]
+    }
+  },
+  {
+    "word": "jurymen",
+    "memory": "jury members",
+    "meaning": "Men who are members of a jury (old-fashioned)",
+    "hindi": "जूरी के सदस्य",
+    "trick": "JURY + MEN = the men on the jury.",
+    "examples": [
+      "The jurymen were all gazing at the red-robed judge.",
+      "The twelve jurymen listened carefully to the witness."
+    ],
+    "usage": {
+      "pos": "noun (plural, old-fashioned)",
+      "pattern": "the jurymen + verb",
+      "partners": [
+        "the twelve jurymen",
+        "jurymen agreed"
+      ]
+    }
+  },
+  {
+    "word": "jutting",
+    "memory": "sticking out",
+    "meaning": "Sticking out beyond the edge or surface of something",
+    "hindi": "बाहर निकला हुआ, उभरा हुआ",
+    "trick": "JUT = just out: a rock JUTTING out of the cliff.",
+    "examples": [
+      "There's a small rock jutting out of the cliff side.",
+      "He hurt his knee on a nail jutting out of the wall."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "something jutting out (of/from something)",
+      "partners": [
+        "jutting out",
+        "jutting rock",
+        "jutting chin"
+      ]
+    }
+  },
+  {
+    "word": "juvenile",
+    "memory": "young person, minor",
+    "meaning": "A young person who is not yet an adult, especially in law; also childish",
+    "hindi": "नाबालिग, किशोर; बचकाना",
+    "trick": "JUVENILE = JUNIOR in law: not yet an adult.",
+    "examples": [
+      "Children from abusive homes are more likely to be arrested as a juvenile.",
+      "The boy was sent to a home for juveniles."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "as a juvenile / juvenile + noun (court, crime)",
+      "partners": [
+        "juvenile court",
+        "juvenile crime",
+        "arrested as a juvenile"
+      ]
+    }
+  }
+]

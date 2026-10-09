@@ -1,0 +1,1542 @@
+[
+  {
+    "word": "vacant",
+    "memory": "blank, absent-minded",
+    "meaning": "Showing no thought or feeling; also empty, not occupied",
+    "hindi": "खोया हुआ, शून्य; खाली",
+    "trick": "VACANT = VACATION in the mind: nobody home.",
+    "examples": [
+      "She was distracted and vacant most of the time, except when he called her name.",
+      "He gave me a vacant stare when I asked the question."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "look vacant / a vacant + look/seat",
+      "partners": [
+        "vacant stare",
+        "vacant seat",
+        "vacant room"
+      ]
+    }
+  },
+  {
+    "word": "vacuous",
+    "memory": "empty, mindless",
+    "meaning": "Showing no intelligence or serious thought",
+    "hindi": "खोखला, बुद्धिहीन",
+    "trick": "VACUOUS = like a VACUUM: empty inside.",
+    "examples": [
+      "He saw Japan as a vacuous nation full of hippies.",
+      "The movie was fun but vacuous."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a vacuous + noun / be vacuous",
+      "partners": [
+        "vacuous smile",
+        "vacuous talk",
+        "vacuous person"
+      ]
+    }
+  },
+  {
+    "word": "vague",
+    "memory": "unclear",
+    "meaning": "Not clear, exact or detailed",
+    "hindi": "अस्पष्ट, धुँधला",
+    "trick": "VAGUE sounds like a WAVE - blurry, moving, unclear.",
+    "examples": [
+      "Rumours of a wonderful farm kept spreading in vague and distorted forms.",
+      "He gave only a vague answer about his plans."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "vague about something / a vague + noun",
+      "partners": [
+        "vague idea",
+        "vague answer",
+        "vague memory"
+      ]
+    }
+  },
+  {
+    "word": "vaguely",
+    "memory": "slightly, faintly",
+    "meaning": "In a slight or unclear way",
+    "hindi": "कुछ-कुछ, हल्का-सा",
+    "trick": "VAGUE + LY: in a not-quite-clear way.",
+    "examples": [
+      "Oblong and glossy, it vaguely reminded me of the pen trays in the office.",
+      "I vaguely remember meeting her years ago."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "vaguely + verb/adjective",
+      "partners": [
+        "vaguely remember",
+        "vaguely familiar",
+        "vaguely aware"
+      ]
+    }
+  },
+  {
+    "word": "vain",
+    "memory": "proud of looks; useless",
+    "meaning": "Too proud of your looks or abilities; also useless or unsuccessful",
+    "hindi": "घमंडी; व्यर्थ",
+    "trick": "VAIN people look in the mirror again and again; VAIN effort goes down the drain.",
+    "examples": [
+      "Women are shallow and vain and will never like me!",
+      "She is so vain that she checks her phone camera all day."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be vain / in vain",
+      "partners": [
+        "vain person",
+        "in vain",
+        "vain attempt"
+      ]
+    }
+  },
+  {
+    "word": "valiantly",
+    "memory": "bravely",
+    "meaning": "In a brave and determined way",
+    "hindi": "बहादुरी से, वीरता से",
+    "trick": "VALIANT = VALOUR: brave knight fights VALIANTLY.",
+    "examples": [
+      "She said he fought valiantly.",
+      "The team tried valiantly but lost the match."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "fight/try valiantly",
+      "partners": [
+        "fought valiantly",
+        "try valiantly",
+        "struggle valiantly"
+      ]
+    }
+  },
+  {
+    "word": "valor",
+    "memory": "bravery",
+    "meaning": "Great bravery, especially in battle; US spelling (British valour)",
+    "hindi": "वीरता, बहादुरी",
+    "trick": "VALOR = VALue of a brave heart.",
+    "examples": [
+      "He won a Silver Star and four Bronze Stars for valor.",
+      "The soldier received a medal for valor."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "valor in something / for valor",
+      "partners": [
+        "medal for valor",
+        "acts of valor",
+        "great valor"
+      ]
+    }
+  },
+  {
+    "word": "valves",
+    "memory": "heart flaps",
+    "meaning": "Small flaps in the heart (or a pipe) that open and close to control flow",
+    "hindi": "वाल्व, कपाट",
+    "trick": "VALVES let blood flow one way, like a one-way door.",
+    "examples": [
+      "He talked nonstop while he checked out all my chambers and valves.",
+      "The doctor said his heart valves are healthy."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "heart valves / the valves of something",
+      "partners": [
+        "heart valves",
+        "valves open",
+        "replace the valves"
+      ]
+    }
+  },
+  {
+    "word": "vanity",
+    "memory": "pride in yourself",
+    "meaning": "Too much pride in your looks or abilities",
+    "hindi": "घमंड, अहंकार",
+    "trick": "VANITY - VAIN-ity: a VAIN person's quality.",
+    "examples": [
+      "We had thought that Snowball's rebellion was caused simply by his vanity and ambition.",
+      "She bought the costly bag out of vanity."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "out of vanity / someone's vanity",
+      "partners": [
+        "pure vanity",
+        "out of vanity",
+        "wounded vanity"
+      ]
+    }
+  },
+  {
+    "word": "vantage",
+    "memory": "viewpoint",
+    "meaning": "A place or position from which you can see or understand things well (usually followed by 'point')",
+    "hindi": "सुविधाजनक स्थान, नज़रिया",
+    "trick": "VANTAGE = adVANTAGE spot to see from.",
+    "examples": [
+      "From my vantage point I could see the crest of the hill above.",
+      "From this vantage point, you can see the whole city."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "from someone's vantage point",
+      "partners": [
+        "vantage point",
+        "from my vantage point",
+        "good vantage"
+      ]
+    }
+  },
+  {
+    "word": "vaporize",
+    "memory": "disappear",
+    "meaning": "To disappear completely; also to turn into gas",
+    "hindi": "गायब हो जाना; भाप बनना",
+    "trick": "VAPOR-IZE: turn into VAPOR and vanish.",
+    "examples": [
+      "If a beginner died, his race would vaporize overnight.",
+      "The water will vaporize if you heat it."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "something vaporizes / vaporize something",
+      "partners": [
+        "vaporize overnight",
+        "vaporize instantly",
+        "vaporize the water"
+      ]
+    }
+  },
+  {
+    "word": "variances",
+    "memory": "differences",
+    "meaning": "Amounts by which things differ or change",
+    "hindi": "अंतर, भिन्नताएँ",
+    "trick": "VARIANCES = how much things VARY.",
+    "examples": [
+      "I studied the course and noted temperature and elevation variances.",
+      "The teacher noticed small variances in the test scores."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "variances in something",
+      "partners": [
+        "temperature variances",
+        "small variances",
+        "variances in results"
+      ]
+    }
+  },
+  {
+    "word": "varied",
+    "memory": "changed",
+    "meaning": "Changed or been different (past of vary); also of many different types",
+    "hindi": "बदला; विविध",
+    "trick": "VARIED = VARY + ED: never the same.",
+    "examples": [
+      "For eight years that walk has never varied.",
+      "Her lunch varied from day to day."
+    ],
+    "usage": {
+      "pos": "verb (past participle); adjective",
+      "pattern": "something has varied / a varied + noun",
+      "partners": [
+        "never varied",
+        "varied diet",
+        "widely varied"
+      ]
+    }
+  },
+  {
+    "word": "varnished",
+    "memory": "glossy-coated",
+    "meaning": "Covered with a clear shiny liquid that dries hard",
+    "hindi": "वार्निश किया हुआ, चमकाया हुआ",
+    "trick": "VARNISHED: a VARNISH coat makes wood shine.",
+    "examples": [
+      "Oblong, glossy, varnished black all over, it reminded me of the pen trays.",
+      "The varnished table shone in the light."
+    ],
+    "usage": {
+      "pos": "adjective; verb (past participle)",
+      "pattern": "varnished + noun / be varnished",
+      "partners": [
+        "varnished wood",
+        "varnished table",
+        "freshly varnished"
+      ]
+    }
+  },
+  {
+    "word": "varsity",
+    "memory": "school's top team",
+    "meaning": "US: the main sports team of a school or college; also British informal for university",
+    "hindi": "मुख्य टीम (स्कूल/कॉलेज); विश्वविद्यालय",
+    "trick": "VARSITY = uniVERSITY's best team.",
+    "examples": [
+      "It was no surprise when he made the varsity squad.",
+      "She plays on the varsity basketball team."
+    ],
+    "usage": {
+      "pos": "noun; adjective",
+      "pattern": "make the varsity / varsity + team/squad",
+      "partners": [
+        "varsity team",
+        "varsity squad",
+        "make varsity"
+      ]
+    }
+  },
+  {
+    "word": "vases",
+    "memory": "flower pots",
+    "meaning": "Decorative containers for holding flowers",
+    "hindi": "फूलदान",
+    "trick": "VASES hold flowers; say 'vaa-zes'.",
+    "examples": [
+      "She saw the marble bases of statues and the lower halves of vases.",
+      "She put fresh roses in both vases."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "vases of flowers",
+      "partners": [
+        "flower vases",
+        "glass vases",
+        "vases of flowers"
+      ]
+    }
+  },
+  {
+    "word": "vassal",
+    "memory": "dependent, subject",
+    "meaning": "A person or country that owes loyalty and service to a more powerful one",
+    "hindi": "अधीन, सामंत",
+    "trick": "VASSAL serves the CASTLE lord.",
+    "examples": [
+      "The Romans forced the princes of vassal states to send their sons to Rome.",
+      "The small kingdom became a vassal of the empire."
+    ],
+    "usage": {
+      "pos": "noun; adjective",
+      "pattern": "a vassal of someone / vassal state",
+      "partners": [
+        "vassal state",
+        "vassal king",
+        "become a vassal"
+      ]
+    }
+  },
+  {
+    "word": "vast",
+    "memory": "huge",
+    "meaning": "Extremely large in size or amount",
+    "hindi": "विशाल, बहुत बड़ा",
+    "trick": "VAST = Very And Superbly Tall/big.",
+    "examples": [
+      "She would admire Jalil for his vast and worldly knowledge.",
+      "The desert is a vast area of sand."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a vast + noun / the vast majority",
+      "partners": [
+        "vast majority",
+        "vast knowledge",
+        "vast area"
+      ]
+    }
+  },
+  {
+    "word": "vaulted",
+    "memory": "arched-roofed",
+    "meaning": "Having an arched roof or ceiling",
+    "hindi": "मेहराबदार, गुंबदनुमा",
+    "trick": "VAULTED roof jumps in an arch, like a pole VAULT.",
+    "examples": [
+      "They would take walks together in the vaulted bazaar.",
+      "The old church has a high vaulted ceiling."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a vaulted + ceiling/roof",
+      "partners": [
+        "vaulted ceiling",
+        "vaulted roof",
+        "vaulted hall"
+      ]
+    }
+  },
+  {
+    "word": "veered",
+    "memory": "turned suddenly",
+    "meaning": "Changed direction suddenly",
+    "hindi": "अचानक मुड़ा",
+    "trick": "VEERED: the car VEERED like a deer jumping sideways.",
+    "examples": [
+      "As he veered onto the highway and headed home, he kept on ranting.",
+      "The bike veered to avoid the dog."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "veer onto/off/toward something",
+      "partners": [
+        "veered off the road",
+        "veered onto",
+        "veered to the left"
+      ]
+    }
+  },
+  {
+    "word": "veering",
+    "memory": "heading toward",
+    "meaning": "Moving or changing direction towards something",
+    "hindi": "की ओर बढ़ता हुआ, मुड़ता",
+    "trick": "VEERING = steering away in a new direction.",
+    "examples": [
+      "My splintering marriage was veering toward divorce.",
+      "The talk kept veering away from the main topic."
+    ],
+    "usage": {
+      "pos": "verb (-ing form)",
+      "pattern": "be veering toward/off something",
+      "partners": [
+        "veering toward",
+        "veering off course",
+        "veering away"
+      ]
+    }
+  },
+  {
+    "word": "vegetation",
+    "memory": "plants",
+    "meaning": "Plants in general, especially in a particular area",
+    "hindi": "वनस्पति, पेड़-पौधे",
+    "trick": "VEGETATION = all the VEGETABLES and plants growing.",
+    "examples": [
+      "The path is rough and dim beneath the vegetation and undergrowth.",
+      "The hills are covered with thick vegetation."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "thick/dense vegetation",
+      "partners": [
+        "thick vegetation",
+        "dense vegetation",
+        "natural vegetation"
+      ]
+    }
+  },
+  {
+    "word": "veggies",
+    "memory": "vegetables",
+    "meaning": "Informal: vegetables",
+    "hindi": "सब्ज़ियाँ (बोलचाल)",
+    "trick": "VEGGIES = VEGetables, cute short form.",
+    "examples": [
+      "The ticket to good health comes from eating your veggies.",
+      "Kids should eat more veggies."
+    ],
+    "usage": {
+      "pos": "noun (plural, informal)",
+      "pattern": "eat your veggies",
+      "partners": [
+        "eat your veggies",
+        "fresh veggies",
+        "grilled veggies"
+      ]
+    }
+  },
+  {
+    "word": "vehemence",
+    "memory": "strong force, passion",
+    "meaning": "Strong and forceful feeling, especially in speaking",
+    "hindi": "उग्रता, जोश",
+    "trick": "VEHEMENCE: speaking with the force of a VEHICLE crashing in.",
+    "examples": [
+      "'In short,' he concluded, speaking with great vehemence, 'I accuse the prisoner.'",
+      "She denied the rumour with vehemence."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "with vehemence / the vehemence of something",
+      "partners": [
+        "with great vehemence",
+        "the vehemence of",
+        "surprising vehemence"
+      ]
+    }
+  },
+  {
+    "word": "veil",
+    "memory": "face cover",
+    "meaning": "A piece of thin cloth worn to cover the face or head; also something that hides",
+    "hindi": "घूँघट, पर्दा",
+    "trick": "VEIL hides the face - it VEILS (covers) like a curtain.",
+    "examples": [
+      "Through the veil, Mariam saw a tall man stooping in the doorway.",
+      "The bride wore a long white veil."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "wear a veil / through a veil / a veil of something",
+      "partners": [
+        "wedding veil",
+        "wear a veil",
+        "veil of secrecy"
+      ]
+    }
+  },
+  {
+    "word": "veiled",
+    "memory": "covered",
+    "meaning": "Covered with a veil; also hidden or not openly said",
+    "hindi": "ढका हुआ; छिपा हुआ",
+    "trick": "VEIL + ED = put a VEIL on it.",
+    "examples": [
+      "She imagined her smiling shyly behind a veiled green gown.",
+      "He made a veiled threat during the meeting."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "veiled + noun / veiled in something",
+      "partners": [
+        "veiled threat",
+        "veiled face",
+        "thinly veiled"
+      ]
+    }
+  },
+  {
+    "word": "vein",
+    "memory": "style, manner",
+    "meaning": "A particular style or way of speaking or writing; also a tube carrying blood to the heart",
+    "hindi": "अंदाज़, ढंग; नस",
+    "trick": "Talking in the same VEIN - like blood flowing on the same path.",
+    "examples": [
+      "I was going on in the same vein, when he cut in with a question.",
+      "The next speech continued in a similar vein."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in the same vein / in a similar vein",
+      "partners": [
+        "in the same vein",
+        "in a similar vein",
+        "in a lighter vein"
+      ]
+    }
+  },
+  {
+    "word": "velvety",
+    "memory": "soft and smooth",
+    "meaning": "Soft and smooth like velvet",
+    "hindi": "मखमली",
+    "trick": "VELVETY = feels like VELVET.",
+    "examples": [
+      "I stared into the velvety, jade mountains.",
+      "The cat has velvety fur."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "velvety + noun",
+      "partners": [
+        "velvety texture",
+        "velvety skin",
+        "velvety voice"
+      ]
+    }
+  },
+  {
+    "word": "vendetta",
+    "memory": "long feud, revenge",
+    "meaning": "A long, bitter fight in which people keep taking revenge",
+    "hindi": "दुश्मनी, बदले की लड़ाई",
+    "trick": "VENDETTA = VENGEANCE + DEBT: a debt of revenge.",
+    "examples": [
+      "He was caught up in some sordid vendetta in the city's underworld.",
+      "The two families carried on a vendetta for years."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a vendetta against someone",
+      "partners": [
+        "personal vendetta",
+        "vendetta against",
+        "family vendetta"
+      ]
+    }
+  },
+  {
+    "word": "veneer",
+    "memory": "thin outer show",
+    "meaning": "An outward look that hides the real feelings; also a thin layer of wood on furniture",
+    "hindi": "दिखावा, बाहरी परत",
+    "trick": "VENEER = a thin layer that just APPEARS nice on the outside.",
+    "examples": [
+      "I kept all my weaknesses locked down beneath an iron veneer.",
+      "Behind his veneer of calm, he was nervous."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a veneer of something / beneath a veneer",
+      "partners": [
+        "veneer of calm",
+        "thin veneer",
+        "wood veneer"
+      ]
+    }
+  },
+  {
+    "word": "vengeance",
+    "memory": "revenge",
+    "meaning": "Harm done to someone in return for harm they did",
+    "hindi": "बदला, प्रतिशोध",
+    "trick": "VENGEANCE sounds like 'vengeance = revenge-ance'.",
+    "examples": [
+      "There was not an animal on the farm that did not take vengeance on them.",
+      "The hero swore vengeance on the villain."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "take vengeance on someone / with a vengeance",
+      "partners": [
+        "take vengeance",
+        "cry for vengeance",
+        "with a vengeance"
+      ]
+    }
+  },
+  {
+    "word": "vent",
+    "memory": "let out",
+    "meaning": "To express or release a strong feeling or energy",
+    "hindi": "निकालना, भड़ास निकालना",
+    "trick": "VENT: a pressure VENT lets the steam out.",
+    "examples": [
+      "On easy runs I felt a surge of adrenaline that I couldn't vent.",
+      "Go for a run to vent your anger."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "vent something (on someone)",
+      "partners": [
+        "vent anger",
+        "vent frustration",
+        "vent your feelings"
+      ]
+    }
+  },
+  {
+    "word": "vented",
+    "memory": "let out",
+    "meaning": "Expressed or released a strong feeling, often on someone",
+    "hindi": "निकाली, भड़ास निकाली",
+    "trick": "VENTED: let off steam like a pressure cooker VENT.",
+    "examples": [
+      "She went straight to frustration and vented it by yelling at me.",
+      "He vented his anger on his younger brother."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "vent something on someone",
+      "partners": [
+        "vented anger",
+        "vented frustration",
+        "vented on"
+      ]
+    }
+  },
+  {
+    "word": "venting",
+    "memory": "letting off feelings",
+    "meaning": "Expressing strong feelings, especially anger or worry, to feel better",
+    "hindi": "भड़ास निकालना, मन हल्का करना",
+    "trick": "VENTING = letting out the steam through a VENT.",
+    "examples": [
+      "What started as a spontaneous venting session had become a solo intervention.",
+      "After a bad day, she spent an hour venting to her friend."
+    ],
+    "usage": {
+      "pos": "noun; verb (-ing form)",
+      "pattern": "venting to someone / a venting session",
+      "partners": [
+        "venting session",
+        "venting to a friend",
+        "stop venting"
+      ]
+    }
+  },
+  {
+    "word": "venture",
+    "memory": "dare to go",
+    "meaning": "To go somewhere unknown or risky; also a new business project",
+    "hindi": "जोखिम उठाकर जाना; उद्यम",
+    "trick": "adVENTURE - VENTURE out on an adventure.",
+    "examples": [
+      "Let us accompany the young man and venture beyond the door.",
+      "It was too cold to venture outside."
+    ],
+    "usage": {
+      "pos": "verb; noun",
+      "pattern": "venture out/into somewhere / a business venture",
+      "partners": [
+        "venture out",
+        "business venture",
+        "joint venture"
+      ]
+    }
+  },
+  {
+    "word": "verdant",
+    "memory": "green, lush",
+    "meaning": "Green with lots of grass and plants",
+    "hindi": "हरा-भरा",
+    "trick": "VERDANT: VERD = green (like VERDE in Spanish).",
+    "examples": [
+      "Shiva was walking in the verdant gardens of the royal guest house.",
+      "Cows grazed on the verdant hills."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "verdant + noun",
+      "partners": [
+        "verdant gardens",
+        "verdant hills",
+        "verdant fields"
+      ]
+    }
+  },
+  {
+    "word": "verdict",
+    "memory": "judgement",
+    "meaning": "A final decision or opinion, often of a court",
+    "hindi": "फ़ैसला, निर्णय",
+    "trick": "VERDICT: VERI (true) + DICT (said) = what's declared true.",
+    "examples": [
+      "Long before the box-office verdict on the films was clear, readers gave the book a thumbs-up.",
+      "The jury will give its verdict tomorrow."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the verdict on something / reach a verdict",
+      "partners": [
+        "final verdict",
+        "reach a verdict",
+        "guilty verdict"
+      ]
+    }
+  },
+  {
+    "word": "verged",
+    "memory": "came close to",
+    "meaning": "Came very close to a certain state",
+    "hindi": "के क़रीब पहुँच गया",
+    "trick": "VERGED: stood on the VERGE (edge) of it.",
+    "examples": [
+      "Any activity would spike my heart rate until I verged on collapse.",
+      "Her excitement verged on panic."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "verge on something",
+      "partners": [
+        "verged on collapse",
+        "verged on madness",
+        "verged on tears"
+      ]
+    }
+  },
+  {
+    "word": "verging",
+    "memory": "close to",
+    "meaning": "Coming very close to a certain state",
+    "hindi": "के क़रीब, लगभग",
+    "trick": "VERGING = at the VERGE (edge) of something.",
+    "examples": [
+      "I could feel it verging on hot-air-balloon status.",
+      "His confidence was verging on arrogance."
+    ],
+    "usage": {
+      "pos": "verb (-ing form)",
+      "pattern": "be verging on something",
+      "partners": [
+        "verging on",
+        "verging on rude",
+        "verging on panic"
+      ]
+    }
+  },
+  {
+    "word": "veritable",
+    "memory": "real, true",
+    "meaning": "Used to stress that something is really like what you say",
+    "hindi": "सचमुच का, वास्तविक",
+    "trick": "VERITABLE: VERI = true (like VERIfy).",
+    "examples": [
+      "There were veritable epidemics of fear going on in the media.",
+      "Her garden is a veritable jungle."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a veritable + noun",
+      "partners": [
+        "veritable feast",
+        "veritable jungle",
+        "veritable army"
+      ]
+    }
+  },
+  {
+    "word": "vermin",
+    "memory": "pests",
+    "meaning": "Small animals or insects that are harmful, like rats and cockroaches",
+    "hindi": "कीड़े-मकोड़े, चूहे",
+    "trick": "VERMIN = VERY MEAN pests.",
+    "examples": [
+      "I had to figure out how to clear the restaurant of vermin.",
+      "The old barn was full of vermin."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "clear something of vermin / infested with vermin",
+      "partners": [
+        "rid of vermin",
+        "infested with vermin",
+        "vermin control"
+      ]
+    }
+  },
+  {
+    "word": "verse",
+    "memory": "holy text line",
+    "meaning": "A short numbered part of a holy book; also poetry, or a part of a song",
+    "hindi": "आयत, श्लोक; पद्य",
+    "trick": "VERSE: one line in the UNIVERSE of a holy book.",
+    "examples": [
+      "She remembered a verse from the Koran that Mullah Faizullah had taught her.",
+      "The children learned a verse from the poem."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a verse from something",
+      "partners": [
+        "verse from the Koran",
+        "learn a verse",
+        "in verse"
+      ]
+    }
+  },
+  {
+    "word": "versus",
+    "memory": "against; compared to",
+    "meaning": "Compared with; also against (in a game or case)",
+    "hindi": "बनाम, के मुक़ाबले",
+    "trick": "VERSUS = VS on a match poster.",
+    "examples": [
+      "It helps show us what's good for us versus what's bad for us.",
+      "It's India versus Australia tonight."
+    ],
+    "usage": {
+      "pos": "preposition",
+      "pattern": "something versus something / someone versus someone",
+      "partners": [
+        "you versus the world",
+        "team A versus team B",
+        "cost versus benefit"
+      ]
+    }
+  },
+  {
+    "word": "vertigo",
+    "memory": "dizziness",
+    "meaning": "A feeling that everything is spinning, often when looking down from high up",
+    "hindi": "चक्कर, घुमेरी",
+    "trick": "VERTIGO: VERTICAL drop makes your head GO round.",
+    "examples": [
+      "Standing close to the edge of a cliff brings on a heady sense of vertigo.",
+      "She gets vertigo on tall buildings."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "suffer from vertigo / a sense of vertigo",
+      "partners": [
+        "sense of vertigo",
+        "suffer from vertigo",
+        "attack of vertigo"
+      ]
+    }
+  },
+  {
+    "word": "very",
+    "memory": "exact, same",
+    "meaning": "Used to stress the exact person, place or thing; also extremely",
+    "hindi": "यही, ठीक वही; बहुत",
+    "trick": "'This VERY spot' = this EXACT spot.",
+    "examples": [
+      "I'll meet you at this very spot.",
+      "He left on that very day."
+    ],
+    "usage": {
+      "pos": "adjective (emphasis); adverb",
+      "pattern": "this/that very + noun / very + adjective",
+      "partners": [
+        "this very spot",
+        "the very next day",
+        "very nearly"
+      ]
+    }
+  },
+  {
+    "word": "vest",
+    "memory": "sleeveless jacket",
+    "meaning": "A sleeveless jacket, such as a life jacket; also (British) an undershirt",
+    "hindi": "जैकेट, बनियान",
+    "trick": "VEST covers your chest, no sleeves.",
+    "examples": [
+      "Strapped into a buoyancy vest with a wounded knee, I could hardly swim.",
+      "Wear a life vest on the boat."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "wear a vest",
+      "partners": [
+        "life vest",
+        "buoyancy vest",
+        "safety vest"
+      ]
+    }
+  },
+  {
+    "word": "veteran",
+    "memory": "experienced person; ex-soldier",
+    "meaning": "A person who has served in the armed forces; also someone with long experience",
+    "hindi": "पूर्व सैनिक; अनुभवी",
+    "trick": "VETERAN = a VET who has seen it all (experience).",
+    "examples": [
+      "Metz was a veteran.",
+      "Veteran runners had an 8 a.m. start."
+    ],
+    "usage": {
+      "pos": "noun; adjective",
+      "pattern": "a war veteran / veteran + noun",
+      "partners": [
+        "war veteran",
+        "veteran player",
+        "army veteran"
+      ]
+    }
+  },
+  {
+    "word": "vex",
+    "memory": "annoy",
+    "meaning": "To annoy or worry someone",
+    "hindi": "चिढ़ाना, परेशान करना",
+    "trick": "VEX sounds like 'wrecks' your mood.",
+    "examples": [
+      "I'd have preferred not to vex him.",
+      "Don't vex your mother with silly questions."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "vex someone",
+      "partners": [
+        "vex someone",
+        "vexed question",
+        "vex me"
+      ]
+    }
+  },
+  {
+    "word": "viability",
+    "memory": "workability",
+    "meaning": "The ability to work, succeed or survive",
+    "hindi": "व्यवहार्यता, सफल होने की क्षमता",
+    "trick": "VIABILITY: VIA = a way it can go = it's workable.",
+    "examples": [
+      "We won't go into the biological viability of sitting in one spot for forty-nine days.",
+      "The bank checked the viability of the business plan."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the viability of something",
+      "partners": [
+        "economic viability",
+        "viability of a plan",
+        "long-term viability"
+      ]
+    }
+  },
+  {
+    "word": "viable",
+    "memory": "workable, possible",
+    "meaning": "Able to work or succeed in practice; also able to live or grow",
+    "hindi": "व्यवहार्य, संभव",
+    "trick": "VIABLE = VIA-ABLE: there is a way (via) and you are able.",
+    "examples": [
+      "That something can be the smallest viable action toward something else.",
+      "Selling online is a viable option for small shops."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a viable + option/plan / be viable",
+      "partners": [
+        "viable option",
+        "viable plan",
+        "commercially viable"
+      ]
+    }
+  },
+  {
+    "word": "vicinity",
+    "memory": "nearby area",
+    "meaning": "The area near or around a place or person",
+    "hindi": "आसपास, पड़ोस",
+    "trick": "VICINITY sounds like 'vicinity = nearby city' – the area close by.",
+    "examples": [
+      "Whenever a kid cried in their vicinity, Aziza was quick to explain it away.",
+      "There are three schools in the vicinity of our house."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in the vicinity (of something)",
+      "partners": [
+        "in the vicinity",
+        "immediate vicinity",
+        "in the vicinity of"
+      ]
+    }
+  },
+  {
+    "word": "vicious",
+    "memory": "cruel, very harsh",
+    "meaning": "Cruel and violent, meant to hurt; also very strong or severe (of pain, weather)",
+    "hindi": "क्रूर, भयंकर",
+    "trick": "VICIOUS has VICE in it – full of vice, cruel.",
+    "examples": [
+      "Other times she knew she teed herself up for a vicious beat down.",
+      "The dog gave a vicious bark at the stranger."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a vicious + attack/dog/circle",
+      "partners": [
+        "vicious attack",
+        "vicious circle",
+        "vicious dog"
+      ]
+    }
+  },
+  {
+    "word": "victimhood",
+    "memory": "being a victim",
+    "meaning": "The state of being, or seeing yourself as, a victim",
+    "hindi": "पीड़ित होने का भाव",
+    "trick": "VICTIM + HOOD (like childhood) = the state of being a victim.",
+    "examples": [
+      "The biggest problem with victimhood chic is that it takes attention away from actual victims.",
+      "He refused to live in victimhood after the accident."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a sense of victimhood / claim victimhood",
+      "partners": [
+        "sense of victimhood",
+        "culture of victimhood",
+        "claim victimhood"
+      ]
+    }
+  },
+  {
+    "word": "victorious",
+    "memory": "winning, successful",
+    "meaning": "Having won a fight, game or struggle",
+    "hindi": "विजयी, जीता हुआ",
+    "trick": "VICTORY + -OUS = full of victory.",
+    "examples": [
+      "Pass on this message so that future generations carry on the struggle until it is victorious.",
+      "Our team was victorious in the final match."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be victorious (in something / over someone)",
+      "partners": [
+        "victorious team",
+        "emerge victorious",
+        "victorious over"
+      ]
+    }
+  },
+  {
+    "word": "vie",
+    "memory": "compete",
+    "meaning": "To compete hard with others to get something",
+    "hindi": "होड़ करना, मुक़ाबला करना",
+    "trick": "VIE sounds like 'war-ee' – you go to war for it, you compete.",
+    "examples": [
+      "We instinctually measure ourselves against others and vie for status.",
+      "Two shops vie for customers on the same street."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "vie for something / vie with someone (for something)",
+      "partners": [
+        "vie for attention",
+        "vie for power",
+        "vie with each other"
+      ]
+    }
+  },
+  {
+    "word": "vigil",
+    "memory": "night watch",
+    "meaning": "A time of staying awake at night to watch over someone or pray; also a quiet gathering to remember someone",
+    "hindi": "रात का जागरण, पहरा",
+    "trick": "VIGIL is the root of VIGILANT – staying awake and watchful.",
+    "examples": [
+      "I can spend the night there, keeping the usual vigil beside the body.",
+      "She kept a vigil by her sick mother's bed."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "keep a vigil (beside/by someone) / hold a vigil",
+      "partners": [
+        "keep a vigil",
+        "candlelight vigil",
+        "all-night vigil"
+      ]
+    }
+  },
+  {
+    "word": "vigilant",
+    "memory": "watchful, alert",
+    "meaning": "Carefully watching for danger or problems",
+    "hindi": "सतर्क, चौकस",
+    "trick": "VIGILANT = keeping VIGIL, eyes always open.",
+    "examples": [
+      "I remained hyper vigilant, scanning for any physical issues that could crop up.",
+      "Stay vigilant when you walk home late at night."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be/remain vigilant (about/against something)",
+      "partners": [
+        "remain vigilant",
+        "stay vigilant",
+        "vigilant attention"
+      ]
+    }
+  },
+  {
+    "word": "vigils",
+    "memory": "night watches",
+    "meaning": "Times of staying awake to watch, wait or pray",
+    "hindi": "जागरण, इंतज़ार की रातें",
+    "trick": "VIGILS = many nights of VIGIL, eyes open, waiting.",
+    "examples": [
+      "She kept her vigils for the Mujahideen and waited for her parade.",
+      "The family held vigils outside the hospital every night."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "keep/hold vigils (for someone)",
+      "partners": [
+        "keep vigils",
+        "hold vigils",
+        "nightly vigils"
+      ]
+    }
+  },
+  {
+    "word": "vigorously",
+    "memory": "energetically, forcefully",
+    "meaning": "With a lot of energy and force",
+    "hindi": "जोश से, ज़ोर से",
+    "trick": "VIGOR = energy; VIGOROUSLY = with full energy.",
+    "examples": [
+      "The young fellows were taking longer strides and gesturing more vigorously than usual.",
+      "She shook the bottle vigorously before opening it."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "verb + vigorously",
+      "partners": [
+        "exercise vigorously",
+        "shake vigorously",
+        "vigorously deny"
+      ]
+    }
+  },
+  {
+    "word": "vile",
+    "memory": "disgusting, evil",
+    "meaning": "Extremely unpleasant, wicked or disgusting",
+    "hindi": "घिनौना, नीच",
+    "trick": "VILE is EVIL with letters shuffled (V-I-L-E).",
+    "examples": [
+      "Their fear was drowned in their rage against this vile, contemptible act.",
+      "The milk had gone bad and smelled vile."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a vile + act/smell/person / be vile",
+      "partners": [
+        "vile act",
+        "vile smell",
+        "vile weather"
+      ]
+    }
+  },
+  {
+    "word": "vindication",
+    "memory": "being proved right",
+    "meaning": "The feeling or fact of being shown to be right after doubt or blame",
+    "hindi": "सही साबित होना, दोषमुक्ति",
+    "trick": "VINDICATION – you WIN and are INDICATED as right.",
+    "examples": [
+      "In these dreams, Nana cackled with delight and vindication.",
+      "The test result was a vindication of her hard work."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a vindication of something / feel vindication",
+      "partners": [
+        "sense of vindication",
+        "complete vindication",
+        "vindication of"
+      ]
+    }
+  },
+  {
+    "word": "vines",
+    "memory": "climbing plants",
+    "meaning": "Climbing plants with long stems, especially grape plants",
+    "hindi": "बेलें, लताएँ",
+    "trick": "VINES give grapes for WINE.",
+    "examples": [
+      "Grape vines were clinging to wooden trellises in Jalil's garden.",
+      "Green vines covered the old wall."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "vines + cling to/climb something",
+      "partners": [
+        "grape vines",
+        "climbing vines",
+        "vines cling to"
+      ]
+    }
+  },
+  {
+    "word": "vinyl",
+    "memory": "plastic, records",
+    "meaning": "A kind of strong plastic; also old-style music records made of it",
+    "hindi": "विनाइल प्लास्टिक; ग्रामोफ़ोन रिकॉर्ड",
+    "trick": "VINYL rhymes with 'final' – the final spin of the record.",
+    "examples": [
+      "She ran her hands over the vinyl, flowered curtains that smelled like burned meals.",
+      "My uncle still plays old songs on vinyl."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "vinyl + noun / on vinyl",
+      "partners": [
+        "vinyl records",
+        "vinyl floor",
+        "on vinyl"
+      ]
+    }
+  },
+  {
+    "word": "virtues",
+    "memory": "good qualities",
+    "meaning": "Good moral qualities; also advantages or good points of something",
+    "hindi": "गुण, सद्गुण; खूबियाँ",
+    "trick": "VIRTUES sounds like 'vir-true' – true goodness.",
+    "examples": [
+      "I tried to understand the wisdom and virtues of the faith I have lived by.",
+      "Patience and honesty are great virtues."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "the virtues of something / extol the virtues of something",
+      "partners": [
+        "moral virtues",
+        "virtues of patience",
+        "extol the virtues"
+      ]
+    }
+  },
+  {
+    "word": "viscerally",
+    "memory": "deeply, in the gut",
+    "meaning": "In a way felt deeply in the body or emotions, not just thought",
+    "hindi": "अंदर तक, गहराई से",
+    "trick": "VISCERA = guts; VISCERALLY = felt in the guts.",
+    "examples": [
+      "I felt it viscerally, and I used that idea to start something new.",
+      "She reacted viscerally to the sad news."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "feel/react + viscerally",
+      "partners": [
+        "feel viscerally",
+        "react viscerally",
+        "viscerally aware"
+      ]
+    }
+  },
+  {
+    "word": "visor",
+    "memory": "cap brim",
+    "meaning": "The stiff front part of a cap that shades the eyes; also a see-through face cover on a helmet",
+    "hindi": "टोपी का छज्जा",
+    "trick": "VISOR protects your VISION from the sun.",
+    "examples": [
+      "The doorman was dressed in a burgundy suit and visor cap.",
+      "He pulled down his visor to block the sun."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a visor cap / pull down the visor",
+      "partners": [
+        "visor cap",
+        "sun visor",
+        "helmet visor"
+      ]
+    }
+  },
+  {
+    "word": "vital",
+    "memory": "very important, essential",
+    "meaning": "Extremely important or necessary; also full of life and energy",
+    "hindi": "अत्यावश्यक, बहुत ज़रूरी",
+    "trick": "VITAL = needed for life (vita = life), like vitamins.",
+    "examples": [
+      "I knew it was vital to get in some hundred-mile weeks.",
+      "Water is vital for all living things."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "it is vital to do something / vital for/to something",
+      "partners": [
+        "vital role",
+        "vital information",
+        "absolutely vital"
+      ]
+    }
+  },
+  {
+    "word": "vivacious",
+    "memory": "lively, cheerful",
+    "meaning": "Lively, bright and full of energy (usually of a person)",
+    "hindi": "जीवंत, चुलबुला",
+    "trick": "VIVA = life; VIVACIOUS = full of life.",
+    "examples": [
+      "Snowball was a more vivacious pig than Napoleon, quicker in speech.",
+      "Our new teacher is vivacious and fun."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a vivacious + person",
+      "partners": [
+        "vivacious girl",
+        "vivacious personality",
+        "warm and vivacious"
+      ]
+    }
+  },
+  {
+    "word": "vivid",
+    "memory": "bright, clear",
+    "meaning": "Very bright in colour; also very clear and detailed, like real life",
+    "hindi": "चटकीला, जीवंत, स्पष्ट",
+    "trick": "VIVID = full of life (viv-), colours that pop.",
+    "examples": [
+      "The hot red soil was dappled with vivid green.",
+      "I had a vivid dream last night."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a vivid + colour/memory/dream",
+      "partners": [
+        "vivid colours",
+        "vivid memory",
+        "vivid imagination"
+      ]
+    }
+  },
+  {
+    "word": "vividly",
+    "memory": "clearly, sharply",
+    "meaning": "In a very clear and detailed way",
+    "hindi": "साफ़-साफ़, स्पष्ट रूप से",
+    "trick": "VIVIDLY remember = the picture is still alive in your mind.",
+    "examples": [
+      "I vividly recall one night we were so broke we drove home on an almost empty tank.",
+      "I vividly remember my first day at school."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "vividly + remember/recall/describe",
+      "partners": [
+        "vividly remember",
+        "vividly recall",
+        "vividly describe"
+      ]
+    }
+  },
+  {
+    "word": "vocational schools",
+    "memory": "job-skill schools",
+    "meaning": "Schools that teach practical skills for a particular job or trade",
+    "hindi": "व्यावसायिक विद्यालय",
+    "trick": "VOCATION = job; VOCATIONAL schools train you for a job.",
+    "examples": [
+      "They also send students to vocational schools.",
+      "He learned plumbing at one of the vocational schools in town."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "go to / attend vocational schools",
+      "partners": [
+        "attend vocational schools",
+        "public vocational schools",
+        "vocational schools and colleges"
+      ]
+    }
+  },
+  {
+    "word": "volatile",
+    "memory": "unstable, explosive",
+    "meaning": "Likely to change suddenly, especially to anger; also (of prices) going up and down quickly",
+    "hindi": "अस्थिर, गुस्सैल",
+    "trick": "VOLATILE – like a VOLcano, can blow up anytime.",
+    "examples": [
+      "She lived in fear of his shifting moods and his volatile temperament.",
+      "Petrol prices have been volatile this year."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a volatile + temper/situation/market",
+      "partners": [
+        "volatile temper",
+        "volatile situation",
+        "volatile market"
+      ]
+    }
+  },
+  {
+    "word": "voluntarily",
+    "memory": "by choice, willingly",
+    "meaning": "Done because you choose to, not because you are forced",
+    "hindi": "स्वेच्छा से, अपनी मर्ज़ी से",
+    "trick": "VOLUNTARILY = like a VOLUNTEER, of your own will.",
+    "examples": [
+      "It can be hard to tell doing something out of obligation from doing it voluntarily.",
+      "He voluntarily gave up his seat for the old man."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "do something voluntarily",
+      "partners": [
+        "leave voluntarily",
+        "voluntarily give up",
+        "act voluntarily"
+      ]
+    }
+  },
+  {
+    "word": "voraciously",
+    "memory": "greedily, hungrily",
+    "meaning": "In a very hungry or eager way; also eagerly wanting a lot of something (e.g. reading)",
+    "hindi": "लालच से, भूखे की तरह",
+    "trick": "VORACIOUSLY – sounds like 'war on dishes', eating everything.",
+    "examples": [
+      "The waiter brought the starter, which she wolfed down voraciously.",
+      "He reads books voraciously."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "eat/read + voraciously",
+      "partners": [
+        "eat voraciously",
+        "read voraciously",
+        "devour voraciously"
+      ]
+    }
+  },
+  {
+    "word": "vow",
+    "memory": "solemn promise",
+    "meaning": "A serious promise to do something",
+    "hindi": "प्रण, संकल्प, वचन",
+    "trick": "VOW – say 'WOW, I promise!'",
+    "examples": [
+      "He made a vow to himself that they would not spend another winter in camp.",
+      "She made a vow to quit sugar."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "make/keep/break a vow (to do something)",
+      "partners": [
+        "make a vow",
+        "keep a vow",
+        "wedding vows"
+      ]
+    }
+  },
+  {
+    "word": "vowed",
+    "memory": "promised firmly",
+    "meaning": "Promised seriously to do something",
+    "hindi": "प्रण किया, क़सम खाई",
+    "trick": "VOWED = made a VOW.",
+    "examples": [
+      "The guitarist had gotten over his self-pity and had vowed to start a new band.",
+      "She vowed never to be late again."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "vowed to do something / vowed that ...",
+      "partners": [
+        "vowed to return",
+        "vowed never to",
+        "solemnly vowed"
+      ]
+    }
+  },
+  {
+    "word": "voyage",
+    "memory": "long journey",
+    "meaning": "A long journey, especially by sea or into space",
+    "hindi": "यात्रा, समुद्री यात्रा",
+    "trick": "VOYAGE sounds like 'boy-age' – a boy's long trip across the sea.",
+    "examples": [
+      "People were starting on a voyage to a world which no longer concerned me.",
+      "The ship's voyage took two months."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "go on / start on a voyage (to somewhere)",
+      "partners": [
+        "long voyage",
+        "sea voyage",
+        "maiden voyage"
+      ]
+    }
+  }
+]

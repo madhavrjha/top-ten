@@ -1,0 +1,202 @@
+[
+  {
+    "word": "yanked",
+    "memory": "pulled hard",
+    "meaning": "Pulled something suddenly and hard",
+    "hindi": "झटके से खींचा",
+    "trick": "YANK – a quick, sharp tug.",
+    "examples": [
+      "He yanked the rope free from her hand.",
+      "She yanked the door open."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "yanked something (open/out/free)",
+      "partners": [
+        "yanked open",
+        "yanked out",
+        "yanked free"
+      ]
+    }
+  },
+  {
+    "word": "yanking",
+    "memory": "pulling hard",
+    "meaning": "Pulling something suddenly and hard",
+    "hindi": "झटके से खींचना",
+    "trick": "YANKING – quick sharp tugs.",
+    "examples": [
+      "Laila found Mariam yanking drawers open and slamming them shut.",
+      "Stop yanking the dog's lead."
+    ],
+    "usage": {
+      "pos": "verb (-ing form)",
+      "pattern": "yanking something (open/out)",
+      "partners": [
+        "yanking open",
+        "yanking drawers",
+        "yanking out"
+      ]
+    }
+  },
+  {
+    "word": "yanks",
+    "memory": "pulls hard",
+    "meaning": "Pulls something or someone suddenly and hard",
+    "hindi": "झटके से खींचती है",
+    "trick": "YANKS – quick sharp tugs.",
+    "examples": [
+      "Laila yanks her children back onto the sidewalk.",
+      "He yanks the blanket off the bed."
+    ],
+    "usage": {
+      "pos": "verb (present)",
+      "pattern": "yanks someone/something (back/off/out)",
+      "partners": [
+        "yanks back",
+        "yanks open",
+        "yanks off"
+      ]
+    }
+  },
+  {
+    "word": "yards",
+    "memory": "long lengths",
+    "meaning": "Units of length (about 0.9 metres); here, a large amount of cloth",
+    "hindi": "गज़",
+    "trick": "YARD – about one long step; yards of cloth = lots of it.",
+    "examples": [
+      "The yards of pleated cloth spilled over his knees.",
+      "She bought three yards of silk for the dress."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "yards of + something / a hundred yards",
+      "partners": [
+        "yards of cloth",
+        "a few yards away",
+        "hundred yards"
+      ]
+    }
+  },
+  {
+    "word": "yarn",
+    "memory": "wool thread",
+    "meaning": "Long thread of wool or cotton used for knitting or weaving; also (informal) a long, often made-up story",
+    "hindi": "ऊन का धागा, सूत; लंबी कहानी",
+    "trick": "YARN = what you knit on a rainy day when you YAwN at home.",
+    "examples": [
+      "Kaka Zaman kept knitting needles and balls of yarn ready.",
+      "My grandmother bought red yarn to knit a sweater."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a ball of yarn / knit something with yarn",
+      "partners": [
+        "ball of yarn",
+        "wool yarn",
+        "spin a yarn"
+      ]
+    }
+  },
+  {
+    "word": "yawned",
+    "memory": "opened mouth sleepily",
+    "meaning": "Opened the mouth wide and breathed in deeply because tired or bored",
+    "hindi": "जम्हाई ली, उबासी ली",
+    "trick": "YAWNED = YAWN at dawn: too sleepy, mouth wide open.",
+    "examples": [
+      "Just then I yawned, and the old man said he'd better make a move.",
+      "She yawned during the long meeting."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "someone yawned / yawned loudly",
+      "partners": [
+        "yawned loudly",
+        "yawned and stretched",
+        "yawned with boredom"
+      ]
+    }
+  },
+  {
+    "word": "yawning",
+    "memory": "wide open, gaping",
+    "meaning": "Very wide and open, like a gap or hole; also opening the mouth wide because tired",
+    "hindi": "चौड़ा खुला, गहरा; जम्हाई लेता हुआ",
+    "trick": "YAWNING hole = a hole open as wide as a big YAWN.",
+    "examples": [
+      "The old factory wall was pocked with yawning holes from the shelling.",
+      "There is a yawning gap between the rich and the poor."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a yawning + gap/hole/chasm",
+      "partners": [
+        "yawning gap",
+        "yawning hole",
+        "yawning chasm"
+      ]
+    }
+  },
+  {
+    "word": "yelp",
+    "memory": "short sharp cry",
+    "meaning": "A short, sharp, high cry of pain, fear or surprise",
+    "hindi": "चीख, किकियाहट",
+    "trick": "YELP = a quick YELL for helP.",
+    "examples": [
+      "She let out a high-pitched yelp.",
+      "The puppy gave a yelp when I stepped on its tail."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "let out / give a yelp (of pain/surprise)",
+      "partners": [
+        "let out a yelp",
+        "yelp of pain",
+        "high-pitched yelp"
+      ]
+    }
+  },
+  {
+    "word": "yelps",
+    "memory": "sharp cries",
+    "meaning": "Short, sharp, high cries of pain or fear",
+    "hindi": "चीखें, किकियाहटें",
+    "trick": "YELPS = many little YELLs for helP.",
+    "examples": [
+      "Then it was all dust and kicks and yelps.",
+      "We heard yelps from the dogs playing in the yard."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "yelps of + pain/surprise / hear yelps",
+      "partners": [
+        "yelps of pain",
+        "loud yelps",
+        "hear yelps"
+      ]
+    }
+  },
+  {
+    "word": "yin and yang",
+    "memory": "opposite matching halves",
+    "meaning": "Two opposite things that go together and complete each other (from Chinese philosophy)",
+    "hindi": "दो विपरीत पूरक पहलू",
+    "trick": "The black-and-white circle symbol: two opposite halves make one whole.",
+    "examples": [
+      "These are the yin and yang of any toxic relationship: the victim and the saver.",
+      "My brother and I are yin and yang: he is loud and I am quiet."
+    ],
+    "usage": {
+      "pos": "noun (phrase)",
+      "pattern": "the yin and yang of something / be yin and yang",
+      "partners": [
+        "the yin and yang of life",
+        "perfect yin and yang",
+        "like yin and yang"
+      ]
+    }
+  }
+]

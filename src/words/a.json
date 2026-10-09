@@ -80,6 +80,26 @@
     }
   },
   {
+    "word": "abnegate",
+    "memory": "give up, deny",
+    "meaning": "To give up or deny something you have a right to or care about; also to reject",
+    "hindi": "त्यागना, छोड़ देना",
+    "trick": "AB-NEGATE = say NO (negate) and push it AWAY (ab-).",
+    "examples": [
+      "You cannot abnegate your deepest purpose, or you will feel frustrated.",
+      "He refused to abnegate his duty to his family."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "abnegate something (a right / duty / responsibility)",
+      "partners": [
+        "abnegate responsibility",
+        "abnegate a right",
+        "abnegate power"
+      ]
+    }
+  },
+  {
     "word": "abolish",
     "memory": "officially end",
     "meaning": "To officially end a law, system or practice",
@@ -116,6 +136,46 @@
         "was abolished in 1833",
         "abolished the tax",
         "slavery was abolished"
+      ]
+    }
+  },
+  {
+    "word": "abolishing",
+    "memory": "ending, getting rid of",
+    "meaning": "Officially ending or getting rid of something completely",
+    "hindi": "समाप्त करना, ख़त्म करना",
+    "trick": "ABOLISHING = making it ABOLISHED, gone for good.",
+    "examples": [
+      "This is about abolishing the ego and becoming the real you!",
+      "The school is abolishing the old uniform rule."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "abolishing something / be abolishing something",
+      "partners": [
+        "abolishing a law",
+        "abolishing slavery",
+        "abolishing a rule"
+      ]
+    }
+  },
+  {
+    "word": "abominable",
+    "memory": "terrible, hateful",
+    "meaning": "Very bad, unpleasant or hateful; (the ... Snowman = the yeti, a giant creature said to live in the Himalayas)",
+    "hindi": "घृणित, बहुत बुरा; हिममानव (येती)",
+    "trick": "ABOMINABLE Snowman = a BOMB of a monster nobody can find.",
+    "examples": [
+      "He died in the Himalayas, still in search of the Abominable Snowman.",
+      "The food at that hotel was abominable."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "abominable + noun / be abominable",
+      "partners": [
+        "the Abominable Snowman",
+        "abominable behaviour",
+        "abominable weather"
       ]
     }
   },
@@ -320,6 +380,26 @@
     }
   },
   {
+    "word": "acclimatize",
+    "memory": "get used to",
+    "meaning": "To get your body or mind used to a new climate, height or situation",
+    "hindi": "अभ्यस्त होना, आदत डालना",
+    "trick": "AC-CLIMATE-ize = get used to a new CLIMATE.",
+    "examples": [
+      "They went there to acclimatize for the highest-altitude ultra marathon in the world.",
+      "It took me a week to acclimatize to the cold."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "acclimatize (to something) / acclimatize someone to something",
+      "partners": [
+        "acclimatize to the heat",
+        "acclimatize to altitude",
+        "time to acclimatize"
+      ]
+    }
+  },
+  {
     "word": "accolades",
     "memory": "awards, praise",
     "meaning": "Awards, praise or honours given for an achievement",
@@ -376,6 +456,26 @@
         "accompanied me to the doctor",
         "accompanied by an adult",
         "accompanied by music"
+      ]
+    }
+  },
+  {
+    "word": "accomplice",
+    "memory": "partner in crime",
+    "meaning": "A person who helps someone else commit a crime or do something wrong",
+    "hindi": "साथी अपराधी, सहअपराधी",
+    "trick": "ACCOMPLICE = helps ACCOMPLISH the crime.",
+    "examples": [
+      "Chris Watts wasn't acting alone; here was his unwitting accomplice.",
+      "The thief and his accomplice were caught at the station."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "someone's accomplice / an accomplice in something",
+      "partners": [
+        "unwitting accomplice",
+        "an accomplice in the robbery",
+        "his accomplice"
       ]
     }
   },
@@ -476,6 +576,26 @@
         "aching legs",
         "an aching back",
         "my head is aching"
+      ]
+    }
+  },
+  {
+    "word": "achy",
+    "memory": "aching, sore",
+    "meaning": "Having a dull, constant pain in the body (informal)",
+    "hindi": "दर्द भरा, बदन दर्द (बोलचाल)",
+    "trick": "ACHY = full of ACHES.",
+    "examples": [
+      "I had trouble getting out of bed, and I was achy.",
+      "I feel tired and achy after the long trip."
+    ],
+    "usage": {
+      "pos": "adjective (informal)",
+      "pattern": "feel achy / achy + body part",
+      "partners": [
+        "feel achy",
+        "achy legs",
+        "achy muscles"
       ]
     }
   },
@@ -600,6 +720,26 @@
     }
   },
   {
+    "word": "acronyms",
+    "memory": "short-form words",
+    "meaning": "Words made from the first letters of other words, such as NASA or UNESCO",
+    "hindi": "संक्षिप्त नाम, आद्याक्षर शब्द",
+    "trick": "ACRONYMS = ACRO (top/tip) + NYM (name): names made from the tips of words.",
+    "examples": [
+      "Their techniques used authoritative acronyms like BATNA and ZOPA.",
+      "Office emails are full of acronyms I don't understand."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "acronyms like/for something / use acronyms",
+      "partners": [
+        "use acronyms",
+        "full of acronyms",
+        "common acronyms"
+      ]
+    }
+  },
+  {
     "word": "adage",
     "memory": "old saying",
     "meaning": "A short, well-known saying that expresses a general truth",
@@ -616,6 +756,26 @@
         "the old adage",
         "as the adage goes",
         "the adage that time is money"
+      ]
+    }
+  },
+  {
+    "word": "adequate",
+    "memory": "enough, good enough",
+    "meaning": "Enough in amount or good enough for a need",
+    "hindi": "पर्याप्त, काफ़ी",
+    "trick": "AD-EQUATE = EQUAL to what is needed.",
+    "examples": [
+      "Make sure your meal breaks are adequate but not open-ended.",
+      "The room has adequate space for two beds."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "adequate + noun / be adequate for something",
+      "partners": [
+        "adequate rest",
+        "adequate food",
+        "adequate for the job"
       ]
     }
   },
@@ -720,6 +880,26 @@
     }
   },
   {
+    "word": "adrenals",
+    "memory": "adrenal glands",
+    "meaning": "The two small glands above the kidneys that make hormones such as adrenaline and cortisol",
+    "hindi": "अधिवृक्क ग्रंथियाँ",
+    "trick": "ADRENALS make ADRENALine.",
+    "examples": [
+      "Addison's disease happens when your adrenals are drained and don't make enough cortisol.",
+      "Long stress can tire out your adrenals."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "your adrenals + verb",
+      "partners": [
+        "tired adrenals",
+        "adrenals are drained",
+        "support your adrenals"
+      ]
+    }
+  },
+  {
     "word": "adrift",
     "memory": "lost, aimless",
     "meaning": "Feeling lost, without purpose or direction; also (of a boat) floating without control",
@@ -820,6 +1000,26 @@
     }
   },
   {
+    "word": "adversaries",
+    "memory": "opponents, enemies",
+    "meaning": "People or groups you are fighting or competing against",
+    "hindi": "विरोधी, प्रतिद्वंद्वी",
+    "trick": "ADVERSARIES face you in ADVERSITY.",
+    "examples": [
+      "A good negotiator leaves the adversaries feeling they have a great relationship.",
+      "The two players were old adversaries on the court."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "someone's adversaries / adversaries in something",
+      "partners": [
+        "political adversaries",
+        "old adversaries",
+        "face adversaries"
+      ]
+    }
+  },
+  {
     "word": "adversary",
     "memory": "opponent, enemy",
     "meaning": "An opponent or enemy",
@@ -876,6 +1076,26 @@
         "in the face of adversity",
         "overcome adversity",
         "courage in adversity"
+      ]
+    }
+  },
+  {
+    "word": "aerodynamic",
+    "memory": "air-cutting, streamlined",
+    "meaning": "Shaped to move through air easily and fast",
+    "hindi": "वायुगतिकीय, हवा काटने वाला",
+    "trick": "AERO (air) + DYNAMIC (moving) = moves well through air.",
+    "examples": [
+      "I curled into an aerodynamic crouch and shot downhill at over 40 mph.",
+      "Racing cars have a low, aerodynamic shape."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "aerodynamic + noun / be aerodynamic",
+      "partners": [
+        "aerodynamic shape",
+        "aerodynamic design",
+        "aerodynamic crouch"
       ]
     }
   },
@@ -1300,6 +1520,26 @@
     }
   },
   {
+    "word": "alcohol",
+    "memory": "liquor, drink",
+    "meaning": "A drink such as beer, wine or whisky that can make people drunk; also the chemical in it",
+    "hindi": "शराब, मदिरा",
+    "trick": "AL-CO-HOL: ALl COmes HOLe — it empties your pocket.",
+    "examples": [
+      "Highs from a substance like alcohol are shallow and unproductive.",
+      "He doesn't drink alcohol at parties."
+    ],
+    "usage": {
+      "pos": "noun (uncountable)",
+      "pattern": "drink alcohol / alcohol + noun",
+      "partners": [
+        "drink alcohol",
+        "alcohol-free",
+        "alcohol abuse"
+      ]
+    }
+  },
+  {
     "word": "alder",
     "memory": "wetland tree",
     "meaning": "A tree or shrub of the birch family that grows in wet ground",
@@ -1420,6 +1660,86 @@
     }
   },
   {
+    "word": "alleged",
+    "memory": "claimed, supposed",
+    "meaning": "Said to be true or to have happened, but not proved",
+    "hindi": "कथित, तथाकथित",
+    "trick": "ALLEGED = only ALLEGEd (claimed), not proven in a court.",
+    "examples": [
+      "The war highlighted the alleged Communist practice of brainwashing.",
+      "The alleged thief was released for lack of proof."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "the alleged + noun",
+      "partners": [
+        "alleged crime",
+        "alleged attack",
+        "alleged victim"
+      ]
+    }
+  },
+  {
+    "word": "allegiances",
+    "memory": "loyalties",
+    "meaning": "Loyalty or support given to a leader, group or country",
+    "hindi": "निष्ठाएँ, वफ़ादारी",
+    "trick": "ALLEGIANCE has LEGIANCE ~ LEAGUE: which league you're loyal to.",
+    "examples": [
+      "Dostum had a reputation for shifting allegiances.",
+      "Players often change their allegiances when they move clubs."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "allegiance(s) to someone/something / shift allegiances",
+      "partners": [
+        "shifting allegiances",
+        "political allegiances",
+        "switch allegiances"
+      ]
+    }
+  },
+  {
+    "word": "alleging",
+    "memory": "claiming",
+    "meaning": "Saying that someone has done something wrong, without proof yet",
+    "hindi": "आरोप लगाते हुए, दावा करते हुए",
+    "trick": "ALLEGING = ALLEGEd + ING, still only claiming.",
+    "examples": [
+      "His wife filed a suit alleging FBI negligence.",
+      "She wrote a letter alleging that her boss cheated her."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "alleging that... / alleging something",
+      "partners": [
+        "alleging negligence",
+        "alleging fraud",
+        "a complaint alleging"
+      ]
+    }
+  },
+  {
+    "word": "allegory",
+    "memory": "symbolic story",
+    "meaning": "A story, poem or picture with a hidden meaning, usually about morals or politics",
+    "hindi": "रूपक कथा, प्रतीकात्मक कहानी",
+    "trick": "ALLEGORY = ALL-EGO-RY: every character stands for something else.",
+    "examples": [
+      "Most people read Animal Farm as a straightforward allegory about the Russian revolution.",
+      "The film is an allegory of good versus evil."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an allegory of/about something",
+      "partners": [
+        "political allegory",
+        "a simple allegory",
+        "allegory of"
+      ]
+    }
+  },
+  {
     "word": "alleviate",
     "memory": "ease, relieve",
     "meaning": "To make pain, suffering or a problem less severe",
@@ -1440,6 +1760,46 @@
     }
   },
   {
+    "word": "alley",
+    "memory": "narrow lane",
+    "meaning": "A narrow path or street between or behind buildings",
+    "hindi": "गली, तंग रास्ता",
+    "trick": "ALLEY = a narrow lane where ALL cats hang out.",
+    "examples": [
+      "In this city every alley hid a ghost that sprang at her.",
+      "The kids played cricket in the alley behind our house."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in/down an alley / back alley",
+      "partners": [
+        "back alley",
+        "dark alley",
+        "narrow alley"
+      ]
+    }
+  },
+  {
+    "word": "alloy",
+    "memory": "metal mix",
+    "meaning": "A metal made by mixing two or more metals",
+    "hindi": "मिश्र धातु",
+    "trick": "ALLOY = ALL Of You metals mixed together.",
+    "examples": [
+      "There I was with my titanium alloy racket and personal trainer.",
+      "Brass is an alloy of copper and zinc."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an alloy of X and Y / alloy + noun",
+      "partners": [
+        "titanium alloy",
+        "metal alloy",
+        "alloy wheels"
+      ]
+    }
+  },
+  {
     "word": "alluring",
     "memory": "attractive, tempting",
     "meaning": "Very attractive or tempting in a mysterious way",
@@ -1456,6 +1816,26 @@
         "an alluring smile",
         "an alluring offer",
         "alluring aroma"
+      ]
+    }
+  },
+  {
+    "word": "ally",
+    "memory": "supporter, partner",
+    "meaning": "A person, group or country that supports and works with another",
+    "hindi": "साथी, सहयोगी, मित्र",
+    "trick": "ALLY = ALL-Y with you on your side.",
+    "examples": [
+      "Massoud was Rabbani's ally, the brooding, charismatic Tajik commander.",
+      "My sister is my best ally at home."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "someone's ally / an ally of someone",
+      "partners": [
+        "close ally",
+        "strong ally",
+        "political ally"
       ]
     }
   },
@@ -1739,6 +2119,26 @@
     }
   },
   {
+    "word": "amped",
+    "memory": "increased, boosted",
+    "meaning": "Increased or made stronger (... up); also excited and full of energy (informal)",
+    "hindi": "बढ़ा दिया; जोश में (बोलचाल)",
+    "trick": "AMPED = turned up like an AMPlifier.",
+    "examples": [
+      "Watching every step amped up my mental fatigue.",
+      "The loud music amped up the crowd."
+    ],
+    "usage": {
+      "pos": "verb (past, informal)",
+      "pattern": "amped up something / be amped (about something)",
+      "partners": [
+        "amped up the pressure",
+        "amped up the fun",
+        "all amped up"
+      ]
+    }
+  },
+  {
     "word": "amphibian",
     "memory": "land-and-water",
     "meaning": "Done on both land and water (of military operations or vehicles); also an animal like a frog that lives on land and in water",
@@ -1795,6 +2195,26 @@
         "amplifies the sound",
         "amplifies the voice",
         "amplifies the problem"
+      ]
+    }
+  },
+  {
+    "word": "amps",
+    "memory": "excites, boosts",
+    "meaning": "Makes someone excited and full of energy (... someone up); also increases (informal)",
+    "hindi": "जोश भरता है, उत्तेजित करता है (बोलचाल)",
+    "trick": "AMPS you up like an AMPlifier turns up sound.",
+    "examples": [
+      "Fight or flight amps you up to battle through or sprint from trouble.",
+      "Strong coffee always amps me up in the morning."
+    ],
+    "usage": {
+      "pos": "verb (present, informal)",
+      "pattern": "amps someone up / amps up something",
+      "partners": [
+        "amps you up",
+        "amps up the energy",
+        "amps up the volume"
       ]
     }
   },
@@ -1879,6 +2299,26 @@
     }
   },
   {
+    "word": "analogy",
+    "memory": "comparison",
+    "meaning": "A comparison between two things to explain or show how they are alike",
+    "hindi": "सादृश्य, तुलना, समानता",
+    "trick": "ANALOGY: ANA-LOGIC — the LOGIC of 'this is like that'.",
+    "examples": [
+      "Many readers carried over the habit of point-for-point analogy from the earlier book.",
+      "The teacher used an analogy of a pump to explain the heart."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an analogy between X and Y / draw an analogy",
+      "partners": [
+        "draw an analogy",
+        "a simple analogy",
+        "by analogy"
+      ]
+    }
+  },
+  {
     "word": "anarcho-communist",
     "memory": "anti-state communist",
     "meaning": "Believing in a society with no government and no private property, where everything is shared; also a person with these beliefs",
@@ -1915,6 +2355,25 @@
         "anchored deep",
         "firmly anchored",
         "anchored in the past"
+      ]
+    }
+  },
+  {
+    "word": "and so forth",
+    "memory": "and so on",
+    "meaning": "Used at the end of a list to mean 'and other similar things'",
+    "hindi": "इत्यादि, वगैरह",
+    "trick": "FORTH = forward: the list goes on forward.",
+    "examples": [
+      "It was up to him to express his sympathy and so forth.",
+      "We bought rice, dal, oil and so forth."
+    ],
+    "usage": {
+      "pos": "phrase",
+      "pattern": "list of things + and so forth",
+      "partners": [
+        "and so forth and so on",
+        "sugar, salt and so forth"
       ]
     }
   },
@@ -1994,6 +2453,46 @@
         "in anguish",
         "cry out in anguish",
         "mental anguish"
+      ]
+    }
+  },
+  {
+    "word": "anonymity",
+    "memory": "namelessness, being unknown",
+    "meaning": "The state of being unknown or not having your name known",
+    "hindi": "गुमनामी, अज्ञातता",
+    "trick": "ANONYMITY = being ANONYMOUS (no name).",
+    "examples": [
+      "She found some comfort in the anonymity that the burqa provided.",
+      "The writer asked for anonymity in the report."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the anonymity of something / keep/protect someone's anonymity",
+      "partners": [
+        "protect anonymity",
+        "in anonymity",
+        "on condition of anonymity"
+      ]
+    }
+  },
+  {
+    "word": "anticipation",
+    "memory": "eager expectation",
+    "meaning": "A feeling of excitement about something that is going to happen; also expecting something",
+    "hindi": "उत्सुकता, प्रत्याशा",
+    "trick": "ANTI (before) + CIPATION: feeling it BEFORE it comes.",
+    "examples": [
+      "The novel creates anticipation in the reader's mind until the end.",
+      "The children waited for the cake in happy anticipation."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in anticipation of something / with anticipation",
+      "partners": [
+        "eager anticipation",
+        "in anticipation of",
+        "build anticipation"
       ]
     }
   },
@@ -2297,6 +2796,26 @@
     }
   },
   {
+    "word": "apt",
+    "memory": "likely, inclined",
+    "meaning": "Likely or tending to do something; also suitable or fitting",
+    "hindi": "प्रवृत्त, इच्छुक; उचित",
+    "trick": "APT = APT-itude toward a habit: likely to do it.",
+    "examples": [
+      "He was more apt to sulk these days and fault her cooking.",
+      "Children are apt to forget their homework."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be apt to do something / an apt + noun",
+      "partners": [
+        "apt to forget",
+        "apt to complain",
+        "an apt remark"
+      ]
+    }
+  },
+  {
     "word": "apt to",
     "memory": "likely to",
     "meaning": "Likely to; having a natural tendency to",
@@ -2373,6 +2892,26 @@
         "in a high arc",
         "in a wide arc",
         "the arc of a rainbow"
+      ]
+    }
+  },
+  {
+    "word": "arched",
+    "memory": "curved upward",
+    "meaning": "Curved upward like an arch, as eyebrows raised in surprise or doubt",
+    "hindi": "धनुषाकार, ऊपर उठी हुई",
+    "trick": "ARCHED brows = shaped like an ARCH.",
+    "examples": [
+      "He eyed me with arched brows as if to remind me we were still playing.",
+      "She looked at me with arched eyebrows."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "arched + noun / arched her brows",
+      "partners": [
+        "arched brows",
+        "arched eyebrows",
+        "arched back"
       ]
     }
   },
@@ -2551,6 +3090,24 @@
         "heavy artillery",
         "artillery fire",
         "artillery shells"
+      ]
+    }
+  },
+  {
+    "word": "as a matter of fact",
+    "memory": "actually, in fact",
+    "meaning": "Used to add something true or surprising, often correcting what was said",
+    "hindi": "असल में, दरअसल",
+    "trick": "A MATTER OF FACT = just a plain FACT.",
+    "examples": [
+      "As a matter of fact, I didn't know exactly how old she was.",
+      "As a matter of fact, I've been there twice."
+    ],
+    "usage": {
+      "pos": "phrase",
+      "pattern": "As a matter of fact, + sentence",
+      "partners": [
+        "as a matter of fact, I"
       ]
     }
   },
@@ -2815,6 +3372,26 @@
     }
   },
   {
+    "word": "at heart",
+    "memory": "deep down, really",
+    "meaning": "In your real nature or deepest feelings, even if it doesn't show",
+    "hindi": "मन ही मन, अंदर से",
+    "trick": "AT HEART = what's in your HEART, deep inside.",
+    "examples": [
+      "At heart, each of them was secretly hoping to profit from Jones's bad luck.",
+      "He seems tough, but he's kind at heart."
+    ],
+    "usage": {
+      "pos": "phrase",
+      "pattern": "at heart, + sentence / adjective + at heart",
+      "partners": [
+        "kind at heart",
+        "a child at heart",
+        "young at heart"
+      ]
+    }
+  },
+  {
     "word": "athwart",
     "memory": "across",
     "meaning": "Across, from side to side (often in the way)",
@@ -2855,6 +3432,26 @@
     }
   },
   {
+    "word": "atrial",
+    "memory": "heart-chamber related",
+    "meaning": "Relating to the atria, the two upper chambers of the heart",
+    "hindi": "हृदय के ऊपरी कक्ष संबंधी",
+    "trick": "ATRIAL = of the ATRIUM, the upper 'room' of the heart.",
+    "examples": [
+      "Almost immediately my heart went into atrial fibrillation, also known as a-fib.",
+      "The doctor found an atrial problem in his heart scan."
+    ],
+    "usage": {
+      "pos": "adjective (medical)",
+      "pattern": "atrial + noun",
+      "partners": [
+        "atrial fibrillation",
+        "atrial wall",
+        "atrial rhythm"
+      ]
+    }
+  },
+  {
     "word": "attainable",
     "memory": "achievable",
     "meaning": "Possible to achieve or reach",
@@ -2891,6 +3488,45 @@
         "had attempted",
         "attempted to escape",
         "attempted the question"
+      ]
+    }
+  },
+  {
+    "word": "attuned",
+    "memory": "in tune, sensitive",
+    "meaning": "Able to understand and respond to something, such as people's feelings",
+    "hindi": "संवेदनशील, तालमेल में",
+    "trick": "AT-TUNED = TUNED in to others, like a radio.",
+    "examples": [
+      "I used emotionally attuned negotiating techniques against terrorists and kidnappers.",
+      "A good mother is attuned to her baby's needs."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be attuned to something",
+      "partners": [
+        "attuned to",
+        "emotionally attuned",
+        "finely attuned"
+      ]
+    }
+  },
+  {
+    "word": "au revoir",
+    "memory": "goodbye, see you",
+    "meaning": "Goodbye until we meet again (French, used in English)",
+    "hindi": "फिर मिलेंगे, अलविदा",
+    "trick": "AU REVOIR = 'oh re-VWAH' — French for 'see you again'.",
+    "examples": [
+      "We were near my place, and I said, \"Au revoir, then.\"",
+      "She waved from the train and called, \"Au revoir!\""
+    ],
+    "usage": {
+      "pos": "phrase (French goodbye)",
+      "pattern": "say au revoir (to someone)",
+      "partners": [
+        "au revoir, then",
+        "say au revoir"
       ]
     }
   },
@@ -3010,6 +3646,26 @@
         "an aversion to spiders",
         "a strong aversion",
         "aversion to risk"
+      ]
+    }
+  },
+  {
+    "word": "avert",
+    "memory": "prevent, avoid",
+    "meaning": "To prevent something bad from happening; also to turn your eyes away",
+    "hindi": "टालना, रोकना; नज़रें फेरना",
+    "trick": "A-VERT = turn (vert) it AWAY before it hits.",
+    "examples": [
+      "People are more likely to act to avert a loss than to achieve an equal gain.",
+      "Quick action averted a big accident."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "avert something / avert your eyes",
+      "partners": [
+        "avert a crisis",
+        "avert disaster",
+        "avert your eyes"
       ]
     }
   },

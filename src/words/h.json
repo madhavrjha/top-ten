@@ -1,0 +1,3122 @@
+[
+  {
+    "word": "haggles",
+    "memory": "bargains",
+    "meaning": "Argues about the price of something to get a better deal",
+    "hindi": "मोल-भाव करता है",
+    "trick": "HAGGLE sounds like 'hag-gal': an old lady bargaining hard at the market.",
+    "examples": [
+      "Perhaps we are the only animal that haggles.",
+      "My mother always haggles with the vegetable seller."
+    ],
+    "usage": {
+      "pos": "verb (3rd person)",
+      "pattern": "haggles over/about something / haggles with someone",
+      "partners": [
+        "haggles over the price",
+        "haggles with",
+        "haggles about"
+      ]
+    }
+  },
+  {
+    "word": "haggling",
+    "memory": "bargaining",
+    "meaning": "Arguing about the price of something to agree on a deal",
+    "hindi": "मोल-भाव, सौदेबाज़ी",
+    "trick": "HAGGLING = the back-and-forth of a market bargain.",
+    "examples": [
+      "You'll move on to the final act of negotiation: haggling.",
+      "After ten minutes of haggling, we got the bag for half price."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "haggling over something",
+      "partners": [
+        "haggling over price",
+        "a lot of haggling",
+        "after some haggling"
+      ]
+    }
+  },
+  {
+    "word": "hailstorms",
+    "memory": "ice-ball storms",
+    "meaning": "Storms in which small balls of ice fall from the sky",
+    "hindi": "ओलावृष्टि, ओलों के तूफ़ान",
+    "trick": "HAIL + STORMS: storms that throw ice balls (ole).",
+    "examples": [
+      "The wind comes in hailstorms.",
+      "Heavy hailstorms damaged the farmers' crops."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "hailstorms hit/damage something",
+      "partners": [
+        "heavy hailstorms",
+        "hailstorms damage",
+        "sudden hailstorms"
+      ]
+    }
+  },
+  {
+    "word": "hairdos",
+    "memory": "hairstyles",
+    "meaning": "Ways of cutting and arranging hair (informal)",
+    "hindi": "केश-विन्यास, बालों के स्टाइल",
+    "trick": "HAIR + DO: what you DO with your hair.",
+    "examples": [
+      "I even concocted wild hairdos.",
+      "The girls tried new hairdos for the wedding."
+    ],
+    "usage": {
+      "pos": "noun (plural, informal)",
+      "pattern": "a + adjective + hairdo / try new hairdos",
+      "partners": [
+        "wild hairdos",
+        "new hairdos",
+        "fancy hairdos"
+      ]
+    }
+  },
+  {
+    "word": "hale",
+    "memory": "healthy, strong",
+    "meaning": "(Of an old person) strong and healthy",
+    "hindi": "तंदुरुस्त, हट्टा-कट्टा",
+    "trick": "HALE sounds like 'hail and healthy': 'hale and hearty'.",
+    "examples": [
+      "He was still quite hale and hearty, so he took on the keeper's job.",
+      "My grandfather is ninety but still hale and hearty."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "hale and hearty",
+      "partners": [
+        "hale and hearty",
+        "still hale",
+        "hale old man"
+      ]
+    }
+  },
+  {
+    "word": "halo",
+    "memory": "ring of light",
+    "meaning": "A circle of light around something bright; also a ring of light drawn around a holy person's head",
+    "hindi": "प्रभामंडल, रोशनी का घेरा",
+    "trick": "HALO = 'hello' from an angel wearing a ring of light.",
+    "examples": [
+      "The orange halo from an explosion lit up the night sky.",
+      "The moon had a soft halo around it tonight."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a halo of light / a halo around something",
+      "partners": [
+        "a halo of light",
+        "golden halo",
+        "halo around the moon"
+      ]
+    }
+  },
+  {
+    "word": "halogen",
+    "memory": "bright lamp gas",
+    "meaning": "A type of very bright electric lamp or light; also a group of chemical elements such as chlorine",
+    "hindi": "हैलोजन बत्ती, तेज़ रोशनी वाला बल्ब",
+    "trick": "HALOGEN lamp makes a bright HALO of light.",
+    "examples": [
+      "Fog gathered around the halogen street lights.",
+      "We put a halogen lamp in the kitchen for more light."
+    ],
+    "usage": {
+      "pos": "noun (often used before a noun)",
+      "pattern": "halogen + lamp/light/bulb",
+      "partners": [
+        "halogen lamp",
+        "halogen bulb",
+        "halogen street lights"
+      ]
+    }
+  },
+  {
+    "word": "halos",
+    "memory": "smoke rings, light rings",
+    "meaning": "Rings or circles, such as rings of smoke or light",
+    "hindi": "छल्ले, घेरे",
+    "trick": "HALOS = many little O-shaped rings.",
+    "examples": [
+      "He sat by the window one night, blowing halos of smoke.",
+      "The street lamps had misty halos around them in the fog."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "halos of something / halos around something",
+      "partners": [
+        "halos of smoke",
+        "halos of light",
+        "misty halos"
+      ]
+    }
+  },
+  {
+    "word": "halted",
+    "memory": "stopped",
+    "meaning": "Stopped moving or stopped something from continuing",
+    "hindi": "रुक गया, रोका",
+    "trick": "HALTED: the soldier shouted 'HALT!' and he stopped.",
+    "examples": [
+      "Instead of going, he halted behind my chair.",
+      "The bus halted suddenly at the red light."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "someone halted / halt something",
+      "partners": [
+        "halted suddenly",
+        "work was halted",
+        "halted in front of"
+      ]
+    }
+  },
+  {
+    "word": "hammocks",
+    "memory": "hanging beds",
+    "meaning": "Hanging beds made of cloth or net, tied between two trees or posts",
+    "hindi": "झूला बिस्तर, जाली के झूले",
+    "trick": "HAMMOCKS: HAMMER the posts in and hang the swing beds.",
+    "examples": [
+      "For ten days we moved through the jungle, sleeping in hammocks.",
+      "We tied two hammocks between the palm trees on the beach."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "sleep in hammocks / hang hammocks between something",
+      "partners": [
+        "sleep in hammocks",
+        "hang hammocks",
+        "swinging hammocks"
+      ]
+    }
+  },
+  {
+    "word": "handful",
+    "memory": "a few, small number",
+    "meaning": "A small number of people or things; also as much as you can hold in one hand",
+    "hindi": "कुछ, मुट्ठी भर",
+    "trick": "HANDFUL = what fits in a HAND: just a few.",
+    "examples": [
+      "Except for a handful of days, Rasheed didn't keep the fast.",
+      "Only a handful of students came to class on Friday."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a handful of + plural noun",
+      "partners": [
+        "a handful of people",
+        "only a handful",
+        "a handful of rice"
+      ]
+    }
+  },
+  {
+    "word": "handkerchief",
+    "memory": "small pocket cloth",
+    "meaning": "A small square of cloth for wiping your nose, face or hands",
+    "hindi": "रूमाल",
+    "trick": "HAND + KERCHIEF: a little cloth you keep in your hand (say 'HANG-ker-chif').",
+    "examples": [
+      "As I had no hat, I tried to fan myself with my handkerchief.",
+      "He wiped his face with a white handkerchief."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "wipe something with a handkerchief",
+      "partners": [
+        "white handkerchief",
+        "silk handkerchief",
+        "pocket handkerchief"
+      ]
+    }
+  },
+  {
+    "word": "handyman",
+    "memory": "odd-job repairman",
+    "meaning": "A person who does small repairs and odd jobs in a house or building",
+    "hindi": "मरम्मत करने वाला, मिस्त्री",
+    "trick": "HANDY + MAN: a man who is handy with tools.",
+    "examples": [
+      "Tariq was hired as a janitor and handyman.",
+      "We called a handyman to fix the leaking tap."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "hire/call a handyman",
+      "partners": [
+        "local handyman",
+        "hire a handyman",
+        "janitor and handyman"
+      ]
+    }
+  },
+  {
+    "word": "hara-kiri",
+    "memory": "self-destruction",
+    "meaning": "Doing something that ruins yourself (used figuratively); originally a Japanese ritual suicide by cutting the stomach",
+    "hindi": "आत्मघात, खुद को बर्बाद करना",
+    "trick": "HARA-KIRI: Japanese 'hara' (belly) + 'kiri' (cut) - now means wrecking yourself.",
+    "examples": [
+      "Giving that up would be like committing psychological hara-kiri.",
+      "Raising prices so much would be business hara-kiri."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "commit hara-kiri / be like (political/business) hara-kiri",
+      "partners": [
+        "commit hara-kiri",
+        "political hara-kiri",
+        "psychological hara-kiri"
+      ]
+    }
+  },
+  {
+    "word": "harangues",
+    "memory": "angry lectures",
+    "meaning": "Long, angry speeches or lectures criticising someone",
+    "hindi": "लंबी डाँट, फटकार",
+    "trick": "HARANGUE = HARASS with a long angry speech.",
+    "examples": [
+      "All these harangues of accusations kept bouncing in her head.",
+      "The coach's harangues after every loss made the team nervous."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "a harangue about/against something",
+      "partners": [
+        "angry harangues",
+        "long harangues",
+        "harangues about money"
+      ]
+    }
+  },
+  {
+    "word": "harbinger",
+    "memory": "sign of coming",
+    "meaning": "A sign or person that shows something is going to happen soon",
+    "hindi": "अग्रदूत, पूर्व संकेत",
+    "trick": "HARBINGER = a HERALD who BRINGS news of what's coming.",
+    "examples": [
+      "She said our relationship would be the harbinger of a new age of peace.",
+      "Dark clouds are often a harbinger of heavy rain."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a harbinger of something",
+      "partners": [
+        "harbinger of change",
+        "harbinger of doom",
+        "harbinger of spring"
+      ]
+    }
+  },
+  {
+    "word": "harbor",
+    "memory": "port, dock area",
+    "meaning": "A sheltered area of water where ships stay safely (US spelling; British 'harbour'); also to keep a feeling or secret in your mind",
+    "hindi": "बंदरगाह; मन में रखना",
+    "trick": "HARBOR = a safe HARBOUR (British) for boats.",
+    "examples": [
+      "So I caught the streetcar that goes down to the harbor.",
+      "Many small fishing boats were tied up in the harbor."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in/at the harbor / harbor a feeling",
+      "partners": [
+        "fishing harbor",
+        "boats in the harbor",
+        "harbor a grudge"
+      ]
+    }
+  },
+  {
+    "word": "harbored",
+    "memory": "kept in mind",
+    "meaning": "Kept a feeling, thought or secret in your mind for a long time (US spelling; British 'harboured'); also gave shelter to someone",
+    "hindi": "मन में रखा, पाले रखा",
+    "trick": "HARBORED: like a ship in a harbor, the thought stayed parked in your mind.",
+    "examples": [
+      "For years I'd harbored a suspicion that we all had a limit.",
+      "She harbored a secret dream of becoming a singer."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "harbor a feeling/doubt/suspicion",
+      "partners": [
+        "harbored a suspicion",
+        "harbored doubts",
+        "harbored a grudge"
+      ]
+    }
+  },
+  {
+    "word": "hardball",
+    "memory": "tough methods",
+    "meaning": "Tough, aggressive methods used to get what you want (informal); also the sport of baseball",
+    "hindi": "सख्त रवैया, कड़ा तरीका",
+    "trick": "HARDBALL: playing with a HARD BALL - no soft moves.",
+    "examples": [
+      "Some CEOs use hardball tactics to drive down the price.",
+      "If they won't pay, we'll have to play hardball."
+    ],
+    "usage": {
+      "pos": "noun (informal)",
+      "pattern": "play hardball (with someone) / hardball tactics",
+      "partners": [
+        "play hardball",
+        "hardball tactics",
+        "hardball negotiations"
+      ]
+    }
+  },
+  {
+    "word": "hardliner",
+    "memory": "strict, uncompromising",
+    "meaning": "A person who holds strict views and refuses to change or compromise, especially in politics or religion",
+    "hindi": "कट्टरपंथी, कट्टर",
+    "trick": "HARD + LINE: someone who never moves from their HARD LINE.",
+    "examples": [
+      "The court was filled with hardliner mullahs who brought in strict laws.",
+      "The party chose a hardliner as its new leader."
+    ],
+    "usage": {
+      "pos": "noun (also used before a noun)",
+      "pattern": "a hardliner on something / hardliner + noun",
+      "partners": [
+        "religious hardliner",
+        "hardliner leaders",
+        "party hardliners"
+      ]
+    }
+  },
+  {
+    "word": "hardships",
+    "memory": "difficulties, sufferings",
+    "meaning": "Situations that are hard to bear, such as lack of money, food or comfort",
+    "hindi": "कठिनाइयाँ, मुसीबतें",
+    "trick": "HARDSHIPS = HARD trips through life.",
+    "examples": [
+      "Until you experience hardships like failure, your mind will remain soft.",
+      "My grandparents faced many hardships after the war."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "face/suffer/overcome hardships",
+      "partners": [
+        "face hardships",
+        "economic hardships",
+        "overcome hardships"
+      ]
+    }
+  },
+  {
+    "word": "harmonium",
+    "memory": "small keyboard organ",
+    "meaning": "A small keyboard instrument that makes music by pumping air through reeds",
+    "hindi": "हारमोनियम, बाजा",
+    "trick": "HARMONIUM makes HARMONY - the bhajan box.",
+    "examples": [
+      "Downstairs, someone was tuning a harmonium.",
+      "My uncle plays the harmonium at every family puja."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "play the harmonium",
+      "partners": [
+        "play the harmonium",
+        "tune a harmonium",
+        "harmonium player"
+      ]
+    }
+  },
+  {
+    "word": "harness",
+    "memory": "control and use",
+    "meaning": "To control and use something (like power or energy) for a useful purpose; also a set of straps for a horse or a person",
+    "hindi": "काबू में करके उपयोग करना; जीन, पट्टा",
+    "trick": "HARNESS: put straps on a wild horse and make it work for you.",
+    "examples": [
+      "I learned how to harness my mind to take more pain.",
+      "We can harness the power of the sun to make electricity."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "harness something (to do something)",
+      "partners": [
+        "harness energy",
+        "harness the power of",
+        "harness your emotions"
+      ]
+    }
+  },
+  {
+    "word": "harped",
+    "memory": "kept repeating",
+    "meaning": "Kept talking about the same thing again and again in an annoying way (harp on)",
+    "hindi": "बार-बार वही बात कही, रट लगाई",
+    "trick": "HARPED: kept plucking the same HARP string again and again.",
+    "examples": [
+      "I couldn't understand why he harped on this point so much.",
+      "My mother harped on about my messy room all week."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "harp on (about) something",
+      "partners": [
+        "harped on about",
+        "harped on the point",
+        "harped on it"
+      ]
+    }
+  },
+  {
+    "word": "harrowing",
+    "memory": "very distressing",
+    "meaning": "Extremely upsetting and painful to experience",
+    "hindi": "दर्दनाक, भयानक, दिल दहलाने वाला",
+    "trick": "HARROWING: like a HARROW (farm tool) dragging across your heart.",
+    "examples": [
+      "All bad things end, no matter how harrowing the pain gets.",
+      "They told us about their harrowing journey across the sea."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a harrowing + noun / be harrowing",
+      "partners": [
+        "harrowing experience",
+        "harrowing journey",
+        "harrowing story"
+      ]
+    }
+  },
+  {
+    "word": "harrows",
+    "memory": "soil-breaking farm tools",
+    "meaning": "Farm tools with metal teeth or discs, pulled over ploughed land to break up the soil",
+    "hindi": "हेंगा, पाटा",
+    "trick": "HARROWS: like a row of ARROWS dragged over the field to break the soil.",
+    "examples": [
+      "Electricity could run threshing machines, ploughs and harrows.",
+      "The farmer pulled the harrows across the field with a tractor."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "pull/drag harrows over something",
+      "partners": [
+        "ploughs and harrows",
+        "disc harrows",
+        "pull the harrows"
+      ]
+    }
+  },
+  {
+    "word": "harvest",
+    "memory": "crop gathering",
+    "meaning": "The time or work of cutting and collecting crops; also the crops gathered",
+    "hindi": "फसल कटाई, फसल",
+    "trick": "HARVEST: in autumn, farmers HAVE their best crops.",
+    "examples": [
+      "The animals went down to the hayfield to begin the harvest.",
+      "The village celebrates after the rice harvest."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "begin/bring in the harvest / a good harvest",
+      "partners": [
+        "bring in the harvest",
+        "good harvest",
+        "harvest festival"
+      ]
+    }
+  },
+  {
+    "word": "harvested",
+    "memory": "collected in large numbers",
+    "meaning": "Gathered or collected a lot of something (used figuratively); also cut and gathered crops",
+    "hindi": "बटोरा, इकट्ठा किया; फसल काटी",
+    "trick": "HARVESTED: picked them up like crops in the field.",
+    "examples": [
+      "That was the bait for quitters, and he harvested helmets left and right.",
+      "The farmers harvested the wheat before the rain came."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "harvest something",
+      "partners": [
+        "harvested crops",
+        "harvested the wheat",
+        "harvested data"
+      ]
+    }
+  },
+  {
+    "word": "hashish",
+    "memory": "cannabis drug",
+    "meaning": "A drug made from the resin of the cannabis plant, smoked or eaten",
+    "hindi": "चरस, हशीश",
+    "trick": "HASHISH: HASH + HUSH - an illegal drug kept hush-hush.",
+    "examples": [
+      "The hashish was hidden in the seams of the coat.",
+      "The police found a small packet of hashish in his bag."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "smoke/sell hashish",
+      "partners": [
+        "smoke hashish",
+        "hashish smuggling",
+        "packet of hashish"
+      ]
+    }
+  },
+  {
+    "word": "haste",
+    "memory": "hurry, speed",
+    "meaning": "Doing something in a hurry, often too quickly",
+    "hindi": "जल्दबाज़ी, जल्दी",
+    "trick": "HASTE: Haste makes waste.",
+    "examples": [
+      "He left the room with wordless haste.",
+      "In her haste, she forgot her phone at home."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in haste / in someone's haste (to do something)",
+      "partners": [
+        "in haste",
+        "in great haste",
+        "haste makes waste"
+      ]
+    }
+  },
+  {
+    "word": "hatched",
+    "memory": "planned, came up with",
+    "meaning": "Thought up or planned something, often secretly; also came out of an egg",
+    "hindi": "योजना बनाई, सोची; अंडे से निकला",
+    "trick": "HATCHED: the plan came out of your head like a chick from an egg.",
+    "examples": [
+      "I hatched the plan at Walmart the night before.",
+      "The chicks hatched early this morning."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "hatch a plan/plot / something hatched",
+      "partners": [
+        "hatched a plan",
+        "hatched a plot",
+        "eggs hatched"
+      ]
+    }
+  },
+  {
+    "word": "hatred",
+    "memory": "strong hate",
+    "meaning": "A very strong feeling of dislike",
+    "hindi": "नफ़रत, घृणा",
+    "trick": "HATRED = HATE + RED anger.",
+    "examples": [
+      "In that moment my hatred overcame my fear.",
+      "There is no place for hatred in our home."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "hatred of/for someone or something",
+      "partners": [
+        "deep hatred",
+        "hatred of war",
+        "full of hatred"
+      ]
+    }
+  },
+  {
+    "word": "haughty",
+    "memory": "proud, arrogant",
+    "meaning": "Behaving as if you are better than others",
+    "hindi": "घमंडी, अभिमानी",
+    "trick": "HAUGHTY = HIGH-ty: nose held high.",
+    "examples": [
+      "Napoleon came out, casting haughty glances from side to side.",
+      "The haughty shop owner refused to talk to us."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be haughty / a haughty + noun",
+      "partners": [
+        "haughty look",
+        "haughty manner",
+        "haughty glances"
+      ]
+    }
+  },
+  {
+    "word": "haul",
+    "memory": "long period",
+    "meaning": "A long period of time or effort needed to reach a goal; also an amount of things taken or caught",
+    "hindi": "लंबा समय, लंबी दूरी; ढोना",
+    "trick": "HAUL: like dragging a heavy load a long way - the long haul.",
+    "examples": [
+      "I've committed to one woman for the long haul.",
+      "Learning a language is a long haul, so be patient."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "for the long haul / a long haul",
+      "partners": [
+        "for the long haul",
+        "long haul",
+        "a big haul"
+      ]
+    }
+  },
+  {
+    "word": "haunches",
+    "memory": "hips and thighs",
+    "meaning": "The back part of the hips and thighs; sitting on them means squatting",
+    "hindi": "कूल्हे; उकड़ूँ",
+    "trick": "HAUNCHES: when you sit on your HAUNCHES you squat low.",
+    "examples": [
+      "He was sitting on his haunches, eating figs from a crate.",
+      "The dog sat on its haunches, waiting for food."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "sit/squat on your haunches",
+      "partners": [
+        "sit on his haunches",
+        "squat on her haunches",
+        "back on its haunches"
+      ]
+    }
+  },
+  {
+    "word": "havoc",
+    "memory": "great chaos, destruction",
+    "meaning": "Great damage, confusion and disorder",
+    "hindi": "तबाही, बर्बादी",
+    "trick": "HAVOC: a storm HAS made a total wreck.",
+    "examples": [
+      "Everything reminded her of the havoc that had struck her life.",
+      "The storm caused havoc across the city."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "cause/wreak havoc (on something)",
+      "partners": [
+        "cause havoc",
+        "wreak havoc",
+        "play havoc with"
+      ]
+    }
+  },
+  {
+    "word": "hawing",
+    "memory": "hesitating",
+    "meaning": "Making unsure sounds and not deciding, delaying an answer",
+    "hindi": "हिचकिचाना, टालमटोल करना",
+    "trick": "HAWING: saying 'ha... aw...' when you can't decide.",
+    "examples": [
+      "After hemming and hawing for a bit, he admitted it was his idea.",
+      "Stop hemming and hawing and tell me your answer."
+    ],
+    "usage": {
+      "pos": "verb (-ing, in 'hemming and hawing')",
+      "pattern": "hem and haw (about something)",
+      "partners": [
+        "hemming and hawing",
+        "hem and haw",
+        "after much hawing"
+      ]
+    }
+  },
+  {
+    "word": "hawk",
+    "memory": "bird of prey",
+    "meaning": "A large bird with sharp eyes that hunts small animals; also a person who supports war",
+    "hindi": "बाज़",
+    "trick": "HAWK: HAWK-eye - it sees everything from the sky.",
+    "examples": [
+      "They watched a hawk gliding in circles above the village.",
+      "The hawk caught a mouse in the field."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a hawk + verb (circle, swoop, glide)",
+      "partners": [
+        "hawk circling",
+        "eyes like a hawk",
+        "watch like a hawk"
+      ]
+    }
+  },
+  {
+    "word": "hawkers",
+    "memory": "street sellers",
+    "meaning": "People who sell things in the street, often calling out loudly",
+    "hindi": "फेरीवाले, ठेलेवाले",
+    "trick": "HAWKERS shout like HAWKS to sell their goods.",
+    "examples": [
+      "Cars crawled through the crowd of hawkers and pedestrians.",
+      "Hawkers were selling peanuts outside the station."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "street hawkers / hawkers selling something",
+      "partners": [
+        "street hawkers",
+        "hawkers selling fruit",
+        "crowd of hawkers"
+      ]
+    }
+  },
+  {
+    "word": "hay",
+    "memory": "dried grass",
+    "meaning": "Grass that has been cut and dried, used as animal food",
+    "hindi": "सूखी घास, भूसा",
+    "trick": "HAY: make HAY while the sun shines.",
+    "examples": [
+      "Back to shovelling hay for the horses.",
+      "The farmer gave the cows fresh hay."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a pile/bale of hay",
+      "partners": [
+        "bale of hay",
+        "pile of hay",
+        "make hay"
+      ]
+    }
+  },
+  {
+    "word": "hayseed",
+    "memory": "country bumpkin",
+    "meaning": "A simple person from the countryside (informal, US, often insulting)",
+    "hindi": "गँवार, देहाती (बोलचाल)",
+    "trick": "HAYSEED: someone with HAY SEEDS still in their hair from the farm.",
+    "examples": [
+      "Back then he was a simple Texas hayseed who barely said a word.",
+      "The city boys laughed at him and called him a hayseed."
+    ],
+    "usage": {
+      "pos": "noun (informal, US)",
+      "pattern": "a (simple) hayseed",
+      "partners": [
+        "country hayseed",
+        "simple hayseed",
+        "small-town hayseed"
+      ]
+    }
+  },
+  {
+    "word": "haywire",
+    "memory": "out of control",
+    "meaning": "Badly wrong or out of control (informal)",
+    "hindi": "गड़बड़, बेकाबू (बोलचाल)",
+    "trick": "HAYWIRE: wire for tying hay gets tangled into a mess.",
+    "examples": [
+      "I wondered how it had all gone so haywire so quickly.",
+      "My phone went haywire after the update."
+    ],
+    "usage": {
+      "pos": "adjective (informal)",
+      "pattern": "go haywire",
+      "partners": [
+        "go haywire",
+        "went haywire",
+        "everything went haywire"
+      ]
+    }
+  },
+  {
+    "word": "hazard",
+    "memory": "danger, risk",
+    "meaning": "Something that could be dangerous or cause harm",
+    "hindi": "ख़तरा, जोखिम",
+    "trick": "HAZARD: HAZARD lights warn of danger ahead.",
+    "examples": [
+      "That's a hazard that comes with my line of work.",
+      "Wet floors are a hazard in the kitchen."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a hazard to someone / a fire/health hazard",
+      "partners": [
+        "health hazard",
+        "fire hazard",
+        "safety hazard"
+      ]
+    }
+  },
+  {
+    "word": "haze",
+    "memory": "mental fog, blur",
+    "meaning": "A confused state of mind where you can't think clearly; also thin mist, smoke or dust in the air",
+    "hindi": "धुंधलापन, बेसुधी; धुंध",
+    "trick": "HAZE: a HAZY mist over your mind or the sky.",
+    "examples": [
+      "She kept talking, trying to reach me through the haze of pain.",
+      "There was a light haze over the hills this morning."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "through a haze / a haze of something",
+      "partners": [
+        "heat haze",
+        "haze of smoke",
+        "through the haze"
+      ]
+    }
+  },
+  {
+    "word": "hazel",
+    "memory": "greenish-brown",
+    "meaning": "Of a light greenish-brown colour, used for eyes",
+    "hindi": "भूरा-हरा (आँखों का रंग)",
+    "trick": "HAZEL: like a hazelnut - light brown.",
+    "examples": [
+      "She saw her own reflection in his hazel eyes.",
+      "The baby has big hazel eyes like her father."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "hazel + eyes",
+      "partners": [
+        "hazel eyes",
+        "hazel-green",
+        "light hazel"
+      ]
+    }
+  },
+  {
+    "word": "hearken",
+    "memory": "listen",
+    "meaning": "To listen carefully (old-fashioned/poetic)",
+    "hindi": "सुनो, ध्यान दो",
+    "trick": "HEARKEN: has 'HEAR' inside it.",
+    "examples": [
+      "Beasts of every land, hearken to my joyful tidings.",
+      "Hearken, children, to the old man's story."
+    ],
+    "usage": {
+      "pos": "verb (old-fashioned)",
+      "pattern": "hearken to someone/something",
+      "partners": [
+        "hearken to my words",
+        "hearken to the call",
+        "hearken unto"
+      ]
+    }
+  },
+  {
+    "word": "hearse",
+    "memory": "funeral car",
+    "meaning": "A vehicle that carries a dead body in a coffin to a funeral",
+    "hindi": "शव वाहन",
+    "trick": "HEARSE has 'HEAR' + 'SE' - all you hear at a funeral is silence.",
+    "examples": [
+      "The warden said that the hearse had arrived.",
+      "A black hearse drove slowly to the cemetery."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in/behind the hearse",
+      "partners": [
+        "black hearse",
+        "behind the hearse",
+        "funeral hearse"
+      ]
+    }
+  },
+  {
+    "word": "heart-wrenching",
+    "memory": "deeply saddening",
+    "meaning": "Causing great sadness and emotional pain",
+    "hindi": "दिल दहलाने वाला, बहुत दुखद",
+    "trick": "HEART + WRENCH: a story that twists your heart like a wrench.",
+    "examples": [
+      "Readers called the book inspiring and heart-wrenching.",
+      "The film had a heart-wrenching ending."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a heart-wrenching + noun / be heart-wrenching",
+      "partners": [
+        "heart-wrenching story",
+        "heart-wrenching scene",
+        "heart-wrenching moment"
+      ]
+    }
+  },
+  {
+    "word": "heartrending",
+    "memory": "very sad, moving",
+    "meaning": "Causing great sadness and pity",
+    "hindi": "हृदयविदारक, बहुत दुखद",
+    "trick": "HEART + REND (tear): a story that tears your heart.",
+    "examples": [
+      "The reviewer said the novel was just as heartrending as the first.",
+      "We heard a heartrending cry from the next room."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a heartrending + noun",
+      "partners": [
+        "heartrending story",
+        "heartrending cry",
+        "heartrending sight"
+      ]
+    }
+  },
+  {
+    "word": "heatstroke",
+    "memory": "heat illness",
+    "meaning": "A serious illness caused by staying too long in great heat",
+    "hindi": "लू लगना, लू",
+    "trick": "HEAT + STROKE: the heat strikes you down.",
+    "examples": [
+      "If you go too slowly, there's the risk of heatstroke.",
+      "Drink water in summer so you don't get heatstroke."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "get/suffer from heatstroke",
+      "partners": [
+        "get heatstroke",
+        "risk of heatstroke",
+        "suffer heatstroke"
+      ]
+    }
+  },
+  {
+    "word": "heaved",
+    "memory": "rose and fell heavily",
+    "meaning": "Rose and fell heavily, as when breathing hard; also let out (a sigh) or lifted something heavy",
+    "hindi": "धौंकनी-सी चली, हाँफा; (आह) भरी",
+    "trick": "HEAVED: a HEAVY up-and-down.",
+    "examples": [
+      "My lungs heaved after the long run.",
+      "She heaved a sigh of relief when the exam ended."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "someone's chest/lungs heaved / heave a sigh",
+      "partners": [
+        "chest heaved",
+        "heaved a sigh",
+        "heaved the bag"
+      ]
+    }
+  },
+  {
+    "word": "heaven-bound",
+    "memory": "going to heaven",
+    "meaning": "Sure to go to heaven after death",
+    "hindi": "स्वर्ग जाने वाला",
+    "trick": "HEAVEN + BOUND (headed for): on the road to heaven.",
+    "examples": [
+      "My father was a dear man, surely heaven-bound.",
+      "Grandma was so kind that everyone said she was heaven-bound."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be heaven-bound",
+      "partners": [
+        "surely heaven-bound",
+        "heaven-bound soul",
+        "heaven-bound saint"
+      ]
+    }
+  },
+  {
+    "word": "heaving",
+    "memory": "rising and falling hard",
+    "meaning": "Rising and falling heavily, as when breathing hard; also very crowded (British informal)",
+    "hindi": "हाँफता हुआ, ऊपर-नीचे होता",
+    "trick": "HEAVING: chest going up and down HEAVILY.",
+    "examples": [
+      "At mile eighteen I was bonking, my lungs heaving.",
+      "He reached the top of the stairs, his chest heaving."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "someone's chest/lungs heaving",
+      "partners": [
+        "chest heaving",
+        "lungs heaving",
+        "heaving shoulders"
+      ]
+    }
+  },
+  {
+    "word": "heavy-metal music",
+    "memory": "loud rock music",
+    "meaning": "A very loud kind of rock music with strong guitars and drums",
+    "hindi": "हेवी मेटल संगीत, तेज़ रॉक संगीत",
+    "trick": "HEAVY METAL: music as loud as heavy metal banging.",
+    "examples": [
+      "Mustaine is one of the most influential musicians in heavy-metal music.",
+      "My brother listens to heavy-metal music all day."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "listen to / play heavy-metal music",
+      "partners": [
+        "listen to heavy-metal music",
+        "heavy-metal band",
+        "loud heavy-metal music"
+      ]
+    }
+  },
+  {
+    "word": "heckles",
+    "memory": "shouted insults",
+    "meaning": "Rude shouts or interruptions aimed at a speaker or performer",
+    "hindi": "टोका-टाकी, फब्तियाँ",
+    "trick": "HECKLES: people HECK-ling you from the crowd.",
+    "examples": [
+      "There were heckles and jeers from the crowd.",
+      "The comedian ignored the heckles and kept going."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "heckles from someone",
+      "partners": [
+        "heckles and jeers",
+        "loud heckles",
+        "ignore the heckles"
+      ]
+    }
+  },
+  {
+    "word": "hedged",
+    "memory": "avoided answering",
+    "meaning": "Avoided giving a clear answer or decision; also protected against loss",
+    "hindi": "टालमटोल की, गोलमोल जवाब दिया",
+    "trick": "HEDGED: hid behind a HEDGE instead of answering.",
+    "examples": [
+      "Aziza hedged, stiff with embarrassment.",
+      "When I asked about the money, he hedged."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "hedge (on something) / hedge your bets",
+      "partners": [
+        "hedged his answer",
+        "hedged on the question",
+        "hedge your bets"
+      ]
+    }
+  },
+  {
+    "word": "hedges",
+    "memory": "bush walls",
+    "meaning": "Rows of bushes growing close together, forming a border",
+    "hindi": "झाड़ियों की बाड़, मेड़",
+    "trick": "HEDGES: green walls along the edges of a garden.",
+    "examples": [
+      "Lump sugar and linseed cake grew on the hedges.",
+      "My father trims the hedges every Sunday."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "trim/cut the hedges",
+      "partners": [
+        "trim the hedges",
+        "tall hedges",
+        "garden hedges"
+      ]
+    }
+  },
+  {
+    "word": "heeding",
+    "memory": "paying attention to",
+    "meaning": "Paying attention to advice or a warning and acting on it",
+    "hindi": "मानना, ध्यान देना",
+    "trick": "HEEDING: HEAD-ing the advice - keeping it in your head.",
+    "examples": [
+      "What will be my defense for not heeding His commands?",
+      "He drove fast, not heeding the warning signs."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "heed something (advice/warning)",
+      "partners": [
+        "heeding advice",
+        "heeding the warning",
+        "not heeding"
+      ]
+    }
+  },
+  {
+    "word": "heedless",
+    "memory": "careless of",
+    "meaning": "Not paying attention to something; not caring about danger or results",
+    "hindi": "बेपरवाह, लापरवाह",
+    "trick": "HEED-LESS: no heed, no care.",
+    "examples": [
+      "They fired rockets, heedless of the innocent people who would die.",
+      "He ran into the road, heedless of the traffic."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "heedless of something",
+      "partners": [
+        "heedless of danger",
+        "heedless of the risk",
+        "heedless of others"
+      ]
+    }
+  },
+  {
+    "word": "hefty",
+    "memory": "strong, heavy",
+    "meaning": "Big and strong, or heavy and powerful",
+    "hindi": "ज़ोरदार, भारी",
+    "trick": "HEFTY: so HEAVY you need to lift (heft) it.",
+    "examples": [
+      "A hefty gust of wind could send you sailing off.",
+      "He paid a hefty fine for parking there."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a hefty + noun",
+      "partners": [
+        "hefty price",
+        "hefty fine",
+        "hefty gust"
+      ]
+    }
+  },
+  {
+    "word": "heightened",
+    "memory": "increased, raised",
+    "meaning": "Made stronger or greater (often used for feelings or senses)",
+    "hindi": "बढ़ा हुआ, तीव्र",
+    "trick": "HEIGHTENED: raised to a greater HEIGHT.",
+    "examples": [
+      "Now cooking was an exercise in heightened anxiety.",
+      "There is heightened security at the airport today."
+    ],
+    "usage": {
+      "pos": "adjective (past participle)",
+      "pattern": "heightened + noun / heighten something",
+      "partners": [
+        "heightened anxiety",
+        "heightened security",
+        "heightened awareness"
+      ]
+    }
+  },
+  {
+    "word": "heirloom",
+    "memory": "family treasure",
+    "meaning": "A valuable object passed down in a family for many years",
+    "hindi": "पुश्तैनी चीज़, खानदानी विरासत",
+    "trick": "HEIRLOOM: something an HEIR gets from the family.",
+    "examples": [
+      "They would value their difficulties as one would a family heirloom.",
+      "This gold ring is a family heirloom."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a family heirloom",
+      "partners": [
+        "family heirloom",
+        "precious heirloom",
+        "heirloom jewellery"
+      ]
+    }
+  },
+  {
+    "word": "heirloom-breaking",
+    "memory": "breaking family treasures",
+    "meaning": "Careless enough to break precious family objects (made-up compound used as an insult)",
+    "hindi": "खानदानी चीज़ें तोड़ने वाला",
+    "trick": "HEIRLOOM + BREAKING: the clumsy child who smashes grandma's vase.",
+    "examples": [
+      "\"An heirloom-breaking, clumsy little brat,\" she muttered.",
+      "My heirloom-breaking puppy knocked Grandma's vase off the table."
+    ],
+    "usage": {
+      "pos": "adjective (compound)",
+      "pattern": "an heirloom-breaking + noun",
+      "partners": [
+        "heirloom-breaking child",
+        "heirloom-breaking clumsiness",
+        "clumsy, heirloom-breaking"
+      ]
+    }
+  },
+  {
+    "word": "hellacious",
+    "memory": "extremely tough",
+    "meaning": "Extremely difficult or unpleasant (US informal); also extremely good or impressive",
+    "hindi": "बहुत भयानक, बेहद कठिन (बोलचाल)",
+    "trick": "HELL + -ACIOUS: as tough as hell.",
+    "examples": [
+      "Another hellacious special forces school put us through so much.",
+      "We drove home through a hellacious storm."
+    ],
+    "usage": {
+      "pos": "adjective (US informal)",
+      "pattern": "a hellacious + noun",
+      "partners": [
+        "hellacious storm",
+        "hellacious day",
+        "hellacious training"
+      ]
+    }
+  },
+  {
+    "word": "helmets",
+    "memory": "hard hats",
+    "meaning": "Hard hats worn to protect the head",
+    "hindi": "हेलमेट, टोप",
+    "trick": "HELMETS protect the HELM (top) of your head.",
+    "examples": [
+      "He collected the helmets of quitters left and right.",
+      "Riders must wear helmets on the bike."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "wear helmets",
+      "partners": [
+        "wear helmets",
+        "safety helmets",
+        "bike helmets"
+      ]
+    }
+  },
+  {
+    "word": "hem",
+    "memory": "folded cloth edge",
+    "meaning": "The bottom edge of a piece of clothing, folded and sewn; also (verb) to sew such an edge",
+    "hindi": "किनारी, मगज़ी, तुरपाई",
+    "trick": "HEM: the very edge - 'hem-line' at the bottom.",
+    "examples": [
+      "She practiced walking in it and kept stepping on the hem.",
+      "My mother took up the hem of my trousers."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the hem of something / take up a hem",
+      "partners": [
+        "hem of her dress",
+        "take up the hem",
+        "stepping on the hem"
+      ]
+    }
+  },
+  {
+    "word": "hemming",
+    "memory": "hesitating",
+    "meaning": "Not deciding or speaking clearly, making unsure sounds before answering; also sewing an edge",
+    "hindi": "हिचकिचाना, टालमटोल करना",
+    "trick": "HEMMING: 'hmm... hmm...' when you can't make up your mind.",
+    "examples": [
+      "After hemming and hawing for a bit, he admitted it was his idea.",
+      "She kept hemming and hawing about which dress to buy."
+    ],
+    "usage": {
+      "pos": "verb (-ing, in 'hemming and hawing')",
+      "pattern": "hem and haw (about something)",
+      "partners": [
+        "hemming and hawing",
+        "hemming the skirt",
+        "stop hemming"
+      ]
+    }
+  },
+  {
+    "word": "hemorrhaged",
+    "memory": "lost a lot quickly",
+    "meaning": "Lost a large amount of something (like money or time) fast (US spelling; British 'haemorrhaged'); also bled heavily",
+    "hindi": "तेज़ी से गँवाया; बहुत ख़ून बहा",
+    "trick": "HEMORRHAGED: like heavy bleeding - it just poured away.",
+    "examples": [
+      "I hemorrhaged time.",
+      "The company hemorrhaged money last year."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "hemorrhage money/time/jobs",
+      "partners": [
+        "hemorrhaged money",
+        "hemorrhaged time",
+        "hemorrhaged jobs"
+      ]
+    }
+  },
+  {
+    "word": "henna",
+    "memory": "mehndi dye",
+    "meaning": "A reddish-brown dye from a plant, used to colour hands, hair or nails",
+    "hindi": "मेहंदी, हिना",
+    "trick": "HENNA = HINA, the mehndi at every wedding.",
+    "examples": [
+      "Her palms were painted red with henna.",
+      "The bride had beautiful henna patterns on her hands."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "put/apply henna on something",
+      "partners": [
+        "henna patterns",
+        "apply henna",
+        "henna on her hands"
+      ]
+    }
+  },
+  {
+    "word": "heralds",
+    "memory": "signals, announces",
+    "meaning": "Is a sign that something is coming; announces something",
+    "hindi": "संकेत देता है, घोषणा करता है",
+    "trick": "HERALDS: the HERALD (royal messenger) announces what's coming.",
+    "examples": [
+      "Each new piece of information heralds a step forward.",
+      "The first cold wind heralds the arrival of winter."
+    ],
+    "usage": {
+      "pos": "verb (present)",
+      "pattern": "something heralds something",
+      "partners": [
+        "heralds a new era",
+        "heralds the arrival",
+        "heralds change"
+      ]
+    }
+  },
+  {
+    "word": "herb",
+    "memory": "flavouring plant",
+    "meaning": "A plant whose leaves are used in cooking or medicine",
+    "hindi": "जड़ी-बूटी",
+    "trick": "HERB: HERBal tea is made from these leaves.",
+    "examples": [
+      "On the way, Mariam saw herb shops and fruit stalls.",
+      "Mint is my favourite herb for chutney."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "herb + noun / fresh/dried herbs",
+      "partners": [
+        "fresh herbs",
+        "herb shop",
+        "herb garden"
+      ]
+    }
+  },
+  {
+    "word": "herds",
+    "memory": "large groups",
+    "meaning": "Large groups of animals (or people) that move together",
+    "hindi": "झुंड, रेवड़",
+    "trick": "HERDS: you HEAR the herds coming before you see them.",
+    "examples": [
+      "Villages turned into herds of nomadic people, always moving.",
+      "Herds of cattle grazed by the river."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "herds of + plural noun",
+      "partners": [
+        "herds of cattle",
+        "herds of goats",
+        "huge herds"
+      ]
+    }
+  },
+  {
+    "word": "hermits",
+    "memory": "people living alone",
+    "meaning": "People who live alone, away from others, often for religious reasons",
+    "hindi": "संन्यासी, एकांतवासी",
+    "trick": "HERMITS live in a HERMIT crab's shell - all alone.",
+    "examples": [
+      "Five thousand monks once lived as hermits in these caves.",
+      "The old man lives like a hermit in the hills."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "live as hermits",
+      "partners": [
+        "live as hermits",
+        "religious hermits",
+        "hermits in caves"
+      ]
+    }
+  },
+  {
+    "word": "hesitant",
+    "memory": "unsure, reluctant",
+    "meaning": "Slow to act or speak because you are unsure or worried",
+    "hindi": "झिझकने वाला, संकोची",
+    "trick": "HESITANT: HESITATES before every step.",
+    "examples": [
+      "For the first time, he was hesitant.",
+      "She was hesitant to ask for help."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be hesitant to do something / about something",
+      "partners": [
+        "hesitant to ask",
+        "a little hesitant",
+        "hesitant smile"
+      ]
+    }
+  },
+  {
+    "word": "hideous",
+    "memory": "horrible, very ugly",
+    "meaning": "Very ugly or very unpleasant; shocking",
+    "hindi": "भयानक, बहुत बदसूरत",
+    "trick": "HIDEOUS: so ugly you want to HIDE from it.",
+    "examples": [
+      "The animals were treated with hideous cruelty.",
+      "She wore a hideous green hat to the party."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a hideous + noun / look hideous",
+      "partners": [
+        "hideous cruelty",
+        "hideous face",
+        "look hideous"
+      ]
+    }
+  },
+  {
+    "word": "hides",
+    "memory": "animal skins",
+    "meaning": "The skins of animals, used for leather; also (verb) keeps out of sight",
+    "hindi": "खालें, चमड़े",
+    "trick": "HIDES: the animal's skin HIDES its body.",
+    "examples": [
+      "The Vikings camped in tents made of deer hides.",
+      "They made shoes from cow hides."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "animal/deer/cow hides",
+      "partners": [
+        "deer hides",
+        "animal hides",
+        "cow hides"
+      ]
+    }
+  },
+  {
+    "word": "highs",
+    "memory": "good feelings, peaks",
+    "meaning": "Short periods of great pleasure or excitement; also high points or top temperatures",
+    "hindi": "नशा, उत्तेजना के पल; ऊँचाई",
+    "trick": "HIGHS and lows: the ups of life.",
+    "examples": [
+      "Highs are shallow and unproductive ways to go about one's life.",
+      "Every job has its highs and lows."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "highs and lows / the highs of something",
+      "partners": [
+        "highs and lows",
+        "emotional highs",
+        "record highs"
+      ]
+    }
+  },
+  {
+    "word": "hilarity",
+    "memory": "great laughter, fun",
+    "meaning": "Great amusement and loud laughter",
+    "hindi": "हँसी-मज़ाक, ठहाके",
+    "trick": "HILARITY: things are HILARIOUS - everyone laughs.",
+    "examples": [
+      "He saw them as a cousin prone to acts of hilarity and scandal.",
+      "The dog chasing its tail caused great hilarity."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "cause hilarity / amid great hilarity",
+      "partners": [
+        "great hilarity",
+        "cause hilarity",
+        "hilarity ensued"
+      ]
+    }
+  },
+  {
+    "word": "hilt",
+    "memory": "completely, fully",
+    "meaning": "Completely, all the way (used after 'to the'); also the handle of a sword or knife",
+    "hindi": "पूरी तरह से; मूठ",
+    "trick": "HILT: push a sword in up to the HILT - all the way.",
+    "examples": [
+      "\"I can prove this to the hilt, gentlemen of the jury.\"",
+      "He has borrowed money up to the hilt."
+    ],
+    "usage": {
+      "pos": "noun (in 'to the hilt')",
+      "pattern": "(up) to the hilt",
+      "partners": [
+        "to the hilt",
+        "up to the hilt",
+        "sword hilt"
+      ]
+    }
+  },
+  {
+    "word": "hind",
+    "memory": "back, rear",
+    "meaning": "At the back (used for animals' legs)",
+    "hindi": "पिछला",
+    "trick": "HIND = beHIND: the legs at the back.",
+    "examples": [
+      "No animal could stand on his hind legs.",
+      "The horse stood up on its hind legs."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "hind + legs/feet",
+      "partners": [
+        "hind legs",
+        "hind feet",
+        "hind quarters"
+      ]
+    }
+  },
+  {
+    "word": "hindquarters",
+    "memory": "back legs and hips",
+    "meaning": "The back part of an animal, including its back legs",
+    "hindi": "पिछला हिस्सा, पिछली टाँगें",
+    "trick": "HIND + QUARTERS: the back quarter of an animal.",
+    "examples": [
+      "Four large rats were sitting on their hindquarters, listening.",
+      "The cow kicked with its hindquarters."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "sit on its hindquarters",
+      "partners": [
+        "sit on its hindquarters",
+        "powerful hindquarters",
+        "the horse's hindquarters"
+      ]
+    }
+  },
+  {
+    "word": "hindrances",
+    "memory": "obstacles",
+    "meaning": "Things that make it difficult to do something or make progress",
+    "hindi": "रुकावटें, बाधाएँ",
+    "trick": "HINDRANCES HINDER you - they get in the way.",
+    "examples": [
+      "They are not to blame for their problems and hindrances.",
+      "Lack of money and time were the main hindrances to her studies."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "hindrances to something",
+      "partners": [
+        "hindrances to progress",
+        "without hindrances",
+        "many hindrances"
+      ]
+    }
+  },
+  {
+    "word": "hindsight",
+    "memory": "looking back later",
+    "meaning": "Understanding a situation only after it has happened",
+    "hindi": "बाद की समझ, पीछे देखकर",
+    "trick": "HIND = behind: SIGHT looking behind you, at the past.",
+    "examples": [
+      "In hindsight, I could see the warning signs I had chosen to ignore.",
+      "In hindsight, we should have left home earlier."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in hindsight / with hindsight / with the benefit of hindsight",
+      "partners": [
+        "in hindsight",
+        "with hindsight",
+        "benefit of hindsight"
+      ]
+    }
+  },
+  {
+    "word": "hinge",
+    "memory": "depend on",
+    "meaning": "To depend completely on something; also to be fixed on a moving joint",
+    "hindi": "पर निर्भर होना; कब्जे से जुड़ा होना",
+    "trick": "A door turns on its HINGE; your future turns (depends) on this.",
+    "examples": [
+      "At some point your career and finances all hinge on your ability to negotiate.",
+      "Our trip will hinge on the weather."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "something hinges on something / be hinged to something",
+      "partners": [
+        "hinge on",
+        "hinge upon",
+        "everything hinges on"
+      ]
+    }
+  },
+  {
+    "word": "hinges",
+    "memory": "door joints",
+    "meaning": "Metal joints on which a door, gate or lid swings open and shut",
+    "hindi": "कब्जे, कुंडे",
+    "trick": "HINGES make a door swing - 'hinge' sounds like 'swing'.",
+    "examples": [
+      "She knew how far her door would open before its hinges creaked.",
+      "Dad oiled the gate hinges to stop the squeaking."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "the hinges of a door / on its hinges",
+      "partners": [
+        "creaky hinges",
+        "door hinges",
+        "off its hinges"
+      ]
+    }
+  },
+  {
+    "word": "hippie",
+    "memory": "free-spirited dropout",
+    "meaning": "A person who rejects normal society, often with long hair, loose clothes and peaceful ideas (1960s style)",
+    "hindi": "हिप्पी, आज़ाद ख़याल व्यक्ति",
+    "trick": "HIPPIE: hip, happy, peace-and-love drifter of the 1960s.",
+    "examples": [
+      "Suzuki was an adventurer, an explorer, and a bit of a hippie.",
+      "My uncle was a hippie who travelled around India in a van."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a bit of a hippie / an old hippie",
+      "partners": [
+        "bit of a hippie",
+        "old hippie",
+        "hippie lifestyle"
+      ]
+    }
+  },
+  {
+    "word": "hissing",
+    "memory": "making angry ssss",
+    "meaning": "Making a long 'sss' sound like a snake or angry cat; also of steam or air escaping",
+    "hindi": "फुफकारता हुआ; सीं-सीं करता",
+    "trick": "Say it slowly - hiSSSSing is the sound itself.",
+    "examples": [
+      "I opened the dumpster lid and found a live raccoon, hissing mad.",
+      "The cat arched its back, hissing at the dog."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "hissing at someone / hissing with anger",
+      "partners": [
+        "hissing snake",
+        "hissing at",
+        "hissing steam"
+      ]
+    }
+  },
+  {
+    "word": "hit the sack",
+    "memory": "go to bed",
+    "meaning": "Informal: to go to bed to sleep",
+    "hindi": "सोने जाना (बोलचाल)",
+    "trick": "Old beds were sacks of straw - you 'hit' (fall onto) the sack.",
+    "examples": [
+      "After dinner I'd ride for two more hours, then hit the sack.",
+      "I'm so tired, I'm going to hit the sack early."
+    ],
+    "usage": {
+      "pos": "idiom (informal)",
+      "pattern": "hit the sack (early/late)",
+      "partners": [
+        "hit the sack early",
+        "time to hit the sack",
+        "hit the sack after dinner"
+      ]
+    }
+  },
+  {
+    "word": "hitch",
+    "memory": "catch a ride",
+    "meaning": "To get a free ride in someone's vehicle; also to tie or attach something (e.g. your hopes) to something",
+    "hindi": "मुफ़्त सवारी लेना; बाँधना",
+    "trick": "HITCH-hiking: hitch a ride with your thumb up.",
+    "examples": [
+      "In Afghanistan we hitch rides with the Army.",
+      "She hitched a ride to town with her neighbour."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "hitch a ride with someone / hitch something to something",
+      "partners": [
+        "hitch a ride",
+        "hitch a lift",
+        "hitch your hopes to"
+      ]
+    }
+  },
+  {
+    "word": "hitchhiking",
+    "memory": "travelling by free rides",
+    "meaning": "Travelling by getting free rides from passing drivers",
+    "hindi": "मुफ़्त सवारी से यात्रा करना",
+    "trick": "HITCH a ride + HIKING: walking and thumbing lifts.",
+    "examples": [
+      "He spent four years hitchhiking his way across Asia and Africa.",
+      "Hitchhiking can be unsafe at night."
+    ],
+    "usage": {
+      "pos": "verb (-ing) / noun",
+      "pattern": "go hitchhiking / hitchhike your way across somewhere",
+      "partners": [
+        "go hitchhiking",
+        "hitchhiking across",
+        "hitchhiking trip"
+      ]
+    }
+  },
+  {
+    "word": "hoarse",
+    "memory": "rough-voiced",
+    "meaning": "Sounding rough and low, often from shouting or a sore throat",
+    "hindi": "भारी आवाज़, बैठा गला",
+    "trick": "HOARSE sounds like HORSE - you sound like a horse after shouting.",
+    "examples": [
+      "I'd scream into a pillow until I was hoarse.",
+      "Her voice was hoarse after the cricket match."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be/go hoarse / a hoarse voice / shout yourself hoarse",
+      "partners": [
+        "hoarse voice",
+        "shout yourself hoarse",
+        "go hoarse"
+      ]
+    }
+  },
+  {
+    "word": "hobbled",
+    "memory": "limped painfully",
+    "meaning": "Walked with difficulty and pain, as if injured",
+    "hindi": "लंगड़ाकर चला",
+    "trick": "HOBBLE ~ wobble: walking wobbly on a hurt leg.",
+    "examples": [
+      "Swollen and sore, I pulled myself out of bed and hobbled into work.",
+      "He hobbled to the car on his twisted ankle."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "hobble into/across/along somewhere",
+      "partners": [
+        "hobbled into",
+        "hobbled along",
+        "hobbled on crutches"
+      ]
+    }
+  },
+  {
+    "word": "hoisting",
+    "memory": "raising up",
+    "meaning": "The act of lifting something up, especially with ropes (like a flag)",
+    "hindi": "फहराना, ऊपर उठाना",
+    "trick": "HOIST = raise up high, like the flag on Independence Day.",
+    "examples": [
+      "First came the hoisting of the flag.",
+      "The students watched the hoisting of the flag at school."
+    ],
+    "usage": {
+      "pos": "noun / verb (-ing)",
+      "pattern": "the hoisting of something / hoisting something up",
+      "partners": [
+        "hoisting of the flag",
+        "hoisting the sail",
+        "hoisting up"
+      ]
+    }
+  },
+  {
+    "word": "hold down a job",
+    "memory": "keep a job",
+    "meaning": "To manage to keep a job for a long time",
+    "hindi": "नौकरी टिकाए रखना",
+    "trick": "HOLD it DOWN so it doesn't fly away - keep the job steady.",
+    "examples": [
+      "He couldn't hold down a job.",
+      "She managed to hold down two jobs while studying."
+    ],
+    "usage": {
+      "pos": "verb phrase",
+      "pattern": "hold down a job / can't hold down a job",
+      "partners": [
+        "can't hold down a job",
+        "hold down a steady job",
+        "hold down two jobs"
+      ]
+    }
+  },
+  {
+    "word": "holdouts",
+    "memory": "those who refuse",
+    "meaning": "People who keep resisting or refusing to give in when others have stopped",
+    "hindi": "अड़े रहने वाले, न झुकने वाले",
+    "trick": "They HOLD OUT against the others - they won't give up.",
+    "examples": [
+      "These holdouts continued to fight as they had before.",
+      "Only a few holdouts still refuse to use smartphones."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "the last holdouts / holdouts against something",
+      "partners": [
+        "last holdouts",
+        "few holdouts",
+        "holdouts against"
+      ]
+    }
+  },
+  {
+    "word": "hollered",
+    "memory": "shouted loudly",
+    "meaning": "Informal, mainly US: shouted loudly",
+    "hindi": "ज़ोर से चिल्लाया (बोलचाल)",
+    "trick": "HOLLER ~ hollow-er: shouting so loud it echoes.",
+    "examples": [
+      "My mom pulled up alongside me and hollered, \"You are two minutes off the lead!\"",
+      "She hollered at the kids to come in for dinner."
+    ],
+    "usage": {
+      "pos": "verb (past, informal)",
+      "pattern": "holler at someone / holler something",
+      "partners": [
+        "hollered at",
+        "hollered for help",
+        "hollered out"
+      ]
+    }
+  },
+  {
+    "word": "hollow",
+    "memory": "empty, insincere",
+    "meaning": "Without real meaning or sincerity; also empty inside, or a small dip in a surface",
+    "hindi": "खोखला, झूठा; गड्ढा",
+    "trick": "A HOLLOW drum is empty inside - hollow words are empty too.",
+    "examples": [
+      "She could hear the insincerity beneath his hollow, false assurances.",
+      "His promises sounded hollow to the voters."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "hollow words/promises / ring hollow / the hollow of something",
+      "partners": [
+        "hollow promises",
+        "ring hollow",
+        "hollow victory"
+      ]
+    }
+  },
+  {
+    "word": "homesick",
+    "memory": "missing home",
+    "meaning": "Sad because you are away from your home and family",
+    "hindi": "घर की याद में उदास",
+    "trick": "HOME + SICK: sick with missing home.",
+    "examples": [
+      "She sat on the bed, missing her mother, feeling homesick.",
+      "In his first week at hostel he felt very homesick."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "feel/be homesick / homesick for somewhere",
+      "partners": [
+        "feel homesick",
+        "homesick for",
+        "get homesick"
+      ]
+    }
+  },
+  {
+    "word": "homicide",
+    "memory": "killing a person",
+    "meaning": "The crime of killing a person",
+    "hindi": "हत्या, मानव-वध",
+    "trick": "HOMO = human + -CIDE = kill (like pesticide).",
+    "examples": [
+      "We are not concerned with a homicide committed on a sudden impulse.",
+      "The police are treating his death as a homicide."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "commit homicide / an act of homicide",
+      "partners": [
+        "act of homicide",
+        "homicide case",
+        "homicide detective"
+      ]
+    }
+  },
+  {
+    "word": "hones",
+    "memory": "sharpens",
+    "meaning": "Sharpens or improves a skill or ability; also sharpens a blade",
+    "hindi": "निखारता है, पैना करता है",
+    "trick": "HONE rhymes with STONE - a sharpening stone hones a knife.",
+    "examples": [
+      "Commitment hones your attention and focus.",
+      "Daily practice hones her singing skills."
+    ],
+    "usage": {
+      "pos": "verb (present)",
+      "pattern": "something hones something / hone your skills",
+      "partners": [
+        "hones your skills",
+        "hones attention",
+        "hones the edge"
+      ]
+    }
+  },
+  {
+    "word": "honeysuckle",
+    "memory": "sweet climbing flower",
+    "meaning": "A climbing plant with sweet-smelling yellow or white flowers",
+    "hindi": "हनीसकल, सुगंधित बेल",
+    "trick": "Kids SUCK the sweet HONEY nectar from its flowers.",
+    "examples": [
+      "There was honeysuckle growing along the path.",
+      "The honeysuckle on the fence smells lovely in the evening."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "honeysuckle grows / the smell of honeysuckle",
+      "partners": [
+        "wild honeysuckle",
+        "smell of honeysuckle",
+        "honeysuckle vine"
+      ]
+    }
+  },
+  {
+    "word": "hood",
+    "memory": "neighbourhood; car cover",
+    "meaning": "Informal: a poor city neighbourhood; also the metal cover over a car engine (US), or a head covering on a jacket",
+    "hindi": "मोहल्ला (बोलचाल); गाड़ी का बोनट; कनटोप",
+    "trick": "'hood = short for neighbourHOOD.",
+    "examples": [
+      "By nineteen he was living on his own in the hood.",
+      "She ran her fingers along the hood of his shiny car."
+    ],
+    "usage": {
+      "pos": "noun (informal)",
+      "pattern": "in the hood / the hood of a car",
+      "partners": [
+        "in the hood",
+        "car hood",
+        "pull up your hood"
+      ]
+    }
+  },
+  {
+    "word": "hoof",
+    "memory": "horse's foot",
+    "meaning": "The hard foot of a horse, cow, goat and similar animals",
+    "hindi": "खुर",
+    "trick": "HOOF goes 'hoof-hoof' like a galloping horse sound.",
+    "examples": [
+      "He would trace the letters in the dust with his great hoof.",
+      "The horse lifted its hoof so the blacksmith could clean it."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an animal's hoof / on the hoof",
+      "partners": [
+        "horse's hoof",
+        "front hoof",
+        "hoof print"
+      ]
+    }
+  },
+  {
+    "word": "hooked nose",
+    "memory": "curved nose",
+    "meaning": "A nose that curves down in the middle, like a hook or beak",
+    "hindi": "तोते जैसी नाक, मुड़ी नाक",
+    "trick": "A nose shaped like a fishing HOOK.",
+    "examples": [
+      "In the mirror she saw his big square face and his hooked nose.",
+      "The old man in the story had a long, hooked nose."
+    ],
+    "usage": {
+      "pos": "noun phrase",
+      "pattern": "have a hooked nose / a man with a hooked nose",
+      "partners": [
+        "long hooked nose",
+        "thin hooked nose",
+        "with a hooked nose"
+      ]
+    }
+  },
+  {
+    "word": "hooted",
+    "memory": "shouted, laughed loudly",
+    "meaning": "Laughed or shouted loudly, often to mock; also made an owl or car-horn sound",
+    "hindi": "ठहाका लगाया, हूटिंग की",
+    "trick": "HOOT like an owl - or like 'hooting' a speaker in an Indian college.",
+    "examples": [
+      "At this, the boys hooted even harder.",
+      "The crowd hooted when the player missed the easy catch."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "hoot at someone / hoot with laughter",
+      "partners": [
+        "hooted with laughter",
+        "hooted at",
+        "hooted the horn"
+      ]
+    }
+  },
+  {
+    "word": "hooting",
+    "memory": "shouting loudly",
+    "meaning": "Making loud shouts or calls, often in excitement or fun",
+    "hindi": "शोर मचाते हुए, हूटिंग करते",
+    "trick": "HOOTING - like students hooting in a college fest.",
+    "examples": [
+      "She saw street children hooting and giving chase.",
+      "Fans were hooting and clapping as the team arrived."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "hooting and something / hooting at someone",
+      "partners": [
+        "hooting and cheering",
+        "hooting with laughter",
+        "hooting at"
+      ]
+    }
+  },
+  {
+    "word": "hoots",
+    "memory": "loud shouts",
+    "meaning": "Loud shouts of laughter or mockery",
+    "hindi": "ठहाके, शोर",
+    "trick": "HOOTS of laughter - like owls hooting at night.",
+    "examples": [
+      "She lay in bed as the hoots and laughter downstairs grew louder.",
+      "His silly joke was met with hoots of laughter."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "hoots of laughter / hoots from someone",
+      "partners": [
+        "hoots of laughter",
+        "hoots and cheers",
+        "loud hoots"
+      ]
+    }
+  },
+  {
+    "word": "hooves",
+    "memory": "animal feet",
+    "meaning": "Plural of hoof: the hard feet of horses, donkeys, cows, etc.",
+    "hindi": "खुर",
+    "trick": "One HOOF, many HOOVES (like roof → rooves in old English).",
+    "examples": [
+      "Donkeys slog along, their hooves splattering mud from the puddles.",
+      "We heard the horses' hooves on the road."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "the hooves of something / sound of hooves",
+      "partners": [
+        "sound of hooves",
+        "horses' hooves",
+        "clatter of hooves"
+      ]
+    }
+  },
+  {
+    "word": "hopped",
+    "memory": "jumped quickly",
+    "meaning": "Got on or into something quickly; also jumped on one foot",
+    "hindi": "झट से चढ़ गया, उछला",
+    "trick": "HOP on the bus - quick little jump.",
+    "examples": [
+      "He hopped on the saddle and rode back to Herat.",
+      "She hopped into the car and drove off."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "hop on/into/off something",
+      "partners": [
+        "hopped on",
+        "hopped into",
+        "hopped off"
+      ]
+    }
+  },
+  {
+    "word": "hopscotch",
+    "memory": "jumping about",
+    "meaning": "Moving quickly from place to place; also a children's game of hopping into squares",
+    "hindi": "इधर-उधर उछलना; लंगड़ी टांग का खेल",
+    "trick": "HOP across the SCOTCH (scratched) lines of the squares.",
+    "examples": [
+      "I bounced back and forth across countries in a game of global hopscotch.",
+      "The girls drew squares on the ground to play hopscotch."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "play hopscotch / a game of hopscotch",
+      "partners": [
+        "play hopscotch",
+        "game of hopscotch",
+        "global hopscotch"
+      ]
+    }
+  },
+  {
+    "word": "horde",
+    "memory": "big crowd",
+    "meaning": "A large, noisy crowd of people",
+    "hindi": "भीड़, झुंड",
+    "trick": "HORDE sounds like 'herd' - a herd of people.",
+    "examples": [
+      "The cars crawled through the horde of hawkers and pedestrians.",
+      "A horde of fans rushed to the stage."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a horde of people / hordes of something",
+      "partners": [
+        "horde of tourists",
+        "horde of fans",
+        "hordes of people"
+      ]
+    }
+  },
+  {
+    "word": "horizon",
+    "memory": "where sky meets land",
+    "meaning": "The line far away where the land or sea seems to meet the sky",
+    "hindi": "क्षितिज",
+    "trick": "HORIZON - the HORIZONtal line far away.",
+    "examples": [
+      "Hundreds of beige lockers stretched away to the horizon.",
+      "The sun slowly sank below the horizon."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "on/over/below the horizon",
+      "partners": [
+        "on the horizon",
+        "below the horizon",
+        "distant horizon"
+      ]
+    }
+  },
+  {
+    "word": "horizon-breaching",
+    "memory": "limit-breaking",
+    "meaning": "So amazing that it goes beyond your usual limits of experience",
+    "hindi": "सीमाएँ तोड़ने वाला, अद्भुत",
+    "trick": "Breaching (breaking through) your HORIZON - the edge of what you know.",
+    "examples": [
+      "My life was full of fantastic, horizon-breaching experiences.",
+      "Travelling alone was a horizon-breaching adventure for her."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a horizon-breaching + noun",
+      "partners": [
+        "horizon-breaching experiences",
+        "horizon-breaching adventure",
+        "horizon-breaching idea"
+      ]
+    }
+  },
+  {
+    "word": "hornets",
+    "memory": "big stinging wasps",
+    "meaning": "Large wasps with a painful sting",
+    "hindi": "बड़े ततैये, बर्रें",
+    "trick": "HORNETS have HORNS? No - but a sting that hurts like one.",
+    "examples": [
+      "Two hornets were buzzing overhead, against the skylight.",
+      "Don't disturb that nest - it's full of hornets."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "a nest of hornets / stir up a hornets' nest",
+      "partners": [
+        "hornets' nest",
+        "stung by hornets",
+        "swarm of hornets"
+      ]
+    }
+  },
+  {
+    "word": "horrible",
+    "memory": "very bad, awful",
+    "meaning": "Very bad or unpleasant",
+    "hindi": "बहुत बुरा, भयानक",
+    "trick": "HORRor-IBLE - like a horror movie: awful.",
+    "examples": [
+      "The movie made me feel horrible, but I loved it because it felt real.",
+      "I had a horrible headache all day."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "feel horrible / a horrible + noun",
+      "partners": [
+        "feel horrible",
+        "horrible mistake",
+        "horrible weather"
+      ]
+    }
+  },
+  {
+    "word": "horrified",
+    "memory": "shocked, appalled",
+    "meaning": "Filled someone with shock and disgust",
+    "hindi": "भयभीत कर दिया, दहला दिया",
+    "trick": "HORROR-ified: turned into a horror show.",
+    "examples": [
+      "He drove through the village, and what he saw horrified him.",
+      "We were horrified by the news of the accident."
+    ],
+    "usage": {
+      "pos": "verb (past) / adjective",
+      "pattern": "something horrifies someone / be horrified by/at something",
+      "partners": [
+        "horrified by",
+        "horrified to see",
+        "utterly horrified"
+      ]
+    }
+  },
+  {
+    "word": "hors d'oeuvre",
+    "memory": "small starter",
+    "meaning": "A small snack served before the main meal",
+    "hindi": "भोजन से पहले का नाश्ता, स्टार्टर",
+    "trick": "French: 'outside the work' (main dish); say 'or-DURV'.",
+    "examples": [
+      "While waiting for the hors d'oeuvre, she added up the bill in advance.",
+      "Waiters served hors d'oeuvres before dinner."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "serve an hors d'oeuvre / hors d'oeuvres before dinner",
+      "partners": [
+        "serve hors d'oeuvres",
+        "tray of hors d'oeuvres",
+        "hot hors d'oeuvres"
+      ]
+    }
+  },
+  {
+    "word": "horseshoes",
+    "memory": "horse's iron shoes",
+    "meaning": "U-shaped iron pieces nailed to horses' hooves; also a lucky symbol",
+    "hindi": "घोड़े की नाल",
+    "trick": "Literally SHOES for a HORSE.",
+    "examples": [
+      "The blacksmith heated the horseshoes until they glowed red.",
+      "Some people hang horseshoes over the door for luck."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "nail on horseshoes / a lucky horseshoe",
+      "partners": [
+        "iron horseshoes",
+        "lucky horseshoe",
+        "fit horseshoes"
+      ]
+    }
+  },
+  {
+    "word": "hosed",
+    "memory": "sprayed with water",
+    "meaning": "Sprayed someone or something with water from a hose",
+    "hindi": "पाइप से पानी डाला",
+    "trick": "HOSE = garden pipe; HOSED = sprayed with it.",
+    "examples": [
+      "The instructors hosed us down with freezing water.",
+      "He hosed the mud off his bike."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "hose someone/something down / hose something off",
+      "partners": [
+        "hosed down",
+        "hosed off",
+        "hosed the garden"
+      ]
+    }
+  },
+  {
+    "word": "hostile",
+    "memory": "unfriendly, enemy",
+    "meaning": "Unfriendly and ready to fight; also belonging to an enemy",
+    "hindi": "शत्रुतापूर्ण, दुश्मन का",
+    "trick": "HOSTILE sounds like 'hostel' - a hostile hostel where nobody is friendly.",
+    "examples": [
+      "It was torture knowing he might be alone in hostile territory.",
+      "The crowd became hostile when the match was cancelled."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be hostile to/towards someone / a hostile + noun",
+      "partners": [
+        "hostile territory",
+        "hostile tone",
+        "hostile to"
+      ]
+    }
+  },
+  {
+    "word": "hostility",
+    "memory": "unfriendliness",
+    "meaning": "Unfriendly or angry feelings or behaviour towards someone",
+    "hindi": "दुश्मनी, शत्रुता",
+    "trick": "HOSTILE + -ITY = the feeling of being hostile.",
+    "examples": [
+      "The farm's owners were regarded with hostility by their neighbours.",
+      "There was open hostility between the two families."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "hostility towards/between someone / with hostility",
+      "partners": [
+        "open hostility",
+        "hostility towards",
+        "growing hostility"
+      ]
+    }
+  },
+  {
+    "word": "hotshot",
+    "memory": "star performer",
+    "meaning": "Informal: a very successful, confident and skilful person",
+    "hindi": "धुरंधर, तेज़-तर्रार (बोलचाल)",
+    "trick": "A HOT SHOT in basketball - always scores.",
+    "examples": [
+      "The class was full of brilliant Harvard students and hotshot students from other top universities.",
+      "He thinks he's a hotshot lawyer now."
+    ],
+    "usage": {
+      "pos": "adjective / noun (informal)",
+      "pattern": "a hotshot + noun / some hotshot",
+      "partners": [
+        "hotshot lawyer",
+        "young hotshot",
+        "hotshot student"
+      ]
+    }
+  },
+  {
+    "word": "hound",
+    "memory": "trouble constantly",
+    "meaning": "To keep troubling or chasing someone for a long time; also a hunting dog",
+    "hindi": "लगातार सताना, पीछा करना; शिकारी कुत्ता",
+    "trick": "A HOUND (hunting dog) chases you and won't stop.",
+    "examples": [
+      "The ailments that would hound her for the rest of her days began.",
+      "Reporters hound the actor wherever he goes."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "something hounds someone / hound someone for something",
+      "partners": [
+        "hound someone",
+        "hounded by reporters",
+        "hound for money"
+      ]
+    }
+  },
+  {
+    "word": "houndlike",
+    "memory": "dog-like",
+    "meaning": "Looking or behaving like a hunting dog",
+    "hindi": "शिकारी कुत्ते जैसा",
+    "trick": "HOUND + LIKE: like a long-faced dog.",
+    "examples": [
+      "His face was long and triangular, a bit houndlike.",
+      "The old detective had a sad, houndlike face."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a houndlike + noun / a bit houndlike",
+      "partners": [
+        "houndlike face",
+        "houndlike eyes",
+        "a bit houndlike"
+      ]
+    }
+  },
+  {
+    "word": "hounds",
+    "memory": "hunting dogs",
+    "meaning": "Dogs used for hunting; (figurative) things that chase you",
+    "hindi": "शिकारी कुत्ते",
+    "trick": "Hounds HOUND (chase) their prey.",
+    "examples": [
+      "Eventually the hounds of Hell gave up and loped off.",
+      "The hounds chased the fox across the field."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "a pack of hounds / the hounds of something",
+      "partners": [
+        "pack of hounds",
+        "hounds of Hell",
+        "release the hounds"
+      ]
+    }
+  },
+  {
+    "word": "hovels",
+    "memory": "poor huts",
+    "meaning": "Small, dirty, poorly built houses",
+    "hindi": "झोपड़ियाँ, टूटे-फूटे घर",
+    "trick": "HOVEL ~ hut + shovel: dug-out huts.",
+    "examples": [
+      "The wind lifted kites flown from the roofs of mud hovels.",
+      "Many families lived in hovels near the railway line."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "live in hovels / mud hovels",
+      "partners": [
+        "mud hovels",
+        "lived in hovels",
+        "miserable hovels"
+      ]
+    }
+  },
+  {
+    "word": "howl",
+    "memory": "loud cry",
+    "meaning": "A long, loud cry of pain, sadness or anger",
+    "hindi": "चीख, विलाप; हुआँ-हुआँ",
+    "trick": "A wolf's HOWL - aaa-OOO.",
+    "examples": [
+      "She ran down the hallway, holding back a howl.",
+      "We heard the howl of a wolf at night."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "let out a howl / a howl of pain/protest",
+      "partners": [
+        "howl of pain",
+        "let out a howl",
+        "howl of protest"
+      ]
+    }
+  },
+  {
+    "word": "howled",
+    "memory": "cried loudly",
+    "meaning": "Cried out long and loudly in pain or sadness; also of wind or animals",
+    "hindi": "चीख़ा, चिल्लाया",
+    "trick": "HOW-L: 'how could this happen!' she howled.",
+    "examples": [
+      "She howled with pain as he slammed the door shut.",
+      "The baby howled all night."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "howl with pain/laughter / howl at someone",
+      "partners": [
+        "howled with pain",
+        "howled in horror",
+        "wind howled"
+      ]
+    }
+  },
+  {
+    "word": "howling",
+    "memory": "crying loudly",
+    "meaning": "Crying loudly in pain, grief or anger",
+    "hindi": "चीख़ते हुए, बिलखते हुए",
+    "trick": "HOWLING like a wolf in pain.",
+    "examples": [
+      "Laila turned around and, howling, ran home.",
+      "The child was howling because he lost his toy."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "howling with something / be howling",
+      "partners": [
+        "howling with pain",
+        "howling wind",
+        "howling dogs"
+      ]
+    }
+  },
+  {
+    "word": "hubbub",
+    "memory": "noisy chatter",
+    "meaning": "A loud confused noise of many people talking",
+    "hindi": "शोरगुल, हो-हल्ला",
+    "trick": "HUB-BUB: babble-babble of a busy hub.",
+    "examples": [
+      "Through the door came voices, shouts and chairs scraping - a vague hubbub.",
+      "The hubbub of the market woke me up."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the hubbub of something / amid the hubbub",
+      "partners": [
+        "hubbub of voices",
+        "amid the hubbub",
+        "noisy hubbub"
+      ]
+    }
+  },
+  {
+    "word": "hubris",
+    "memory": "too much pride",
+    "meaning": "Too much pride or self-confidence, which often leads to failure",
+    "hindi": "घमंड, अति-आत्मविश्वास",
+    "trick": "HUBRIS = 'hub' of 'risk' - too proud, so you crash.",
+    "examples": [
+      "The toll of hubris is heavy, and my bill had come due.",
+      "His hubris made him ignore the advice of his coach."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an act of hubris / the hubris of someone",
+      "partners": [
+        "pure hubris",
+        "act of hubris",
+        "hubris and pride"
+      ]
+    }
+  },
+  {
+    "word": "huddling",
+    "memory": "crowding close together",
+    "meaning": "Crowding close together, usually to keep warm or feel safe",
+    "hindi": "सिमटकर, एक-दूसरे से सटकर",
+    "trick": "HUDDLE like players in a team huddle.",
+    "examples": [
+      "We stood in our boat crews, huddling tight to get warm.",
+      "The puppies were huddling together in the cold."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "huddling together / huddling around something",
+      "partners": [
+        "huddling together",
+        "huddling around",
+        "huddling for warmth"
+      ]
+    }
+  },
+  {
+    "word": "huffed",
+    "memory": "puffed, breathed hard",
+    "meaning": "Breathed out loudly from effort or annoyance",
+    "hindi": "हाँफी, फूँ-फाँ की",
+    "trick": "HUFF and PUFF - the big bad wolf.",
+    "examples": [
+      "She limped and huffed her way across the clearing.",
+      "He huffed and puffed up the stairs."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "huff and puff / huff your way somewhere",
+      "partners": [
+        "huffed and puffed",
+        "huffed angrily",
+        "huffed her way"
+      ]
+    }
+  },
+  {
+    "word": "hullabaloo",
+    "memory": "noisy fuss",
+    "meaning": "A loud noise or fuss made by many people",
+    "hindi": "हंगामा, शोर-शराबा",
+    "trick": "HULLA-BALOO sounds like a noisy shout itself.",
+    "examples": [
+      "Three days later there was a terrible hullabaloo.",
+      "There was a big hullabaloo over the new parking rules."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a hullabaloo over/about something / cause a hullabaloo",
+      "partners": [
+        "terrible hullabaloo",
+        "hullabaloo over",
+        "cause a hullabaloo"
+      ]
+    }
+  },
+  {
+    "word": "hulls",
+    "memory": "ship bodies",
+    "meaning": "The main bodies of ships or boats",
+    "hindi": "जहाज़ के ढाँचे, पतवार-तल",
+    "trick": "HULL sounds like 'hole' - the boat's hull must have no hole!",
+    "examples": [
+      "The tide sloshed against the hulls of the sailboats.",
+      "Workers painted the hulls of the old fishing boats."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "the hull of a ship / against the hulls",
+      "partners": [
+        "hulls of ships",
+        "dark hulls",
+        "boat hulls"
+      ]
+    }
+  },
+  {
+    "word": "hum",
+    "memory": "low steady sound",
+    "meaning": "A low, steady, continuous sound",
+    "hindi": "भिनभिनाहट, गुनगुनाहट",
+    "trick": "HMMMM - the hum is the sound itself.",
+    "examples": [
+      "The air was throbbing with the hum of insects.",
+      "I could hear the hum of the fridge at night."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the hum of something",
+      "partners": [
+        "hum of insects",
+        "hum of traffic",
+        "low hum"
+      ]
+    }
+  },
+  {
+    "word": "humanitarian",
+    "memory": "for human welfare",
+    "meaning": "Concerned with helping people who are suffering",
+    "hindi": "मानवीय, मानव-कल्याण का",
+    "trick": "HUMANITARIAN - helping HUMANs in need.",
+    "examples": [
+      "Afghans were crossing into Pakistan by proving humanitarian grounds.",
+      "The charity sends humanitarian aid to flood victims."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "on humanitarian grounds / humanitarian + noun",
+      "partners": [
+        "humanitarian aid",
+        "humanitarian grounds",
+        "humanitarian crisis"
+      ]
+    }
+  },
+  {
+    "word": "humdrum",
+    "memory": "dull, ordinary",
+    "meaning": "Boring and ordinary, with no excitement",
+    "hindi": "नीरस, उबाऊ",
+    "trick": "HUM-DRUM: humming the same drum beat every day.",
+    "examples": [
+      "The vast majority of life resides in the humdrum middle.",
+      "He wanted to escape his humdrum office job."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a humdrum + noun / humdrum life",
+      "partners": [
+        "humdrum life",
+        "humdrum routine",
+        "humdrum job"
+      ]
+    }
+  },
+  {
+    "word": "humored",
+    "memory": "went along with",
+    "meaning": "Did what someone wanted to keep them happy (US spelling; British 'humoured')",
+    "hindi": "मन रखा, बात मान ली",
+    "trick": "HUMOR them = keep them in a good humour.",
+    "examples": [
+      "At first, Rasheed humored Laila and went with them to the orphanage.",
+      "She humored her grandfather by listening to his old stories."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "humor someone",
+      "partners": [
+        "humored her",
+        "just humored him",
+        "humored the child"
+      ]
+    }
+  },
+  {
+    "word": "hump",
+    "memory": "rounded lump",
+    "meaning": "A small rounded raised shape; also the lump on a camel's back",
+    "hindi": "उभार, कूबड़",
+    "trick": "Camel's HUMP - a round bump.",
+    "examples": [
+      "The small black hump of rock came into view far down the beach.",
+      "The car slowed down over the speed hump."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a hump of something / a speed hump",
+      "partners": [
+        "camel's hump",
+        "speed hump",
+        "hump of rock"
+      ]
+    }
+  },
+  {
+    "word": "humping",
+    "memory": "trudging with a load",
+    "meaning": "Informal (military): marching while carrying a heavy load; also rude slang for having sex",
+    "hindi": "बोझ उठाकर चलना (बोलचाल)",
+    "trick": "HUMP the load on your back like a camel's hump.",
+    "examples": [
+      "We were humping through the jungle in the dead of night.",
+      "The soldiers spent the day humping heavy packs up the hill."
+    ],
+    "usage": {
+      "pos": "verb (-ing, informal)",
+      "pattern": "hump through/up somewhere / hump something somewhere",
+      "partners": [
+        "humping through",
+        "humping gear",
+        "humping packs"
+      ]
+    }
+  },
+  {
+    "word": "hunched up",
+    "memory": "bent and curled",
+    "meaning": "Sitting or standing with the back bent and shoulders pulled forward",
+    "hindi": "झुककर, सिकुड़कर",
+    "trick": "HUNCH-back: back curled up.",
+    "examples": [
+      "I saw the old men sleeping hunched up on their chairs.",
+      "He sat hunched up over his phone."
+    ],
+    "usage": {
+      "pos": "adjective phrase",
+      "pattern": "hunched up on/over something",
+      "partners": [
+        "hunched up over",
+        "sitting hunched up",
+        "hunched up against the cold"
+      ]
+    }
+  },
+  {
+    "word": "hunkered",
+    "memory": "crouched down",
+    "meaning": "Crouched or squatted low; (figurative) settled in to wait or hide",
+    "hindi": "झुककर बैठा, दुबका",
+    "trick": "HUNKER DOWN - get low like a hunk of rock.",
+    "examples": [
+      "We need to trust the person hunkered down with us.",
+      "He hunkered down and held her for a long time."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "hunker down / be hunkered down somewhere",
+      "partners": [
+        "hunkered down",
+        "hunkered down in",
+        "hunkered beside"
+      ]
+    }
+  },
+  {
+    "word": "hurdle",
+    "memory": "obstacle",
+    "meaning": "A problem or difficulty to overcome; also a barrier jumped in a race",
+    "hindi": "बाधा, अड़चन",
+    "trick": "Athletes jump over HURDLES - problems to jump over.",
+    "examples": [
+      "My failing hands presented a big mental hurdle.",
+      "Money is the biggest hurdle to starting a business."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a hurdle to something / overcome/clear a hurdle",
+      "partners": [
+        "big hurdle",
+        "overcome a hurdle",
+        "clear the first hurdle"
+      ]
+    }
+  },
+  {
+    "word": "hurled",
+    "memory": "thrown hard",
+    "meaning": "Thrown or shouted with force (insults, abuse, objects)",
+    "hindi": "फेंके, बरसाए",
+    "trick": "HURLED ~ hurt-led: thrown to hurt.",
+    "examples": [
+      "Insults were hurled.",
+      "He hurled the ball across the field."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "hurl something at someone",
+      "partners": [
+        "hurled insults",
+        "hurled abuse",
+        "hurled at"
+      ]
+    }
+  },
+  {
+    "word": "hurricane",
+    "memory": "violent storm",
+    "meaning": "A very strong storm with violent winds; (figurative) a huge rush of something",
+    "hindi": "तूफ़ान, चक्रवात",
+    "trick": "HURRICANE - wind in a HURRY.",
+    "examples": [
+      "I still wanted to fight through another hurricane of pain.",
+      "The hurricane destroyed many houses near the coast."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a hurricane of something / hit by a hurricane",
+      "partners": [
+        "hurricane of pain",
+        "hit by a hurricane",
+        "hurricane season"
+      ]
+    }
+  },
+  {
+    "word": "hurricanes",
+    "memory": "violent storms",
+    "meaning": "Very strong storms with violent winds; (figurative) big effects",
+    "hindi": "तूफ़ान, चक्रवात",
+    "trick": "HURRICANES - winds in a HURRY.",
+    "examples": [
+      "What hurricanes will you leave in your wake?",
+      "Hurricanes often hit Florida in the autumn."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "hurricanes hit somewhere / cause hurricanes",
+      "partners": [
+        "hit by hurricanes",
+        "powerful hurricanes",
+        "hurricanes and floods"
+      ]
+    }
+  },
+  {
+    "word": "hush",
+    "memory": "deep silence",
+    "meaning": "A sudden or peaceful silence",
+    "hindi": "सन्नाटा, ख़ामोशी",
+    "trick": "HUSH - 'shhh!'",
+    "examples": [
+      "She noticed a drowsy hush overtaking Kabul.",
+      "A hush fell over the room when the teacher walked in."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a hush falls over somewhere",
+      "partners": [
+        "a hush fell",
+        "deep hush",
+        "sudden hush"
+      ]
+    }
+  },
+  {
+    "word": "husks",
+    "memory": "empty shells",
+    "meaning": "Empty burnt or broken outer remains; also the dry outer covering of seeds",
+    "hindi": "खोखले ढाँचे; भूसी, छिलके",
+    "trick": "Corn HUSKS - the empty shell left behind.",
+    "examples": [
+      "There were the charred, mangled husks of cars everywhere.",
+      "We peeled the husks off the corn."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "the husks of something",
+      "partners": [
+        "husks of cars",
+        "burnt husks",
+        "corn husks"
+      ]
+    }
+  },
+  {
+    "word": "husky",
+    "memory": "rough, low",
+    "meaning": "Low and rough-sounding (of a voice or sound)",
+    "hindi": "भारी, फटी (आवाज़)",
+    "trick": "HUSKY voice - dry like a husk.",
+    "examples": [
+      "She could only make a husky, choking sound.",
+      "He has a deep, husky voice."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a husky voice/sound",
+      "partners": [
+        "husky voice",
+        "husky sound",
+        "husky laugh"
+      ]
+    }
+  },
+  {
+    "word": "hydrant",
+    "memory": "street water pipe",
+    "meaning": "A pipe in the street that firefighters connect hoses to",
+    "hindi": "आग बुझाने का नल",
+    "trick": "HYDRA = water: a HYDRANT gives water.",
+    "examples": [
+      "Dobbs was short and built like a fire hydrant.",
+      "Don't park in front of the fire hydrant."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a fire hydrant",
+      "partners": [
+        "fire hydrant",
+        "built like a fire hydrant",
+        "open the hydrant"
+      ]
+    }
+  },
+  {
+    "word": "hydraulic",
+    "memory": "fluid-powered",
+    "meaning": "Worked by the pressure of water or oil",
+    "hindi": "हाइड्रॉलिक, द्रव-चालित",
+    "trick": "HYDRA = water: powered by liquid pressure.",
+    "examples": [
+      "When she reached the hydraulic doors, she heard him behind her.",
+      "The truck uses a hydraulic lift."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "hydraulic + noun",
+      "partners": [
+        "hydraulic doors",
+        "hydraulic lift",
+        "hydraulic brakes"
+      ]
+    }
+  },
+  {
+    "word": "hyperventilating",
+    "memory": "breathing too fast",
+    "meaning": "Breathing too fast and deeply, often from panic",
+    "hindi": "तेज़-तेज़ साँस लेना, हाँफना",
+    "trick": "HYPER (too much) + VENTILATING (air in-out).",
+    "examples": [
+      "She was hyperventilating.",
+      "He started hyperventilating before the exam."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "be hyperventilating / start hyperventilating",
+      "partners": [
+        "start hyperventilating",
+        "hyperventilating with fear",
+        "stop hyperventilating"
+      ]
+    }
+  },
+  {
+    "word": "hypocritical",
+    "memory": "two-faced",
+    "meaning": "Saying one thing but doing another",
+    "hindi": "पाखंडी, दोगला",
+    "trick": "HYPOCRITE: a critic who does the same thing himself.",
+    "examples": [
+      "It seems hypocritical, perverse.",
+      "It's hypocritical to tell others not to lie when you lie yourself."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "it is hypocritical to do something / be hypocritical",
+      "partners": [
+        "seems hypocritical",
+        "hypocritical of someone",
+        "deeply hypocritical"
+      ]
+    }
+  },
+  {
+    "word": "hypothermic",
+    "memory": "dangerously cold",
+    "meaning": "Having a dangerously low body temperature",
+    "hindi": "अत्यधिक ठंड से पीड़ित",
+    "trick": "HYPO (under) + THERMIC (heat): heat below normal.",
+    "examples": [
+      "After hours in the waves, we were already borderline hypothermic.",
+      "The lost climber was hypothermic when they found him."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be/become hypothermic",
+      "partners": [
+        "borderline hypothermic",
+        "become hypothermic",
+        "severely hypothermic"
+      ]
+    }
+  },
+  {
+    "word": "hypotheses",
+    "memory": "ideas to test",
+    "meaning": "Ideas or guesses that need to be tested (plural of hypothesis)",
+    "hindi": "परिकल्पनाएँ, अनुमान",
+    "trick": "HYPO-THESES: many 'theses' still under test.",
+    "examples": [
+      "Our values are our hypotheses: this behavior is good; that one is not.",
+      "The scientists tested three hypotheses."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "test/form hypotheses",
+      "partners": [
+        "test hypotheses",
+        "form hypotheses",
+        "competing hypotheses"
+      ]
+    }
+  }
+]

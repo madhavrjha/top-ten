@@ -1,0 +1,3121 @@
+[
+  {
+    "word": "icicle",
+    "memory": "hanging ice spike",
+    "meaning": "A long pointed piece of ice hanging down",
+    "hindi": "हिमलंब, बर्फ़ की लटकती कील",
+    "trick": "ICE + CYCLE: water drips, freezes, drips again.",
+    "examples": [
+      "If you fling snot in Siberia, it's a green icicle before it hits the ground.",
+      "An icicle hung from the edge of the roof."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an icicle hangs from something",
+      "partners": [
+        "long icicle",
+        "melting icicle",
+        "icicle hanging"
+      ]
+    }
+  },
+  {
+    "word": "icicles",
+    "memory": "hanging ice spikes",
+    "meaning": "Long pointed pieces of ice hanging down",
+    "hindi": "हिमलंब, बर्फ़ की कीलें",
+    "trick": "ICE + CYCLES: drip, freeze, repeat.",
+    "examples": [
+      "Icicles hung like crystals from the edges of the houses.",
+      "Icicles formed on the trees overnight."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "icicles hang from something",
+      "partners": [
+        "icicles hung",
+        "melting icicles",
+        "long icicles"
+      ]
+    }
+  },
+  {
+    "word": "icily",
+    "memory": "coldly, unfriendly",
+    "meaning": "In a very cold, unfriendly way",
+    "hindi": "रूखेपन से, ठंडेपन से",
+    "trick": "ICE + -LY: looking at you like ice.",
+    "examples": [
+      "He stood at the top of the stairs, looking down icily on the crowd.",
+      "\"No, thank you,\" she said icily."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "say/look something icily",
+      "partners": [
+        "said icily",
+        "stared icily",
+        "replied icily"
+      ]
+    }
+  },
+  {
+    "word": "icy",
+    "memory": "cold, unfriendly",
+    "meaning": "Very unfriendly and cold in manner; also extremely cold or covered with ice",
+    "hindi": "रूखा, ठंडा; बर्फ़ीला",
+    "trick": "ICY like ice - a cold welcome freezes you out.",
+    "examples": [
+      "Our icy reception told us we had to go another way.",
+      "She gave me an icy look when I came in late."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an icy + noun / be icy towards someone",
+      "partners": [
+        "icy reception",
+        "icy stare",
+        "icy roads"
+      ]
+    }
+  },
+  {
+    "word": "idiotic",
+    "memory": "stupid, foolish",
+    "meaning": "Very stupid or silly",
+    "hindi": "बेवकूफ़ी भरा, मूर्खतापूर्ण",
+    "trick": "IDIOT + -IC: what an idiot would do.",
+    "examples": [
+      "\"It's idiotic,\" she said, shaking her head.",
+      "It was idiotic to drive without a seatbelt."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be idiotic to do something / an idiotic + noun",
+      "partners": [
+        "idiotic idea",
+        "idiotic mistake",
+        "completely idiotic"
+      ]
+    }
+  },
+  {
+    "word": "idly",
+    "memory": "lazily, without purpose",
+    "meaning": "Without doing anything useful or without a purpose; (of an engine) running slowly while not moving",
+    "hindi": "बेकार, निठल्ले ढंग से",
+    "trick": "IDLE + -LY: sitting idle, doing nothing.",
+    "examples": [
+      "She watched the buses growling idly at the curb.",
+      "He sat idly flipping through the TV channels."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "do something idly / sit idly by",
+      "partners": [
+        "sit idly by",
+        "idly watch",
+        "chat idly"
+      ]
+    }
+  },
+  {
+    "word": "idolatry",
+    "memory": "idol worship",
+    "meaning": "The worship of idols or images as gods; also too much love or admiration for someone",
+    "hindi": "मूर्ति पूजा; अंधभक्ति",
+    "trick": "IDOL + -ATRY (worship): idol-worship.",
+    "examples": [
+      "The Taliban blew up the Buddhas, calling them objects of idolatry.",
+      "Some religions strictly forbid idolatry."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "idolatry of something / an act of idolatry",
+      "partners": [
+        "objects of idolatry",
+        "form of idolatry",
+        "accused of idolatry"
+      ]
+    }
+  },
+  {
+    "word": "ignominious",
+    "memory": "shameful, humiliating",
+    "meaning": "Causing public shame or embarrassment",
+    "hindi": "शर्मनाक, अपमानजनक",
+    "trick": "IGNOMINIOUS - 'ignore my name': so shameful you want your name forgotten.",
+    "examples": [
+      "Within five minutes they were in ignominious retreat, with geese hissing after them.",
+      "The team suffered an ignominious defeat at home."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an ignominious + noun",
+      "partners": [
+        "ignominious defeat",
+        "ignominious retreat",
+        "ignominious end"
+      ]
+    }
+  },
+  {
+    "word": "ignorant",
+    "memory": "unaware, uninformed",
+    "meaning": "Not knowing about something; also lacking knowledge or education in general",
+    "hindi": "अनजान, अज्ञानी",
+    "trick": "IGNORE-ant: an ant that ignores everything knows nothing.",
+    "examples": [
+      "The child grew up ignorant of the cruelties of life.",
+      "I was ignorant of the new rules until today."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be ignorant of/about something",
+      "partners": [
+        "ignorant of the facts",
+        "completely ignorant",
+        "ignorant people"
+      ]
+    }
+  },
+  {
+    "word": "ill-fitting",
+    "memory": "badly sized",
+    "meaning": "(of clothes) not the right size or shape for the person wearing them",
+    "hindi": "बेनाप, ढीला-ढाला",
+    "trick": "ILL (bad) + FITTING: a bad fit.",
+    "examples": [
+      "She would wear an ill-fitting gray shirt buttoned to the throat.",
+      "He looked uncomfortable in his ill-fitting suit."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an ill-fitting + noun (clothes)",
+      "partners": [
+        "ill-fitting suit",
+        "ill-fitting shoes",
+        "ill-fitting clothes"
+      ]
+    }
+  },
+  {
+    "word": "illegitimate",
+    "memory": "born outside marriage",
+    "meaning": "Born to parents who are not married to each other; also not allowed by law or rules",
+    "hindi": "नाजायज़; अवैध",
+    "trick": "IL (not) + LEGITIMATE: not legitimate.",
+    "examples": [
+      "Mariam was an illegitimate child who never felt she belonged.",
+      "The election result was called illegitimate by the opposition."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an illegitimate + noun",
+      "partners": [
+        "illegitimate child",
+        "illegitimate son",
+        "illegitimate government"
+      ]
+    }
+  },
+  {
+    "word": "illicit",
+    "memory": "forbidden, wrong",
+    "meaning": "Felt or done secretly because it is not allowed; also illegal",
+    "hindi": "वर्जित, नाजायज़; ग़ैरक़ानूनी",
+    "trick": "ILLICIT sounds like ILLEGAL - both are 'ill' for the law.",
+    "examples": [
+      "Her satisfaction from the outburst felt meager, somehow illicit.",
+      "Police found illicit drugs in the car."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an illicit + noun",
+      "partners": [
+        "illicit drugs",
+        "illicit affair",
+        "illicit trade"
+      ]
+    }
+  },
+  {
+    "word": "illuminate",
+    "memory": "make clear, explain",
+    "meaning": "To make something clear or easier to understand; also to light up",
+    "hindi": "स्पष्ट करना, समझाना; रोशन करना",
+    "trick": "ILLUMINATE has LUMEN (light): shine light on an idea.",
+    "examples": [
+      "This story will illuminate a proven path to self-mastery.",
+      "The teacher used a simple example to illuminate the idea."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "illuminate something",
+      "partners": [
+        "illuminate the problem",
+        "illuminate the room",
+        "help illuminate"
+      ]
+    }
+  },
+  {
+    "word": "immaculate",
+    "memory": "spotless, perfectly clean",
+    "meaning": "Perfectly clean and tidy; also without any mistakes",
+    "hindi": "बेदाग़, एकदम साफ़",
+    "trick": "IM (not) + MACULA (spot): not a single spot.",
+    "examples": [
+      "He pointed to a file on his otherwise immaculate desk.",
+      "Her kitchen is always immaculate."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be immaculate / an immaculate + noun",
+      "partners": [
+        "immaculate condition",
+        "immaculate desk",
+        "immaculately dressed"
+      ]
+    }
+  },
+  {
+    "word": "immense",
+    "memory": "huge, enormous",
+    "meaning": "Extremely large or great",
+    "hindi": "विशाल, बहुत बड़ा",
+    "trick": "IM (not) + MENSE (measure): too big to measure.",
+    "examples": [
+      "The week stood like an immense, immovable object between her and his next visit.",
+      "The project needs an immense amount of work."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an immense + noun",
+      "partners": [
+        "immense pressure",
+        "immense amount",
+        "immense pleasure"
+      ]
+    }
+  },
+  {
+    "word": "imminent",
+    "memory": "about to happen",
+    "meaning": "Likely to happen very soon",
+    "hindi": "आसन्न, होने वाला",
+    "trick": "IMMINENT - it's 'in a minute': about to happen.",
+    "examples": [
+      "Collapse was imminent.",
+      "Dark clouds warned that rain was imminent."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be imminent / an imminent + noun",
+      "partners": [
+        "imminent danger",
+        "imminent threat",
+        "imminent arrival"
+      ]
+    }
+  },
+  {
+    "word": "immobilized",
+    "memory": "unable to move",
+    "meaning": "Made unable to move or work normally",
+    "hindi": "अचल, हिलने में असमर्थ",
+    "trick": "IM (not) + MOBILE: made not mobile.",
+    "examples": [
+      "He was immobilized by his bad back.",
+      "The heavy snow immobilized the whole city."
+    ],
+    "usage": {
+      "pos": "verb (past participle)",
+      "pattern": "be immobilized by something / immobilize something",
+      "partners": [
+        "immobilized by pain",
+        "completely immobilized",
+        "immobilized the vehicle"
+      ]
+    }
+  },
+  {
+    "word": "immune",
+    "memory": "unaffected, protected",
+    "meaning": "Not affected or harmed by something; also protected from a disease",
+    "hindi": "अप्रभावित, सुरक्षित; प्रतिरक्षित",
+    "trick": "IMMUNE system - protects you so nothing gets in.",
+    "examples": [
+      "I needed to convince myself I was immune to suffering.",
+      "He seems immune to criticism."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be immune to/from something",
+      "partners": [
+        "immune to criticism",
+        "immune system",
+        "immune from prosecution"
+      ]
+    }
+  },
+  {
+    "word": "imparted",
+    "memory": "passed on, gave",
+    "meaning": "Passed on (knowledge, a quality or a problem) to someone",
+    "hindi": "दिया, सौंपा",
+    "trick": "IMPART = give a PART of yourself to someone.",
+    "examples": [
+      "My parents imparted some of their problems to me.",
+      "The old teacher imparted his wisdom to his students."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "impart something to someone",
+      "partners": [
+        "imparted knowledge",
+        "imparted wisdom",
+        "imparted to"
+      ]
+    }
+  },
+  {
+    "word": "impassively",
+    "memory": "without emotion",
+    "meaning": "Without showing any feeling",
+    "hindi": "भावहीन ढंग से, बेरुख़ी से",
+    "trick": "IM (not) + PASSION: looking on without passion.",
+    "examples": [
+      "Old vendors gazed at her impassively behind pyramids of cherries.",
+      "The guard stared impassively ahead."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "watch/look at someone impassively",
+      "partners": [
+        "watched impassively",
+        "stared impassively",
+        "listened impassively"
+      ]
+    }
+  },
+  {
+    "word": "impediment",
+    "memory": "obstacle, hindrance",
+    "meaning": "Something that blocks or slows progress; also a problem that makes speaking difficult",
+    "hindi": "बाधा, रुकावट",
+    "trick": "IMPEDE + -MENT: your 'ped' (foot) gets stuck.",
+    "examples": [
+      "Love was once seen as an impediment to more important things in life.",
+      "Lack of money is the main impediment to growth."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an impediment to something",
+      "partners": [
+        "impediment to progress",
+        "speech impediment",
+        "major impediment"
+      ]
+    }
+  },
+  {
+    "word": "impeding",
+    "memory": "blocking, holding back",
+    "meaning": "Delaying or stopping the progress of something",
+    "hindi": "रोकना, बाधा डालना",
+    "trick": "IMPEDE - 'ped' = foot: putting a foot in the way.",
+    "examples": [
+      "A governor is impeding us from reaching our maximum speed.",
+      "Fallen trees are impeding traffic on the road."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "impede someone/something / impede someone from doing something",
+      "partners": [
+        "impeding progress",
+        "impeding traffic",
+        "impeding growth"
+      ]
+    }
+  },
+  {
+    "word": "impenetrable",
+    "memory": "unbreakable, impossible to enter",
+    "meaning": "Impossible to get through or into; also impossible to understand",
+    "hindi": "अभेद्य; समझ से परे",
+    "trick": "IM (not) + PENETRABLE: nothing can get through.",
+    "examples": [
+      "The tides are furious against the impenetrable walls.",
+      "The forest was thick and impenetrable."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an impenetrable + noun / impenetrable to something",
+      "partners": [
+        "impenetrable walls",
+        "impenetrable forest",
+        "impenetrable darkness"
+      ]
+    }
+  },
+  {
+    "word": "imperative",
+    "memory": "very important, essential",
+    "meaning": "Extremely important and needing to be done; also a command",
+    "hindi": "अत्यावश्यक, ज़रूरी",
+    "trick": "IMPERATIVE - like an EMPEROR's order: must be done.",
+    "examples": [
+      "It was imperative to move beyond doubt.",
+      "It is imperative that you arrive on time."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "it is imperative to do something / that ...",
+      "partners": [
+        "absolutely imperative",
+        "imperative that",
+        "moral imperative"
+      ]
+    }
+  },
+  {
+    "word": "imperceptibly",
+    "memory": "unnoticeably, very slightly",
+    "meaning": "In a way that is too small or slow to be noticed",
+    "hindi": "धीरे-धीरे, बिना पता चले",
+    "trick": "IM (not) + PERCEPTIBLY: too slight to perceive.",
+    "examples": [
+      "The street grew emptier, almost imperceptibly.",
+      "The light changed imperceptibly as evening came."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "change imperceptibly",
+      "partners": [
+        "almost imperceptibly",
+        "changed imperceptibly",
+        "moved imperceptibly"
+      ]
+    }
+  },
+  {
+    "word": "imperishable",
+    "memory": "everlasting, undying",
+    "meaning": "Lasting forever; never dying or decaying",
+    "hindi": "अमर, अविनाशी",
+    "trick": "IM (not) + PERISHABLE: will never perish.",
+    "examples": [
+      "Their hearts swelled with imperishable pride.",
+      "Great art gives its creator imperishable fame."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an imperishable + noun",
+      "partners": [
+        "imperishable pride",
+        "imperishable fame",
+        "imperishable memory"
+      ]
+    }
+  },
+  {
+    "word": "impermeable",
+    "memory": "waterproof, sealed",
+    "meaning": "Not letting liquid or gas pass through",
+    "hindi": "अभेद्य, जलरोधक",
+    "trick": "IM (not) + PERMEABLE: water can't permeate it.",
+    "examples": [
+      "The house has an elegant but impermeable roof.",
+      "This jacket is made of impermeable fabric."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "impermeable to something",
+      "partners": [
+        "impermeable roof",
+        "impermeable layer",
+        "impermeable to water"
+      ]
+    }
+  },
+  {
+    "word": "impervious",
+    "memory": "unaffected, resistant",
+    "meaning": "Not affected or influenced by something; also not letting water through",
+    "hindi": "अप्रभावित, बेअसर",
+    "trick": "IMPERVIOUS - 'impossible to pierce': nothing gets through.",
+    "examples": [
+      "Entitlement is impervious to criticism.",
+      "He seemed impervious to the cold."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be impervious to something",
+      "partners": [
+        "impervious to criticism",
+        "impervious to pain",
+        "impervious to water"
+      ]
+    }
+  },
+  {
+    "word": "impetus",
+    "memory": "push, motivation",
+    "meaning": "Something that encourages a process or activity to happen",
+    "hindi": "प्रेरणा, बढ़ावा",
+    "trick": "IMPETUS - 'impel-us': what pushes us forward.",
+    "examples": [
+      "The impetus for this transformation was an eighteen-year-old boy.",
+      "The new coach gave the team fresh impetus."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the impetus for something / give impetus to something",
+      "partners": [
+        "give impetus",
+        "fresh impetus",
+        "main impetus"
+      ]
+    }
+  },
+  {
+    "word": "impish",
+    "memory": "cheeky, mischievous",
+    "meaning": "Playfully naughty",
+    "hindi": "नटखट, शरारती",
+    "trick": "IMP (a little devil) + -ISH: like a little imp.",
+    "examples": [
+      "She flashed an impish grin and nudged Laila with an elbow.",
+      "The boy had an impish sense of humour."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an impish + noun",
+      "partners": [
+        "impish grin",
+        "impish smile",
+        "impish humour"
+      ]
+    }
+  },
+  {
+    "word": "implacable",
+    "memory": "unstoppable, relentless",
+    "meaning": "Impossible to stop, calm or satisfy",
+    "hindi": "अटल, अड़ियल",
+    "trick": "IM (not) + PLACATE: can't be calmed down.",
+    "examples": [
+      "Prisoners rarely escape the implacable machinery of justice.",
+      "She faced an implacable enemy."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an implacable + noun",
+      "partners": [
+        "implacable enemy",
+        "implacable hatred",
+        "implacable opposition"
+      ]
+    }
+  },
+  {
+    "word": "implied",
+    "memory": "hinted, unspoken",
+    "meaning": "Suggested without being said directly",
+    "hindi": "अप्रत्यक्ष, निहित",
+    "trick": "IMPLIED - not 'applied' openly; hinted under the surface.",
+    "examples": [
+      "My wife had given me an implied ultimatum.",
+      "There was an implied threat in his words."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an implied + noun / implied by something",
+      "partners": [
+        "implied threat",
+        "implied ultimatum",
+        "implied meaning"
+      ]
+    }
+  },
+  {
+    "word": "implored",
+    "memory": "begged, pleaded",
+    "meaning": "Begged someone urgently to do something",
+    "hindi": "विनती की, गिड़गिड़ाया",
+    "trick": "IMPLORE - 'implore' on the floor: begging on your knees.",
+    "examples": [
+      "The Stoics implored people to keep death in mind at all times.",
+      "She implored him to stay."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "implore someone to do something",
+      "partners": [
+        "implored him to",
+        "implored her",
+        "implored them not to"
+      ]
+    }
+  },
+  {
+    "word": "imploring",
+    "memory": "begging, pleading",
+    "meaning": "Begging urgently and emotionally",
+    "hindi": "विनती करना, गिड़गिड़ाना",
+    "trick": "IMPLORING on the floor: begging on your knees.",
+    "examples": [
+      "Mariam was screaming and imploring Rasheed to stop.",
+      "He gave her an imploring look."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "implore someone to do something / an imploring + noun",
+      "partners": [
+        "imploring look",
+        "imploring him",
+        "imploring eyes"
+      ]
+    }
+  },
+  {
+    "word": "imply",
+    "memory": "suggest, mean",
+    "meaning": "To suggest something without saying it directly; also to have as a necessary result",
+    "hindi": "इशारा करना, संकेत देना",
+    "trick": "IMPLY = put IN-PLY: fold a meaning inside the words.",
+    "examples": [
+      "Needs imply survival, the very minimum required to make us act.",
+      "Are you implying that I lied?"
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "imply something / imply that ...",
+      "partners": [
+        "imply that",
+        "seem to imply",
+        "clearly imply"
+      ]
+    }
+  },
+  {
+    "word": "imposing",
+    "memory": "grand, impressive",
+    "meaning": "Impressive because of large size or appearance",
+    "hindi": "भव्य, शानदार",
+    "trick": "IMPOSING - so big it imposes itself on you.",
+    "examples": [
+      "They marvelled that they had built anything so imposing.",
+      "An imposing gate stood at the palace entrance."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an imposing + noun",
+      "partners": [
+        "imposing building",
+        "imposing figure",
+        "imposing presence"
+      ]
+    }
+  },
+  {
+    "word": "impotent",
+    "memory": "powerless, helpless",
+    "meaning": "Unable to take effective action; also (of a man) unable to have sex",
+    "hindi": "असहाय, शक्तिहीन",
+    "trick": "IM (not) + POTENT (powerful): no power.",
+    "examples": [
+      "She trembled with resentment and impotent rage.",
+      "The police felt impotent against the gangs."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "impotent rage / be impotent against something",
+      "partners": [
+        "impotent rage",
+        "feel impotent",
+        "politically impotent"
+      ]
+    }
+  },
+  {
+    "word": "improbable",
+    "memory": "unlikely",
+    "meaning": "Not likely to happen or be true",
+    "hindi": "असंभावित, असंभव-सा",
+    "trick": "IM (not) + PROBABLE: not likely.",
+    "examples": [
+      "My goal, however improbable, was not impossible.",
+      "It seems improbable that he will win."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "it is improbable that ... / an improbable + noun",
+      "partners": [
+        "highly improbable",
+        "improbable story",
+        "improbable that"
+      ]
+    }
+  },
+  {
+    "word": "imprudence",
+    "memory": "carelessness, rashness",
+    "meaning": "Lack of care or good judgement about risks",
+    "hindi": "नासमझी, लापरवाही",
+    "trick": "IM (not) + PRUDENCE (wisdom): no wisdom.",
+    "examples": [
+      "Their astonishing imprudence shocked everyone.",
+      "His imprudence with money left him broke."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the imprudence of someone/doing something",
+      "partners": [
+        "astonishing imprudence",
+        "financial imprudence",
+        "act of imprudence"
+      ]
+    }
+  },
+  {
+    "word": "impudent",
+    "memory": "cheeky, disrespectful",
+    "meaning": "Bold and not showing respect; also (book sense) boldly determined",
+    "hindi": "ढीठ, गुस्ताख़",
+    "trick": "IMPUDENT - 'im-PRUDENT': speaking without thinking, rudely.",
+    "examples": [
+      "She fought her way with impudent resolve to the front of the crowd.",
+      "The impudent boy talked back to his teacher."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an impudent + noun",
+      "partners": [
+        "impudent child",
+        "impudent remark",
+        "impudent question"
+      ]
+    }
+  },
+  {
+    "word": "impulses",
+    "memory": "sudden urges",
+    "meaning": "Sudden strong wishes to do something without thinking",
+    "hindi": "आवेग, अचानक इच्छाएँ",
+    "trick": "IMPULSE - a PULSE that jumps suddenly inside you.",
+    "examples": [
+      "It may be giving in to their own impulses.",
+      "Try to control your impulses when shopping."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "act on/resist impulses / an impulse to do something",
+      "partners": [
+        "resist impulses",
+        "act on impulses",
+        "sudden impulses"
+      ]
+    }
+  },
+  {
+    "word": "impunity",
+    "memory": "freedom from punishment",
+    "meaning": "Freedom from punishment or bad consequences",
+    "hindi": "दंड से छूट, बेख़ौफ़ी",
+    "trick": "IM (no) + PUNI (punish): no punishment.",
+    "examples": [
+      "He seemed reluctant to embrace his friends' air of impunity.",
+      "The gang acted with impunity."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "with impunity",
+      "partners": [
+        "with impunity",
+        "culture of impunity",
+        "air of impunity"
+      ]
+    }
+  },
+  {
+    "word": "in the nick of time",
+    "memory": "just in time",
+    "meaning": "At the last possible moment, only just before it was too late",
+    "hindi": "ऐन मौके पर, बिल्कुल समय पर",
+    "trick": "NICK = a tiny cut: you made it with only a tiny cut of time left.",
+    "examples": [
+      "In the nick of time, the Navy's legal department cleared me to proceed.",
+      "We reached the station in the nick of time to catch the train."
+    ],
+    "usage": {
+      "pos": "idiom (adverb phrase)",
+      "pattern": "do something in the nick of time / arrive in the nick of time",
+      "partners": [
+        "arrive in the nick of time",
+        "saved in the nick of time"
+      ]
+    }
+  },
+  {
+    "word": "inadequacy",
+    "memory": "not being good enough",
+    "meaning": "A feeling or state of not being good enough",
+    "hindi": "अपर्याप्तता, कमी, हीनता",
+    "trick": "IN (not) + ADEQUACY: not enough.",
+    "examples": [
+      "I must stop surrendering to my feelings of inadequacy.",
+      "His inadequacy as a leader became clear."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "feelings of inadequacy / the inadequacy of something",
+      "partners": [
+        "feelings of inadequacy",
+        "sense of inadequacy",
+        "inadequacy of the system"
+      ]
+    }
+  },
+  {
+    "word": "inadequate",
+    "memory": "not good enough",
+    "meaning": "Not good enough or not enough in amount",
+    "hindi": "अपर्याप्त, कमतर",
+    "trick": "IN (not) + ADEQUATE: not enough.",
+    "examples": [
+      "We end up feeling eerily similar to how we started: inadequate.",
+      "The food supply was inadequate for the crowd."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "feel inadequate / inadequate for something",
+      "partners": [
+        "feel inadequate",
+        "inadequate supply",
+        "totally inadequate"
+      ]
+    }
+  },
+  {
+    "word": "inadvertently",
+    "memory": "accidentally, unintentionally",
+    "meaning": "Without meaning to",
+    "hindi": "अनजाने में, ग़लती से",
+    "trick": "IN (not) + ADVERT (turn attention): without paying attention.",
+    "examples": [
+      "A stranger might inadvertently offer him a cup of coffee.",
+      "I inadvertently deleted the file."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "inadvertently do something",
+      "partners": [
+        "inadvertently deleted",
+        "inadvertently caused",
+        "inadvertently revealed"
+      ]
+    }
+  },
+  {
+    "word": "inaugurated",
+    "memory": "sworn in, officially started",
+    "meaning": "Formally put (someone) into an important office; also officially opened or started",
+    "hindi": "पदभार सौंपा गया; उद्घाटन किया",
+    "trick": "INAUGURATION day - when presidents are sworn in.",
+    "examples": [
+      "Presidents in Kabul had been inaugurated and murdered.",
+      "The minister inaugurated the new hospital."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "be inaugurated as something / inaugurate something",
+      "partners": [
+        "inaugurated as president",
+        "inaugurated the bridge",
+        "officially inaugurated"
+      ]
+    }
+  },
+  {
+    "word": "incessantly",
+    "memory": "nonstop, constantly",
+    "meaning": "Without stopping",
+    "hindi": "लगातार, बिना रुके",
+    "trick": "IN (not) + CEASE: never ceasing.",
+    "examples": [
+      "The children chattered spiritedly and incessantly.",
+      "The dog barked incessantly all night."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "do something incessantly",
+      "partners": [
+        "talk incessantly",
+        "barked incessantly",
+        "rained incessantly"
+      ]
+    }
+  },
+  {
+    "word": "incest",
+    "memory": "family sexual relations",
+    "meaning": "Sexual relations between close family members, which is a crime",
+    "hindi": "कौटुंबिक व्यभिचार",
+    "trick": "IN + CEST: 'in the nest' - wrongly within the family.",
+    "examples": [
+      "She worked for years with survivors of incest.",
+      "Incest is a crime in most countries."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "survivors/victims of incest",
+      "partners": [
+        "incest survivor",
+        "victims of incest",
+        "taboo of incest"
+      ]
+    }
+  },
+  {
+    "word": "inchoate",
+    "memory": "unformed, vague",
+    "meaning": "Only partly formed or not yet clear",
+    "hindi": "अधूरा, अस्पष्ट",
+    "trick": "INCHOATE - only an INCH of it made: still unformed.",
+    "examples": [
+      "We act from our deep but invisible and inchoate fears.",
+      "He had an inchoate idea for a new business."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an inchoate + noun",
+      "partners": [
+        "inchoate fears",
+        "inchoate ideas",
+        "inchoate feelings"
+      ]
+    }
+  },
+  {
+    "word": "incinerating",
+    "memory": "burning up",
+    "meaning": "Burning something completely",
+    "hindi": "जलाना, भस्म करना",
+    "trick": "INCINERATOR - a machine that burns waste to CINDERS.",
+    "examples": [
+      "We were incinerating our own muscle mass for fuel.",
+      "The factory is incinerating its waste."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "incinerate something",
+      "partners": [
+        "incinerating waste",
+        "incinerating fat",
+        "incinerating rubbish"
+      ]
+    }
+  },
+  {
+    "word": "incisor",
+    "memory": "front tooth",
+    "meaning": "One of the sharp front teeth used for biting",
+    "hindi": "सामने का दाँत, कृंतक",
+    "trick": "INCISOR = INCISION (cut): the cutting tooth.",
+    "examples": [
+      "She was ashamed of her yellowing teeth and the missing incisor.",
+      "The baby's first incisor appeared at six months."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an upper/lower incisor",
+      "partners": [
+        "lower incisor",
+        "front incisor",
+        "missing incisor"
+      ]
+    }
+  },
+  {
+    "word": "incite",
+    "memory": "provoke, stir up",
+    "meaning": "To cause or encourage (anger, violence or bad behaviour)",
+    "hindi": "भड़काना, उकसाना",
+    "trick": "IN + CITE: 'in-sight' of trouble - you stir it up.",
+    "examples": [
+      "Asking \"What do you mean?\" may incite irritation or defensiveness.",
+      "He was arrested for inciting violence."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "incite something / incite someone to do something",
+      "partners": [
+        "incite violence",
+        "incite hatred",
+        "incite someone to"
+      ]
+    }
+  },
+  {
+    "word": "incognito",
+    "memory": "in disguise, unrecognised",
+    "meaning": "With your real identity hidden",
+    "hindi": "गुप्त रूप से, भेस बदलकर",
+    "trick": "INCOGNITO mode - browse without being recognised.",
+    "examples": [
+      "I preferred to go incognito.",
+      "The actor travelled incognito to avoid fans."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "go/travel incognito",
+      "partners": [
+        "go incognito",
+        "travel incognito",
+        "remain incognito"
+      ]
+    }
+  },
+  {
+    "word": "incoherent",
+    "memory": "jumbled, unclear",
+    "meaning": "(of speech or thought) not clear and hard to understand",
+    "hindi": "असंबद्ध, बेतुका",
+    "trick": "IN (not) + COHERENT: doesn't hang together.",
+    "examples": [
+      "Then came the drowsiness and the incoherent mumbling.",
+      "He was so tired his speech became incoherent."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be incoherent / an incoherent + noun",
+      "partners": [
+        "incoherent mumbling",
+        "incoherent speech",
+        "incoherent with rage"
+      ]
+    }
+  },
+  {
+    "word": "incredulous",
+    "memory": "disbelieving",
+    "meaning": "Not willing or able to believe something",
+    "hindi": "अविश्वासी, हैरान",
+    "trick": "IN (not) + CREDULOUS (believing easily): can't believe it.",
+    "examples": [
+      "He rushed from room to room, furious and incredulous.",
+      "She gave an incredulous laugh when she heard the price."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be incredulous at something / an incredulous + noun",
+      "partners": [
+        "incredulous look",
+        "incredulous laugh",
+        "incredulous at"
+      ]
+    }
+  },
+  {
+    "word": "incrustation",
+    "memory": "crust, hard coating",
+    "meaning": "A hard crust or layer that forms on a surface",
+    "hindi": "पपड़ी, परत",
+    "trick": "IN + CRUST: a crust formed on it.",
+    "examples": [
+      "I pictured every tiny dent or incrustation on the furniture.",
+      "There was an incrustation of salt on the old pipe."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an incrustation of something",
+      "partners": [
+        "incrustation of salt",
+        "incrustation of dirt",
+        "mineral incrustation"
+      ]
+    }
+  },
+  {
+    "word": "incubator",
+    "memory": "breeding ground",
+    "meaning": "A place or situation that helps something develop; also a machine that keeps babies or eggs warm",
+    "hindi": "पनपने की जगह; इनक्यूबेटर",
+    "trick": "INCUBATE eggs - keep them warm so they grow.",
+    "examples": [
+      "My early years were a perfect incubator for stress.",
+      "The premature baby was kept in an incubator."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an incubator for something",
+      "partners": [
+        "incubator for ideas",
+        "business incubator",
+        "hospital incubator"
+      ]
+    }
+  },
+  {
+    "word": "incumbent",
+    "memory": "necessary as a duty",
+    "meaning": "Necessary as a duty or responsibility (used with on/upon); also currently holding an office",
+    "hindi": "कर्तव्य, ज़िम्मेदारी; पदासीन",
+    "trick": "INCUMBENT - 'it's on you': the duty lies on you.",
+    "examples": [
+      "He felt it incumbent upon him to say a few words.",
+      "It is incumbent on parents to keep children safe."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "it is incumbent on/upon someone to do something",
+      "partners": [
+        "incumbent upon him",
+        "incumbent on us",
+        "the incumbent president"
+      ]
+    }
+  },
+  {
+    "word": "indecipherable",
+    "memory": "unreadable, unclear",
+    "meaning": "Impossible to read or understand",
+    "hindi": "अपठनीय, समझ से परे",
+    "trick": "IN (not) + DECIPHER (decode): can't be decoded.",
+    "examples": [
+      "She tried to read his face, but his look was indecipherable.",
+      "The doctor's handwriting was indecipherable."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be indecipherable",
+      "partners": [
+        "indecipherable handwriting",
+        "indecipherable look",
+        "almost indecipherable"
+      ]
+    }
+  },
+  {
+    "word": "indefatigable",
+    "memory": "tireless",
+    "meaning": "Never seeming to get tired",
+    "hindi": "अथक, कभी न थकने वाला",
+    "trick": "IN (not) + DE-FATIGUE: no fatigue ever.",
+    "examples": [
+      "He was indefatigable at this work.",
+      "She is an indefatigable campaigner for children's rights."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be indefatigable in doing something",
+      "partners": [
+        "indefatigable worker",
+        "indefatigable energy",
+        "indefatigable campaigner"
+      ]
+    }
+  },
+  {
+    "word": "indifference",
+    "memory": "not caring, unconcern",
+    "meaning": "Lack of interest or concern",
+    "hindi": "उदासीनता, बेपरवाही",
+    "trick": "IN (no) + DIFFERENCE: it makes no difference to me.",
+    "examples": [
+      "People imagine a kind of serene indifference to everything.",
+      "His indifference to her feelings hurt her."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "indifference to/towards something",
+      "partners": [
+        "indifference to",
+        "complete indifference",
+        "with indifference"
+      ]
+    }
+  },
+  {
+    "word": "indifferent",
+    "memory": "uncaring, uninterested",
+    "meaning": "Not interested or not caring; also not very good",
+    "hindi": "उदासीन, बेपरवाह; साधारण",
+    "trick": "IN (no) + DIFFERENT: it makes no difference to them.",
+    "examples": [
+      "She couldn't understand how they were so indifferent to the marvels around them.",
+      "He seemed indifferent to the result."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be indifferent to something",
+      "partners": [
+        "indifferent to",
+        "seemed indifferent",
+        "indifferent attitude"
+      ]
+    }
+  },
+  {
+    "word": "indignant",
+    "memory": "offended, angry",
+    "meaning": "Angry because something seems unfair",
+    "hindi": "नाराज़, रोषपूर्ण",
+    "trick": "IN (not) + DIGN (worthy): angry at being treated as unworthy.",
+    "examples": [
+      "But instead, I was indignant.",
+      "She was indignant at being blamed."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be indignant at/about something",
+      "partners": [
+        "indignant at",
+        "indignant about",
+        "indignant reply"
+      ]
+    }
+  },
+  {
+    "word": "indignation",
+    "memory": "anger at unfairness",
+    "meaning": "Anger caused by something unfair",
+    "hindi": "आक्रोश, रोष",
+    "trick": "IN + DIGNITY hurt: anger when your dignity is attacked.",
+    "examples": [
+      "There was a cry of indignation from everyone.",
+      "The new tax caused public indignation."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "indignation at/over something",
+      "partners": [
+        "cry of indignation",
+        "public indignation",
+        "righteous indignation"
+      ]
+    }
+  },
+  {
+    "word": "indignities",
+    "memory": "humiliations",
+    "meaning": "Things that make you feel ashamed or lose respect",
+    "hindi": "अपमान, ज़िल्लतें",
+    "trick": "IN (not) + DIGNITY: things that strip your dignity.",
+    "examples": [
+      "The novel brings home the indignities of war and oppression.",
+      "Old people often suffer small indignities in hospitals."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "the indignities of something / suffer indignities",
+      "partners": [
+        "indignities of war",
+        "suffer indignities",
+        "small indignities"
+      ]
+    }
+  },
+  {
+    "word": "indiscreet",
+    "memory": "careless, revealing",
+    "meaning": "Not careful about what you say or do, so you draw attention or reveal secrets",
+    "hindi": "असावधान, बेबाक",
+    "trick": "IN (not) + DISCREET (careful): not careful.",
+    "examples": [
+      "Talibs patrolled the market looking for the indiscreet laugh.",
+      "It was indiscreet of him to tell everyone her secret."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be indiscreet / an indiscreet + noun",
+      "partners": [
+        "indiscreet remark",
+        "indiscreet laugh",
+        "indiscreet question"
+      ]
+    }
+  },
+  {
+    "word": "indiscriminately",
+    "memory": "randomly, without care",
+    "meaning": "Without choosing carefully; hitting anyone at random",
+    "hindi": "अंधाधुंध, बिना भेदभाव के",
+    "trick": "IN (not) + DISCRIMINATE (choose): not choosing at all.",
+    "examples": [
+      "The militias were killing indiscriminately.",
+      "He spends money indiscriminately."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "do something indiscriminately",
+      "partners": [
+        "killed indiscriminately",
+        "fired indiscriminately",
+        "used indiscriminately"
+      ]
+    }
+  },
+  {
+    "word": "indoctrinated",
+    "memory": "brainwashed",
+    "meaning": "Taught to accept a set of beliefs without questioning them",
+    "hindi": "विचार थोपे गए, ब्रेनवॉश किया",
+    "trick": "IN + DOCTRINE: doctrine pushed into your head.",
+    "examples": [
+      "Many of us have been indoctrinated to be as accepting as possible.",
+      "The young soldiers were indoctrinated with hatred."
+    ],
+    "usage": {
+      "pos": "verb (past participle)",
+      "pattern": "be indoctrinated with something / indoctrinate someone",
+      "partners": [
+        "indoctrinated with",
+        "indoctrinated into",
+        "politically indoctrinated"
+      ]
+    }
+  },
+  {
+    "word": "indolent",
+    "memory": "lazy",
+    "meaning": "Not wanting to work or be active",
+    "hindi": "आलसी, सुस्त",
+    "trick": "INDOLENT - 'in-dole': lazing on the dole, doing nothing.",
+    "examples": [
+      "It has become something more soft-edged and indolent.",
+      "The indolent cat slept all afternoon."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an indolent + noun",
+      "partners": [
+        "indolent life",
+        "indolent student",
+        "indolent afternoon"
+      ]
+    }
+  },
+  {
+    "word": "indomitable",
+    "memory": "unbeatable, strong-willed",
+    "meaning": "Impossible to defeat or discourage",
+    "hindi": "अदम्य, अजेय",
+    "trick": "IN (not) + DOMIT (tame): can't be tamed.",
+    "examples": [
+      "Mammy was ferocious and indomitable, pacing and ranting.",
+      "She showed an indomitable spirit during her illness."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an indomitable + noun",
+      "partners": [
+        "indomitable spirit",
+        "indomitable will",
+        "indomitable courage"
+      ]
+    }
+  },
+  {
+    "word": "indulge",
+    "memory": "give in, treat yourself",
+    "meaning": "To let yourself enjoy something, especially too much; also to let someone have what they want",
+    "hindi": "लिप्त होना, मज़ा लेना",
+    "trick": "INDULGE - 'in-the-bulge': eat too much and get a bulge.",
+    "examples": [
+      "If you keep indulging in delusional positive thinking, you'll never change.",
+      "I like to indulge in ice cream on Sundays."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "indulge in something / indulge someone",
+      "partners": [
+        "indulge in",
+        "indulge yourself",
+        "indulge a child"
+      ]
+    }
+  },
+  {
+    "word": "indulgence",
+    "memory": "treat, luxury",
+    "meaning": "Something enjoyable you allow yourself; also being too lenient",
+    "hindi": "शौक़, ऐश; छूट",
+    "trick": "INDULGE + -ENCE: the treat you allow yourself.",
+    "examples": [
+      "It was an easily forgivable indulgence.",
+      "Chocolate is my one indulgence."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an indulgence / indulgence in something",
+      "partners": [
+        "small indulgence",
+        "self-indulgence",
+        "forgivable indulgence"
+      ]
+    }
+  },
+  {
+    "word": "inefficient",
+    "memory": "wasteful, not productive",
+    "meaning": "Not using time, energy or money well",
+    "hindi": "अकुशल, बेअसर",
+    "trick": "IN (not) + EFFICIENT: wastes effort.",
+    "examples": [
+      "Our brains are inefficient machines.",
+      "The old heater is very inefficient."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be inefficient / an inefficient + noun",
+      "partners": [
+        "inefficient system",
+        "highly inefficient",
+        "inefficient use of"
+      ]
+    }
+  },
+  {
+    "word": "ineptitude",
+    "memory": "lack of skill, clumsiness",
+    "meaning": "Lack of skill or ability",
+    "hindi": "अयोग्यता, अनाड़ीपन",
+    "trick": "INEPT (clumsy) + -ITUDE: the state of being clumsy.",
+    "examples": [
+      "Once she had found his forgetfulness and ineptitude charming.",
+      "The manager's ineptitude cost the company money."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the ineptitude of someone",
+      "partners": [
+        "sheer ineptitude",
+        "political ineptitude",
+        "his ineptitude"
+      ]
+    }
+  },
+  {
+    "word": "inequality",
+    "memory": "unfairness, imbalance",
+    "meaning": "An unfair situation where people do not have equal rights or chances",
+    "hindi": "असमानता, ग़ैरबराबरी",
+    "trick": "IN (not) + EQUALITY: not equal.",
+    "examples": [
+      "The era of nepotism and inequality is over.",
+      "Income inequality is growing in many countries."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "inequality between/in something",
+      "partners": [
+        "income inequality",
+        "gender inequality",
+        "social inequality"
+      ]
+    }
+  },
+  {
+    "word": "inert",
+    "memory": "lifeless, motionless",
+    "meaning": "Not moving or not able to move",
+    "hindi": "निष्क्रिय, बेजान",
+    "trick": "INERT - INERTIA: stays still.",
+    "examples": [
+      "He lay inert on the sofa, too tired to move.",
+      "The patient lay inert on the bed."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "lie inert / an inert + noun",
+      "partners": [
+        "inert body",
+        "lay inert",
+        "inert gas"
+      ]
+    }
+  },
+  {
+    "word": "inescapable",
+    "memory": "unavoidable",
+    "meaning": "Impossible to avoid or ignore",
+    "hindi": "अनिवार्य, जिससे बचा न जा सके",
+    "trick": "IN (not) + ESCAPABLE: no escape.",
+    "examples": [
+      "Laila remembered the inescapable drudgery of those four weeks.",
+      "The conclusion is inescapable: we need to change."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an inescapable + noun",
+      "partners": [
+        "inescapable fact",
+        "inescapable conclusion",
+        "inescapable truth"
+      ]
+    }
+  },
+  {
+    "word": "inevitable",
+    "memory": "unavoidable, certain",
+    "meaning": "Certain to happen and impossible to avoid",
+    "hindi": "अनिवार्य, अटल",
+    "trick": "IN (not) + EVITABLE (avoidable): can't be avoided.",
+    "examples": [
+      "We must accept the inevitable imperfections of our values.",
+      "Change is inevitable."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "it is inevitable that ... / the inevitable + noun",
+      "partners": [
+        "inevitable result",
+        "almost inevitable",
+        "accept the inevitable"
+      ]
+    }
+  },
+  {
+    "word": "inexorable",
+    "memory": "unstoppable, relentless",
+    "meaning": "Impossible to stop or change",
+    "hindi": "अटल, अवश्यंभावी",
+    "trick": "IN (not) + EXORABLE (can be pleaded with): no pleading stops it.",
+    "examples": [
+      "Chance had once played a happy part in that inexorable march of events.",
+      "Nothing could slow the inexorable rise in prices."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an inexorable + noun",
+      "partners": [
+        "inexorable rise",
+        "inexorable march",
+        "inexorable decline"
+      ]
+    }
+  },
+  {
+    "word": "inexplicable",
+    "memory": "unexplainable, mysterious",
+    "meaning": "Impossible to explain or understand",
+    "hindi": "अकथनीय, समझ से परे",
+    "trick": "IN (not) + EXPLICABLE: can't be explained.",
+    "examples": [
+      "My body crouches, protecting itself against something imagined and inexplicable.",
+      "For some inexplicable reason, the lights went out."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an inexplicable + noun / it is inexplicable that ...",
+      "partners": [
+        "inexplicable reason",
+        "inexplicable behaviour",
+        "inexplicable fear"
+      ]
+    }
+  },
+  {
+    "word": "inexpressible",
+    "memory": "beyond words",
+    "meaning": "Too strong or deep to be put into words",
+    "hindi": "अवर्णनीय, अकथनीय",
+    "trick": "IN (not) + EXPRESS + IBLE: cannot be expressed.",
+    "examples": [
+      "Gusts of an inexpressible blackness kept passing through Mariam.",
+      "She felt an inexpressible joy when her son came home."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an inexpressible + noun / be inexpressible",
+      "partners": [
+        "inexpressible joy",
+        "inexpressible sadness",
+        "inexpressible pain"
+      ]
+    }
+  },
+  {
+    "word": "inextricable",
+    "memory": "impossible to separate",
+    "meaning": "So closely linked that it cannot be separated or pulled apart",
+    "hindi": "अविभाज्य, अटूट",
+    "trick": "IN (not) + EXTRICATE (set free): you can't free it from the knot.",
+    "examples": [
+      "Pain is an inextricable thread in the fabric of life.",
+      "Music is an inextricable part of our festivals."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be inextricable from something / an inextricable + noun",
+      "partners": [
+        "inextricable link",
+        "inextricable part",
+        "inextricably linked"
+      ]
+    }
+  },
+  {
+    "word": "infancy",
+    "memory": "early childhood",
+    "meaning": "The time when someone is a baby or very young child; also the very early stage of something",
+    "hindi": "शैशव, बचपन; प्रारंभिक अवस्था",
+    "trick": "INFANT + -CY: the time when you're an infant.",
+    "examples": [
+      "I had known that tune in my infancy, but I had long forgotten it.",
+      "My grandmother has looked after me since infancy."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in someone's infancy / in its infancy / from infancy",
+      "partners": [
+        "in infancy",
+        "still in its infancy",
+        "from infancy"
+      ]
+    }
+  },
+  {
+    "word": "infanticide",
+    "memory": "killing of babies",
+    "meaning": "The crime of killing a baby or young child",
+    "hindi": "शिशु हत्या",
+    "trick": "INFANT + -CIDE (killing, as in pesticide).",
+    "examples": [
+      "It was being put about that the animals were dying of famine and had resorted to infanticide.",
+      "Infanticide is a serious crime in every country."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "commit infanticide / the practice of infanticide",
+      "partners": [
+        "female infanticide",
+        "commit infanticide",
+        "practice of infanticide"
+      ]
+    }
+  },
+  {
+    "word": "inferno",
+    "memory": "huge raging fire",
+    "meaning": "A large, very hot fire that is out of control; also a place or situation like hell",
+    "hindi": "भीषण आग, धधकती आग",
+    "trick": "Dante's INFERNO = the fire of hell.",
+    "examples": [
+      "Buffalo had been like living in a blazing inferno.",
+      "The old wooden house became an inferno within minutes."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a blazing inferno / turn into an inferno",
+      "partners": [
+        "blazing inferno",
+        "raging inferno",
+        "turn into an inferno"
+      ]
+    }
+  },
+  {
+    "word": "infestation",
+    "memory": "swarm of pests",
+    "meaning": "A large number of insects or animals living in a place and causing damage or disease",
+    "hindi": "कीड़ों का प्रकोप",
+    "trick": "INFEST: pests holding a FEST in your house.",
+    "examples": [
+      "It was the worst cockroach infestation I ever saw on the job.",
+      "The kitchen had an ant infestation after the rains."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an infestation of something / a + pest + infestation",
+      "partners": [
+        "pest infestation",
+        "rat infestation",
+        "severe infestation"
+      ]
+    }
+  },
+  {
+    "word": "infidels",
+    "memory": "unbelievers",
+    "meaning": "People who do not believe in a particular religion (offensive, used by some believers)",
+    "hindi": "काफ़िर, अविश्वासी",
+    "trick": "IN (not) + FIDEL (faithful, as in fidelity): not of the faith.",
+    "examples": [
+      "The extremists called everyone outside their faith infidels.",
+      "In old stories, crusaders and their enemies called each other infidels."
+    ],
+    "usage": {
+      "pos": "noun (plural, offensive)",
+      "pattern": "call someone infidels / fight the infidels",
+      "partners": [
+        "fight the infidels",
+        "call someone infidels",
+        "so-called infidels"
+      ]
+    }
+  },
+  {
+    "word": "infirmity",
+    "memory": "physical weakness",
+    "meaning": "Weakness or illness, especially caused by old age",
+    "hindi": "दुर्बलता, कमज़ोरी",
+    "trick": "IN (not) + FIRM: the body is not firm any more.",
+    "examples": [
+      "I couldn't decide if they were greeting me or if it was some infirmity of age.",
+      "Despite her infirmity, grandma still walks to the temple."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the infirmity of age / suffer from an infirmity",
+      "partners": [
+        "infirmity of age",
+        "physical infirmity",
+        "old age and infirmity"
+      ]
+    }
+  },
+  {
+    "word": "inflammation",
+    "memory": "painful swelling",
+    "meaning": "A part of the body that becomes red, swollen, hot and painful, often from injury or infection",
+    "hindi": "सूजन, जलन",
+    "trick": "IN + FLAME: the body part feels as if it's on fire.",
+    "examples": [
+      "I had so much inflammation that the slightest movement hurt.",
+      "The doctor gave him medicine to reduce the inflammation in his knee."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "inflammation of something / reduce inflammation",
+      "partners": [
+        "reduce inflammation",
+        "joint inflammation",
+        "inflammation of the throat"
+      ]
+    }
+  },
+  {
+    "word": "inflicting",
+    "memory": "causing harm",
+    "meaning": "Causing something unpleasant, such as damage, pain or suffering, to someone",
+    "hindi": "पहुँचाते हुए, थोपते हुए",
+    "trick": "INFLICT ~ 'in-flick': flicking a whip IN on someone.",
+    "examples": [
+      "Learn how to handle conflict without inflicting damage.",
+      "The storm passed without inflicting much harm on the village."
+    ],
+    "usage": {
+      "pos": "verb (-ing form)",
+      "pattern": "inflict something on someone / without inflicting something",
+      "partners": [
+        "inflicting damage",
+        "inflicting pain",
+        "inflicting harm on someone"
+      ]
+    }
+  },
+  {
+    "word": "infraction",
+    "memory": "rule breaking",
+    "meaning": "An act of breaking a rule or law, usually a minor one",
+    "hindi": "नियम उल्लंघन",
+    "trick": "IN + FRACTION: a small FRACTURE (break) of a rule.",
+    "examples": [
+      "I served nearly twenty years without a single infraction on my record.",
+      "Parking in the wrong spot is a minor infraction."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an infraction of something (a rule or law)",
+      "partners": [
+        "minor infraction",
+        "traffic infraction",
+        "infraction of the rules"
+      ]
+    }
+  },
+  {
+    "word": "infuriate",
+    "memory": "make very angry",
+    "meaning": "To make someone extremely angry",
+    "hindi": "बहुत गुस्सा दिलाना, भड़काना",
+    "trick": "IN + FURY: puts fury into someone.",
+    "examples": [
+      "There was always some minor thing that would infuriate him.",
+      "Loud phone calls on the bus infuriate my mother."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "something infuriates someone / it infuriates someone that...",
+      "partners": [
+        "infuriate someone",
+        "really infuriate",
+        "infuriate the public"
+      ]
+    }
+  },
+  {
+    "word": "infuriating",
+    "memory": "very annoying",
+    "meaning": "Making you extremely angry or annoyed",
+    "hindi": "बहुत चिढ़ाने वाला, खिझाने वाला",
+    "trick": "FURY inside: it fills you with fury.",
+    "examples": [
+      "The boss had an infuriating habit of dropping by with urgent, poorly planned work.",
+      "Waiting an hour for a late bus is infuriating."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be infuriating / an infuriating + noun / it is infuriating that...",
+      "partners": [
+        "infuriating habit",
+        "utterly infuriating",
+        "infuriating delay"
+      ]
+    }
+  },
+  {
+    "word": "infused",
+    "memory": "filled, spread through",
+    "meaning": "Filled something with a quality or feeling so it spreads all through it; also soaked herbs in liquid for flavour",
+    "hindi": "भर दिया, समा गया; भिगोया",
+    "trick": "IN + FUSED: fused into everything.",
+    "examples": [
+      "My years of negotiating had infused everything, even my parenting style.",
+      "Her speech infused the team with new hope."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "infuse something with something / infuse something into something",
+      "partners": [
+        "infused with hope",
+        "infused with energy",
+        "tea infused with mint"
+      ]
+    }
+  },
+  {
+    "word": "ingenuousness",
+    "memory": "innocence, naivety",
+    "meaning": "Being innocent, trusting and honest, sometimes too much so",
+    "hindi": "भोलापन, सरलता",
+    "trick": "INGENUOUS (naive) is not INGENIOUS (clever): the extra U = 'U trust everyone'.",
+    "examples": [
+      "The Prosecutor said he was amazed at his friend's ingenuousness.",
+      "The child's ingenuousness made everyone smile."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "someone's ingenuousness / with ingenuousness",
+      "partners": [
+        "childlike ingenuousness",
+        "charming ingenuousness",
+        "amazed at someone's ingenuousness"
+      ]
+    }
+  },
+  {
+    "word": "ingested",
+    "memory": "swallowed, eaten",
+    "meaning": "Taken food, drink or medicine into the body by swallowing",
+    "hindi": "निगला, खाया",
+    "trick": "IN + GEST (carry, as in digest): carried into the body.",
+    "examples": [
+      "Once ingested, your body will wake up feeling more alive.",
+      "The dog was sick after it ingested chocolate."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "ingest something / once ingested",
+      "partners": [
+        "once ingested",
+        "accidentally ingested",
+        "ingested food"
+      ]
+    }
+  },
+  {
+    "word": "inhabit",
+    "memory": "live in",
+    "meaning": "To live in a place",
+    "hindi": "निवास करना, बसना",
+    "trick": "IN + HABITat: your habitat is where you inhabit.",
+    "examples": [
+      "England could feed far more animals than now inhabit it.",
+      "Tigers inhabit the forests of central India."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "inhabit a place",
+      "partners": [
+        "inhabit an area",
+        "inhabit the forest",
+        "people who inhabit"
+      ]
+    }
+  },
+  {
+    "word": "inherent",
+    "memory": "built-in, natural",
+    "meaning": "Being a basic, natural part of something that cannot be removed",
+    "hindi": "अंतर्निहित, स्वाभाविक",
+    "trick": "IN + HERE: it's always here, inside it.",
+    "examples": [
+      "Dissatisfaction and unease are inherent parts of human nature.",
+      "There is an inherent risk in any business."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be inherent in something / an inherent + noun",
+      "partners": [
+        "inherent risk",
+        "inherent in human nature",
+        "inherently scary"
+      ]
+    }
+  },
+  {
+    "word": "inhibited",
+    "memory": "shy, held back",
+    "meaning": "Too shy or nervous to express your feelings or act freely",
+    "hindi": "संकोची, झिझकने वाला",
+    "trick": "IN + HIBIT ~ 'hide a bit': you hold yourself back.",
+    "examples": [
+      "Before the tragedy, I was inhibited and obsessed with what others thought of me.",
+      "He feels inhibited when speaking in front of a big crowd."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be/feel inhibited (about doing something)",
+      "partners": [
+        "feel inhibited",
+        "shy and inhibited",
+        "socially inhibited"
+      ]
+    }
+  },
+  {
+    "word": "ink",
+    "memory": "press coverage",
+    "meaning": "Informal: mentions or articles in newspapers and magazines; also coloured liquid for writing or printing",
+    "hindi": "अख़बारों में चर्चा (बोलचाल); स्याही",
+    "trick": "Newspapers are printed in INK, so 'good ink' = good press.",
+    "examples": [
+      "I booked more positive ink for the SEALs in magazines.",
+      "The new film got a lot of ink in the local papers."
+    ],
+    "usage": {
+      "pos": "noun (informal)",
+      "pattern": "get ink / positive ink for someone",
+      "partners": [
+        "positive ink",
+        "get a lot of ink",
+        "good ink"
+      ]
+    }
+  },
+  {
+    "word": "inkwell",
+    "memory": "ink pot",
+    "meaning": "A small pot that holds ink for dipping a pen; used to describe something deep black",
+    "hindi": "दवात",
+    "trick": "INK + WELL: a little well full of ink.",
+    "examples": [
+      "All I could see were lights streaking like comets in an inkwell sky.",
+      "My grandfather's old desk still has a brass inkwell."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an inkwell / dip a pen in the inkwell",
+      "partners": [
+        "dip into the inkwell",
+        "brass inkwell",
+        "inkwell sky"
+      ]
+    }
+  },
+  {
+    "word": "inky",
+    "memory": "very dark, black",
+    "meaning": "Very dark or black, like ink",
+    "hindi": "स्याह, गहरा काला",
+    "trick": "INK + Y: as black as ink.",
+    "examples": [
+      "Huge plumes of inky exhaust choked from the tail pipe.",
+      "We looked up at the inky night sky."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "inky + noun",
+      "partners": [
+        "inky black",
+        "inky darkness",
+        "inky sky"
+      ]
+    }
+  },
+  {
+    "word": "inmate",
+    "memory": "prisoner",
+    "meaning": "A person kept in a prison; also someone living in a hospital or care home",
+    "hindi": "क़ैदी; निवासी",
+    "trick": "IN + MATE: your mate on the INside of jail.",
+    "examples": [
+      "If an officer approaches an inmate expecting him to resist, he often will.",
+      "The inmate was released after ten years."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an inmate of/at a place",
+      "partners": [
+        "prison inmate",
+        "fellow inmate",
+        "former inmate"
+      ]
+    }
+  },
+  {
+    "word": "inmates",
+    "memory": "prisoners",
+    "meaning": "People kept in a prison; also people living in a hospital or care home",
+    "hindi": "क़ैदी, बंदी",
+    "trick": "IN + MATES: mates on the INside of jail.",
+    "examples": [
+      "This was where inmates met visitors.",
+      "The inmates eat lunch together at noon."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "inmates of a place",
+      "partners": [
+        "prison inmates",
+        "fellow inmates",
+        "release inmates"
+      ]
+    }
+  },
+  {
+    "word": "inn",
+    "memory": "small hotel",
+    "meaning": "A small hotel or pub, often in the countryside, where travellers can eat and stay",
+    "hindi": "सराय, छोटा होटल",
+    "trick": "Go IN to the INN for the night.",
+    "examples": [
+      "He left his wife and child in another inn.",
+      "We stayed at a cosy inn near the mountains."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "stay at an inn",
+      "partners": [
+        "stay at an inn",
+        "village inn",
+        "roadside inn"
+      ]
+    }
+  },
+  {
+    "word": "innate",
+    "memory": "inborn, natural",
+    "meaning": "Present in you from birth, not learned",
+    "hindi": "जन्मजात, स्वाभाविक",
+    "trick": "IN + NATE (natal = birth): in you since birth.",
+    "examples": [
+      "All the meaning in our life is shaped by this innate desire to never truly die.",
+      "She has an innate talent for music."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an innate + noun / be innate in someone",
+      "partners": [
+        "innate talent",
+        "innate ability",
+        "innate desire"
+      ]
+    }
+  },
+  {
+    "word": "innocuous",
+    "memory": "harmless",
+    "meaning": "Not harmful or offensive",
+    "hindi": "हानिरहित, मासूम",
+    "trick": "IN (not) + NOC (harm, as in noxious): not harmful.",
+    "examples": [
+      "Those innocuous words bubbled up in our minds each time a wave pulled us under.",
+      "It was an innocuous question, but she got upset."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an innocuous + noun / seem innocuous",
+      "partners": [
+        "innocuous question",
+        "innocuous remark",
+        "seemingly innocuous"
+      ]
+    }
+  },
+  {
+    "word": "inquisitive",
+    "memory": "curious, questioning",
+    "meaning": "Eager to know or ask questions; curious",
+    "hindi": "जिज्ञासु, सवाल पूछने वाला",
+    "trick": "INQUISitive ~ INQUIre: always inquiring.",
+    "examples": [
+      "She repeated his words in an inquisitive tone.",
+      "Inquisitive children ask 'why' all day."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be inquisitive about something / an inquisitive + noun",
+      "partners": [
+        "inquisitive tone",
+        "inquisitive mind",
+        "inquisitive child"
+      ]
+    }
+  },
+  {
+    "word": "insanity",
+    "memory": "madness, foolishness",
+    "meaning": "Extreme foolishness; also serious mental illness",
+    "hindi": "पागलपन, मूर्खता",
+    "trick": "IN (not) + SANE: not sane.",
+    "examples": [
+      "Insanity is doing the same thing over and over and expecting a different result.",
+      "Driving that fast in the rain is pure insanity."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "it is insanity to do something",
+      "partners": [
+        "sheer insanity",
+        "pure insanity",
+        "temporary insanity"
+      ]
+    }
+  },
+  {
+    "word": "inscribed",
+    "memory": "written, carved",
+    "meaning": "Written or carved on a surface, especially so it lasts",
+    "hindi": "अंकित, खुदा हुआ",
+    "trick": "IN + SCRIBE (write): written into it.",
+    "examples": [
+      "FOUR LEGS GOOD, TWO LEGS BAD was inscribed on the end wall of the barn.",
+      "Her name was inscribed on the trophy."
+    ],
+    "usage": {
+      "pos": "verb (past participle)",
+      "pattern": "be inscribed on something / be inscribed with something",
+      "partners": [
+        "inscribed on the wall",
+        "inscribed with a name",
+        "inscribed in stone"
+      ]
+    }
+  },
+  {
+    "word": "insidious",
+    "memory": "slowly, secretly harmful",
+    "meaning": "Spreading harm slowly and secretly, so you hardly notice it",
+    "hindi": "छिपा ख़तरनाक, धीरे-धीरे नुकसानदेह",
+    "trick": "INSIDE + IOUS: harm creeping inside you.",
+    "examples": [
+      "There's an insidious quirk to your brain that can drive you batty.",
+      "Sugar addiction is insidious because it starts so small."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an insidious + noun / be insidious",
+      "partners": [
+        "insidious disease",
+        "insidious effect",
+        "insidious influence"
+      ]
+    }
+  },
+  {
+    "word": "insincere",
+    "memory": "fake, not genuine",
+    "meaning": "Not really meaning what you say or do; pretending",
+    "hindi": "दिखावटी, बनावटी, झूठा",
+    "trick": "IN (not) + SINCERE.",
+    "examples": [
+      "His apologies had been halfhearted and insincere.",
+      "Her smile looked insincere."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be insincere / an insincere + noun",
+      "partners": [
+        "insincere apology",
+        "insincere smile",
+        "sound insincere"
+      ]
+    }
+  },
+  {
+    "word": "insincerity",
+    "memory": "fakeness, pretence",
+    "meaning": "Pretending to feel or mean something that you do not",
+    "hindi": "दिखावा, बनावटीपन",
+    "trick": "IN (not) + SINCERITY: no sincerity inside.",
+    "examples": [
+      "She could hear the insincerity that had always lurked beneath his words.",
+      "I could sense the insincerity in his praise."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the insincerity of something / insincerity in someone's voice",
+      "partners": [
+        "hint of insincerity",
+        "obvious insincerity",
+        "insincerity in his voice"
+      ]
+    }
+  },
+  {
+    "word": "insinuate",
+    "memory": "hint slyly",
+    "meaning": "To suggest something unpleasant in an indirect way",
+    "hindi": "इशारे से कहना, ताना देना",
+    "trick": "IN + SIN-uate: hinting that someone has SINned.",
+    "examples": [
+      "They seemed to insinuate that the other side was being dishonest.",
+      "Are you trying to insinuate that I lied?"
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "insinuate that... / insinuate something",
+      "partners": [
+        "insinuate that",
+        "seem to insinuate",
+        "try to insinuate"
+      ]
+    }
+  },
+  {
+    "word": "insinuating",
+    "memory": "quietly suggesting",
+    "meaning": "Suggesting or creating something in a quiet, indirect way; also hinting at something unpleasant",
+    "hindi": "चुपके से जताना, इशारा करना",
+    "trick": "IN + SIN-uate: slipping an idea in quietly.",
+    "examples": [
+      "Mirroring is the art of insinuating similarity.",
+      "He kept insinuating that I was late on purpose."
+    ],
+    "usage": {
+      "pos": "verb (-ing form)",
+      "pattern": "insinuate something / insinuate that...",
+      "partners": [
+        "insinuating similarity",
+        "insinuating that",
+        "keep insinuating"
+      ]
+    }
+  },
+  {
+    "word": "insistence",
+    "memory": "firm demand",
+    "meaning": "Firmly demanding or saying that something must happen",
+    "hindi": "आग्रह, ज़िद",
+    "trick": "INSIST + ENCE: the act of insisting.",
+    "examples": [
+      "At her insistence, Jalil described the cinema to her.",
+      "At my mother's insistence, I took an umbrella."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "at someone's insistence / insistence on something",
+      "partners": [
+        "at someone's insistence",
+        "insistence on",
+        "polite insistence"
+      ]
+    }
+  },
+  {
+    "word": "insistent",
+    "memory": "persistent, nonstop",
+    "meaning": "Continuing for a long time and hard to ignore; also firmly demanding something",
+    "hindi": "लगातार, ज़िद्दी",
+    "trick": "INSIST-ENT: it keeps insisting.",
+    "examples": [
+      "He complained about the baby's insistent crying.",
+      "The insistent ringing of the phone woke me up."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an insistent + noun / be insistent on something / be insistent that...",
+      "partners": [
+        "insistent crying",
+        "insistent knocking",
+        "be insistent that"
+      ]
+    }
+  },
+  {
+    "word": "insoluble",
+    "memory": "impossible to solve",
+    "meaning": "Impossible to solve or explain; also unable to dissolve in liquid",
+    "hindi": "असमाधेय, जिसका हल न हो; अघुलनशील",
+    "trick": "IN (not) + SOLUBLE (solvable): no solution.",
+    "examples": [
+      "The animals found the problem insoluble.",
+      "It seemed an insoluble puzzle until my brother helped."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an insoluble problem / find something insoluble",
+      "partners": [
+        "insoluble problem",
+        "seemingly insoluble",
+        "insoluble puzzle"
+      ]
+    }
+  },
+  {
+    "word": "instinctually",
+    "memory": "naturally, by instinct",
+    "meaning": "In a natural way, without thinking or learning",
+    "hindi": "स्वाभाविक रूप से, सहज रूप से",
+    "trick": "INSTINCT + UALLY: done by instinct.",
+    "examples": [
+      "Because we are apes, we instinctually measure ourselves against others.",
+      "The baby instinctually reached for her mother."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "instinctually do something",
+      "partners": [
+        "instinctually know",
+        "react instinctually",
+        "instinctually reach for"
+      ]
+    }
+  },
+  {
+    "word": "insulated",
+    "memory": "shielded, cut off",
+    "meaning": "Protected or separated from something outside, such as noise, cold or people",
+    "hindi": "अलग, सुरक्षित",
+    "trick": "INSULA = island (Latin): kept like an island, cut off.",
+    "examples": [
+      "Mariam sat in the corner, insulated by a wall of steam.",
+      "The house is well insulated against the cold."
+    ],
+    "usage": {
+      "pos": "adjective / verb (past participle)",
+      "pattern": "be insulated from/against something / insulated by something",
+      "partners": [
+        "insulated from",
+        "well insulated",
+        "insulated against the cold"
+      ]
+    }
+  },
+  {
+    "word": "insulating",
+    "memory": "protecting, shielding",
+    "meaning": "Covering something to protect it from heat, cold, electricity or noise",
+    "hindi": "बचाते हुए, रोधक",
+    "trick": "INSULA (island): making it an island safe from heat.",
+    "examples": [
+      "The foam formed around my hands, insulating them from the hot metal.",
+      "Wool is good at insulating the body from cold."
+    ],
+    "usage": {
+      "pos": "verb (-ing form)",
+      "pattern": "insulate something from something",
+      "partners": [
+        "insulating from heat",
+        "insulating material",
+        "insulating layer"
+      ]
+    }
+  },
+  {
+    "word": "insurgency",
+    "memory": "armed rebellion",
+    "meaning": "An armed fight by a group against the government",
+    "hindi": "विद्रोह, बग़ावत",
+    "trick": "IN + SURGE: rebels surging up against the rulers.",
+    "examples": [
+      "They were dealing with an Islamist insurgency in South Thailand.",
+      "The army struggled to control the insurgency in the hills."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an insurgency against someone / fight an insurgency",
+      "partners": [
+        "armed insurgency",
+        "fight an insurgency",
+        "crush the insurgency"
+      ]
+    }
+  },
+  {
+    "word": "insurgent",
+    "memory": "rebel",
+    "meaning": "Fighting against the government or those in power; also a rebel fighter",
+    "hindi": "विद्रोही, बाग़ी",
+    "trick": "IN + SURGE: surging up against the rulers.",
+    "examples": [
+      "She saw pamphlets from insurgent groups headquartered in Pakistan.",
+      "The insurgent leaders agreed to peace talks."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "insurgent + noun / an insurgent (noun)",
+      "partners": [
+        "insurgent groups",
+        "insurgent forces",
+        "insurgent leader"
+      ]
+    }
+  },
+  {
+    "word": "insurmountable",
+    "memory": "impossible to overcome",
+    "meaning": "Too big or difficult to deal with or overcome",
+    "hindi": "दुर्गम, असंभव",
+    "trick": "IN (not) + SURMOUNT (climb over): a mountain you can't climb.",
+    "examples": [
+      "I knew the pain would become unbearable and feel insurmountable.",
+      "The problem seemed insurmountable, but we solved it together."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be/seem insurmountable / an insurmountable + noun",
+      "partners": [
+        "insurmountable problem",
+        "insurmountable obstacle",
+        "seem insurmountable"
+      ]
+    }
+  },
+  {
+    "word": "integrity",
+    "memory": "honesty, strong morals",
+    "meaning": "Being honest and having strong moral principles",
+    "hindi": "ईमानदारी, सत्यनिष्ठा",
+    "trick": "INTEGER = whole number: a person of integrity is whole, not broken by lies.",
+    "examples": [
+      "He taught me the values of hard work and integrity.",
+      "Our teacher is a woman of great integrity."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a person of integrity / have integrity",
+      "partners": [
+        "personal integrity",
+        "man of integrity",
+        "lack integrity"
+      ]
+    }
+  },
+  {
+    "word": "intel",
+    "memory": "information, info",
+    "meaning": "Informal: useful information, especially secret or military information",
+    "hindi": "जानकारी, ख़ुफ़िया सूचना (बोलचाल)",
+    "trick": "Short for INTELligence.",
+    "examples": [
+      "This time, I had that intel going in.",
+      "Do you have any intel on the new manager?"
+    ],
+    "usage": {
+      "pos": "noun (informal)",
+      "pattern": "have intel on something / get intel",
+      "partners": [
+        "get intel",
+        "intel on someone",
+        "good intel"
+      ]
+    }
+  },
+  {
+    "word": "intensified",
+    "memory": "made stronger",
+    "meaning": "Made something stronger or more extreme; also became stronger",
+    "hindi": "तेज़ किया, बढ़ा दिया",
+    "trick": "INTENSE + -IFIED: made more intense.",
+    "examples": [
+      "Each drop of his spit burned like venom and intensified my hate.",
+      "The rain intensified in the evening."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "intensify something / something intensified",
+      "partners": [
+        "intensified the pain",
+        "intensified efforts",
+        "the storm intensified"
+      ]
+    }
+  },
+  {
+    "word": "interference",
+    "memory": "meddling",
+    "meaning": "Getting involved in something when you are not wanted",
+    "hindi": "दख़ल, हस्तक्षेप",
+    "trick": "INTER (between) + FERE: someone getting in between.",
+    "examples": [
+      "Now the plan could go forward without his interference.",
+      "She wanted to study without any interference from her family."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "interference in/with something / interference from someone",
+      "partners": [
+        "without interference",
+        "interference in someone's affairs",
+        "political interference"
+      ]
+    }
+  },
+  {
+    "word": "intergalactic",
+    "memory": "sky-high, enormous",
+    "meaning": "Extremely high or huge (informal, figurative); also between galaxies in space",
+    "hindi": "आसमान छूती, बहुत ऊँची; आकाशगंगाओं के बीच",
+    "trick": "INTER (between) + GALACTIC: reaching as far as the galaxies.",
+    "examples": [
+      "I knew the moment had arrived, and my expectations were intergalactic.",
+      "Her dreams for her son were intergalactic."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be intergalactic / intergalactic + noun",
+      "partners": [
+        "intergalactic expectations",
+        "intergalactic travel",
+        "intergalactic war"
+      ]
+    }
+  },
+  {
+    "word": "interim",
+    "memory": "temporary",
+    "meaning": "For a short time only, until something permanent is arranged",
+    "hindi": "अंतरिम, अस्थायी",
+    "trick": "INTERIM = IN the meanTIME.",
+    "examples": [
+      "The country has an interim president now, Hamid Karzai.",
+      "He will be the interim captain until the coach picks a new one."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an interim + noun / in the interim",
+      "partners": [
+        "interim president",
+        "interim report",
+        "in the interim"
+      ]
+    }
+  },
+  {
+    "word": "interjected",
+    "memory": "cut in",
+    "meaning": "Said something suddenly, interrupting someone",
+    "hindi": "बीच में बोला, टोका",
+    "trick": "INTER (between) + JECT (throw): threw words in between.",
+    "examples": [
+      "After three minutes, Gabriella Blum interjected.",
+      "\"That's not true,\" my brother interjected."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "interject (something)",
+      "partners": [
+        "quickly interjected",
+        "interjected a comment",
+        "she interjected"
+      ]
+    }
+  },
+  {
+    "word": "interlaced",
+    "memory": "mixed, woven together",
+    "meaning": "Mixed or woven together with something else",
+    "hindi": "गुँथा हुआ, मिला हुआ",
+    "trick": "INTER + LACE: laces woven between each other.",
+    "examples": [
+      "It was a strange pleasure, interlaced with the pain.",
+      "Her story was interlaced with funny moments."
+    ],
+    "usage": {
+      "pos": "verb (past participle)",
+      "pattern": "be interlaced with something",
+      "partners": [
+        "interlaced with",
+        "interlaced fingers",
+        "closely interlaced"
+      ]
+    }
+  },
+  {
+    "word": "interlude",
+    "memory": "short break, pause",
+    "meaning": "A short period between two longer events, different from them",
+    "hindi": "अंतराल, बीच का समय",
+    "trick": "INTER (between) + LUDE (play): a little play between the acts.",
+    "examples": [
+      "All of it seemed like a dream, a mere interlude between that afternoon and this moment.",
+      "We had a brief interlude of sunshine between the storms."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an interlude between something and something",
+      "partners": [
+        "brief interlude",
+        "musical interlude",
+        "peaceful interlude"
+      ]
+    }
+  },
+  {
+    "word": "intertwined",
+    "memory": "closely linked",
+    "meaning": "Closely joined or connected with something, like twisted threads",
+    "hindi": "आपस में जुड़ा, गुँथा हुआ",
+    "trick": "INTER + TWINE (string): strings twisted together.",
+    "examples": [
+      "Our governor is buried deep in our minds, intertwined with our very identity.",
+      "Their lives became intertwined after they married."
+    ],
+    "usage": {
+      "pos": "verb (past participle)",
+      "pattern": "be intertwined with something",
+      "partners": [
+        "closely intertwined",
+        "intertwined with",
+        "become intertwined"
+      ]
+    }
+  },
+  {
+    "word": "intervention",
+    "memory": "stepping in",
+    "meaning": "A planned talk where people confront someone about a problem to help them; also the act of stepping in to change a situation",
+    "hindi": "हस्तक्षेप, बीच में पड़ना",
+    "trick": "INTER (between) + VENE (come): coming in between.",
+    "examples": [
+      "What started as a venting session had become a solo intervention.",
+      "Quick intervention by the doctors saved his life."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an intervention in something / stage an intervention",
+      "partners": [
+        "stage an intervention",
+        "timely intervention",
+        "medical intervention"
+      ]
+    }
+  },
+  {
+    "word": "intimate",
+    "memory": "personal, private",
+    "meaning": "Very personal and private; also very close and friendly",
+    "hindi": "निजी, अंतरंग; घनिष्ठ",
+    "trick": "INTIMATE ~ 'inner-mate': only your inner circle sees it.",
+    "examples": [
+      "In a rare intimate interview, Mustaine admitted he still felt like a failure.",
+      "She shared intimate details of her childhood."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an intimate + noun / be intimate with someone",
+      "partners": [
+        "intimate interview",
+        "intimate details",
+        "intimate friend"
+      ]
+    }
+  },
+  {
+    "word": "intonations",
+    "memory": "voice ups and downs",
+    "meaning": "The rises and falls of the voice when speaking",
+    "hindi": "स्वर का उतार-चढ़ाव, लहजा",
+    "trick": "IN + TONE: the tones in your voice.",
+    "examples": [
+      "Laila marveled at her daughter's thoughtful pauses and intonations.",
+      "Learning the right intonations makes your English sound natural."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "the intonations of someone's voice",
+      "partners": [
+        "rising intonations",
+        "natural intonations",
+        "intonations of speech"
+      ]
+    }
+  },
+  {
+    "word": "intricately",
+    "memory": "in fine detail",
+    "meaning": "In a very detailed and complicated way",
+    "hindi": "बारीकी से, उलझे ढंग से",
+    "trick": "INTRICATE ~ 'in-tricky': many tricky little parts.",
+    "examples": [
+      "His neck looked too thin to support the intricately wrapped turban.",
+      "The temple doors are intricately carved."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "intricately + past participle",
+      "partners": [
+        "intricately carved",
+        "intricately designed",
+        "intricately woven"
+      ]
+    }
+  },
+  {
+    "word": "intrigue",
+    "memory": "secret plotting",
+    "meaning": "Secret plans to harm someone or gain power; also interest or curiosity",
+    "hindi": "षड्यंत्र, साज़िश",
+    "trick": "INTRIGUE ~ 'in-trick': tricks planned in secret.",
+    "examples": [
+      "It is a heartfelt saga of romance, war and political intrigue.",
+      "The old palace was full of intrigue and gossip."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "intrigue against someone / a web of intrigue",
+      "partners": [
+        "political intrigue",
+        "web of intrigue",
+        "palace intrigue"
+      ]
+    }
+  },
+  {
+    "word": "intrigued",
+    "memory": "curious, interested",
+    "meaning": "Very interested and curious about something",
+    "hindi": "उत्सुक, जिज्ञासु",
+    "trick": "INTRIGUED ~ 'in-tricked': tricked into wanting to know more.",
+    "examples": [
+      "They told him about the SEALs, and he was intrigued.",
+      "I was intrigued by the strange old map."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be intrigued by something / intrigued to know",
+      "partners": [
+        "intrigued by",
+        "intrigued to learn",
+        "deeply intrigued"
+      ]
+    }
+  },
+  {
+    "word": "intrusion",
+    "memory": "unwanted interruption",
+    "meaning": "Entering or interrupting where you are not wanted",
+    "hindi": "दख़ल, घुसपैठ",
+    "trick": "IN + TRUDE (push): pushing in.",
+    "examples": [
+      "Rasheed looked up with displeasure at the unwelcome intrusion.",
+      "Sorry for the intrusion, but dinner is ready."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an intrusion into/on something",
+      "partners": [
+        "unwelcome intrusion",
+        "intrusion into privacy",
+        "sorry for the intrusion"
+      ]
+    }
+  },
+  {
+    "word": "inundation",
+    "memory": "flood, overload",
+    "meaning": "A huge amount of something arriving at once, too much to deal with; also a flood of water",
+    "hindi": "बाढ़, भरमार",
+    "trick": "UNDA = wave (Latin): waves pouring IN.",
+    "examples": [
+      "The inundation of the exceptional makes people feel worse about themselves.",
+      "After the sale, the shop faced an inundation of orders."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an inundation of something",
+      "partners": [
+        "inundation of information",
+        "inundation of emails",
+        "sudden inundation"
+      ]
+    }
+  },
+  {
+    "word": "invariably",
+    "memory": "always",
+    "meaning": "Always, every single time",
+    "hindi": "हमेशा, बिना चूके",
+    "trick": "IN (not) + VARY: it never varies.",
+    "examples": [
+      "Bibi jo was invariably accompanied by one of her six brides.",
+      "He invariably arrives five minutes late."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "invariably do something / be invariably + adjective",
+      "partners": [
+        "almost invariably",
+        "invariably late",
+        "invariably ends"
+      ]
+    }
+  },
+  {
+    "word": "invasion",
+    "memory": "military attack",
+    "meaning": "An army entering another country to take control of it; also an unwanted entry",
+    "hindi": "आक्रमण, हमला",
+    "trick": "IN + VADE (go): going in by force.",
+    "examples": [
+      "We were in a bowling alley when we watched the invasion of Iraq.",
+      "Many families fled after the invasion."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an invasion of a place / launch an invasion",
+      "partners": [
+        "military invasion",
+        "invasion of privacy",
+        "launch an invasion"
+      ]
+    }
+  },
+  {
+    "word": "inventive",
+    "memory": "creative, original",
+    "meaning": "Good at thinking of new and original ideas",
+    "hindi": "आविष्कारशील, रचनात्मक",
+    "trick": "INVENT + IVE: always inventing.",
+    "examples": [
+      "Snowball was quicker in speech and more inventive than Napoleon.",
+      "She is very inventive in the kitchen."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be inventive / an inventive + noun",
+      "partners": [
+        "inventive mind",
+        "highly inventive",
+        "inventive cooking"
+      ]
+    }
+  },
+  {
+    "word": "invigorating",
+    "memory": "energising, refreshing",
+    "meaning": "Making you feel full of energy and fresh",
+    "hindi": "स्फूर्तिदायक, ताज़गी देने वाला",
+    "trick": "VIGOR inside: it puts vigour (energy) into you.",
+    "examples": [
+      "The right problems should be invigorating you and motivating you.",
+      "A cold shower in the morning is invigorating."
+    ],
+    "usage": {
+      "pos": "adjective / verb (-ing form)",
+      "pattern": "be invigorating / invigorate someone",
+      "partners": [
+        "invigorating walk",
+        "invigorating swim",
+        "invigorating morning air"
+      ]
+    }
+  },
+  {
+    "word": "invincible",
+    "memory": "unbeatable",
+    "meaning": "Too strong to be defeated or hurt",
+    "hindi": "अजेय",
+    "trick": "IN (not) + VINC (conquer): cannot be conquered.",
+    "examples": [
+      "Once you are comfortable with life's hardships, you become invincible.",
+      "The team felt invincible after ten straight wins."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be/feel invincible",
+      "partners": [
+        "feel invincible",
+        "seemingly invincible",
+        "invincible army"
+      ]
+    }
+  },
+  {
+    "word": "iris",
+    "memory": "blue-purple flower",
+    "meaning": "A tall plant with large blue, purple or yellow flowers; also the coloured part of the eye",
+    "hindi": "आइरिस का फूल; आँख का रंगीन भाग",
+    "trick": "IRIS was the Greek rainbow goddess: rainbow-coloured flowers and eyes.",
+    "examples": [
+      "The grassy banks were sprinkled with blue-lavender wild iris.",
+      "She planted purple iris along the garden path."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "wild iris / a bunch of irises",
+      "partners": [
+        "wild iris",
+        "purple iris",
+        "blue iris"
+      ]
+    }
+  },
+  {
+    "word": "irksome",
+    "memory": "annoying",
+    "meaning": "Slightly annoying or irritating",
+    "hindi": "चिढ़ाने वाला, खीझ भरा",
+    "trick": "IRK = irritate; IRKsome = some irritation.",
+    "examples": [
+      "One thing in those early days was really irksome: my habit of thinking like a free man.",
+      "Waiting in long queues is irksome."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be irksome (to someone) / an irksome + noun",
+      "partners": [
+        "irksome task",
+        "irksome habit",
+        "find something irksome"
+      ]
+    }
+  },
+  {
+    "word": "irrepressible",
+    "memory": "unstoppable",
+    "meaning": "Too strong or lively to be held back or controlled",
+    "hindi": "अदम्य, जो रोका न जा सके",
+    "trick": "IR (not) + REPRESS (hold down): can't be held down.",
+    "examples": [
+      "And yet the song was irrepressible.",
+      "Her irrepressible laughter filled the room."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be irrepressible / an irrepressible + noun",
+      "partners": [
+        "irrepressible laughter",
+        "irrepressible energy",
+        "irrepressible spirit"
+      ]
+    }
+  },
+  {
+    "word": "irrevocably",
+    "memory": "permanently, for good",
+    "meaning": "In a way that cannot be changed or undone",
+    "hindi": "अपरिवर्तनीय रूप से, हमेशा के लिए",
+    "trick": "IR (not) + REVOKE (take back): can't be taken back.",
+    "examples": [
+      "I was caught in the rattrap irrevocably.",
+      "Their friendship was irrevocably damaged after the fight."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "be irrevocably + past participle",
+      "partners": [
+        "irrevocably changed",
+        "irrevocably damaged",
+        "irrevocably lost"
+      ]
+    }
+  },
+  {
+    "word": "irrigation",
+    "memory": "watering crops",
+    "meaning": "Supplying water to land or crops through channels or pipes",
+    "hindi": "सिंचाई",
+    "trick": "IRRIGATE ~ 'open the GATE': let water into the fields.",
+    "examples": [
+      "The fields were crisscrossed by streams and irrigation ditches.",
+      "Farmers here depend on canal irrigation."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "irrigation of land / irrigation + noun",
+      "partners": [
+        "irrigation ditch",
+        "irrigation canal",
+        "drip irrigation"
+      ]
+    }
+  },
+  {
+    "word": "isles",
+    "memory": "islands",
+    "meaning": "Islands, especially small ones (used in poems and names)",
+    "hindi": "द्वीप, टापू",
+    "trick": "ISLE = ISLand without the 'and'.",
+    "examples": [
+      "Thousands of Japanese soldiers were still scattered among the Pacific isles.",
+      "We sailed past green isles on our holiday."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "the + name + Isles / among the isles",
+      "partners": [
+        "British Isles",
+        "Pacific isles",
+        "tiny isles"
+      ]
+    }
+  },
+  {
+    "word": "isolated",
+    "memory": "separate, scattered",
+    "meaning": "Separate and happening only here and there; also alone and cut off from others",
+    "hindi": "अलग-थलग, इक्का-दुक्का",
+    "trick": "ISOLA = island (Italian): like islands, standing apart.",
+    "examples": [
+      "Only some of his gestures caught my attention, but these were isolated patches.",
+      "There were only isolated showers this afternoon."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "isolated + noun / be isolated from something",
+      "partners": [
+        "isolated case",
+        "isolated incident",
+        "isolated village"
+      ]
+    }
+  },
+  {
+    "word": "isopraxism",
+    "memory": "copying, mirroring",
+    "meaning": "Copying another person's body language or behaviour (a formal word for mirroring)",
+    "hindi": "नकल, हाव-भाव की नकल",
+    "trick": "ISO (same) + PRAXIS (action): doing the same action.",
+    "examples": [
+      "Mirroring, also called isopraxism, is essentially imitation.",
+      "Close friends often show isopraxism by sitting the same way."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "show isopraxism / isopraxism in something",
+      "partners": [
+        "show isopraxism",
+        "isopraxism in body language",
+        "natural isopraxism"
+      ]
+    }
+  }
+]

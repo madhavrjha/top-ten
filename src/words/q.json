@@ -1,0 +1,530 @@
+[
+  {
+    "word": "quack",
+    "memory": "fake, unscientific",
+    "meaning": "Fake or not based on real science (used about medicine or treatments); also a person who pretends to be a doctor",
+    "hindi": "नकली, झोलाछाप; नीम-हकीम",
+    "trick": "QUACK doctor sells nonsense — just noise, like a duck's QUACK.",
+    "examples": [
+      "Freudian psychoanalysis was once seen as a quack form of psychology.",
+      "Don't buy pills from that quack doctor."
+    ],
+    "usage": {
+      "pos": "adjective; noun",
+      "pattern": "a quack + noun / be a quack",
+      "partners": [
+        "quack doctor",
+        "quack remedy",
+        "quack medicine"
+      ]
+    }
+  },
+  {
+    "word": "quacked",
+    "memory": "made a duck sound",
+    "meaning": "Made the loud, flat sound that a duck makes",
+    "hindi": "कें-कें किया (बत्तख ने)",
+    "trick": "QUACKED = what ducks did — 'quack quack'.",
+    "examples": [
+      "The sheep bleated it, the horses whinnied it, the ducks quacked it.",
+      "The ducks quacked loudly when we threw them bread."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something quacked",
+      "partners": [
+        "ducks quacked",
+        "quacked loudly"
+      ]
+    }
+  },
+  {
+    "word": "quaint",
+    "memory": "charmingly old-fashioned",
+    "meaning": "Attractive or unusual in an old-fashioned way",
+    "hindi": "अनोखा, पुराने ढंग का",
+    "trick": "QUAINT = a cute old cottage that A-INT modern.",
+    "examples": [
+      "Beside him was the quaint little woman who had shared my table.",
+      "We stayed in a quaint little village by the sea."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a quaint + noun / look quaint",
+      "partners": [
+        "quaint village",
+        "quaint old house",
+        "quaint custom"
+      ]
+    }
+  },
+  {
+    "word": "quaintly",
+    "memory": "in an old-fashioned way",
+    "meaning": "In an unusual, old-fashioned and slightly charming way",
+    "hindi": "अनोखे ढंग से, पुराने ढंग से",
+    "trick": "QUAINT + LY = dressed like Grandpa's photo album.",
+    "examples": [
+      "Beside the hearse stood a quaintly dressed little man.",
+      "The shop was quaintly decorated with old clocks."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "quaintly + adjective (dressed/decorated)",
+      "partners": [
+        "quaintly dressed",
+        "quaintly old-fashioned"
+      ]
+    }
+  },
+  {
+    "word": "quaking",
+    "memory": "shaking with fear",
+    "meaning": "Shaking or trembling, especially because of fear",
+    "hindi": "काँपता हुआ, थरथराता हुआ",
+    "trick": "QUAKING = like an earthQUAKE inside your body.",
+    "examples": [
+      "Their quaking minds were only now facing the hard reality ahead.",
+      "She stood at the door, quaking with fear."
+    ],
+    "usage": {
+      "pos": "adjective / verb (-ing form)",
+      "pattern": "be quaking with fear / quaking + noun",
+      "partners": [
+        "quaking with fear",
+        "quaking knees",
+        "quaking voice"
+      ]
+    }
+  },
+  {
+    "word": "qualm",
+    "memory": "doubt, guilty feeling",
+    "meaning": "A feeling of doubt or worry about whether what you are doing is right",
+    "hindi": "संकोच, हिचक, ग्लानि",
+    "trick": "QUALM = a small alarm in your CALM conscience.",
+    "examples": [
+      "I ask you to impose the extreme penalty, and I ask it without a qualm.",
+      "She had no qualms about telling him the truth."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "have no qualms about doing something / without a qualm",
+      "partners": [
+        "no qualms",
+        "without a qualm",
+        "moral qualms"
+      ]
+    }
+  },
+  {
+    "word": "quarantined",
+    "memory": "kept apart",
+    "meaning": "Kept away from others for a time, usually to stop a disease from spreading",
+    "hindi": "अलग रखा, संगरोध में रखा",
+    "trick": "QUARANTINE = 'quaranta' (forty) days ships were kept apart.",
+    "examples": [
+      "My parents quarantined me at home.",
+      "The sick passengers were quarantined for two weeks."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "quarantine someone (at/in a place)",
+      "partners": [
+        "quarantined at home",
+        "be quarantined for"
+      ]
+    }
+  },
+  {
+    "word": "quarry",
+    "memory": "stone pit",
+    "meaning": "A large open place where stone, sand or rock is dug out of the ground; also an animal or person being hunted",
+    "hindi": "खदान, पत्थर की खान; शिकार",
+    "trick": "QUARRY = where they CARRY away stone.",
+    "examples": [
+      "There was a good quarry of limestone on the farm.",
+      "Trucks carried rocks from the quarry to the city."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a quarry of + stone / at the quarry",
+      "partners": [
+        "stone quarry",
+        "limestone quarry",
+        "work in a quarry"
+      ]
+    }
+  },
+  {
+    "word": "quarterdeck",
+    "memory": "ship's rear deck",
+    "meaning": "The raised rear part of a ship's upper deck, used by officers and for ceremonies",
+    "hindi": "जहाज़ का पिछला ऊपरी डेक",
+    "trick": "QUARTERDECK = the officers' QUARTER of the DECK.",
+    "examples": [
+      "The line stretched past the statue, all the way to the quarterdeck.",
+      "The captain stood on the quarterdeck and watched the sea."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "on/to the quarterdeck",
+      "partners": [
+        "on the quarterdeck",
+        "the ship's quarterdeck"
+      ]
+    }
+  },
+  {
+    "word": "quash",
+    "memory": "stop, crush",
+    "meaning": "Stop or crush something such as a feeling, protest or rumour; also officially cancel a court decision",
+    "hindi": "दबाना, कुचलना; रद्द करना",
+    "trick": "QUASH = SQUASH it flat.",
+    "examples": [
+      "Any attempt to avoid the negative or quash it only backfires.",
+      "The police moved quickly to quash the rumours."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "quash something (a feeling, rumour, protest, verdict)",
+      "partners": [
+        "quash rumours",
+        "quash a protest",
+        "quash the verdict"
+      ]
+    }
+  },
+  {
+    "word": "quasi-spiritual",
+    "memory": "almost spiritual",
+    "meaning": "Seeming partly or almost spiritual, without being fully religious",
+    "hindi": "लगभग आध्यात्मिक, अर्ध-आध्यात्मिक",
+    "trick": "QUASI = 'as if' (Latin): as-if spiritual.",
+    "examples": [
+      "Truly letting go can bring a quasi-spiritual state of calm.",
+      "For him, running at dawn was a quasi-spiritual experience."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a quasi-spiritual + noun",
+      "partners": [
+        "quasi-spiritual state",
+        "quasi-spiritual experience"
+      ]
+    }
+  },
+  {
+    "word": "quavering",
+    "memory": "shaky, trembling",
+    "meaning": "Shaking or unsteady, usually of a voice or a hand",
+    "hindi": "काँपती हुई, थरथराती",
+    "trick": "QUAVER = a WAVER in the voice.",
+    "examples": [
+      "His signature was sure-handed, hers quavering.",
+      "The old man answered in a quavering voice."
+    ],
+    "usage": {
+      "pos": "adjective / verb (-ing form)",
+      "pattern": "a quavering + voice/hand",
+      "partners": [
+        "quavering voice",
+        "quavering hand"
+      ]
+    }
+  },
+  {
+    "word": "queasiness",
+    "memory": "feeling sick",
+    "meaning": "A feeling that you are about to vomit; sick feeling in the stomach",
+    "hindi": "मतली, जी मिचलाना",
+    "trick": "QUEASINESS = QUEASY + NESS — the 'uh-oh' tummy.",
+    "examples": [
+      "In the morning, the queasiness in her gut persisted, then worsened.",
+      "The boat ride gave me a slight queasiness."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "feel a queasiness / a queasiness in the stomach",
+      "partners": [
+        "morning queasiness",
+        "slight queasiness"
+      ]
+    }
+  },
+  {
+    "word": "queasy",
+    "memory": "sick, nauseous",
+    "meaning": "Feeling as if you might vomit; also uneasy about something",
+    "hindi": "जी मिचलाता, मतली वाला; बेचैन",
+    "trick": "QUEASY = not EASY on the stomach.",
+    "examples": [
+      "Mariam had had a queasy stomach all night.",
+      "I felt queasy on the bus ride."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "feel queasy / a queasy + stomach/feeling",
+      "partners": [
+        "queasy stomach",
+        "feel queasy",
+        "queasy feeling"
+      ]
+    }
+  },
+  {
+    "word": "queer",
+    "memory": "strange, odd",
+    "meaning": "Strange or odd (old-fashioned); also a word for gay people, which is offensive when used as an insult",
+    "hindi": "अजीब, विचित्र",
+    "trick": "QUEER look = a QUEstion-mark look — something's odd.",
+    "examples": [
+      "He gave me a queer look, as if I slightly revolted him.",
+      "I had a queer feeling that someone was watching me."
+    ],
+    "usage": {
+      "pos": "adjective (old-fashioned)",
+      "pattern": "a queer + look/feeling",
+      "partners": [
+        "a queer look",
+        "a queer feeling",
+        "queer effect"
+      ]
+    }
+  },
+  {
+    "word": "quest",
+    "memory": "long search",
+    "meaning": "A long search for something important or difficult to find",
+    "hindi": "खोज, तलाश",
+    "trick": "QUEST = a QUESTion you travel far to answer.",
+    "examples": [
+      "Zen monks run 1,000 marathons in a quest to find enlightenment.",
+      "He went on a quest to find the best tea in the city."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a quest for something / in a quest to do something",
+      "partners": [
+        "quest for knowledge",
+        "on a quest",
+        "in a quest to"
+      ]
+    }
+  },
+  {
+    "word": "quibble",
+    "memory": "argue over small things",
+    "meaning": "Argue or complain about small, unimportant details",
+    "hindi": "छोटी बात पर बहस करना, नुक्ताचीनी करना",
+    "trick": "QUIBBLE = QUIBBLING over a 'nibble' of difference.",
+    "examples": [
+      "I couldn't quibble with the details of his job.",
+      "Let's not quibble over a few rupees."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "quibble about/over/with something",
+      "partners": [
+        "quibble over details",
+        "quibble with",
+        "no need to quibble"
+      ]
+    }
+  },
+  {
+    "word": "quid pro quo",
+    "memory": "favour for favour",
+    "meaning": "Something given or done in return for something else; a fair exchange",
+    "hindi": "लेन-देन, बदले में कुछ",
+    "trick": "QUID PRO QUO = Latin 'this for that'.",
+    "examples": [
+      "Our focus could not be on quid pro quo bargaining.",
+      "He helped me move, as a quid pro quo for fixing his car."
+    ],
+    "usage": {
+      "pos": "noun (phrase)",
+      "pattern": "a quid pro quo for something",
+      "partners": [
+        "quid pro quo deal",
+        "as a quid pro quo"
+      ]
+    }
+  },
+  {
+    "word": "quietened",
+    "memory": "calmed down",
+    "meaning": "Made quiet or calm (British spelling); became quiet",
+    "hindi": "शांत किया, चुप कराया",
+    "trick": "QUIETENED = made QUIET-en.",
+    "examples": [
+      "The chaplain quietened them down, then gazed at me.",
+      "The teacher quietened the noisy class."
+    ],
+    "usage": {
+      "pos": "verb (past, British)",
+      "pattern": "quieten someone/something (down)",
+      "partners": [
+        "quietened down",
+        "quietened the crowd"
+      ]
+    }
+  },
+  {
+    "word": "quince",
+    "memory": "a hard yellow fruit",
+    "meaning": "A hard, sour, yellow fruit like a pear, used to make jam",
+    "hindi": "बिही (एक फल)",
+    "trick": "QUINCE looks like a pear in a yellow PRINCE coat.",
+    "examples": [
+      "They had breakfast of tea, fresh bread and quince marmalade.",
+      "My grandmother makes jam from quince every autumn."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "quince + jam/marmalade",
+      "partners": [
+        "quince jam",
+        "quince marmalade",
+        "quince tree"
+      ]
+    }
+  },
+  {
+    "word": "quinces",
+    "memory": "hard yellow fruits",
+    "meaning": "Hard, sour, yellow fruits like pears, used for jam",
+    "hindi": "बिही के फल",
+    "trick": "QUINCES = plural of quince, the pear-like fruit.",
+    "examples": [
+      "Barefoot boys chased cars, waving bags of quinces.",
+      "She brought a basket of quinces from the market."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "a basket/bag of quinces",
+      "partners": [
+        "basket of quinces",
+        "ripe quinces"
+      ]
+    }
+  },
+  {
+    "word": "quirk",
+    "memory": "odd habit, oddity",
+    "meaning": "A strange habit or feature; also a strange chance event",
+    "hindi": "अजीब आदत, विचित्रता",
+    "trick": "QUIRK = a little QUIRKY twist.",
+    "examples": [
+      "There's a sneaky quirk to your brain that can drive you batty.",
+      "One of his quirks is eating cereal at night."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a quirk of something / have a quirk",
+      "partners": [
+        "quirk of fate",
+        "strange quirk",
+        "personality quirk"
+      ]
+    }
+  },
+  {
+    "word": "quitter",
+    "memory": "one who gives up",
+    "meaning": "A person who gives up easily instead of finishing things",
+    "hindi": "हार मानने वाला, बीच में छोड़ने वाला",
+    "trick": "QUITTER = someone who QUITS.",
+    "examples": [
+      "People would say I was a quitter or a loser.",
+      "Don't be a quitter, finish the race."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "be a quitter / call someone a quitter",
+      "partners": [
+        "not a quitter",
+        "called a quitter"
+      ]
+    }
+  },
+  {
+    "word": "quiver",
+    "memory": "tremble, shake",
+    "meaning": "Shake slightly and quickly, often from tiredness or strong feeling",
+    "hindi": "काँपना, थरथराना",
+    "trick": "QUIVER = a shiVER that won't stop.",
+    "examples": [
+      "She would quiver with pride to have such a father.",
+      "My legs started to quiver after the long climb."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "quiver with something (fear, pride, anger)",
+      "partners": [
+        "quiver with fear",
+        "lips quiver",
+        "quiver with excitement"
+      ]
+    }
+  },
+  {
+    "word": "quivering",
+    "memory": "trembling, shaking",
+    "meaning": "Shaking slightly and quickly, from tiredness, age or emotion",
+    "hindi": "काँपता हुआ, थरथराता",
+    "trick": "QUIVERING = the shiVERING of a tired muscle.",
+    "examples": [
+      "Their bodies were quivering with exhaustion.",
+      "The old mullah told stories in his quivering voice."
+    ],
+    "usage": {
+      "pos": "adjective / verb (-ing form)",
+      "pattern": "be quivering with something / a quivering + voice",
+      "partners": [
+        "quivering voice",
+        "quivering lips",
+        "quivering with exhaustion"
+      ]
+    }
+  },
+  {
+    "word": "quizzically",
+    "memory": "puzzled, questioningly",
+    "meaning": "In a way that shows you are puzzled or asking a question",
+    "hindi": "सवालिया नज़र से, हैरानी से",
+    "trick": "QUIZZICALLY = looking like you've got a QUIZ question.",
+    "examples": [
+      "The old man is looking at her quizzically.",
+      "She raised an eyebrow and looked at me quizzically."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "look at someone quizzically",
+      "partners": [
+        "look quizzically",
+        "smile quizzically"
+      ]
+    }
+  },
+  {
+    "word": "quotient",
+    "memory": "degree, amount",
+    "meaning": "The amount or degree of a quality (e.g. fun, pain); also the answer to a division sum",
+    "hindi": "मात्रा, स्तर; भागफल",
+    "trick": "QUOTIENT = how much of it there is, like IQ (intelligence QUOTIENT).",
+    "examples": [
+      "Push-ups and getting wet and sandy only upped the pain quotient.",
+      "The new show has a high fun quotient."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the + quality + quotient",
+      "partners": [
+        "intelligence quotient",
+        "fun quotient",
+        "pain quotient"
+      ]
+    }
+  }
+]

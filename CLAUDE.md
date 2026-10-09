@@ -27,8 +27,10 @@ just `Word`, or WhatsApp lines with timestamps (`[7:33 pm, 3/10/2026] Madhav: ..
 The user reads in the ReadEra app and saves words there. A ReadEra `.bak` file (e.g. in `~/Downloads`) is a zip
 with `library.json`; its `words` list holds every saved word plus the book sentence it was saved from.
 `python3 scripts/readera.py <backup.bak> <letter> [--json out.json]` lists words not yet in the app for a letter,
-with their sentences. Plan agreed on 2026-10-09: add them **letter by letter** (C was finished first, then D, E …),
-one letter per request; use the book sentence (shortened if long) as example 1. Skip words already covered by
+with their sentences (no letter = all letters). The backup from 2026-10-09 is **fully imported** (A–Z, 4,191 words);
+the script still lists ~95 saved keys that were skipped on purpose (names/brands like Metallica, Volvo; sentence
+fragments; forms merged into another entry, e.g. "hoofs" → hooves). For a newer backup, run it and add only the new
+words, one batch per request; use the book sentence (shortened if long) as example 1. Skip words already covered by
 another spelling or form (e.g. "concertina'd" = concertinaed) and say which were skipped.
 On 2026-10-09 every A/B/C/W entry that has a book sentence was rewritten from that context: the **book's sense comes
 first** in memory, meaning, hindi and usage (other senses after "; also"), example 1 = the book sentence. Do the

@@ -1,0 +1,22 @@
+[
+  {
+    "word": "zapping",
+    "memory": "killing quickly",
+    "meaning": "Killing or destroying something quickly, e.g. with a spray or electric shock (informal); also quickly changing TV channels",
+    "hindi": "तुरंत मारना, ख़त्म करना (बोलचाल)",
+    "trick": "ZAP! like a comic-book sound: one hit and it's gone.",
+    "examples": [
+      "Seven years earlier I had been searching fast food kitchens and dumpsters, zapping vermin.",
+      "The machine is good at zapping mosquitoes in the garden."
+    ],
+    "usage": {
+      "pos": "verb (-ing, informal)",
+      "pattern": "zapping + something (pests/bugs/germs)",
+      "partners": [
+        "zapping bugs",
+        "zapping germs",
+        "zapping between channels"
+      ]
+    }
+  }
+]

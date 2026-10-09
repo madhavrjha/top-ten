@@ -1,0 +1,924 @@
+[
+  {
+    "word": "nagging",
+    "memory": "bothering, troubling",
+    "meaning": "Troubling or worrying someone again and again; also complaining to someone repeatedly",
+    "hindi": "परेशान करता, खटकता; टोकता रहना",
+    "trick": "NAG-NAG-NAG: a thought that keeps poking you again and again.",
+    "examples": [
+      "Then I asked them the question that was most nagging me.",
+      "A small doubt kept nagging me all day."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "something is nagging someone / a nagging + doubt/feeling",
+      "partners": [
+        "nagging doubt",
+        "nagging feeling",
+        "keep nagging"
+      ]
+    }
+  },
+  {
+    "word": "nailed",
+    "memory": "fixed with nails",
+    "meaning": "Fastened in place with nails; also (informal) done something perfectly",
+    "hindi": "कीलों से जड़ा; (बोलचाल) बढ़िया किया",
+    "trick": "NAILED = hammered NAILS in: the carpet won't move now.",
+    "examples": [
+      "The stairs were covered with carpet, nailed down at the base of each step.",
+      "He nailed the picture frame to the wall."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "nail something down / nail something to something",
+      "partners": [
+        "nailed down",
+        "nailed to the wall",
+        "nailed shut"
+      ]
+    }
+  },
+  {
+    "word": "namesake",
+    "memory": "same-name person",
+    "meaning": "A person or thing that has the same name as another, or is named after them",
+    "hindi": "हमनाम, जिसके नाम पर नाम रखा गया",
+    "trick": "NAME + SAKE: named for the SAKE of someone else.",
+    "examples": [
+      "A whale had swallowed the boy's namesake prophet in the Koran.",
+      "My little cousin is my namesake; he was named after me."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "someone's namesake / be named after a namesake",
+      "partners": [
+        "his namesake",
+        "famous namesake"
+      ]
+    }
+  },
+  {
+    "word": "nape",
+    "memory": "back of neck",
+    "meaning": "The back of the neck",
+    "hindi": "गर्दन का पिछला हिस्सा, गुद्दी",
+    "trick": "NAPE sounds like NAP: when you nap, your NAPE rests on the pillow.",
+    "examples": [
+      "She kissed the nape of his neck.",
+      "The cold wind hit the nape of my neck."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the nape of someone's neck",
+      "partners": [
+        "nape of the neck",
+        "by the nape"
+      ]
+    }
+  },
+  {
+    "word": "narcissistic",
+    "memory": "self-obsessed, vain",
+    "meaning": "Too interested in oneself and one's own importance",
+    "hindi": "आत्ममुग्ध, खुद पर फिदा",
+    "trick": "NARCISSUS fell in love with his own reflection in the water.",
+    "examples": [
+      "Entitlement closes in upon itself in a kind of narcissistic bubble.",
+      "He is so narcissistic that he talks only about himself."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be narcissistic / a narcissistic + person/behaviour",
+      "partners": [
+        "narcissistic behaviour",
+        "narcissistic personality"
+      ]
+    }
+  },
+  {
+    "word": "nasal",
+    "memory": "through the nose",
+    "meaning": "Sounding as if the air is coming through the nose; also connected with the nose",
+    "hindi": "नाक से निकलती, नकियाती; नाक का",
+    "trick": "NASAL = NOSE-al: a voice that comes out of the nose.",
+    "examples": [
+      "From a cassette player, a man's nasal voice chanted verses from the Koran.",
+      "He has a cold, so his voice sounds nasal."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a nasal + voice/sound",
+      "partners": [
+        "nasal voice",
+        "nasal spray",
+        "nasal passages"
+      ]
+    }
+  },
+  {
+    "word": "nauseated",
+    "memory": "sick, queasy",
+    "meaning": "Feeling as if one is about to vomit",
+    "hindi": "जी मिचलाता हुआ, उल्टी जैसा",
+    "trick": "NAUSEA + TED: Ted felt NAUSEA on the boat.",
+    "examples": [
+      "She sat on the bed, missing her mother, feeling nauseated and homesick.",
+      "The bumpy bus ride left me nauseated."
+    ],
+    "usage": {
+      "pos": "adjective (past participle)",
+      "pattern": "feel nauseated / be nauseated by something",
+      "partners": [
+        "feel nauseated",
+        "slightly nauseated"
+      ]
+    }
+  },
+  {
+    "word": "navel",
+    "memory": "belly button",
+    "meaning": "The small hollow in the middle of the stomach; belly button",
+    "hindi": "नाभि, ढोंडी",
+    "trick": "NAVEL sounds like NAVAL, but it's the button in the middle of your belly.",
+    "examples": [
+      "He was an old man with a white beard that dropped to his navel.",
+      "The baby's navel healed a week after birth."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "someone's navel / down to the navel",
+      "partners": [
+        "belly navel",
+        "navel piercing",
+        "navel-gazing"
+      ]
+    }
+  },
+  {
+    "word": "necktie",
+    "memory": "tie",
+    "meaning": "A long strip of cloth worn around the neck under a shirt collar, knotted at the front",
+    "hindi": "टाई, गले की टाई",
+    "trick": "NECK + TIE: the thing you TIE around your NECK.",
+    "examples": [
+      "He walked through the tall grass, the breeze lifting his red necktie.",
+      "Dad wears a necktie to the office every day."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "wear a necktie / knot a necktie",
+      "partners": [
+        "red necktie",
+        "silk necktie",
+        "loosen a necktie"
+      ]
+    }
+  },
+  {
+    "word": "negated",
+    "memory": "denied, cancelled out",
+    "meaning": "Denied or gave up something, so it no longer has any effect; also cancelled out the effect of something",
+    "hindi": "नकार दिया, रद्द कर दिया",
+    "trick": "NEGATIVE: NEGATED = made it zero, turned it negative.",
+    "examples": [
+      "Once you have negated your own deep purpose, everybody tests you.",
+      "The extra cost negated all the savings we made."
+    ],
+    "usage": {
+      "pos": "verb (past participle)",
+      "pattern": "negate something / something negated by something",
+      "partners": [
+        "negated the effect",
+        "negated the benefits"
+      ]
+    }
+  },
+  {
+    "word": "neglect",
+    "memory": "lack of care",
+    "meaning": "Failure to give someone or something the care they need; also (verb) to fail to look after",
+    "hindi": "उपेक्षा, लापरवाही",
+    "trick": "NEG (not) + LECT (choose): not choosing to care.",
+    "examples": [
+      "Nobody makes it through life without scars, whether from neglect, loss, or illness.",
+      "The old house fell apart after years of neglect."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "suffer from neglect / neglect of something",
+      "partners": [
+        "years of neglect",
+        "child neglect",
+        "suffer neglect"
+      ]
+    }
+  },
+  {
+    "word": "negligence",
+    "memory": "carelessness",
+    "meaning": "Failure to take proper care in doing something",
+    "hindi": "लापरवाही, असावधानी",
+    "trick": "NEGLIGENCE = NEGLECT + ence: neglecting your duty.",
+    "examples": [
+      "Her forgotten invitation is now seen not as an innocent mistake but as horrible negligence.",
+      "The accident was caused by the driver's negligence."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "negligence by someone / negligence in doing something",
+      "partners": [
+        "gross negligence",
+        "medical negligence",
+        "due to negligence"
+      ]
+    }
+  },
+  {
+    "word": "neighing",
+    "memory": "horse's cry",
+    "meaning": "The loud, high sound a horse makes",
+    "hindi": "हिनहिनाना, हिनहिनाहट",
+    "trick": "NEIGH-NEIGH: the sound a horse makes, like 'nay'.",
+    "examples": [
+      "The terrified neighing of a horse sounded from the yard.",
+      "We heard the neighing of horses from the stable."
+    ],
+    "usage": {
+      "pos": "noun / verb (-ing)",
+      "pattern": "the neighing of a horse / a horse is neighing",
+      "partners": [
+        "loud neighing",
+        "neighing of horses"
+      ]
+    }
+  },
+  {
+    "word": "neophyte",
+    "memory": "beginner, newcomer",
+    "meaning": "A person who is new to a skill, job or activity",
+    "hindi": "नौसिखिया, नया व्यक्ति",
+    "trick": "NEO = new + PHYTE = plant: a newly planted person.",
+    "examples": [
+      "You'll learn to avoid the assumptions that blind neophyte negotiators.",
+      "As a neophyte cook, I burnt the rice twice."
+    ],
+    "usage": {
+      "pos": "noun (also used as adjective)",
+      "pattern": "a neophyte + noun / a neophyte in something",
+      "partners": [
+        "neophyte negotiators",
+        "complete neophyte"
+      ]
+    }
+  },
+  {
+    "word": "nepotism",
+    "memory": "favouring relatives",
+    "meaning": "Unfairly giving jobs or favours to one's own relatives or friends",
+    "hindi": "भाई-भतीजावाद",
+    "trick": "NEPOTISM = NEPHEW-ism: giving the job to your nephew.",
+    "examples": [
+      "The era of aristocracy, nepotism, and inequality is over.",
+      "People accused the manager of nepotism when he hired his son."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "accuse someone of nepotism / nepotism in something",
+      "partners": [
+        "accused of nepotism",
+        "nepotism in politics"
+      ]
+    }
+  },
+  {
+    "word": "nestled",
+    "memory": "snuggled, settled cosily",
+    "meaning": "Settled into a warm, comfortable, protected position",
+    "hindi": "दुबक गए, सिमटकर बैठ गए",
+    "trick": "NEST-led: like baby birds settling into a NEST.",
+    "examples": [
+      "The ducklings nestled down inside it and promptly fell asleep.",
+      "The kitten nestled against its mother."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "nestle down / nestle against or into something",
+      "partners": [
+        "nestled down",
+        "nestled against",
+        "nestled among the hills"
+      ]
+    }
+  },
+  {
+    "word": "nettlesome",
+    "memory": "annoying, troublesome",
+    "meaning": "Causing annoyance or difficulty",
+    "hindi": "झंझट भरा, परेशान करने वाला",
+    "trick": "NETTLE = a stinging plant: a NETTLESOME problem keeps stinging you.",
+    "examples": [
+      "People used these tools to work out nettlesome problems at home.",
+      "Fixing the leaky tap was a nettlesome job."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a nettlesome + problem/issue",
+      "partners": [
+        "nettlesome problem",
+        "nettlesome issue"
+      ]
+    }
+  },
+  {
+    "word": "neuroticism",
+    "memory": "constant anxiety",
+    "meaning": "A personality trait of being easily worried, anxious or upset",
+    "hindi": "घबराहट, चिंताग्रस्तता",
+    "trick": "NEURO = nerves: having nervous, jumpy nerves all the time.",
+    "examples": [
+      "It leads to a life of insecurity, neuroticism, and emotional repression.",
+      "His neuroticism made him check the lock five times."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a sign of neuroticism / high in neuroticism",
+      "partners": [
+        "high neuroticism",
+        "anxiety and neuroticism"
+      ]
+    }
+  },
+  {
+    "word": "nibbling",
+    "memory": "taking small bites",
+    "meaning": "Taking small, gentle bites of something",
+    "hindi": "कुतरते, थोड़ा-थोड़ा काटते",
+    "trick": "NIBBLE = a tiny bite, like a NIBBle of a biscuit.",
+    "examples": [
+      "She batted at the mosquitoes nibbling on her arms.",
+      "The rabbit was nibbling a carrot."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "nibble (on/at) something",
+      "partners": [
+        "nibbling on",
+        "nibbling at food",
+        "fish nibbling"
+      ]
+    }
+  },
+  {
+    "word": "niceties",
+    "memory": "polite details",
+    "meaning": "Small polite or formal details of behaviour; also fine details",
+    "hindi": "शिष्टाचार, औपचारिकताएँ; बारीकियाँ",
+    "trick": "NICE-ties: the NICE little things people say to be polite.",
+    "examples": [
+      "Gone are the fake niceties and verbal webs of politeness.",
+      "She skipped the niceties and got straight to the point."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "observe/skip the niceties / the niceties of something",
+      "partners": [
+        "social niceties",
+        "polite niceties",
+        "legal niceties"
+      ]
+    }
+  },
+  {
+    "word": "niche",
+    "memory": "alcove, small hollow",
+    "meaning": "A small hollow space in a wall or rock; also a special area or market that suits someone",
+    "hindi": "आला, ताक; विशेष क्षेत्र",
+    "trick": "NICHE sounds like 'nitch': a little NOOK cut into a wall.",
+    "examples": [
+      "There's a niche over here where we can look out.",
+      "A small statue stood in a niche in the temple wall."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a niche in something / find one's niche",
+      "partners": [
+        "niche in the wall",
+        "find your niche",
+        "niche market"
+      ]
+    }
+  },
+  {
+    "word": "nicked",
+    "memory": "cut slightly",
+    "meaning": "Made a small cut on something by accident; also (British informal) stole",
+    "hindi": "हल्का कट गया, खरोंच लगी; (बोलचाल) चुरा लिया",
+    "trick": "NICK = a tiny cut; NICKED yourself while shaving.",
+    "examples": [
+      "She pictured telling him when he nicked himself while shaving.",
+      "I nicked my finger while cutting onions."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "nick oneself / nick something on something",
+      "partners": [
+        "nicked himself",
+        "nicked his chin",
+        "nicked my finger"
+      ]
+    }
+  },
+  {
+    "word": "nickels",
+    "memory": "five-cent coins",
+    "meaning": "US or Canadian coins worth five cents",
+    "hindi": "पाँच सेंट के सिक्के",
+    "trick": "NICKEL is the metal; the five-cent coin is named after it.",
+    "examples": [
+      "I stored them in a bottle like so many nickels.",
+      "He paid for the candy with three nickels."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "a handful of nickels / pay in nickels",
+      "partners": [
+        "dimes and nickels",
+        "a few nickels"
+      ]
+    }
+  },
+  {
+    "word": "nigger",
+    "memory": "racial slur, never use",
+    "meaning": "A deeply offensive racial slur used against Black people; recognise it when reading, but never use it",
+    "hindi": "नस्लवादी गाली (अत्यंत अपमानजनक)",
+    "trick": "Learn to recognise it in books; it is one of the most hurtful words in English, so never say it.",
+    "examples": [
+      "In his memoir, he says bullies called him nigger, a racist slur that hurt him deeply.",
+      "Teachers explained why the slur nigger is so hurtful and should never be used."
+    ],
+    "usage": {
+      "pos": "noun (offensive slur)",
+      "pattern": "(do not use; recognise only)",
+      "partners": [
+        "racial slur",
+        "offensive slur"
+      ]
+    }
+  },
+  {
+    "word": "nightfall",
+    "memory": "dusk, evening",
+    "meaning": "The time in the evening when it becomes dark",
+    "hindi": "शाम ढलना, रात होना",
+    "trick": "NIGHT + FALL: when night falls.",
+    "examples": [
+      "With the two o'clock bus I should get there well before nightfall.",
+      "We must reach the village before nightfall."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "before/after/at nightfall",
+      "partners": [
+        "before nightfall",
+        "at nightfall",
+        "until nightfall"
+      ]
+    }
+  },
+  {
+    "word": "nimble",
+    "memory": "quick, light",
+    "meaning": "Quick and light in movement; also quick-thinking",
+    "hindi": "फुर्तीला, चुस्त",
+    "trick": "NIMBLE sounds like THIMBLE: you need NIMBLE fingers to sew.",
+    "examples": [
+      "Squealer was a small fat pig with twinkling eyes and nimble movements.",
+      "The nimble cat jumped onto the wall."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be nimble / nimble + fingers/feet",
+      "partners": [
+        "nimble fingers",
+        "nimble movements",
+        "nimble mind"
+      ]
+    }
+  },
+  {
+    "word": "nocturnal",
+    "memory": "at night",
+    "meaning": "Happening or active during the night",
+    "hindi": "रात का, रात में होने वाला",
+    "trick": "NOCTURNAL: NOCT = night (like 'nocturne', a night song).",
+    "examples": [
+      "On one of his nocturnal visits, Snowball had mixed weed seeds with the seed corn.",
+      "Owls are nocturnal birds."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "nocturnal + noun / be nocturnal",
+      "partners": [
+        "nocturnal animals",
+        "nocturnal visits",
+        "nocturnal habits"
+      ]
+    }
+  },
+  {
+    "word": "nomad",
+    "memory": "wanderer, traveller",
+    "meaning": "A person who keeps moving from place to place without a fixed home",
+    "hindi": "खानाबदोश, घुमंतू",
+    "trick": "NO MAD-house: a nomad has NO fixed house.",
+    "examples": [
+      "It was the digital nomad dream, exactly what I wanted out of life.",
+      "He lived like a nomad, moving to a new city every year."
+    ],
+    "usage": {
+      "pos": "noun (also used as adjective)",
+      "pattern": "live like a nomad / a nomad + noun",
+      "partners": [
+        "digital nomad",
+        "desert nomads",
+        "nomad lifestyle"
+      ]
+    }
+  },
+  {
+    "word": "nonchalant",
+    "memory": "calm, casual",
+    "meaning": "Calm and relaxed, seeming not to care or worry",
+    "hindi": "बेपरवाह, लापरवाह, बेफिक्र",
+    "trick": "NON + CHALANT (heat): no heat, totally cool about it.",
+    "examples": [
+      "He was nonchalant about the whole thing, drawing whatever amused him.",
+      "She looked nonchalant even before the big exam."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be nonchalant about something",
+      "partners": [
+        "nonchalant attitude",
+        "nonchalant shrug",
+        "seem nonchalant"
+      ]
+    }
+  },
+  {
+    "word": "nonetheless",
+    "memory": "even so, still",
+    "meaning": "In spite of that; however",
+    "hindi": "फिर भी, तब भी",
+    "trick": "NONE + THE + LESS: none the less true for that.",
+    "examples": [
+      "But we all must suffer nonetheless.",
+      "It was raining; nonetheless, we went for a walk."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "..., nonetheless / nonetheless, + clause",
+      "partners": [
+        "but nonetheless",
+        "nonetheless true",
+        "nonetheless important"
+      ]
+    }
+  },
+  {
+    "word": "nonsensical",
+    "memory": "absurd, meaningless",
+    "meaning": "Making no sense; silly or foolish",
+    "hindi": "बेतुका, निरर्थक",
+    "trick": "NON-SENSE-ical: no sense at all.",
+    "examples": [
+      "I knew it sounded nonsensical, and I heard people tittering.",
+      "His excuse was completely nonsensical."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be nonsensical / a nonsensical + idea/answer",
+      "partners": [
+        "nonsensical idea",
+        "sound nonsensical"
+      ]
+    }
+  },
+  {
+    "word": "noose",
+    "memory": "rope loop",
+    "meaning": "A loop of rope with a knot that tightens when pulled; also something that traps or restricts",
+    "hindi": "फंदा, रस्सी का फंदा",
+    "trick": "NOOSE sounds like LOOSE: a loop that gets tight, not loose.",
+    "examples": [
+      "The cowboy threw a noose over the calf's head.",
+      "He tied a noose at the end of the rope to lift the bucket."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a noose around something / the noose tightens",
+      "partners": [
+        "rope noose",
+        "the noose tightens"
+      ]
+    }
+  },
+  {
+    "word": "nosy",
+    "memory": "prying, curious",
+    "meaning": "Too interested in other people's private matters",
+    "hindi": "ताक-झाँक करने वाला, दूसरों के मामलों में दखल देने वाला",
+    "trick": "NOSY = pokes her NOSE into everything.",
+    "examples": [
+      "She's a nosy gossiper, that one.",
+      "Our nosy neighbour always asks where we are going."
+    ],
+    "usage": {
+      "pos": "adjective (informal)",
+      "pattern": "be nosy (about something)",
+      "partners": [
+        "nosy neighbour",
+        "nosy question"
+      ]
+    }
+  },
+  {
+    "word": "notch",
+    "memory": "level, step",
+    "meaning": "A level or degree on a scale; also a small V-shaped cut",
+    "hindi": "दर्जा, स्तर; खाँचा",
+    "trick": "NOTCH = the cuts on a belt: move up or down a NOTCH.",
+    "examples": [
+      "Somebody is jealous and trying to bring them down a notch.",
+      "That experience kicked my anxiety up several notches."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "take/bring someone down a notch / up a notch",
+      "partners": [
+        "down a notch",
+        "up a notch",
+        "top notch"
+      ]
+    }
+  },
+  {
+    "word": "notion",
+    "memory": "idea, belief",
+    "meaning": "An idea or belief about something",
+    "hindi": "विचार, धारणा",
+    "trick": "NOTION is related to NOTE: an idea you have noted in your mind.",
+    "examples": [
+      "The notion that we would ever run out of money sounded ludicrous.",
+      "I had no notion of how hard the job would be."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the notion that ... / a notion of something",
+      "partners": [
+        "the notion that",
+        "vague notion",
+        "no notion of"
+      ]
+    }
+  },
+  {
+    "word": "notions",
+    "memory": "ideas, beliefs",
+    "meaning": "Ideas or beliefs about something",
+    "hindi": "विचार, धारणाएँ",
+    "trick": "NOTIONS = NOTES in your head: ideas.",
+    "examples": [
+      "Their techniques had to do with logic and rational notions of value.",
+      "He has old-fashioned notions about how girls should behave."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "notions of/about something",
+      "partners": [
+        "notions of value",
+        "old-fashioned notions",
+        "romantic notions"
+      ]
+    }
+  },
+  {
+    "word": "nougats",
+    "memory": "nut sweets",
+    "meaning": "Chewy sweets made from sugar or honey with nuts",
+    "hindi": "नूगा, मेवे वाली मिठाई",
+    "trick": "NOUGAT = NUT + GOT: a chewy sweet that has got nuts.",
+    "examples": [
+      "A little boy places before them green tea and pistachio nougats.",
+      "We bought a box of almond nougats at the market."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "a box of nougats / pistachio nougats",
+      "partners": [
+        "pistachio nougats",
+        "almond nougats"
+      ]
+    }
+  },
+  {
+    "word": "nourished",
+    "memory": "sustained, fed",
+    "meaning": "Gave someone strength, comfort or hope; also fed with healthy food",
+    "hindi": "सहारा दिया, पोषित किया",
+    "trick": "NOURISH = NURSE: it fed and nursed my spirit.",
+    "examples": [
+      "The way he spun hopelessness into rage nourished me.",
+      "Her kind words nourished my confidence."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something nourished someone / be well nourished",
+      "partners": [
+        "nourished me",
+        "well nourished",
+        "nourished the soul"
+      ]
+    }
+  },
+  {
+    "word": "nourishing",
+    "memory": "refreshing, strengthening",
+    "meaning": "Giving strength and health; also (of food) healthy and filling",
+    "hindi": "ताकत देने वाला, पौष्टिक",
+    "trick": "NOURISHING = NOURISHES you: gives you fresh strength.",
+    "examples": [
+      "I waited until I could score one deep, nourishing breath.",
+      "Grandma made a hot, nourishing soup."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a nourishing + meal/breath/drink",
+      "partners": [
+        "nourishing food",
+        "nourishing soup",
+        "nourishing breath"
+      ]
+    }
+  },
+  {
+    "word": "now and then",
+    "memory": "sometimes, occasionally",
+    "meaning": "Sometimes, but not often or regularly",
+    "hindi": "कभी-कभी, कभी-कभार",
+    "trick": "NOW ... and THEN again later: it happens once in a while.",
+    "examples": [
+      "The only sound came only now and then, and at first I was puzzled by it.",
+      "We still meet for coffee now and then."
+    ],
+    "usage": {
+      "pos": "idiom (adverb phrase)",
+      "pattern": "do something (every) now and then",
+      "partners": [
+        "every now and then",
+        "only now and then"
+      ]
+    }
+  },
+  {
+    "word": "nuances",
+    "memory": "subtle differences",
+    "meaning": "Very small differences in meaning, feeling or quality",
+    "hindi": "बारीकियाँ, सूक्ष्म अंतर",
+    "trick": "NUANCES = NEW ANSWERS hidden in the small details.",
+    "examples": [
+      "There was no point in teaching sheep the nuances of wolf recognition.",
+      "A good translator understands the nuances of both languages."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "the nuances of something",
+      "partners": [
+        "subtle nuances",
+        "nuances of meaning",
+        "cultural nuances"
+      ]
+    }
+  },
+  {
+    "word": "nub",
+    "memory": "worn-down stub",
+    "meaning": "A small worn-down end or lump; also the central point of a matter",
+    "hindi": "घिसा हुआ ठूँठ; मूल बात",
+    "trick": "NUB rhymes with STUB: worn down to a tiny stub.",
+    "examples": [
+      "Mentally, I was worn to the nub.",
+      "The pencil was worn down to a nub."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "worn (down) to the nub / the nub of something",
+      "partners": [
+        "worn to the nub",
+        "the nub of the matter"
+      ]
+    }
+  },
+  {
+    "word": "nuggets",
+    "memory": "small gold lumps",
+    "meaning": "Small lumps of gold; also small valuable bits of information",
+    "hindi": "सोने के डले; काम की बातें",
+    "trick": "NUGGETS of gold, like chicken NUGGETS: small lumps.",
+    "examples": [
+      "Society expects you to be perfect and produce gold nuggets before breakfast.",
+      "Her talk was full of useful nuggets of advice."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "gold nuggets / nuggets of something",
+      "partners": [
+        "gold nuggets",
+        "nuggets of wisdom",
+        "nuggets of information"
+      ]
+    }
+  },
+  {
+    "word": "numb",
+    "memory": "without feeling",
+    "meaning": "Unable to feel anything, physically or emotionally",
+    "hindi": "सुन्न, बेहिस",
+    "trick": "NUMB: the B is silent, just like your numb fingers.",
+    "examples": [
+      "\"A what?\" she said through suddenly numb lips.",
+      "My fingers went numb in the cold."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "go numb / be numb with something",
+      "partners": [
+        "go numb",
+        "numb with cold",
+        "numb with shock"
+      ]
+    }
+  },
+  {
+    "word": "nursing",
+    "memory": "tending, looking after",
+    "meaning": "Taking care of an injury or illness so it gets better; also working as a nurse",
+    "hindi": "इलाज करते हुए, सहलाते हुए; नर्सिंग",
+    "trick": "NURSING = acting like a NURSE for your own injury.",
+    "examples": [
+      "Nursing a wounded knee, I could barely swim through the waves.",
+      "He stayed home, nursing a bad cold."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "nurse an injury / be nursing something",
+      "partners": [
+        "nursing an injury",
+        "nursing a cold",
+        "nursing a grudge"
+      ]
+    }
+  },
+  {
+    "word": "nutty",
+    "memory": "crazy, silly",
+    "meaning": "(informal) Crazy or foolish; also tasting of nuts",
+    "hindi": "सनकी, पागलपन भरा (बोलचाल); मेवे जैसा",
+    "trick": "NUTTY = a little NUTS (crazy).",
+    "examples": [
+      "Shakespeare wanted to show how absolutely nutty romance was.",
+      "My uncle has some nutty ideas about saving money."
+    ],
+    "usage": {
+      "pos": "adjective (informal)",
+      "pattern": "be nutty / a nutty + idea/person",
+      "partners": [
+        "nutty idea",
+        "nutty professor",
+        "nutty flavour"
+      ]
+    }
+  },
+  {
+    "word": "nuzzled",
+    "memory": "pressed, snuggled",
+    "meaning": "Pressed or rubbed gently against something, often for comfort or warmth",
+    "hindi": "सटा दिया, दुबका",
+    "trick": "NUZZLE = NOSE + snuggle: push your nose in gently.",
+    "examples": [
+      "His chin nuzzled into his breast, he slipped through the glass doors.",
+      "The puppy nuzzled against my hand."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "nuzzle (into/against) something",
+      "partners": [
+        "nuzzled against",
+        "nuzzled into",
+        "nuzzled his neck"
+      ]
+    }
+  }
+]

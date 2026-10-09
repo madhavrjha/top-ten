@@ -40,6 +40,26 @@
     }
   },
   {
+    "word": "backfired",
+    "memory": "went wrong",
+    "meaning": "Had the opposite result to what was planned",
+    "hindi": "उल्टा पड़ गया",
+    "trick": "BACKFIRED = the gun FIRED BACK at the shooter.",
+    "examples": [
+      "It was a shrewd move, but it easily could have backfired.",
+      "His joke backfired and everyone got angry."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something backfired (on someone)",
+      "partners": [
+        "plan backfired",
+        "backfired on him",
+        "badly backfired"
+      ]
+    }
+  },
+  {
     "word": "backhanded",
     "memory": "fake-nice, insulting",
     "meaning": "Said in a way that seems nice but is actually an insult (of a compliment); also a tennis shot hit with the back of the hand facing forward",
@@ -100,6 +120,26 @@
     }
   },
   {
+    "word": "baffled",
+    "memory": "confused, puzzled",
+    "meaning": "Completely confused; unable to understand something",
+    "hindi": "हैरान कर दिया, उलझा दिया",
+    "trick": "BAFFLED = left saying 'BAFF... huh?'",
+    "examples": [
+      "This way of thinking baffled Kahneman.",
+      "The strange noise baffled everyone in the house."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something baffled someone / be baffled by something",
+      "partners": [
+        "baffled by",
+        "completely baffled",
+        "baffled the doctors"
+      ]
+    }
+  },
+  {
     "word": "bailed out",
     "memory": "pulled out, left",
     "meaning": "Left or abandoned a situation suddenly (informal); also rescued someone from trouble, usually with money",
@@ -116,6 +156,46 @@
         "bailed out at the last minute",
         "bailed out of the mission",
         "bailed out the bank"
+      ]
+    }
+  },
+  {
+    "word": "balk",
+    "memory": "hesitate, refuse",
+    "meaning": "To be unwilling to do or accept something; to hold back",
+    "hindi": "हिचकिचाना, मना करना",
+    "trick": "BALK = a horse that BALKS stops at the fence and won't jump.",
+    "examples": [
+      "Students of mine balk at this notion.",
+      "Many people balk at paying so much for coffee."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "balk at something / balk at doing something",
+      "partners": [
+        "balk at the price",
+        "balk at the idea",
+        "balk at paying"
+      ]
+    }
+  },
+  {
+    "word": "ballistic",
+    "memory": "bulletproof, bullet-related",
+    "meaning": "Relating to bullets and things fired through the air; (go ... = become very angry, informal)",
+    "hindi": "गोली-रोधी, प्रक्षेप्य संबंधी",
+    "trick": "BALLISTIC = BALLs (bullets) flying.",
+    "examples": [
+      "Two SWAT officers moved forward with ballistic shields, guns drawn.",
+      "Soldiers wear ballistic vests for protection."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "ballistic + noun / go ballistic",
+      "partners": [
+        "ballistic shield",
+        "ballistic missile",
+        "go ballistic"
       ]
     }
   },
@@ -880,6 +960,25 @@
     }
   },
   {
+    "word": "beat cop",
+    "memory": "patrol police officer",
+    "meaning": "A police officer who patrols an area on foot",
+    "hindi": "गश्ती पुलिसवाला, बीट सिपाही",
+    "trick": "His BEAT = the streets a COP walks every day.",
+    "examples": [
+      "It felt unfair that he wanted me, a former Kansas City beat cop, to debate him.",
+      "The beat cop knew every shopkeeper on the street."
+    ],
+    "usage": {
+      "pos": "noun (informal, US)",
+      "pattern": "a beat cop / work as a beat cop",
+      "partners": [
+        "former beat cop",
+        "local beat cop"
+      ]
+    }
+  },
+  {
     "word": "beckoning",
     "memory": "calling, inviting",
     "meaning": "Calling someone to come closer or to follow; seeming to invite or attract you",
@@ -956,6 +1055,26 @@
         "honey bees",
         "swarm of bees",
         "bees buzzing"
+      ]
+    }
+  },
+  {
+    "word": "befuddled",
+    "memory": "confused, puzzled",
+    "meaning": "Confused and unable to think clearly",
+    "hindi": "चकराया हुआ, उलझन में",
+    "trick": "BE-FUDDLED = head stuck in a MUDDLE.",
+    "examples": [
+      "Our instructor was befuddled that his partner kept getting better deals.",
+      "Grandpa looked befuddled by the new phone."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be befuddled by something / a befuddled + noun",
+      "partners": [
+        "befuddled look",
+        "completely befuddled",
+        "befuddled by"
       ]
     }
   },
@@ -1856,6 +1975,25 @@
         "bizarre way",
         "bizarre dream",
         "quite bizarre"
+      ]
+    }
+  },
+  {
+    "word": "black sheep",
+    "memory": "odd one out",
+    "meaning": "A person seen as a disgrace or very different from the rest of their family or group",
+    "hindi": "परिवार का कलंक, अलग-थलग सदस्य",
+    "trick": "One BLACK SHEEP in a flock of white ones — everyone notices it.",
+    "examples": [
+      "William was the family oddball, the black sheep.",
+      "My uncle was the black sheep of the family because he never settled down."
+    ],
+    "usage": {
+      "pos": "noun (idiom)",
+      "pattern": "the black sheep of the family / of a group",
+      "partners": [
+        "black sheep of the family",
+        "the black sheep"
       ]
     }
   },
@@ -2993,6 +3131,26 @@
     }
   },
   {
+    "word": "botched",
+    "memory": "badly done",
+    "meaning": "Done badly or clumsily, so it failed",
+    "hindi": "बिगाड़ा हुआ, बेढंगा",
+    "trick": "BOTCHED = BOTH hands thumbs — job messed up.",
+    "examples": [
+      "The police made a botched rescue attempt.",
+      "The botched haircut took months to grow out."
+    ],
+    "usage": {
+      "pos": "adjective (past participle)",
+      "pattern": "a botched + noun / botched something",
+      "partners": [
+        "botched attempt",
+        "botched job",
+        "botched operation"
+      ]
+    }
+  },
+  {
     "word": "boulevard",
     "memory": "wide tree-lined street",
     "meaning": "A wide city street, often lined with trees",
@@ -3128,6 +3286,26 @@
       "partners": [
         "big bow window",
         "sit in the bow window"
+      ]
+    }
+  },
+  {
+    "word": "bowels",
+    "memory": "deep inside",
+    "meaning": "The deepest inner part of a building or place; also the intestines",
+    "hindi": "भीतरी हिस्सा, गहराई; आँतें",
+    "trick": "BOWELS = the inside 'guts' of a building, like the body's guts.",
+    "examples": [
+      "She had disappeared into the bowels of the bank.",
+      "The workers went down into the bowels of the ship."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "the bowels of + place",
+      "partners": [
+        "bowels of the earth",
+        "bowels of the building",
+        "bowels of the ship"
       ]
     }
   },
@@ -3305,6 +3483,26 @@
         "brash young man",
         "brash manner",
         "brash entrance"
+      ]
+    }
+  },
+  {
+    "word": "brass",
+    "memory": "nerve, boldness",
+    "meaning": "Boldness or nerve, especially when it is surprising (informal); also a yellow metal",
+    "hindi": "हिम्मत, दुस्साहस (बोलचाल); पीतल",
+    "trick": "BRASS = bold as BRASS — hard and shiny metal nerves.",
+    "examples": [
+      "I remember thinking this showed a lot of brass.",
+      "He had the brass to ask for a raise on day one."
+    ],
+    "usage": {
+      "pos": "noun (informal)",
+      "pattern": "have the brass to do something / show brass",
+      "partners": [
+        "show brass",
+        "have the brass",
+        "bold as brass"
       ]
     }
   },
@@ -3664,6 +3862,45 @@
     }
   },
   {
+    "word": "bring home",
+    "memory": "make fully clear",
+    "meaning": "To make someone fully understand or feel how real or serious something is (bring it home to someone)",
+    "hindi": "एहसास कराना, अच्छी तरह समझाना",
+    "trick": "BRING the truth HOME, right inside your heart.",
+    "examples": [
+      "The funeral will bring it home to me.",
+      "The pictures bring home how bad the flood was."
+    ],
+    "usage": {
+      "pos": "phrasal verb",
+      "pattern": "bring something home to someone / bring home how/that...",
+      "partners": [
+        "bring it home to me",
+        "bring home the point",
+        "bring home the reality"
+      ]
+    }
+  },
+  {
+    "word": "bring oneself to",
+    "memory": "force yourself",
+    "meaning": "To make yourself do something you find hard or unpleasant (usually with 'can't')",
+    "hindi": "खुद को मना पाना, हिम्मत जुटाना",
+    "trick": "BRING your own self TO the task, even when your feet won't move.",
+    "examples": [
+      "Mariam could not bring herself to allow it.",
+      "I couldn't bring myself to tell him the bad news."
+    ],
+    "usage": {
+      "pos": "verb (phrase)",
+      "pattern": "can't bring yourself to do something",
+      "partners": [
+        "can't bring herself to",
+        "couldn't bring myself to say"
+      ]
+    }
+  },
+  {
     "word": "brink",
     "memory": "edge, limit",
     "meaning": "The very edge or limit; the point just before something happens",
@@ -3903,6 +4140,26 @@
     }
   },
   {
+    "word": "browbeating",
+    "memory": "bullying, intimidating",
+    "meaning": "Forcing or frightening someone into doing something by bullying words",
+    "hindi": "धमकाना, डराना",
+    "trick": "BROW-BEATING = beating someone down with your angry eyeBROWS.",
+    "examples": [
+      "Negotiating does not mean browbeating or grinding someone down.",
+      "Browbeating your staff won't make them work harder."
+    ],
+    "usage": {
+      "pos": "noun / verb (-ing)",
+      "pattern": "browbeating someone (into doing something)",
+      "partners": [
+        "browbeating staff",
+        "browbeating into",
+        "no browbeating"
+      ]
+    }
+  },
+  {
     "word": "brownies",
     "memory": "chocolate cakes",
     "meaning": "Small, square chocolate cakes",
@@ -4037,6 +4294,26 @@
         "drunken brute",
         "cruel brute",
         "brute force"
+      ]
+    }
+  },
+  {
+    "word": "brute force",
+    "memory": "raw strength",
+    "meaning": "Strong physical force or power used without thought or skill",
+    "hindi": "बल प्रयोग, ज़ोर-ज़बरदस्ती",
+    "trick": "BRUTE = beast: FORCE like a beast, no brain.",
+    "examples": [
+      "He opened the stuck door with brute force.",
+      "You can't solve every problem with brute force."
+    ],
+    "usage": {
+      "pos": "noun phrase",
+      "pattern": "by/with brute force",
+      "partners": [
+        "use brute force",
+        "by brute force",
+        "sheer brute force"
       ]
     }
   },
@@ -4330,6 +4607,26 @@
         "marker buoys",
         "orange buoys",
         "marked with buoys"
+      ]
+    }
+  },
+  {
+    "word": "burglarize",
+    "memory": "break in, rob",
+    "meaning": "To break into a building or machine to steal (US); British English uses 'burgle'",
+    "hindi": "सेंध लगाना, चोरी करना",
+    "trick": "BURGLAR + IZE = do what a BURGLAR does.",
+    "examples": [
+      "His partners thought they were going to burglarize the ATM.",
+      "Someone tried to burglarize our house last night."
+    ],
+    "usage": {
+      "pos": "verb (US)",
+      "pattern": "burglarize + place",
+      "partners": [
+        "burglarize a house",
+        "burglarize a shop",
+        "burglarize the ATM"
       ]
     }
   },

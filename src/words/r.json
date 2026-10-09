@@ -1,0 +1,4856 @@
+[
+  {
+    "word": "racking",
+    "memory": "putting on a rack",
+    "meaning": "Putting things such as weights onto a rack, or loading them; also causing great pain (as in a painful, shaking cough)",
+    "hindi": "रैक पर रखना, जमाना; बहुत दर्द देने वाला",
+    "trick": "RACKING weights = putting them on the RACK.",
+    "examples": [
+      "I threw my bag down and started racking weights.",
+      "He was racking the dishes after dinner."
+    ],
+    "usage": {
+      "pos": "verb (-ing form)",
+      "pattern": "racking + things (weights, plates)",
+      "partners": [
+        "racking weights",
+        "racking the bar"
+      ]
+    }
+  },
+  {
+    "word": "radiate",
+    "memory": "give off, show",
+    "meaning": "Clearly show a feeling or quality to people around you; also send out heat or light",
+    "hindi": "झलकाना, बिखेरना; विकीर्ण करना",
+    "trick": "RADIATE = send out RAYS, like a RADIATOR gives heat.",
+    "examples": [
+      "When we radiate warmth and acceptance, conversations seem to flow.",
+      "She seems to radiate confidence."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "radiate something (warmth, confidence, heat)",
+      "partners": [
+        "radiate warmth",
+        "radiate confidence",
+        "radiate heat"
+      ]
+    }
+  },
+  {
+    "word": "radical",
+    "memory": "extreme, far-reaching",
+    "meaning": "Extreme or very different from what is usual; also wanting big political or social change",
+    "hindi": "कट्टर, उग्र; आमूल",
+    "trick": "RADICAL goes to the ROOT (radix) — total change.",
+    "examples": [
+      "People feel they need to be more extreme and more radical to get noticed.",
+      "The company made radical changes to its plans."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a radical + noun / become radical",
+      "partners": [
+        "radical change",
+        "radical idea",
+        "radical feminist"
+      ]
+    }
+  },
+  {
+    "word": "raft",
+    "memory": "floating platform",
+    "meaning": "A flat floating platform, often made of wood or rubber, used on water",
+    "hindi": "बेड़ा, तैरता तख्ता",
+    "trick": "RAFT = flat wood that drifts like a lift on water.",
+    "examples": [
+      "I helped her climb onto a raft in the sea.",
+      "The boys built a raft from old logs."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "on a raft / a raft of + things (= many)",
+      "partners": [
+        "rubber raft",
+        "life raft",
+        "build a raft"
+      ]
+    }
+  },
+  {
+    "word": "rafters",
+    "memory": "roof beams",
+    "meaning": "The sloping wooden beams that hold up a roof",
+    "hindi": "छत की कड़ियाँ, धरन",
+    "trick": "RAFTERS = high beams the birds fly AFTER.",
+    "examples": [
+      "The pigeons fluttered up to the rafters.",
+      "Old lanterns hung from the rafters of the barn."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "in/up to/from the rafters",
+      "partners": [
+        "up to the rafters",
+        "wooden rafters",
+        "hang from the rafters"
+      ]
+    }
+  },
+  {
+    "word": "rag",
+    "memory": "old cloth",
+    "meaning": "A piece of old cloth used for cleaning, or as cheap material for mats and soft dolls",
+    "hindi": "चीथड़ा, पुराना कपड़ा",
+    "trick": "RAG = a RAGGED bit of cloth.",
+    "examples": [
+      "With a rag, she washed the windows of her room.",
+      "Wipe the table with a damp rag."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "with a rag / a rag + doll/mat",
+      "partners": [
+        "damp rag",
+        "rag doll",
+        "old rag"
+      ]
+    }
+  },
+  {
+    "word": "rage",
+    "memory": "fashion, craze",
+    "meaning": "(all the ...) very popular and fashionable for a time; also violent anger",
+    "hindi": "चलन, फ़ैशन; ग़ुस्सा",
+    "trick": "ALL THE RAGE = everyone is mad (raging) about it.",
+    "examples": [
+      "Having high self-esteem became all the rage in psychology.",
+      "Short videos are all the rage these days."
+    ],
+    "usage": {
+      "pos": "noun (in 'all the rage')",
+      "pattern": "be all the rage",
+      "partners": [
+        "all the rage",
+        "fly into a rage"
+      ]
+    }
+  },
+  {
+    "word": "ragged",
+    "memory": "torn, worn out",
+    "meaning": "Old, torn and in bad condition; also uneven or rough",
+    "hindi": "फटा-पुराना, चिथड़ा",
+    "trick": "RAGGED = made of RAGs.",
+    "examples": [
+      "They wore sandals with ragged straps that flapped back and forth.",
+      "Children played volleyball over a ragged net."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "ragged + clothes/net/edge",
+      "partners": [
+        "ragged clothes",
+        "ragged edge",
+        "ragged net"
+      ]
+    }
+  },
+  {
+    "word": "raging",
+    "memory": "violent, very strong",
+    "meaning": "Very strong, violent or out of control (of wind, fire, water or feelings)",
+    "hindi": "प्रचंड, उग्र, भयंकर",
+    "trick": "RAGING wind = the weather is in a RAGE.",
+    "examples": [
+      "November came, with raging south-west winds.",
+      "The raging river swept away the bridge."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a raging + noun",
+      "partners": [
+        "raging storm",
+        "raging fire",
+        "raging winds"
+      ]
+    }
+  },
+  {
+    "word": "raids",
+    "memory": "sudden attacks",
+    "meaning": "Sudden attacks or surprise searches by soldiers, police or planes",
+    "hindi": "छापे, हमले",
+    "trick": "RAIDS = RAIDERS rush in suddenly.",
+    "examples": [
+      "It's the raids, don't you know, my love?",
+      "Police carried out raids on several houses."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "a raid on something / carry out raids",
+      "partners": [
+        "air raids",
+        "police raids",
+        "night raids"
+      ]
+    }
+  },
+  {
+    "word": "rake",
+    "memory": "garden tool",
+    "meaning": "A garden tool with a long handle and teeth for gathering leaves; also (thin as a ...) very thin",
+    "hindi": "पंजा, जेली; बहुत दुबला",
+    "trick": "RAKE = a big comb for the lawn that MAKEs piles of leaves.",
+    "examples": [
+      "Most of the men were as thin as rakes.",
+      "He used a rake to gather the dry leaves."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "use a rake / as thin as a rake",
+      "partners": [
+        "garden rake",
+        "thin as a rake"
+      ]
+    }
+  },
+  {
+    "word": "rallied",
+    "memory": "gathered together",
+    "meaning": "Came together as a group for a shared activity or purpose; also recovered strength",
+    "hindi": "इकट्ठे हुए, जुटे",
+    "trick": "RALLIED = came to the RALLY.",
+    "examples": [
+      "Guys rallied at 5 a.m. for a run-swim-run.",
+      "The neighbours rallied to help the family."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "rally (at a place) / rally to do something / rally behind someone",
+      "partners": [
+        "rallied around",
+        "rallied behind",
+        "rallied support"
+      ]
+    }
+  },
+  {
+    "word": "rambled",
+    "memory": "talked on and on",
+    "meaning": "Talked for a long time in a confused way, without keeping to the point",
+    "hindi": "बेतुकी बातें करता रहा, बड़बड़ाया",
+    "trick": "RAMBLED = words wander like a RAMBLE in the park.",
+    "examples": [
+      "While my lawyer rambled on, I heard an ice-cream vendor's horn.",
+      "He rambled on about his school days for an hour."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "ramble on (about something)",
+      "partners": [
+        "rambled on",
+        "rambled about"
+      ]
+    }
+  },
+  {
+    "word": "ramming",
+    "memory": "forcing, pushing hard",
+    "meaning": "Pushing or hitting something with great force",
+    "hindi": "ठूँसना, ज़ोर से घुसाना",
+    "trick": "RAMMING = hitting like a RAM's horns.",
+    "examples": [
+      "\"It's like someone is ramming a screwdriver into my ear,\" Rasheed said.",
+      "He kept ramming clothes into the small bag."
+    ],
+    "usage": {
+      "pos": "verb (-ing form)",
+      "pattern": "ram something into something",
+      "partners": [
+        "ramming into",
+        "ramming home"
+      ]
+    }
+  },
+  {
+    "word": "rampant",
+    "memory": "widespread, out of control",
+    "meaning": "Spreading or happening a lot in a way that cannot be controlled",
+    "hindi": "बेकाबू, व्याप्त, बड़े पैमाने पर",
+    "trick": "RAMPANT = RAMPaging everywhere.",
+    "examples": [
+      "Its trailer parks were rampant with jobless drug users.",
+      "Corruption was rampant in the old system."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be rampant / rampant + noun",
+      "partners": [
+        "rampant corruption",
+        "rampant inflation",
+        "run rampant"
+      ]
+    }
+  },
+  {
+    "word": "ranch",
+    "memory": "large farm",
+    "meaning": "A large farm, especially in America, where cattle or horses are raised",
+    "hindi": "बड़ा फ़ार्म, पशु-फ़ार्म",
+    "trick": "RANCH = where cowboys RANge over the land.",
+    "examples": [
+      "He flew out to his family's ranch in Texas.",
+      "They keep horses on their ranch."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "on a ranch",
+      "partners": [
+        "cattle ranch",
+        "family ranch",
+        "work on a ranch"
+      ]
+    }
+  },
+  {
+    "word": "ranch-style",
+    "memory": "long one-storey",
+    "meaning": "(Of a house) long and low, with only one floor, in an American style",
+    "hindi": "एक-मंज़िला लंबा मकान (अमरीकी)",
+    "trick": "RANCH-STYLE = shaped like a low farmhouse on a ranch.",
+    "examples": [
+      "He always described his ranch-style house with two white lions at the gate.",
+      "They bought a ranch-style home with a big yard."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a ranch-style + house/home",
+      "partners": [
+        "ranch-style house",
+        "ranch-style home"
+      ]
+    }
+  },
+  {
+    "word": "rancid",
+    "memory": "rotten-smelling",
+    "meaning": "Smelling or tasting bad because it is old or stale (of fat, oil or food)",
+    "hindi": "सड़ा, बासी, बदबूदार",
+    "trick": "RANCID = RAN out of freshness and turned acid.",
+    "examples": [
+      "The rancid odor in the air was our own.",
+      "The butter had gone rancid."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "go rancid / a rancid + smell/taste",
+      "partners": [
+        "rancid smell",
+        "go rancid",
+        "rancid butter"
+      ]
+    }
+  },
+  {
+    "word": "rancor",
+    "memory": "bitter hatred",
+    "meaning": "Deep, bitter anger or hatred that lasts a long time (US spelling; British: rancour)",
+    "hindi": "कड़वाहट, द्वेष, बैर",
+    "trick": "RANCOR = a RANCID heart, gone bitter.",
+    "examples": [
+      "The air around her was choked with rancor and despair.",
+      "They parted without rancor."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "without rancor / rancor toward someone",
+      "partners": [
+        "bitter rancor",
+        "without rancor"
+      ]
+    }
+  },
+  {
+    "word": "rankled",
+    "memory": "annoyed, irritated",
+    "meaning": "Kept annoying or upsetting someone for a long time",
+    "hindi": "चुभा, खटका",
+    "trick": "RANKLED = like a RANK smell that won't go away.",
+    "examples": [
+      "What rankled Laila was that Mammy hadn't earned the right.",
+      "His rude comment rankled her for days."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something rankled (someone)",
+      "partners": [
+        "rankled her",
+        "still rankled"
+      ]
+    }
+  },
+  {
+    "word": "ransacked",
+    "memory": "torn apart (inside)",
+    "meaning": "Deeply troubled and torn apart (by guilt), as if searched roughly; usually: searched a place roughly, making a mess and stealing things",
+    "hindi": "बेचैन, व्याकुल; तहस-नहस किया",
+    "trick": "RANSACKED = a robber RAN through with a SACK, emptying everything.",
+    "examples": [
+      "Ransacked with guilt, Mariam would kneel and pray for forgiveness.",
+      "Thieves ransacked the house while we were away."
+    ],
+    "usage": {
+      "pos": "verb (past); adjective",
+      "pattern": "ransack a place / be ransacked with guilt",
+      "partners": [
+        "ransacked the house",
+        "ransacked with guilt"
+      ]
+    }
+  },
+  {
+    "word": "ranting",
+    "memory": "shouting angrily",
+    "meaning": "Speaking or shouting in a loud, angry and excited way for a long time",
+    "hindi": "चिल्लाती हुई, भड़ास निकालती",
+    "trick": "RANTING = RAge + chANTING.",
+    "examples": [
+      "Mammy was pacing and ranting while Babi sat quietly.",
+      "He was ranting about the traffic all morning."
+    ],
+    "usage": {
+      "pos": "verb (-ing form)",
+      "pattern": "rant (and rave) about something",
+      "partners": [
+        "ranting and raving",
+        "ranting about"
+      ]
+    }
+  },
+  {
+    "word": "rants",
+    "memory": "angry speeches",
+    "meaning": "Long, loud, angry speeches or complaints",
+    "hindi": "लंबी ग़ुस्से भरी बातें, भड़ास",
+    "trick": "RANTS = angry RANTings.",
+    "examples": [
+      "He would go on long political rants in class.",
+      "Her rants about the boss were famous in the office."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "go on rants (about something)",
+      "partners": [
+        "political rants",
+        "go on rants",
+        "angry rants"
+      ]
+    }
+  },
+  {
+    "word": "rapped",
+    "memory": "knocked sharply",
+    "meaning": "Hit or knocked quickly and sharply on a surface",
+    "hindi": "खटखटाया, ठकठकाया",
+    "trick": "RAPPED = RAP-RAP-RAP on the door.",
+    "examples": [
+      "His knuckles rapped and rapped on the glass.",
+      "Someone rapped on the window."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "rap on/at something",
+      "partners": [
+        "rapped on the door",
+        "rapped on the window"
+      ]
+    }
+  },
+  {
+    "word": "rappel",
+    "memory": "go down a rope",
+    "meaning": "Go down a steep cliff or wall by sliding down a rope fixed at the top",
+    "hindi": "रस्सी से नीचे उतरना",
+    "trick": "RAPPEL = slide down a rope REPELling the wall with your feet.",
+    "examples": [
+      "In the mountains we learned how to rappel and rock climb.",
+      "They had to rappel down the cliff."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "rappel down/off something",
+      "partners": [
+        "rappel down",
+        "learn to rappel"
+      ]
+    }
+  },
+  {
+    "word": "rappelled",
+    "memory": "went down ropes",
+    "meaning": "Went down a steep surface by sliding down a rope",
+    "hindi": "रस्सी से नीचे उतरे",
+    "trick": "RAPPELLED = past of rappel — double L.",
+    "examples": [
+      "We rappelled from hovering helicopters.",
+      "The rescue team rappelled into the canyon."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "rappel down/from/into something",
+      "partners": [
+        "rappelled down",
+        "rappelled from"
+      ]
+    }
+  },
+  {
+    "word": "rapport",
+    "memory": "friendly understanding",
+    "meaning": "A friendly relationship in which people understand each other well",
+    "hindi": "आपसी समझ, तालमेल",
+    "trick": "RAPPORT = people who REPORT to each other easily.",
+    "examples": [
+      "We need simple tactics to calm people down and establish rapport.",
+      "The new teacher quickly built a rapport with her students."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "build/establish rapport with someone",
+      "partners": [
+        "build rapport",
+        "establish rapport",
+        "good rapport"
+      ]
+    }
+  },
+  {
+    "word": "rapt",
+    "memory": "fully absorbed",
+    "meaning": "So interested in something that you notice nothing else",
+    "hindi": "मग्न, तल्लीन",
+    "trick": "RAPT = WRAPPED up in it.",
+    "examples": [
+      "She studied the menu with a sort of rapt attention.",
+      "The children listened with rapt attention."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "rapt attention / be rapt",
+      "partners": [
+        "rapt attention",
+        "rapt audience"
+      ]
+    }
+  },
+  {
+    "word": "raspy",
+    "memory": "rough, harsh",
+    "meaning": "Sounding rough and harsh, like a scraping sound (of a voice or throat)",
+    "hindi": "खरखराती, फटी हुई (आवाज़)",
+    "trick": "RASPY = a RASP (rough file) scraping wood.",
+    "examples": [
+      "His harsh, raspy voice sounded like dry leaves underfoot.",
+      "She had a raspy voice from her cold."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a raspy + voice/throat",
+      "partners": [
+        "raspy voice",
+        "raspy throat",
+        "raspy cough"
+      ]
+    }
+  },
+  {
+    "word": "ratcatcher",
+    "memory": "rat hunter",
+    "meaning": "A person whose job is to catch rats; also (of clothes) plain informal riding clothes",
+    "hindi": "चूहे पकड़ने वाला",
+    "trick": "RATCATCHER = RAT + CATCHER.",
+    "examples": [
+      "Napoleon appeared in a black coat, ratcatcher breeches and leather leggings.",
+      "The farmer hired a ratcatcher for his barn."
+    ],
+    "usage": {
+      "pos": "noun; adjective (of clothes)",
+      "pattern": "a ratcatcher / ratcatcher + clothes",
+      "partners": [
+        "village ratcatcher",
+        "ratcatcher breeches"
+      ]
+    }
+  },
+  {
+    "word": "ratcheted",
+    "memory": "increased step by step",
+    "meaning": "(... up) Increased steadily, little by little",
+    "hindi": "धीरे-धीरे बढ़ा",
+    "trick": "A RATCHET only turns one way — up, up, up.",
+    "examples": [
+      "As the sun moved west, Mariam's anxiety really ratcheted up.",
+      "The pressure ratcheted up before the exam."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something ratcheted up / ratchet up something",
+      "partners": [
+        "ratcheted up",
+        "ratcheted up the pressure"
+      ]
+    }
+  },
+  {
+    "word": "rather",
+    "memory": "somewhat, fairly",
+    "meaning": "Fairly, somewhat; also (would ...) prefer",
+    "hindi": "कुछ हद तक, काफ़ी; बल्कि",
+    "trick": "RATHER = a little bit more than 'a little'.",
+    "examples": [
+      "He had a cigarette in his mouth and a rather sickly smile.",
+      "It's rather cold today."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "rather + adjective / would rather do something",
+      "partners": [
+        "rather good",
+        "rather strange",
+        "would rather"
+      ]
+    }
+  },
+  {
+    "word": "rathole",
+    "memory": "dirty little place",
+    "meaning": "A small, dirty, unpleasant place to live (informal)",
+    "hindi": "गंदी छोटी जगह, दड़बा (बोलचाल)",
+    "trick": "RATHOLE = a home only a RAT would like.",
+    "examples": [
+      "\"And so, your father built us this rathole.\"",
+      "I can't believe we lived in that rathole for a year."
+    ],
+    "usage": {
+      "pos": "noun (informal)",
+      "pattern": "a rathole (of a place)",
+      "partners": [
+        "live in a rathole",
+        "this rathole"
+      ]
+    }
+  },
+  {
+    "word": "rations",
+    "memory": "fixed food share",
+    "meaning": "A fixed amount of food allowed to each person or animal",
+    "hindi": "राशन, तय हिस्सा",
+    "trick": "RATIONS = food given by RATIO.",
+    "examples": [
+      "What have you ever had except your bare rations and a stall?",
+      "The soldiers ate their rations in silence."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "get/give rations / on rations",
+      "partners": [
+        "bare rations",
+        "food rations",
+        "daily rations"
+      ]
+    }
+  },
+  {
+    "word": "rattle",
+    "memory": "baby's noise toy",
+    "meaning": "A baby's toy that makes a noise when shaken; also a series of short knocking sounds",
+    "hindi": "झुनझुना; खड़खड़ाहट",
+    "trick": "RATTLE = the toy that goes RAT-TAT-TLE when shaken.",
+    "examples": [
+      "She's reaching for the rattle.",
+      "The baby laughed when I shook the rattle."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "shake a rattle / the rattle of something",
+      "partners": [
+        "baby's rattle",
+        "shake the rattle"
+      ]
+    }
+  },
+  {
+    "word": "rattle off",
+    "memory": "list quickly",
+    "meaning": "Say a list of things quickly and easily, from memory",
+    "hindi": "फटाफट बोल देना, गिना देना",
+    "trick": "RATTLE OFF = names come out fast like a RATTLE.",
+    "examples": [
+      "If you asked him, he'd rattle off the name of some firm.",
+      "She can rattle off all the state capitals."
+    ],
+    "usage": {
+      "pos": "phrasal verb",
+      "pattern": "rattle off something (names, facts, numbers)",
+      "partners": [
+        "rattle off names",
+        "rattle off a list"
+      ]
+    }
+  },
+  {
+    "word": "rattled",
+    "memory": "shaken, nervous",
+    "meaning": "Nervous, worried or upset; also (... around) moved or kept going around",
+    "hindi": "घबराया, परेशान",
+    "trick": "RATTLED = shaken like a box of coins.",
+    "examples": [
+      "Chris Watts was rattled, but he had a few moves left.",
+      "The loud noise rattled her."
+    ],
+    "usage": {
+      "pos": "adjective; verb (past)",
+      "pattern": "be/get rattled / something rattled someone",
+      "partners": [
+        "get rattled",
+        "visibly rattled",
+        "rattled around"
+      ]
+    }
+  },
+  {
+    "word": "rattling",
+    "memory": "clattering, knocking",
+    "meaning": "Making short, quick knocking sounds by shaking; also moving around inside something",
+    "hindi": "खड़खड़ाता, खनखनाता",
+    "trick": "RATTLING = the noise of a RATTLE.",
+    "examples": [
+      "Mariam heard the rattling of a key as it turned in the lock.",
+      "The window kept rattling in the wind."
+    ],
+    "usage": {
+      "pos": "verb (-ing form); noun",
+      "pattern": "rattling of something / something is rattling",
+      "partners": [
+        "rattling noise",
+        "rattling windows",
+        "rattling of keys"
+      ]
+    }
+  },
+  {
+    "word": "raucous",
+    "memory": "loud and rowdy",
+    "meaning": "Loud, rough and wild, often in an unpleasant way",
+    "hindi": "शोरगुल वाला, कर्कश",
+    "trick": "RAUCOUS = a ROWdy CROW's CAW.",
+    "examples": [
+      "Record contracts were rare for raucous metal bands.",
+      "The party next door was raucous until midnight."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a raucous + crowd/laugh/party",
+      "partners": [
+        "raucous laughter",
+        "raucous crowd",
+        "raucous party"
+      ]
+    }
+  },
+  {
+    "word": "ravaged",
+    "memory": "badly damaged",
+    "meaning": "Badly damaged or destroyed",
+    "hindi": "तबाह किया, उजाड़ा",
+    "trick": "RAVAGED = a SAVAGE attack left it in ruins.",
+    "examples": [
+      "The wars have ravaged the roads connecting Kabul, Herat and Kandahar.",
+      "The town was ravaged by floods."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something ravaged something / be ravaged by something",
+      "partners": [
+        "ravaged by war",
+        "ravaged by disease",
+        "ravaged by fire"
+      ]
+    }
+  },
+  {
+    "word": "raved",
+    "memory": "shouted wildly",
+    "meaning": "Spoke in a wild, angry or excited way; also praised something with great excitement",
+    "hindi": "चिल्लाया, बड़बड़ाया; बहुत तारीफ़ की",
+    "trick": "RAVED = like a madman at a RAVE party.",
+    "examples": [
+      "\"You and David need to be strong,\" he raved.",
+      "Critics raved about her new film."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "rave (at someone) / rave about something",
+      "partners": [
+        "raved about",
+        "ranted and raved"
+      ]
+    }
+  },
+  {
+    "word": "ravenously",
+    "memory": "very hungrily",
+    "meaning": "In an extremely hungry way",
+    "hindi": "बहुत भूख से",
+    "trick": "RAVENOUSLY = hungry as a RAVEN.",
+    "examples": [
+      "I told him I was ravenously hungry.",
+      "The kids ate ravenously after the match."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "be ravenously hungry / eat ravenously",
+      "partners": [
+        "ravenously hungry",
+        "eat ravenously"
+      ]
+    }
+  },
+  {
+    "word": "ravine",
+    "memory": "deep narrow valley",
+    "meaning": "A deep, narrow valley with steep sides",
+    "hindi": "खड्ड, गहरी घाटी",
+    "trick": "RAVINE = a RAVEN's nest high above a deep valley.",
+    "examples": [
+      "I sprinted down a steep ravine but lost my footing.",
+      "The car slid into a ravine after the rain."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "down/into a ravine",
+      "partners": [
+        "steep ravine",
+        "deep ravine"
+      ]
+    }
+  },
+  {
+    "word": "raving",
+    "memory": "complete, total",
+    "meaning": "(informal, a ... success) complete, total; also talking wildly as if mad",
+    "hindi": "ज़बरदस्त, पूरी (बोलचाल); पागलों जैसा",
+    "trick": "RAVING success = everyone RAVES about it.",
+    "examples": [
+      "My failure to make money would have been a raving success.",
+      "The new cafe has been a raving success."
+    ],
+    "usage": {
+      "pos": "adjective (informal)",
+      "pattern": "a raving success / raving mad",
+      "partners": [
+        "raving success",
+        "raving mad",
+        "raving lunatic"
+      ]
+    }
+  },
+  {
+    "word": "ravioli",
+    "memory": "filled pasta",
+    "meaning": "Small square pasta pockets filled with meat, cheese or vegetables (Italian food)",
+    "hindi": "भरवाँ पास्ता (इतालवी)",
+    "trick": "RAVIOLI = little pillows of pasta.",
+    "examples": [
+      "In grocery stores, he pocketed canned ravioli.",
+      "We had ravioli with tomato sauce for dinner."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a plate/can of ravioli",
+      "partners": [
+        "canned ravioli",
+        "cheese ravioli"
+      ]
+    }
+  },
+  {
+    "word": "ravishing",
+    "memory": "stunningly beautiful",
+    "meaning": "Extremely beautiful",
+    "hindi": "बेहद सुंदर, मनमोहक",
+    "trick": "RAVISHING = so lovely it makes you RAVE.",
+    "examples": [
+      "I told her she looked quite ravishing.",
+      "She looked ravishing in her red dress."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "look ravishing / a ravishing + noun",
+      "partners": [
+        "look ravishing",
+        "ravishing beauty"
+      ]
+    }
+  },
+  {
+    "word": "raw",
+    "memory": "exposed, unguarded",
+    "meaning": "Emotionally open and exposed, with nothing hidden; also uncooked or sore",
+    "hindi": "खुला, बेपर्दा; कच्चा",
+    "trick": "RAW = nothing covering it, like RAW meat.",
+    "examples": [
+      "I was raw because that was the only way to get myself right.",
+      "Her voice was raw with emotion."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be raw / raw + emotion/honesty",
+      "partners": [
+        "raw emotion",
+        "raw honesty",
+        "raw food"
+      ]
+    }
+  },
+  {
+    "word": "readily",
+    "memory": "quickly and willingly",
+    "meaning": "Quickly and without hesitation; also easily",
+    "hindi": "तुरंत, आसानी से",
+    "trick": "READILY = READY to do it.",
+    "examples": [
+      "He understood a little too readily when Mariam said she preferred to eat alone.",
+      "She readily agreed to help."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "readily + verb (agree, accept, understand)",
+      "partners": [
+        "readily agree",
+        "readily available",
+        "readily accept"
+      ]
+    }
+  },
+  {
+    "word": "reaped",
+    "memory": "got, gained",
+    "meaning": "Got something as a result of what you did; also cut and gathered a crop",
+    "hindi": "पाए, हासिल किए; फसल काटी",
+    "trick": "REAP what you sow — you get what you planted.",
+    "examples": [
+      "After curfew, everyone sat in the dark and reaped tears for Jack and Rose.",
+      "He reaped the rewards of his hard work."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "reap something (rewards, benefits)",
+      "partners": [
+        "reaped the rewards",
+        "reaped the benefits",
+        "reaped the harvest"
+      ]
+    }
+  },
+  {
+    "word": "reapers",
+    "memory": "harvesting machines",
+    "meaning": "Machines (or people) that cut and gather crops",
+    "hindi": "कटाई मशीनें, फसल काटने वाले",
+    "trick": "REAPERS REAP the crop.",
+    "examples": [
+      "Electricity could operate threshing machines, ploughs and reapers.",
+      "The reapers worked in the field all day."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "reapers and binders",
+      "partners": [
+        "reapers and binders",
+        "grim reaper"
+      ]
+    }
+  },
+  {
+    "word": "rear",
+    "memory": "back part",
+    "meaning": "The back part of something; (bring up the ...) be at the back or last",
+    "hindi": "पीछे का हिस्सा, पिछला भाग",
+    "trick": "REAR = the back, like REAR-view mirror.",
+    "examples": [
+      "Bringing up the rear were old Perez and the nurse.",
+      "Please use the door at the rear of the building."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "at the rear (of something) / bring up the rear",
+      "partners": [
+        "bring up the rear",
+        "rear door",
+        "rear seat"
+      ]
+    }
+  },
+  {
+    "word": "reared",
+    "memory": "brought up, raised",
+    "meaning": "Brought up and cared for a child or young animal until grown; also rose up on the back legs",
+    "hindi": "पाला-पोसा, पालन किया",
+    "trick": "REARED = REAR = raise from the rear (back) up to full size.",
+    "examples": [
+      "They were the puppies Napoleon had taken from their mothers and reared privately.",
+      "She was reared by her grandparents in a small village."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "rear someone / be reared by someone / be reared in a place",
+      "partners": [
+        "reared by",
+        "reared on a farm",
+        "born and reared"
+      ]
+    }
+  },
+  {
+    "word": "reason with",
+    "memory": "persuade, talk sense",
+    "meaning": "Try to persuade someone by talking calmly and sensibly",
+    "hindi": "समझाना, तर्क करना",
+    "trick": "REASON WITH someone = use REASONs WITH them, not shouting.",
+    "examples": [
+      "Any attempt to reason with them is seen as another threat to their superiority.",
+      "I tried to reason with my brother, but he would not listen."
+    ],
+    "usage": {
+      "pos": "phrasal verb",
+      "pattern": "reason with someone / try to reason with someone",
+      "partners": [
+        "try to reason with",
+        "impossible to reason with",
+        "reason with him"
+      ]
+    }
+  },
+  {
+    "word": "reassured",
+    "memory": "comforted, calmed",
+    "meaning": "Made someone feel less worried or afraid; also feeling less worried",
+    "hindi": "तसल्ली दी, आश्वस्त किया",
+    "trick": "RE + ASSURED = ASSURED them again so they stop worrying.",
+    "examples": [
+      "Once they had reassured my brother and me that it wasn't our fault, we asked questions.",
+      "The doctor reassured her that the cut was not serious."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "reassure someone that... / reassure someone about something / feel reassured",
+      "partners": [
+        "reassured me that",
+        "felt reassured",
+        "reassured by"
+      ]
+    }
+  },
+  {
+    "word": "reassuring",
+    "memory": "comforting, calming",
+    "meaning": "Making someone feel less worried or afraid",
+    "hindi": "तसल्ली देने वाला, ढाढ़स भरा",
+    "trick": "REASSURING = making you SURE again that all is well.",
+    "examples": [
+      "Abdul Qader said in a reassuring tone that the loyalist forces were all but defeated.",
+      "Her mother's reassuring smile made her feel brave."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a reassuring + noun / it is reassuring to know that...",
+      "partners": [
+        "reassuring tone",
+        "reassuring smile",
+        "reassuring words"
+      ]
+    }
+  },
+  {
+    "word": "rebuffed",
+    "memory": "rejected, turned down",
+    "meaning": "Refused or rejected in an unkind or unfriendly way (an offer, request or someone's advance)",
+    "hindi": "ठुकराया हुआ, अस्वीकार किया",
+    "trick": "REBUFFED = a BUFF (push) back — your offer gets pushed away.",
+    "examples": [
+      "With each rebuffed advance and each lonely night, you question what you're doing wrong.",
+      "He offered to help, but she rebuffed him."
+    ],
+    "usage": {
+      "pos": "verb (past) / adjective",
+      "pattern": "rebuff someone / something; be rebuffed by someone",
+      "partners": [
+        "rebuffed advance",
+        "rebuffed offer",
+        "firmly rebuffed"
+      ]
+    }
+  },
+  {
+    "word": "rebuked",
+    "memory": "scolded, told off",
+    "meaning": "Spoke sharply to someone because of something they did wrong",
+    "hindi": "डाँटा, फटकारा",
+    "trick": "RE-BUKED = got 'booked' again — scolded for the mistake.",
+    "examples": [
+      "The Judge rebuked him.",
+      "The teacher rebuked the boys for talking in class."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "rebuke someone for something / for doing something",
+      "partners": [
+        "sharply rebuked",
+        "rebuked him for",
+        "publicly rebuked"
+      ]
+    }
+  },
+  {
+    "word": "rebuttal",
+    "memory": "reply, counter-argument",
+    "meaning": "A reply that argues against or tries to prove something false",
+    "hindi": "खंडन, जवाबी तर्क",
+    "trick": "REBUTTAL = REBUT = BUTT back — hitting the other argument back.",
+    "examples": [
+      "My frustration flashed with the cursor as I crafted my rebuttal.",
+      "The minister gave a strong rebuttal to the charges."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a rebuttal of / to something / in rebuttal",
+      "partners": [
+        "strong rebuttal",
+        "write a rebuttal",
+        "rebuttal to the claims"
+      ]
+    }
+  },
+  {
+    "word": "rebuttals",
+    "memory": "counter-arguments, replies",
+    "meaning": "Replies that argue against what someone has said or proposed",
+    "hindi": "खंडन, जवाबी तर्क",
+    "trick": "REBUTTALS = many BUTTs back at someone's points.",
+    "examples": [
+      "It went on, his pleadings and her rebuttals, his proposals and her apologies.",
+      "The lawyer prepared rebuttals to every point."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "rebuttals of / to something",
+      "partners": [
+        "detailed rebuttals",
+        "rebuttals to criticism",
+        "offer rebuttals"
+      ]
+    }
+  },
+  {
+    "word": "recede",
+    "memory": "move back, fade",
+    "meaning": "Move back or away from something; become smaller or weaker",
+    "hindi": "पीछे हटना, घटना",
+    "trick": "RE (back) + CEDE (go) = go back; the tide RECEDEs.",
+    "examples": [
+      "Then, suddenly, the weeds begin to recede, as if pulled from beneath the ground.",
+      "Wait until the flood water starts to recede."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "something recedes / recede into the distance / recede from something",
+      "partners": [
+        "waters recede",
+        "recede into the distance",
+        "fear recedes"
+      ]
+    }
+  },
+  {
+    "word": "receded",
+    "memory": "faded, eased, moved back",
+    "meaning": "Became smaller, weaker or less strong; also moved back or away",
+    "hindi": "कम हो गया, पीछे हट गया",
+    "trick": "RECEDED like the tide — it went back out.",
+    "examples": [
+      "The pain receded to low tide.",
+      "Once the rain stopped, the flood slowly receded."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something receded / receded into the background",
+      "partners": [
+        "pain receded",
+        "water receded",
+        "receded into the distance"
+      ]
+    }
+  },
+  {
+    "word": "receding",
+    "memory": "moving away, going back",
+    "meaning": "Moving farther away and getting smaller; also (of hair) going back from the forehead",
+    "hindi": "दूर होता हुआ, पीछे हटता हुआ",
+    "trick": "RECEDING like a train you watch get smaller and smaller.",
+    "examples": [
+      "When the bus pulled away, she did not look back to see him receding.",
+      "He has a receding hairline at just thirty."
+    ],
+    "usage": {
+      "pos": "verb (-ing form) / adjective",
+      "pattern": "watch someone / something receding / a receding + noun",
+      "partners": [
+        "receding hairline",
+        "receding figure",
+        "receding tide"
+      ]
+    }
+  },
+  {
+    "word": "receptacle",
+    "memory": "container, holder",
+    "meaning": "A container or place used to hold or collect something",
+    "hindi": "पात्र, बर्तन, डिब्बा",
+    "trick": "RECEPTACLE RECEIVEs things — it's a holder.",
+    "examples": [
+      "It was a receptacle for their myths.",
+      "Please put your litter in the receptacle by the door."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a receptacle for something",
+      "partners": [
+        "waste receptacle",
+        "receptacle for rubbish",
+        "glass receptacle"
+      ]
+    }
+  },
+  {
+    "word": "recesses",
+    "memory": "hidden corners, depths",
+    "meaning": "Hidden, dark or far inside parts of a place or of the mind; also breaks in work",
+    "hindi": "कोने, गहराइयाँ",
+    "trick": "RECESSES = places that are set back (RECEDE) and hidden.",
+    "examples": [
+      "Packwood's advice started beckoning me from the recesses of my mind.",
+      "The cat hid in the dark recesses of the cupboard."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "in / from the recesses of something",
+      "partners": [
+        "recesses of my mind",
+        "dark recesses",
+        "deep recesses"
+      ]
+    }
+  },
+  {
+    "word": "reciprocity",
+    "memory": "give and take",
+    "meaning": "The practice of giving and receiving things in return; a mutual exchange",
+    "hindi": "आदान-प्रदान, पारस्परिकता",
+    "trick": "RECIPROCITY = RE-CIPRO-CITY: a city where everyone gives back.",
+    "examples": [
+      "They use hospitality and friendliness to draw you in and create reciprocity.",
+      "Friendship needs reciprocity; both people must care."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "reciprocity between people / a sense of reciprocity",
+      "partners": [
+        "mutual reciprocity",
+        "sense of reciprocity",
+        "reciprocity in trade"
+      ]
+    }
+  },
+  {
+    "word": "recitation",
+    "memory": "reading aloud, reciting",
+    "meaning": "Saying a prayer, poem or text aloud, often from memory",
+    "hindi": "पाठ, वाचन",
+    "trick": "RECITATION = the act of RECITing.",
+    "examples": [
+      "He came once or twice a week to tutor her in Koran recitation.",
+      "The children gave a recitation of a poem on stage."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a recitation of something / give a recitation",
+      "partners": [
+        "poetry recitation",
+        "Koran recitation",
+        "recitation of prayers"
+      ]
+    }
+  },
+  {
+    "word": "recite",
+    "memory": "say aloud, repeat",
+    "meaning": "Say aloud something learned, like a poem or prayer, often from memory",
+    "hindi": "पाठ करना, सुनाना",
+    "trick": "RE-CITE = cite it again from memory.",
+    "examples": [
+      "No truly happy person feels the need to stand in front of a mirror and recite that she's happy.",
+      "Can you recite the poem we learned yesterday?"
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "recite something / recite something to someone",
+      "partners": [
+        "recite a poem",
+        "recite prayers",
+        "recite from memory"
+      ]
+    }
+  },
+  {
+    "word": "reckoning",
+    "memory": "judgment, payback",
+    "meaning": "The time when someone is judged or punished for what they have done; also a calculation",
+    "hindi": "हिसाब, फ़ैसला",
+    "trick": "RECKONING = the day the RECKON-er counts up your deeds.",
+    "examples": [
+      "Kabul's day of reckoning had come at last.",
+      "After years of lies, his day of reckoning finally came."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a day of reckoning / a reckoning for something",
+      "partners": [
+        "day of reckoning",
+        "final reckoning",
+        "by my reckoning"
+      ]
+    }
+  },
+  {
+    "word": "recluse",
+    "memory": "loner, hermit",
+    "meaning": "A person who lives alone and avoids other people",
+    "hindi": "एकांतवासी, संन्यासी",
+    "trick": "RECLUSE = RE + CLOSE: someone who stays CLOSEd away.",
+    "examples": [
+      "Their leader was a mysterious, one-eyed recluse named Mullah Omar.",
+      "After his wife died, he became a recluse."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a recluse / become a recluse / live as a recluse",
+      "partners": [
+        "live as a recluse",
+        "become a recluse",
+        "famous recluse"
+      ]
+    }
+  },
+  {
+    "word": "reclusive",
+    "memory": "solitary, withdrawn",
+    "meaning": "Living alone and avoiding other people",
+    "hindi": "एकांतप्रिय, अलग-थलग",
+    "trick": "RECLUSIVE = like a RECLUSE, kept CLOSED in.",
+    "examples": [
+      "The shoemaker, Rasheed, lived with his reclusive wife.",
+      "The reclusive writer never gave interviews."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a reclusive + person / be reclusive",
+      "partners": [
+        "reclusive life",
+        "reclusive writer",
+        "reclusive star"
+      ]
+    }
+  },
+  {
+    "word": "recognition",
+    "memory": "identifying, knowing",
+    "meaning": "The act of knowing or identifying someone or something; also praise or acceptance",
+    "hindi": "पहचान; मान्यता",
+    "trick": "RECOGNITION = the act of RECOGNISing.",
+    "examples": [
+      "There was no point instructing sheep in the nuances of wolf recognition.",
+      "Face recognition opens my phone in a second."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "recognition of something / in recognition of something",
+      "partners": [
+        "face recognition",
+        "gain recognition",
+        "in recognition of"
+      ]
+    }
+  },
+  {
+    "word": "recoiling",
+    "memory": "flinching, pulling back",
+    "meaning": "Moving the body back suddenly in fear, shock or disgust",
+    "hindi": "सहमकर पीछे हटना, सिकुड़ना",
+    "trick": "RE-COIL-ING = coiling back like a snake.",
+    "examples": [
+      "Laila couldn't help wincing and recoiling.",
+      "She kept recoiling from the hot pan."
+    ],
+    "usage": {
+      "pos": "verb (-ing form)",
+      "pattern": "recoil from someone / something / recoil in horror",
+      "partners": [
+        "recoiling in horror",
+        "recoiling from",
+        "recoiling in disgust"
+      ]
+    }
+  },
+  {
+    "word": "reconcile",
+    "memory": "make peace, patch up",
+    "meaning": "Become friendly again after a quarrel; also make two ideas fit together",
+    "hindi": "मेल करना, सुलह करना",
+    "trick": "RE-CONCILE = council again — bring back the peace.",
+    "examples": [
+      "She spent the rest of her father's life attempting to reconcile with him.",
+      "The two brothers finally decided to reconcile."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "reconcile with someone / reconcile something with something",
+      "partners": [
+        "reconcile with",
+        "try to reconcile",
+        "reconcile differences"
+      ]
+    }
+  },
+  {
+    "word": "reconciliation",
+    "memory": "making peace, reunion",
+    "meaning": "Becoming friendly again after a quarrel or disagreement",
+    "hindi": "सुलह, मेल-मिलाप",
+    "trick": "RECONCILIATION = RECONCILE + -ation.",
+    "examples": [
+      "Without the first step, there should be no attempt at reconciliation.",
+      "The couple had a tearful reconciliation."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "reconciliation with / between someone",
+      "partners": [
+        "attempt at reconciliation",
+        "reconciliation between",
+        "national reconciliation"
+      ]
+    }
+  },
+  {
+    "word": "reconnaissance",
+    "memory": "scouting, spying",
+    "meaning": "Military exploring of an area to get information about the enemy",
+    "hindi": "टोही, जासूसी",
+    "trick": "RECON = RE-CONNoiter: go see again before attacking.",
+    "examples": [
+      "Operation Red Wings was a four-man reconnaissance mission.",
+      "The soldiers went on a reconnaissance trip before the attack."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "on reconnaissance / a reconnaissance + mission/flight",
+      "partners": [
+        "reconnaissance mission",
+        "reconnaissance plane",
+        "aerial reconnaissance"
+      ]
+    }
+  },
+  {
+    "word": "records",
+    "memory": "results, history",
+    "meaning": "Facts about someone's past results or performance; also written accounts",
+    "hindi": "रिकॉर्ड, उपलब्धियाँ",
+    "trick": "RECORDS = what's on your record.",
+    "examples": [
+      "People believed raising self-esteem could lead to better academic records.",
+      "She has excellent school records."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "someone's records / keep records of something",
+      "partners": [
+        "academic records",
+        "medical records",
+        "keep records"
+      ]
+    }
+  },
+  {
+    "word": "recreation",
+    "memory": "leisure, fun",
+    "meaning": "Activities done for enjoyment when not working",
+    "hindi": "मनोरंजन, आमोद",
+    "trick": "RE-CREATION = re-create your energy by having fun.",
+    "examples": [
+      "The afternoon was given up to recreation.",
+      "The park is a place for recreation."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "for recreation / a recreation + room/area",
+      "partners": [
+        "recreation room",
+        "outdoor recreation",
+        "for recreation"
+      ]
+    }
+  },
+  {
+    "word": "recrimination",
+    "memory": "blame, counter-accusation",
+    "meaning": "Accusing someone in return; blaming each other",
+    "hindi": "आरोप-प्रत्यारोप, शिकायत",
+    "trick": "RE-CRIMINATION = calling someone a CRIMINAL back.",
+    "examples": [
+      "Nana gave a slow smile of lingering recrimination or reluctant forgiveness.",
+      "After the loss, there was a lot of recrimination in the team."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "recrimination(s) between people / bitter recrimination",
+      "partners": [
+        "bitter recrimination",
+        "mutual recrimination",
+        "without recrimination"
+      ]
+    }
+  },
+  {
+    "word": "reddened",
+    "memory": "turned red",
+    "meaning": "Became red, often from rubbing, heat, anger or shame",
+    "hindi": "लाल हो गया",
+    "trick": "REDDENED = turned RED.",
+    "examples": [
+      "She rubbed the soapy cloth against her face and neck until they reddened.",
+      "His face reddened when everyone laughed."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something reddened / someone's face reddened",
+      "partners": [
+        "face reddened",
+        "cheeks reddened",
+        "reddened eyes"
+      ]
+    }
+  },
+  {
+    "word": "redemptive",
+    "memory": "saving, healing",
+    "meaning": "Making things better, or saving someone from a bad or wrong past",
+    "hindi": "उद्धारक, मुक्तिदायक",
+    "trick": "REDEMPTIVE = from REDEEM — buying back your good name.",
+    "examples": [
+      "Best didn't have the same redemptive story Dave Mustaine did.",
+      "Her volunteer work had a redemptive effect on her life."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a redemptive + noun",
+      "partners": [
+        "redemptive story",
+        "redemptive power",
+        "redemptive journey"
+      ]
+    }
+  },
+  {
+    "word": "redhead",
+    "memory": "red-haired person",
+    "meaning": "A person with red hair",
+    "hindi": "लाल बालों वाला व्यक्ति",
+    "trick": "RED + HEAD = red hair on the head.",
+    "examples": [
+      "My counterpart was a languid redhead named Andy.",
+      "The redhead in our class always wears green."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a redhead",
+      "partners": [
+        "fiery redhead",
+        "natural redhead",
+        "tall redhead"
+      ]
+    }
+  },
+  {
+    "word": "redneck",
+    "memory": "rough rural man",
+    "meaning": "Offensive: an insulting word for a poor, uneducated white person from the rural southern US, seen as narrow-minded",
+    "hindi": "गँवार (अपमानजनक)",
+    "trick": "REDNECK = a neck burnt RED from farm work in the sun.",
+    "examples": [
+      "It was the same street where that redneck had pulled a gun on me.",
+      "The film was criticised for calling southern farmers rednecks."
+    ],
+    "usage": {
+      "pos": "noun (offensive)",
+      "pattern": "(offensive) a redneck",
+      "partners": [
+        "redneck stereotype",
+        "redneck town"
+      ]
+    }
+  },
+  {
+    "word": "reed",
+    "memory": "pipe, grass stalk",
+    "meaning": "A simple pipe made from a tall water-grass stem; also the plant itself",
+    "hindi": "सरकंडा, बाँसुरी",
+    "trick": "REED grows by the water; you can READ music on a REED pipe.",
+    "examples": [
+      "The other man was blowing down a little reed, playing three notes over and over.",
+      "He cut a reed from the river bank and made a whistle."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a reed / play a reed",
+      "partners": [
+        "reed pipe",
+        "river reed",
+        "reed flute"
+      ]
+    }
+  },
+  {
+    "word": "reeds",
+    "memory": "tall water grasses",
+    "meaning": "Tall, thin grass-like plants that grow in or near water",
+    "hindi": "सरकंडे, नरकट",
+    "trick": "REEDS stand in the water like thin green pencils.",
+    "examples": [
+      "Maybe the road would lead to a clear blue lake where reeds poked through the surface.",
+      "Ducks were hiding among the reeds."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "among / in the reeds",
+      "partners": [
+        "among the reeds",
+        "tall reeds",
+        "beds of reeds"
+      ]
+    }
+  },
+  {
+    "word": "reek",
+    "memory": "stink, strong smell",
+    "meaning": "A strong, unpleasant smell",
+    "hindi": "बदबू, तेज़ गंध",
+    "trick": "REEK sounds like 'reach' — the smell reaches you from far away.",
+    "examples": [
+      "The glare off the road, the reek of gasoline and the jolts made me drowsy.",
+      "There was a reek of rotten fish in the kitchen."
+    ],
+    "usage": {
+      "pos": "noun; verb",
+      "pattern": "the reek of something / something reeks of something",
+      "partners": [
+        "reek of smoke",
+        "reek of gasoline",
+        "reeks of sweat"
+      ]
+    }
+  },
+  {
+    "word": "reeling",
+    "memory": "spinning, swaying",
+    "meaning": "Seeming to spin or sway; also feeling shocked or confused",
+    "hindi": "घूमता हुआ, चकराता हुआ",
+    "trick": "REELING = spinning like a fishing REEL.",
+    "examples": [
+      "The room was reeling up and down, the ground shifting beneath her feet.",
+      "My head was reeling after the long ride."
+    ],
+    "usage": {
+      "pos": "verb (-ing form)",
+      "pattern": "something is reeling / reeling from something",
+      "partners": [
+        "head reeling",
+        "reeling from the shock",
+        "sent reeling"
+      ]
+    }
+  },
+  {
+    "word": "refectory",
+    "memory": "dining hall",
+    "meaning": "A large dining room in a school, college or religious house",
+    "hindi": "भोजनालय, भोजन कक्ष",
+    "trick": "REFECTORY = where you get REFreshed with food.",
+    "examples": [
+      "He suggested I should go to the refectory for dinner, but I wasn't hungry.",
+      "The students eat lunch in the refectory."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in / to the refectory",
+      "partners": [
+        "school refectory",
+        "eat in the refectory",
+        "refectory table"
+      ]
+    }
+  },
+  {
+    "word": "reflex",
+    "memory": "automatic reaction",
+    "meaning": "An automatic body movement you cannot control",
+    "hindi": "सहज क्रिया, प्रतिक्रिया",
+    "trick": "REFLEX = the body REFLECTs back without thinking.",
+    "examples": [
+      "It triggered the gag reflex.",
+      "The doctor tapped my knee to test my reflex."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a reflex / trigger a reflex / by reflex",
+      "partners": [
+        "gag reflex",
+        "quick reflexes",
+        "reflex action"
+      ]
+    }
+  },
+  {
+    "word": "refrain",
+    "memory": "repeated line, saying",
+    "meaning": "A remark or idea that is repeated often; also the chorus of a song",
+    "hindi": "बार-बार कही बात, टेक",
+    "trick": "REFRAIN = REpeated + FRAme of a song: it keeps coming back.",
+    "examples": [
+      "\"Separate the people from the problem\" was the common refrain.",
+      "\"Work hard\" was my father's constant refrain."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a common / familiar refrain",
+      "partners": [
+        "common refrain",
+        "familiar refrain",
+        "constant refrain"
+      ]
+    }
+  },
+  {
+    "word": "refugees",
+    "memory": "displaced people",
+    "meaning": "People forced to leave their country because of war or danger",
+    "hindi": "शरणार्थी",
+    "trick": "REFUGEES look for REFUGE (safety).",
+    "examples": [
+      "Your friend was in a lorry full of refugees, all headed for Peshawar.",
+      "The camp gave shelter to thousands of refugees."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "refugees from somewhere",
+      "partners": [
+        "war refugees",
+        "refugee camp",
+        "flood of refugees"
+      ]
+    }
+  },
+  {
+    "word": "regalia",
+    "memory": "ceremonial dress",
+    "meaning": "Special clothes and symbols worn on official or ceremonial occasions",
+    "hindi": "शाही पोशाक, औपचारिक वेशभूषा",
+    "trick": "REGALIA = REGAL (royal) clothes.",
+    "examples": [
+      "The Ku Klux Klan marched down the main street in full hooded regalia.",
+      "The mayor wore his full regalia at the parade."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in full regalia",
+      "partners": [
+        "full regalia",
+        "royal regalia",
+        "ceremonial regalia"
+      ]
+    }
+  },
+  {
+    "word": "regarded",
+    "memory": "viewed, considered",
+    "meaning": "Thought of or looked at in a particular way",
+    "hindi": "माना गया, समझा गया",
+    "trick": "REGARDED = how others GUARD their opinion of you.",
+    "examples": [
+      "The owners of Animal Farm had been regarded with a certain misgiving by their neighbours.",
+      "He is regarded as the best player in the team."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "be regarded as something / regarded with something",
+      "partners": [
+        "regarded as",
+        "highly regarded",
+        "widely regarded"
+      ]
+    }
+  },
+  {
+    "word": "regimen",
+    "memory": "routine, plan",
+    "meaning": "A fixed plan of exercise, diet or treatment",
+    "hindi": "नियमित दिनचर्या, व्यवस्था",
+    "trick": "REGIMEN = a REGIMENT-style routine.",
+    "examples": [
+      "If an injury cropped up, he treated himself with a stretching regimen.",
+      "She follows a strict diet regimen."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a + strict/daily regimen / a regimen of something",
+      "partners": [
+        "training regimen",
+        "strict regimen",
+        "daily regimen"
+      ]
+    }
+  },
+  {
+    "word": "regurgitate",
+    "memory": "throw up, bring back",
+    "meaning": "Bring food back up from the stomach; also repeat facts without understanding",
+    "hindi": "उलटी करना, वापस निकालना",
+    "trick": "RE-GURGIT = GURGLE it back up.",
+    "examples": [
+      "Standing at the cliff edge threatens to regurgitate any recent meal.",
+      "Birds regurgitate food to feed their chicks."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "regurgitate something",
+      "partners": [
+        "regurgitate food",
+        "regurgitate facts",
+        "regurgitate a meal"
+      ]
+    }
+  },
+  {
+    "word": "rehab",
+    "memory": "recovery, therapy",
+    "meaning": "Informal: treatment to help someone recover after injury or illness; also treatment for addiction",
+    "hindi": "पुनर्वास (बोलचाल)",
+    "trick": "REHAB = REHABilitation, short form.",
+    "examples": [
+      "Disabled and convalescing folks head there for an afternoon's rehab stroll.",
+      "After the surgery he spent weeks in rehab."
+    ],
+    "usage": {
+      "pos": "noun (informal)",
+      "pattern": "in rehab / go to rehab",
+      "partners": [
+        "rehab centre",
+        "knee rehab",
+        "go to rehab"
+      ]
+    }
+  },
+  {
+    "word": "rehabbing",
+    "memory": "recovering, healing",
+    "meaning": "Informal: doing exercise and treatment to recover from an injury",
+    "hindi": "पुनर्वास करना, ठीक करना",
+    "trick": "REHABBING = doing REHAB.",
+    "examples": [
+      "That summer I stayed in the Midwest, healing up then rehabbing my knee.",
+      "She is rehabbing her shoulder after the fall."
+    ],
+    "usage": {
+      "pos": "verb (-ing form, informal)",
+      "pattern": "rehab something / be rehabbing something",
+      "partners": [
+        "rehabbing an injury",
+        "rehabbing my knee",
+        "rehabbing a shoulder"
+      ]
+    }
+  },
+  {
+    "word": "rehash",
+    "memory": "go over again",
+    "meaning": "Go over or discuss something old again; also reuse old ideas with little change",
+    "hindi": "दोहराना, फिर से विचारना",
+    "trick": "RE-HASH = mix up (HASH) the old stuff again.",
+    "examples": [
+      "It became very important for me to rehash my life and see where my issues came from.",
+      "Let's not rehash yesterday's argument."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "rehash something",
+      "partners": [
+        "rehash the past",
+        "rehash old arguments",
+        "rehash a story"
+      ]
+    }
+  },
+  {
+    "word": "reign",
+    "memory": "rule, period of power",
+    "meaning": "The period during which someone rules or has power",
+    "hindi": "शासन, राज",
+    "trick": "REIGN — the king's REIGN rains down on everyone.",
+    "examples": [
+      "The animals raced back to wipe out the last traces of Jones's hated reign.",
+      "The queen's reign lasted fifty years."
+    ],
+    "usage": {
+      "pos": "noun; verb",
+      "pattern": "someone's reign / during the reign of someone / reign over something",
+      "partners": [
+        "long reign",
+        "reign of terror",
+        "during his reign"
+      ]
+    }
+  },
+  {
+    "word": "reinstate",
+    "memory": "restore, bring back",
+    "meaning": "Put someone or something back into a former position or role",
+    "hindi": "बहाल करना, पुनः स्थापित करना",
+    "trick": "RE-IN-STATE = put back IN the old STATE.",
+    "examples": [
+      "The humans might make another attempt to recapture the farm and reinstate Mr. Jones.",
+      "The company agreed to reinstate the sacked worker."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "reinstate someone (as something) / reinstate something",
+      "partners": [
+        "reinstate an employee",
+        "reinstate a rule",
+        "be reinstated"
+      ]
+    }
+  },
+  {
+    "word": "rejoice",
+    "memory": "celebrate, be glad",
+    "meaning": "Feel or show great happiness",
+    "hindi": "खुशी मनाना, आनंदित होना",
+    "trick": "RE-JOICE = feel JOY again and again.",
+    "examples": [
+      "The envious human beings would rejoice if the mill were not finished on time.",
+      "The whole town will rejoice when the team wins."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "rejoice at / in / over something",
+      "partners": [
+        "rejoice in",
+        "rejoice at the news",
+        "cause to rejoice"
+      ]
+    }
+  },
+  {
+    "word": "rejoicing",
+    "memory": "celebration, joy",
+    "meaning": "Great happiness and celebration",
+    "hindi": "उल्लास, जश्न",
+    "trick": "REJOICING = everyone filled with JOY.",
+    "examples": [
+      "This is a time of rejoicing and celebration.",
+      "There was great rejoicing when the baby was born."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a time of rejoicing / great rejoicing",
+      "partners": [
+        "great rejoicing",
+        "time of rejoicing",
+        "cause for rejoicing"
+      ]
+    }
+  },
+  {
+    "word": "rejuvenated",
+    "memory": "refreshed, revived",
+    "meaning": "Feeling young, fresh and full of energy again",
+    "hindi": "तरोताज़ा, नई ऊर्जा से भरा",
+    "trick": "RE-JUVEN-ATED = made JUVENile (young) again.",
+    "examples": [
+      "Two hard miles later I felt rejuvenated.",
+      "After the holiday she came back rejuvenated."
+    ],
+    "usage": {
+      "pos": "adjective / verb (past)",
+      "pattern": "feel rejuvenated / be rejuvenated by something",
+      "partners": [
+        "feel rejuvenated",
+        "rejuvenated by",
+        "completely rejuvenated"
+      ]
+    }
+  },
+  {
+    "word": "relented",
+    "memory": "gave in, softened",
+    "meaning": "Agreed to something after first refusing; became less strict",
+    "hindi": "मान गया, नरम पड़ा",
+    "trick": "RELENTED = LENT (gave) in at last.",
+    "examples": [
+      "The captain had relented and let Alyona marry the first mate.",
+      "Mum finally relented and let us stay up late."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "someone relented / relent and do something",
+      "partners": [
+        "finally relented",
+        "relented and agreed",
+        "refused to relent"
+      ]
+    }
+  },
+  {
+    "word": "relentless",
+    "memory": "nonstop, unyielding",
+    "meaning": "Never stopping or becoming weaker; very determined",
+    "hindi": "लगातार, अथक",
+    "trick": "RELENTLESS = never RELENTs (gives in).",
+    "examples": [
+      "It takes relentless self-discipline to schedule suffering into your day.",
+      "The relentless rain flooded the streets."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "relentless + noun / be relentless in something",
+      "partners": [
+        "relentless pressure",
+        "relentless effort",
+        "relentless pursuit"
+      ]
+    }
+  },
+  {
+    "word": "relic",
+    "memory": "old object, leftover",
+    "meaning": "An old object or custom surviving from the past",
+    "hindi": "अवशेष, पुरानी निशानी",
+    "trick": "RELIC = something LEFT behind (re-LICT) from long ago.",
+    "examples": [
+      "The tea set was the sole relic that Nana had of her own mother.",
+      "This old coin is a relic from the British era."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a relic of / from something",
+      "partners": [
+        "relic of the past",
+        "ancient relic",
+        "family relic"
+      ]
+    }
+  },
+  {
+    "word": "relinquish",
+    "memory": "give up, let go",
+    "meaning": "Give up or let go of something, such as control, a right or a feeling",
+    "hindi": "छोड़ देना, त्यागना",
+    "trick": "RELINQUISH = RE-LINK-QUIT: quit the link, let it go.",
+    "examples": [
+      "People relinquish all responsibility, demanding that society cater to their feelings.",
+      "He refused to relinquish control of the company."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "relinquish something (to someone)",
+      "partners": [
+        "relinquish control",
+        "relinquish power",
+        "relinquish responsibility"
+      ]
+    }
+  },
+  {
+    "word": "relish",
+    "memory": "enjoy, savour",
+    "meaning": "Enjoy something very much; also a tasty sauce or pickle",
+    "hindi": "आनंद लेना, मज़ा लेना; चटनी",
+    "trick": "RELISH it like tasty RELISH (sauce) on your food.",
+    "examples": [
+      "I didn't much relish the task and soon started smoking, staring at the sea.",
+      "She seems to relish a good challenge."
+    ],
+    "usage": {
+      "pos": "verb; noun",
+      "pattern": "relish something / relish doing something / with relish",
+      "partners": [
+        "relish the chance",
+        "relish a challenge",
+        "with relish"
+      ]
+    }
+  },
+  {
+    "word": "relished",
+    "memory": "enjoyed, savoured",
+    "meaning": "Enjoyed something very much",
+    "hindi": "आनंद लिया, मज़ा लिया",
+    "trick": "RELISHED like a tasty RELISH.",
+    "examples": [
+      "He relished this part of the job.",
+      "The kids relished every bite of the cake."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "relished something / relished doing something",
+      "partners": [
+        "relished the chance",
+        "relished the moment",
+        "relished the challenge"
+      ]
+    }
+  },
+  {
+    "word": "relishing",
+    "memory": "enjoying, savouring",
+    "meaning": "Enjoying something very much",
+    "hindi": "आनंद लेते हुए, मज़ा लेते हुए",
+    "trick": "RELISHING = tasting it slowly like RELISH.",
+    "examples": [
+      "She was laughing to herself, saying it over and over, relishing the words.",
+      "He was relishing his first day off in months."
+    ],
+    "usage": {
+      "pos": "verb (-ing form)",
+      "pattern": "relishing something",
+      "partners": [
+        "relishing the moment",
+        "relishing the chance",
+        "relishing the attention"
+      ]
+    }
+  },
+  {
+    "word": "reluctance",
+    "memory": "unwillingness, hesitation",
+    "meaning": "A feeling of not wanting to do something",
+    "hindi": "अनिच्छा, हिचकिचाहट",
+    "trick": "RELUCTANCE = LUCK-lacking feeling: you don't want to try.",
+    "examples": [
+      "There was a reluctance in her movements, and her eyes had a faraway look.",
+      "He agreed, but with obvious reluctance."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "reluctance to do something / with reluctance",
+      "partners": [
+        "with reluctance",
+        "show reluctance",
+        "reluctance to change"
+      ]
+    }
+  },
+  {
+    "word": "reluctant",
+    "memory": "unwilling, hesitant",
+    "meaning": "Not wanting to do something and so slow to do it",
+    "hindi": "अनिच्छुक, हिचकिचाता",
+    "trick": "RELUCTANT = like a reluctANT ant dragging its feet.",
+    "examples": [
+      "The youngest seemed reluctant to embrace his friends' air of impunity.",
+      "She was reluctant to leave the party early."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be reluctant to do something / a reluctant + noun",
+      "partners": [
+        "reluctant to admit",
+        "reluctant hero",
+        "reluctant agreement"
+      ]
+    }
+  },
+  {
+    "word": "reluctantly",
+    "memory": "unwillingly",
+    "meaning": "In an unwilling, hesitant way",
+    "hindi": "अनिच्छा से, मन मारकर",
+    "trick": "RELUCTANTLY = doing it with dragging feet.",
+    "examples": [
+      "I nodded, reluctantly, but I wasn't raised to pry into the affairs of adults.",
+      "He reluctantly agreed to clean his room."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "do something reluctantly / reluctantly agree",
+      "partners": [
+        "reluctantly agreed",
+        "reluctantly accepted",
+        "nodded reluctantly"
+      ]
+    }
+  },
+  {
+    "word": "rely",
+    "memory": "depend, count on",
+    "meaning": "Depend on someone or something for help or support",
+    "hindi": "निर्भर होना, भरोसा करना",
+    "trick": "RELY = RE-LIE: lie back on someone for support.",
+    "examples": [
+      "The more you rely on them to feel better, the more you will seek them out.",
+      "You can always rely on me."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "rely on / upon someone / something (to do something)",
+      "partners": [
+        "rely on",
+        "rely heavily on",
+        "rely on each other"
+      ]
+    }
+  },
+  {
+    "word": "reminiscing",
+    "memory": "recalling, remembering fondly",
+    "meaning": "Talking or thinking happily about past events",
+    "hindi": "यादें ताज़ा करते हुए, अतीत याद करते हुए",
+    "trick": "REMINISCING = REMINDing yourself of the past.",
+    "examples": [
+      "She would always remember Babi this way: reminiscing about Mammy, elbows on the rock.",
+      "The old friends spent the evening reminiscing about school."
+    ],
+    "usage": {
+      "pos": "verb (-ing form)",
+      "pattern": "reminisce about something / someone",
+      "partners": [
+        "reminiscing about",
+        "reminiscing over old photos",
+        "fondly reminiscing"
+      ]
+    }
+  },
+  {
+    "word": "remnant",
+    "memory": "leftover, remains",
+    "meaning": "A small part that is left after the rest is gone",
+    "hindi": "बचा हुआ हिस्सा, अवशेष",
+    "trick": "REMNANT = what REMAINs.",
+    "examples": [
+      "For years he lived as a bum, a discarded and forgotten remnant of society.",
+      "She made a cushion from a remnant of cloth."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a remnant of something",
+      "partners": [
+        "remnant of the past",
+        "last remnant",
+        "fabric remnant"
+      ]
+    }
+  },
+  {
+    "word": "remorse",
+    "memory": "deep regret, guilt",
+    "meaning": "A strong feeling of sadness and guilt for something wrong you did",
+    "hindi": "पछतावा, ग्लानि",
+    "trick": "RE-MORSE = the guilt keeps tapping like MORSE code in your heart.",
+    "examples": [
+      "Is he not sufficiently punished by the lifelong remorse that is to be his lot?",
+      "He showed no remorse for his lies."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "remorse for something / feel / show remorse",
+      "partners": [
+        "show remorse",
+        "feel remorse",
+        "deep remorse"
+      ]
+    }
+  },
+  {
+    "word": "renegade",
+    "memory": "rebel, rule-breaker",
+    "meaning": "Acting against the rules or traditions of one's group; also a person who leaves a group",
+    "hindi": "बाग़ी, विद्रोही",
+    "trick": "RENEGADE = RENEGE (go back on a promise) — a rebel who breaks away.",
+    "examples": [
+      "DEVGRU was a hard, renegade crew within the SEALs.",
+      "The renegade cop ignored his boss's orders."
+    ],
+    "usage": {
+      "pos": "adjective; noun",
+      "pattern": "a renegade + noun / a renegade",
+      "partners": [
+        "renegade group",
+        "renegade soldier",
+        "renegade spirit"
+      ]
+    }
+  },
+  {
+    "word": "repaved",
+    "memory": "resurfaced",
+    "meaning": "Covered with a new layer of road surface",
+    "hindi": "फिर से बनाई गई (सड़क), दोबारा पक्की की गई",
+    "trick": "RE + PAVED = PAVED again.",
+    "examples": [
+      "She hears of schools built in Kabul, roads repaved, women returning to work.",
+      "The city repaved our street last month."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "repave a road / road was repaved",
+      "partners": [
+        "roads repaved",
+        "newly repaved",
+        "repaved street"
+      ]
+    }
+  },
+  {
+    "word": "repent",
+    "memory": "feel sorry, regret",
+    "meaning": "Feel and show that you are sorry for a wrong you did",
+    "hindi": "पछताना, प्रायश्चित करना",
+    "trick": "REPENT = RE-PAIN-T: feel the pain of your sin again.",
+    "examples": [
+      "He wanted to make her repent of what she'd done.",
+      "He will repent his harsh words tomorrow."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "repent (of) something",
+      "partners": [
+        "repent of",
+        "repent your sins",
+        "repent at leisure"
+      ]
+    }
+  },
+  {
+    "word": "repented",
+    "memory": "regretted, felt sorry",
+    "meaning": "Felt and showed sorrow for a wrong done",
+    "hindi": "पछताया, प्रायश्चित किया",
+    "trick": "REPENTED = said sorry after the PAIN of guilt.",
+    "examples": [
+      "The mullah's son repented and said that Naghma had seduced him.",
+      "He repented and returned the stolen money."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "repented (of) something",
+      "partners": [
+        "deeply repented",
+        "repented of his sins",
+        "later repented"
+      ]
+    }
+  },
+  {
+    "word": "repercussion",
+    "memory": "consequence, aftereffect",
+    "meaning": "An unexpected, usually bad result of an action",
+    "hindi": "परिणाम, दुष्परिणाम",
+    "trick": "REPERCUSSION = PERCUSSION (a drum hit) echoing back.",
+    "examples": [
+      "I could say whatever I thought or felt, without fear of repercussion.",
+      "Skipping school had a serious repercussion for him."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "repercussion(s) of / for something",
+      "partners": [
+        "serious repercussions",
+        "fear of repercussion",
+        "without repercussion"
+      ]
+    }
+  },
+  {
+    "word": "repertoire",
+    "memory": "range, stock",
+    "meaning": "All the skills, songs or acts that someone can do",
+    "hindi": "भंडार, संग्रह",
+    "trick": "REPERTOIRE = a REPORT of everything you can perform.",
+    "examples": [
+      "This was a new entry in his repertoire of poses: back to the wall, arms crossed.",
+      "The singer added a new song to her repertoire."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "someone's repertoire / a repertoire of something",
+      "partners": [
+        "wide repertoire",
+        "repertoire of songs",
+        "add to the repertoire"
+      ]
+    }
+  },
+  {
+    "word": "repetitive",
+    "memory": "repeated, boring",
+    "meaning": "Doing or saying the same thing again and again, often boring",
+    "hindi": "दोहराव वाला, उबाऊ",
+    "trick": "REPETITIVE = full of REPETITION.",
+    "examples": [
+      "Your mind wanders when my writing becomes boring or repetitive.",
+      "Packing boxes all day is very repetitive work."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be repetitive / a repetitive + noun",
+      "partners": [
+        "repetitive task",
+        "repetitive work",
+        "repetitive strain"
+      ]
+    }
+  },
+  {
+    "word": "replanted",
+    "memory": "planted again",
+    "meaning": "Moved and planted again in new soil or a new place",
+    "hindi": "दोबारा लगाया गया",
+    "trick": "RE + PLANTED = PLANTED again.",
+    "examples": [
+      "Unlike weeds, I had to be replanted, you see, given food and water.",
+      "We replanted the roses in a sunny spot."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "replant something / be replanted",
+      "partners": [
+        "replanted trees",
+        "be replanted",
+        "replanted the garden"
+      ]
+    }
+  },
+  {
+    "word": "replete",
+    "memory": "full, filled",
+    "meaning": "Filled with or having a lot of something",
+    "hindi": "भरा हुआ, परिपूर्ण",
+    "trick": "REPLETE = COMPLETE-ly full (RE-PLETE, like plenty).",
+    "examples": [
+      "It was a strange life, replete with fantastic, horizon-breaching experiences.",
+      "The book is replete with funny stories."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be replete with something",
+      "partners": [
+        "replete with",
+        "replete with details",
+        "replete with stories"
+      ]
+    }
+  },
+  {
+    "word": "repose",
+    "memory": "rest, peace",
+    "meaning": "A state of rest, sleep or calm",
+    "hindi": "विश्राम, आराम",
+    "trick": "REPOSE = RE-POSE: hold a resting pose.",
+    "examples": [
+      "You would not rob us of our repose, would you, comrades?",
+      "After lunch, grandfather enjoys an hour of repose."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in repose / someone's repose",
+      "partners": [
+        "in repose",
+        "moment of repose",
+        "peaceful repose"
+      ]
+    }
+  },
+  {
+    "word": "repress",
+    "memory": "hold back, hide",
+    "meaning": "Stop yourself from showing or feeling an emotion; also control people by force",
+    "hindi": "दबाना, रोकना",
+    "trick": "REPRESS = PRESS it back down.",
+    "examples": [
+      "Many people are taught to repress their emotions, particularly negative ones.",
+      "He tried to repress a smile."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "repress something / repress a feeling",
+      "partners": [
+        "repress emotions",
+        "repress a smile",
+        "repress anger"
+      ]
+    }
+  },
+  {
+    "word": "repression",
+    "memory": "holding back, suppression",
+    "meaning": "Keeping feelings hidden or controlled; also controlling people by force",
+    "hindi": "दमन, दबाव",
+    "trick": "REPRESSION = PRESSing things back down.",
+    "examples": [
+      "It leads to a life of insecurity, neuroticism, and emotional repression.",
+      "Years of repression made her afraid to cry."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "repression of something",
+      "partners": [
+        "emotional repression",
+        "political repression",
+        "repression of feelings"
+      ]
+    }
+  },
+  {
+    "word": "reprieve",
+    "memory": "relief, break",
+    "meaning": "A short break or relief from something bad; also cancelling a punishment",
+    "hindi": "राहत, मोहलत",
+    "trick": "REPRIEVE = RE-PRIEVE: no more GRIEVE for a while.",
+    "examples": [
+      "In her hands was a welcome reprieve from more Myoplex and Ritz crackers.",
+      "The cool rain gave us a reprieve from the heat."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a reprieve from something",
+      "partners": [
+        "welcome reprieve",
+        "brief reprieve",
+        "last-minute reprieve"
+      ]
+    }
+  },
+  {
+    "word": "reprimanding",
+    "memory": "scolding, telling off",
+    "meaning": "Speaking angrily and formally to someone for doing wrong",
+    "hindi": "डाँटना, फटकारना",
+    "trick": "REPRIMANDING = a PRIM teacher scolding you.",
+    "examples": [
+      "Mariam had learned to harden herself against his ridiculing and reprimanding.",
+      "The coach was reprimanding the players for being late."
+    ],
+    "usage": {
+      "pos": "verb (-ing form) / noun",
+      "pattern": "reprimand someone for something / for doing something",
+      "partners": [
+        "reprimanding the staff",
+        "publicly reprimanding",
+        "reprimanding him for"
+      ]
+    }
+  },
+  {
+    "word": "reproach",
+    "memory": "blame, disapproval",
+    "meaning": "Showing disappointment or blame for what someone did",
+    "hindi": "फटकार, उलाहना",
+    "trick": "REPROACH = APPROACH someone to blame them.",
+    "examples": [
+      "The driver sighed and looked at her with gentle reproach.",
+      "Her eyes were full of reproach when I came home late."
+    ],
+    "usage": {
+      "pos": "noun; verb",
+      "pattern": "with reproach / reproach someone for something",
+      "partners": [
+        "gentle reproach",
+        "look of reproach",
+        "beyond reproach"
+      ]
+    }
+  },
+  {
+    "word": "reproached",
+    "memory": "scolded, blamed",
+    "meaning": "Showed someone disappointment or blame for what they did",
+    "hindi": "डाँटा, उलाहना दिया",
+    "trick": "REPROACHED = APPROACHED to be blamed.",
+    "examples": [
+      "The others reproached her sharply, and they went outside.",
+      "He reproached himself for forgetting her birthday."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "reproach someone for something / for doing something",
+      "partners": [
+        "sharply reproached",
+        "reproached himself",
+        "reproached her for"
+      ]
+    }
+  },
+  {
+    "word": "reproachful",
+    "memory": "blaming, disappointed",
+    "meaning": "Showing blame or disappointment",
+    "hindi": "उलाहना भरा, शिकायती",
+    "trick": "REPROACHFUL = full of REPROACH.",
+    "examples": [
+      "But he didn't sound reproachful; he simply wanted to know.",
+      "The dog gave me a reproachful look when I left."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a reproachful + look/tone / sound reproachful",
+      "partners": [
+        "reproachful look",
+        "reproachful tone",
+        "reproachful glance"
+      ]
+    }
+  },
+  {
+    "word": "requisite",
+    "memory": "needed, necessary",
+    "meaning": "Needed for a particular purpose; required",
+    "hindi": "आवश्यक, ज़रूरी",
+    "trick": "REQUISITE sounds like REQUIRED: what is required is requisite.",
+    "examples": [
+      "If you keep chasing highs to cover the pain, you'll never find the requisite motivation to change.",
+      "She has the requisite skills for this job."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "the requisite + noun / requisite for something",
+      "partners": [
+        "the requisite skills",
+        "requisite experience",
+        "requisite number"
+      ]
+    }
+  },
+  {
+    "word": "resemble",
+    "memory": "look like, be like",
+    "meaning": "To look like or be similar to someone or something",
+    "hindi": "के जैसा दिखना, मिलना-जुलना",
+    "trick": "RE-SEMBLE = SIMILAR again: re-SEMBL-e sounds like 'similar'.",
+    "examples": [
+      "In fighting against Man, we must not come to resemble him.",
+      "You really resemble your father when you smile."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "resemble someone/something / closely resemble someone",
+      "partners": [
+        "closely resemble",
+        "strongly resemble",
+        "come to resemble"
+      ]
+    }
+  },
+  {
+    "word": "resented",
+    "memory": "felt bitter about",
+    "meaning": "Felt angry and bitter about someone or something seen as unfair",
+    "hindi": "नाराज़ रहा, बुरा माना",
+    "trick": "RE-SENT-ED: the hurt was SENT back again and again in the mind, so she resented it.",
+    "examples": [
+      "I still resented my ex for what she had done.",
+      "He resented being told what to do by his younger brother."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "resented someone for something / resented doing something",
+      "partners": [
+        "deeply resented",
+        "resented the fact that",
+        "resented being told"
+      ]
+    }
+  },
+  {
+    "word": "resentful",
+    "memory": "bitter, angry",
+    "meaning": "Feeling bitter and angry about being treated unfairly",
+    "hindi": "कड़वाहट भरा, नाराज़",
+    "trick": "RESENT-FULL: full of resentment.",
+    "examples": [
+      "With each disappointment, Rasheed had grown more remote and resentful.",
+      "She felt resentful when her friends didn't invite her."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be/grow resentful of someone/something / resentful about something",
+      "partners": [
+        "grow resentful",
+        "resentful of",
+        "deeply resentful"
+      ]
+    }
+  },
+  {
+    "word": "reservists",
+    "memory": "part-time soldiers",
+    "meaning": "Soldiers who are not in full-time service but can be called up when needed",
+    "hindi": "आरक्षित सैनिक",
+    "trick": "RESERVE-ists: soldiers kept in RESERVE, used when needed.",
+    "examples": [
+      "In BUD/S, reservists with injuries that take a long time to heal are sent home.",
+      "The army called up thousands of reservists during the war."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "call up reservists / army reservists",
+      "partners": [
+        "army reservists",
+        "call up reservists",
+        "military reservists"
+      ]
+    }
+  },
+  {
+    "word": "reservoir",
+    "memory": "store, large supply",
+    "meaning": "A large store or supply of something; also a lake used to store water",
+    "hindi": "भंडार; जलाशय",
+    "trick": "RESERVoir = where something is RESERVED (kept) for later.",
+    "examples": [
+      "All those tiny movements add up to a reservoir of wasted energy.",
+      "The town gets its drinking water from a reservoir in the hills."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a reservoir of something",
+      "partners": [
+        "a reservoir of energy",
+        "water reservoir",
+        "fill the reservoir"
+      ]
+    }
+  },
+  {
+    "word": "reservoirs",
+    "memory": "stores, large supplies",
+    "meaning": "Large stores or supplies of something; also lakes used to store water",
+    "hindi": "भंडार; जलाशय",
+    "trick": "RESERVoirs = places where things are RESERVED (kept) for later.",
+    "examples": [
+      "Under the hood, we all have huge reservoirs of potential.",
+      "The reservoirs are nearly empty after the dry summer."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "reservoirs of something",
+      "partners": [
+        "reservoirs of potential",
+        "huge reservoirs",
+        "water reservoirs"
+      ]
+    }
+  },
+  {
+    "word": "residual",
+    "memory": "leftover, remaining",
+    "meaning": "Remaining after most of something has gone or been used",
+    "hindi": "बचा हुआ, शेष",
+    "trick": "RESIDUAL = RESIDUE = what is left behind.",
+    "examples": [
+      "You may still find some residual dead space.",
+      "There was some residual pain after the injury healed."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "residual + noun",
+      "partners": [
+        "residual pain",
+        "residual effects",
+        "residual heat"
+      ]
+    }
+  },
+  {
+    "word": "resignation",
+    "memory": "calm acceptance; quitting",
+    "meaning": "Calm acceptance of something bad that cannot be changed; also leaving a job officially",
+    "hindi": "हार मान लेना, स्वीकार; इस्तीफ़ा",
+    "trick": "RE-SIGN: you SIGN off and give up, either on a job or on fighting fate.",
+    "examples": [
+      "She shrugged with resignation when the bus didn't come.",
+      "He handed in his resignation on Monday."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "with resignation / hand in your resignation",
+      "partners": [
+        "quiet resignation",
+        "sigh of resignation",
+        "hand in a resignation"
+      ]
+    }
+  },
+  {
+    "word": "resilience",
+    "memory": "bouncing back, toughness",
+    "meaning": "The ability to recover quickly from difficulties",
+    "hindi": "लचीलापन, सहनशक्ति",
+    "trick": "RESILIENCE: like a spring that RE-SILIENTly bounces back.",
+    "examples": [
+      "Teachers have noticed a lack of emotional resilience in today's young people.",
+      "Her resilience helped her get through a tough year."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "resilience in the face of something / show resilience",
+      "partners": [
+        "emotional resilience",
+        "show resilience",
+        "build resilience"
+      ]
+    }
+  },
+  {
+    "word": "resolution",
+    "memory": "detail, sharpness; firm decision",
+    "meaning": "The amount of detail or sharpness in a picture or piece of work; also a firm decision to do something",
+    "hindi": "स्पष्टता, बारीकी; संकल्प",
+    "trick": "RESOLUTION: on a screen it means how sharp the picture is; on 1 January it's your promise.",
+    "examples": [
+      "The resolution on his work wasn't good enough, so he never showed it.",
+      "This camera takes photos with very high resolution."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "high/low resolution / make a resolution to do something",
+      "partners": [
+        "high resolution",
+        "screen resolution",
+        "New Year's resolution"
+      ]
+    }
+  },
+  {
+    "word": "resonance",
+    "memory": "echoing, connection",
+    "meaning": "A deep feeling of connection or matching with something; also a deep, long-lasting sound",
+    "hindi": "तालमेल, गूँज",
+    "trick": "RESONANCE: one SOUND (Latin sonus) echoing in another, like two hearts on the same beat.",
+    "examples": [
+      "When we watch a person's face closely, our brain aligns with theirs in a process called neural resonance.",
+      "His words had a special resonance for me."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "have resonance for someone / resonance with something",
+      "partners": [
+        "neural resonance",
+        "emotional resonance",
+        "deep resonance"
+      ]
+    }
+  },
+  {
+    "word": "resonated",
+    "memory": "connected deeply; echoed",
+    "meaning": "Felt deeply connected to something; also made a deep sound that echoed",
+    "hindi": "जुड़ाव महसूस किया; गूँजा",
+    "trick": "RE-SONATE: the SOUND came back again inside me.",
+    "examples": [
+      "He had survived the impossible, and I resonated with his survival.",
+      "Her speech resonated with everyone in the room."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "resonated with someone/something / something resonated",
+      "partners": [
+        "resonated with",
+        "deeply resonated",
+        "resonated through"
+      ]
+    }
+  },
+  {
+    "word": "respite",
+    "memory": "short break, relief",
+    "meaning": "A short break from something difficult or unpleasant",
+    "hindi": "राहत, विश्राम",
+    "trick": "RESPITE: a moment to REST from SPITE.",
+    "examples": [
+      "During the summers, there was no midweek respite from Trunnis.",
+      "The rain gave us a brief respite from the heat."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a respite from something",
+      "partners": [
+        "brief respite",
+        "welcome respite",
+        "no respite"
+      ]
+    }
+  },
+  {
+    "word": "restaurants",
+    "memory": "eating places",
+    "meaning": "Places where you pay to sit and eat meals",
+    "hindi": "भोजनालय, होटल",
+    "trick": "RESTAURANTS: places to REST and eat.",
+    "examples": [
+      "Jimmy spent as much money in bars and fine restaurants as he did on his business ideas.",
+      "There are many good restaurants near the station."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "eat at restaurants / restaurants in/near somewhere",
+      "partners": [
+        "fine restaurants",
+        "local restaurants",
+        "fast-food restaurants"
+      ]
+    }
+  },
+  {
+    "word": "restive",
+    "memory": "restless, rebellious",
+    "meaning": "Restless and difficult to control, especially because unhappy",
+    "hindi": "बेचैन, विद्रोही",
+    "trick": "RESTIVE: no REST, so they're restless and ready to rebel.",
+    "examples": [
+      "The news of their defeat made the animals on nearby farms more restive than ever.",
+      "The crowd grew restive as the singer was an hour late."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "grow/become restive",
+      "partners": [
+        "grow restive",
+        "restive crowd",
+        "increasingly restive"
+      ]
+    }
+  },
+  {
+    "word": "restrained",
+    "memory": "held back",
+    "meaning": "Held back from doing or showing something",
+    "hindi": "संयम रखा, रोका",
+    "trick": "RE-STRAIN-ED: put a STRAIN (rope) on yourself to hold back.",
+    "examples": [
+      "She restrained herself and patiently watched him walk through the tall grass.",
+      "He restrained himself from shouting at the waiter."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "restrained oneself / restrained someone from doing something",
+      "partners": [
+        "restrained herself",
+        "restrained from",
+        "physically restrained"
+      ]
+    }
+  },
+  {
+    "word": "resuscitate",
+    "memory": "bring back to life",
+    "meaning": "To bring something back to life or use; also to make someone breathe again",
+    "hindi": "फिर से जीवित करना, होश में लाना",
+    "trick": "RE-SUSCITATE: to RE-start life (think CPR).",
+    "examples": [
+      "She found it exhausting to resuscitate once again what was long dead.",
+      "The doctors tried to resuscitate the man on the street."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "resuscitate someone/something / try to resuscitate",
+      "partners": [
+        "try to resuscitate",
+        "resuscitate the economy",
+        "resuscitate a patient"
+      ]
+    }
+  },
+  {
+    "word": "retained",
+    "memory": "kept",
+    "meaning": "Kept or continued to have something",
+    "hindi": "बनाए रखा, क़ायम रखा",
+    "trick": "RE-TAIN-ED: held (Latin tenere) on to it again.",
+    "examples": [
+      "Running out of money sounded silly, but my mother retained her childhood habit.",
+      "She retained her calm even when the meeting got heated."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "retained something",
+      "partners": [
+        "retained control",
+        "retained the habit",
+        "retained the title"
+      ]
+    }
+  },
+  {
+    "word": "retaliating",
+    "memory": "hitting back",
+    "meaning": "Attacking or harming someone in return for what they did",
+    "hindi": "बदला लेना, जवाबी हमला",
+    "trick": "RE-TALI-ate: Latin talio = 'eye for an eye'.",
+    "examples": [
+      "The two groups kept retaliating against each other, and the fighting grew worse.",
+      "Instead of retaliating, he calmly walked away from the argument."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "retaliating against someone / retaliating for something",
+      "partners": [
+        "retaliating against",
+        "retaliating for",
+        "threaten retaliating"
+      ]
+    }
+  },
+  {
+    "word": "retch",
+    "memory": "gag, try vomiting",
+    "meaning": "To make the sound and movement of vomiting, often without bringing anything up",
+    "hindi": "उबकाई लेना, उल्टी करना",
+    "trick": "RETCH sounds like 'wretched': the wretched feeling before you throw up.",
+    "examples": [
+      "She held the girl's hair back when she had to retch.",
+      "The bad smell made him retch."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "retch / make someone retch",
+      "partners": [
+        "make someone retch",
+        "begin to retch",
+        "retch and cough"
+      ]
+    }
+  },
+  {
+    "word": "retched",
+    "memory": "gagged, vomited",
+    "meaning": "Made the sound and movement of vomiting",
+    "hindi": "उबकाई ली, उल्टी की",
+    "trick": "RETCHED: did the wretched gag.",
+    "examples": [
+      "Sometimes she retched again and again and threw up everything she ate.",
+      "He retched when he smelled the rotten food."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "someone retched",
+      "partners": [
+        "retched violently",
+        "retched and coughed",
+        "retched again"
+      ]
+    }
+  },
+  {
+    "word": "retching",
+    "memory": "gagging, vomiting",
+    "meaning": "Making the sound and movement of vomiting",
+    "hindi": "उबकाई लेते हुए",
+    "trick": "RETCHING: a wretched gagging sound.",
+    "examples": [
+      "Each time he spat, it sounded as if he were retching.",
+      "The seasick passenger was retching over the side of the boat."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "be retching / start retching",
+      "partners": [
+        "retching sound",
+        "start retching",
+        "coughing and retching"
+      ]
+    }
+  },
+  {
+    "word": "retinue",
+    "memory": "group of followers",
+    "meaning": "A group of helpers or followers who go with an important person",
+    "hindi": "अनुचर दल, साथ चलने वाले लोग",
+    "trick": "RETINUE = RETAIN-ue: people the boss RETAINS to follow him.",
+    "examples": [
+      "Napoleon was attended by his retinue of dogs.",
+      "The star arrived with a retinue of bodyguards and assistants."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a retinue of + people",
+      "partners": [
+        "retinue of followers",
+        "royal retinue",
+        "large retinue"
+      ]
+    }
+  },
+  {
+    "word": "retort",
+    "memory": "sharp reply",
+    "meaning": "A quick, sharp or clever reply; (verb) to reply in this way",
+    "hindi": "तीखा जवाब, पलटकर कहना",
+    "trick": "RE-TORT: twist (Latin torquere) the words back at someone.",
+    "examples": [
+      "They heard a squeaky plea, a curt retort, and a door shut.",
+      "\"That's not my problem,\" she retorted."
+    ],
+    "usage": {
+      "pos": "noun / verb",
+      "pattern": "a sharp retort / retort that ...",
+      "partners": [
+        "sharp retort",
+        "curt retort",
+        "witty retort"
+      ]
+    }
+  },
+  {
+    "word": "retract",
+    "memory": "take back",
+    "meaning": "To take back something you said or claimed; also to pull something back in",
+    "hindi": "वापस लेना; अंदर खींचना",
+    "trick": "RE-TRACT: TRACTor pulls it back.",
+    "examples": [
+      "I want to debate this with you and then get you to retract this theory.",
+      "The newspaper had to retract its false story."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "retract something / retract a statement",
+      "partners": [
+        "retract a statement",
+        "retract a claim",
+        "retract its claws"
+      ]
+    }
+  },
+  {
+    "word": "retraction",
+    "memory": "taking back words",
+    "meaning": "A statement saying that something said earlier was wrong",
+    "hindi": "बयान वापसी, खंडन",
+    "trick": "RETRACTION: the act of retracting = pulling back your words.",
+    "examples": [
+      "The kebab man took offense and demanded a retraction.",
+      "The newspaper printed a retraction the next day."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "demand/issue/print a retraction",
+      "partners": [
+        "demand a retraction",
+        "issue a retraction",
+        "public retraction"
+      ]
+    }
+  },
+  {
+    "word": "retreat",
+    "memory": "go back, withdraw",
+    "meaning": "To move back or away to a safer or quieter place",
+    "hindi": "पीछे हटना, लौट जाना",
+    "trick": "RE-TREAT: go back to your room and give yourself a TREAT of peace.",
+    "examples": [
+      "She would retreat back to her room and watch the snow falling.",
+      "When the guests got loud, he would retreat to the garden."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "retreat to somewhere / retreat from something",
+      "partners": [
+        "retreat to",
+        "retreat from",
+        "beat a retreat"
+      ]
+    }
+  },
+  {
+    "word": "retreats",
+    "memory": "moves back, withdraws",
+    "meaning": "Moves back or away from someone or something",
+    "hindi": "पीछे हटता है",
+    "trick": "RE-TREATS: goes back to his corner.",
+    "examples": [
+      "Apollo retreats to the opposite corner with his arms held high.",
+      "The cat retreats under the bed whenever guests arrive."
+    ],
+    "usage": {
+      "pos": "verb (3rd person)",
+      "pattern": "someone retreats to/from somewhere",
+      "partners": [
+        "retreats to",
+        "retreats from",
+        "quickly retreats"
+      ]
+    }
+  },
+  {
+    "word": "retrospect",
+    "memory": "looking back",
+    "meaning": "Thinking about past events, often understanding them better now",
+    "hindi": "पीछे मुड़कर देखना, अतीत पर नज़र",
+    "trick": "RETRO (back) + SPECT (look) = look back.",
+    "examples": [
+      "One day, in retrospect, the years of struggle will strike you as the most beautiful.",
+      "In retrospect, I should have taken that job."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in retrospect, ...",
+      "partners": [
+        "in retrospect",
+        "obvious in retrospect",
+        "seen in retrospect"
+      ]
+    }
+  },
+  {
+    "word": "reverberated",
+    "memory": "shook, echoed",
+    "meaning": "Shook or echoed with a loud, repeated sound",
+    "hindi": "गूँज उठा, थरथराया",
+    "trick": "RE-VERBERATED: the VERB (word/sound) bounced back again and again.",
+    "examples": [
+      "My entire body reverberated with the rhythm of the machine gun.",
+      "Her laughter reverberated through the empty hall."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something reverberated through/around somewhere / reverberated with something",
+      "partners": [
+        "reverberated through",
+        "reverberated around",
+        "reverberated with"
+      ]
+    }
+  },
+  {
+    "word": "revered",
+    "memory": "deeply respected",
+    "meaning": "Deeply respected and admired",
+    "hindi": "पूजनीय, सम्मानित",
+    "trick": "REVERED: people REVERENTly bow to the revered.",
+    "examples": [
+      "We hope we'll be remembered and revered long after we are gone.",
+      "Gandhi is revered by millions of people."
+    ],
+    "usage": {
+      "pos": "verb (past participle) / adjective",
+      "pattern": "be revered by someone / revered as something",
+      "partners": [
+        "widely revered",
+        "deeply revered",
+        "revered as a hero"
+      ]
+    }
+  },
+  {
+    "word": "reverent",
+    "memory": "respectful, worshipful",
+    "meaning": "Showing deep and serious respect",
+    "hindi": "श्रद्धापूर्ण, आदरपूर्ण",
+    "trick": "REVERENT = full of REVERENCE (deep respect), like in a temple.",
+    "examples": [
+      "The animals had to file past the skull in a reverent manner.",
+      "There was a reverent silence in the temple."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "in a reverent manner / a reverent + noun",
+      "partners": [
+        "reverent silence",
+        "reverent manner",
+        "reverent tone"
+      ]
+    }
+  },
+  {
+    "word": "reverie",
+    "memory": "daydream",
+    "meaning": "A pleasant state of being lost in your thoughts; a daydream",
+    "hindi": "दिवास्वप्न, ख़यालों में खोना",
+    "trick": "REVERIE sounds like 'REVERSE': you're lost in a reverse world of dreams.",
+    "examples": [
+      "At some point the reverie broke like a fever.",
+      "The phone ringing woke her from her reverie."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in a reverie / break someone's reverie",
+      "partners": [
+        "lost in reverie",
+        "break the reverie",
+        "wake from a reverie"
+      ]
+    }
+  },
+  {
+    "word": "revived",
+    "memory": "brought back to life",
+    "meaning": "Brought something back to life, strength or use",
+    "hindi": "फिर से जीवित किया, पुनर्जीवित किया",
+    "trick": "RE-VIVED: VIVA (life) again.",
+    "examples": [
+      "Launching my ultra quest revived my stalled career.",
+      "A cup of tea revived her after the long walk."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "revived something/someone",
+      "partners": [
+        "revived the career",
+        "revived interest",
+        "was revived"
+      ]
+    }
+  },
+  {
+    "word": "revoked",
+    "memory": "cancelled, taken away",
+    "meaning": "Officially cancelled or taken away",
+    "hindi": "रद्द किया, वापस लिया",
+    "trick": "RE-VOKED: the VOICE (Latin vocare) called it back.",
+    "examples": [
+      "It's what we do with opportunities revoked or presented to us that decides how a story ends.",
+      "His driving licence was revoked after the accident."
+    ],
+    "usage": {
+      "pos": "verb (past participle)",
+      "pattern": "be revoked / revoke someone's licence",
+      "partners": [
+        "licence revoked",
+        "permission revoked",
+        "visa revoked"
+      ]
+    }
+  },
+  {
+    "word": "revolted",
+    "memory": "felt disgusted",
+    "meaning": "Felt or caused strong disgust; also rose up against authority",
+    "hindi": "घिन आई; विद्रोह किया",
+    "trick": "REVOLTED: your stomach starts a REVOLT against what it sees.",
+    "examples": [
+      "How could they be photographed this way? Her stomach revolted with distaste.",
+      "The smell of the rotten fish revolted me."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something revolted someone / be revolted by something",
+      "partners": [
+        "revolted by",
+        "stomach revolted",
+        "felt revolted"
+      ]
+    }
+  },
+  {
+    "word": "revving",
+    "memory": "speeding up, roaring",
+    "meaning": "Making an engine run faster and louder",
+    "hindi": "इंजन तेज़ करना, गरजना",
+    "trick": "REVVING: REVolutions of the engine going up.",
+    "examples": [
+      "Each insult became more fuel for the engine revving inside me.",
+      "He sat in the car, revving the engine."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "revving the engine / revving up",
+      "partners": [
+        "revving the engine",
+        "revving up",
+        "engine revving"
+      ]
+    }
+  },
+  {
+    "word": "rhabdomyolysis",
+    "memory": "muscle breakdown illness",
+    "meaning": "A serious medical condition in which damaged muscle breaks down and can harm the kidneys",
+    "hindi": "मांसपेशी टूटने की बीमारी",
+    "trick": "RHABDO-MYO-LYSIS: rod (rhabdo) muscle (myo) breaking (lysis).",
+    "examples": [
+      "\"You look like you're in rhabdomyolysis, David,\" she said.",
+      "Extreme exercise without water can lead to rhabdomyolysis."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "be in rhabdomyolysis / develop rhabdomyolysis",
+      "partners": [
+        "develop rhabdomyolysis",
+        "severe rhabdomyolysis",
+        "risk of rhabdomyolysis"
+      ]
+    }
+  },
+  {
+    "word": "rhythm",
+    "memory": "beat, pattern",
+    "meaning": "A regular pattern of movement, sound or events",
+    "hindi": "लय, ताल",
+    "trick": "RHYTHM Helps Your Two Hips Move.",
+    "examples": [
+      "The new moon could change an entire city, alter its rhythm and mood.",
+      "She tapped her foot to the rhythm of the song."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the rhythm of something / in rhythm",
+      "partners": [
+        "daily rhythm",
+        "sense of rhythm",
+        "rhythm of life"
+      ]
+    }
+  },
+  {
+    "word": "rickety",
+    "memory": "shaky, wobbly",
+    "meaning": "Old and weak, likely to break or fall apart",
+    "hindi": "जर्जर, हिलता-डुलता",
+    "trick": "RICKETY: it creaks 'rick-rick' when you touch it.",
+    "examples": [
+      "It wasn't easy because of that rickety bar.",
+      "Be careful on that rickety old ladder."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a rickety + noun",
+      "partners": [
+        "rickety bridge",
+        "rickety chair",
+        "rickety old"
+      ]
+    }
+  },
+  {
+    "word": "rictus",
+    "memory": "stiff grimace",
+    "meaning": "A fixed, unnatural grin or open mouth, often in pain or death",
+    "hindi": "विकृत मुँह, जड़ी मुस्कान",
+    "trick": "RICTUS sounds like RIGID + mouth: a stiff, stuck grin.",
+    "examples": [
+      "His face was frozen in a rictus of fear.",
+      "She smiled a tight rictus of a smile for the camera."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a rictus of + feeling / in a rictus",
+      "partners": [
+        "rictus grin",
+        "rictus of fear",
+        "frozen rictus"
+      ]
+    }
+  },
+  {
+    "word": "ridge",
+    "memory": "hilltop line",
+    "meaning": "A long narrow raised top of a hill or mountain",
+    "hindi": "पहाड़ की चोटी की रेखा, कटक",
+    "trick": "RIDGE: like the bridge of your nose, a long raised line.",
+    "examples": [
+      "I was on the wrong ridge.",
+      "We walked along the ridge and saw the valley below."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "on/along a ridge",
+      "partners": [
+        "mountain ridge",
+        "along the ridge",
+        "narrow ridge"
+      ]
+    }
+  },
+  {
+    "word": "ridgeline",
+    "memory": "hilltop line",
+    "meaning": "The line along the top of a ridge of hills or mountains",
+    "hindi": "पहाड़ी की चोटी रेखा",
+    "trick": "RIDGE + LINE = the line along the hilltops.",
+    "examples": [
+      "The battle took place along a ridgeline above 9,000 feet.",
+      "We watched the sun set behind the ridgeline."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "along/on the ridgeline",
+      "partners": [
+        "along the ridgeline",
+        "mountain ridgeline",
+        "rocky ridgeline"
+      ]
+    }
+  },
+  {
+    "word": "ridicule",
+    "memory": "mockery",
+    "meaning": "Unkind words or laughter that make someone look foolish",
+    "hindi": "मज़ाक, उपहास",
+    "trick": "RIDICULE someone and they look RIDICULOUS.",
+    "examples": [
+      "Trauma can cause this, as can shame and social ridicule.",
+      "He faced ridicule for his strange haircut."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "face/fear ridicule / an object of ridicule",
+      "partners": [
+        "face ridicule",
+        "public ridicule",
+        "object of ridicule"
+      ]
+    }
+  },
+  {
+    "word": "ridiculed",
+    "memory": "mocked",
+    "meaning": "Laughed at or made to look foolish",
+    "hindi": "मज़ाक उड़ाया गया, उपहास किया",
+    "trick": "RIDICULED = made to look RIDICULOUS.",
+    "examples": [
+      "She will never let on that she has had dreams that were ridiculed.",
+      "He was ridiculed for his idea, but it worked."
+    ],
+    "usage": {
+      "pos": "verb (past / past participle)",
+      "pattern": "be ridiculed for something / ridiculed someone",
+      "partners": [
+        "ridiculed by",
+        "publicly ridiculed",
+        "ridiculed for"
+      ]
+    }
+  },
+  {
+    "word": "ridiculing",
+    "memory": "mocking",
+    "meaning": "Laughing at someone or making them look foolish",
+    "hindi": "मज़ाक उड़ाना",
+    "trick": "RIDICULING = making someone look RIDICULOUS.",
+    "examples": [
+      "His father began ridiculing him for his laziness.",
+      "Stop ridiculing your brother's drawing."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "ridiculing someone for something",
+      "partners": [
+        "ridiculing someone",
+        "ridiculing the idea",
+        "openly ridiculing"
+      ]
+    }
+  },
+  {
+    "word": "rigid",
+    "memory": "stiff, hard",
+    "meaning": "Stiff and not able to bend; also strict and unwilling to change",
+    "hindi": "कठोर, सख़्त",
+    "trick": "RIGID sounds like 'rigged': rigged so tight it won't bend.",
+    "examples": [
+      "Her body tightened and became rigid during the fit.",
+      "He sat rigid in his chair, afraid to move."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "become rigid / rigid + noun",
+      "partners": [
+        "rigid rules",
+        "sit rigid",
+        "rigid structure"
+      ]
+    }
+  },
+  {
+    "word": "rigmarole",
+    "memory": "long tiresome speech",
+    "meaning": "A long, confusing speech or process that seems pointless",
+    "hindi": "लंबी उबाऊ बात, झंझट",
+    "trick": "RIGMAROLE: a ROLE of words that RIG-s up a long ritual.",
+    "examples": [
+      "The judge began pronouncing a long rigmarole in the name of the French people.",
+      "Getting a new passport is such a rigmarole."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a rigmarole of something / go through the rigmarole of doing something",
+      "partners": [
+        "whole rigmarole",
+        "go through the rigmarole",
+        "such a rigmarole"
+      ]
+    }
+  },
+  {
+    "word": "rigorous",
+    "memory": "strict, thorough",
+    "meaning": "Very careful, thorough and strict",
+    "hindi": "कठोर, सख़्त, गहन",
+    "trick": "RIGOROUS = RIGor + OUS: full of strict rigour.",
+    "examples": [
+      "Delta Selection is rigorous, and I had always been curious about it.",
+      "The new drug went through rigorous testing."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a rigorous + noun",
+      "partners": [
+        "rigorous testing",
+        "rigorous training",
+        "rigorous standards"
+      ]
+    }
+  },
+  {
+    "word": "rim",
+    "memory": "outer edge",
+    "meaning": "The outer edge of something round, like a wheel, cup or pot",
+    "hindi": "किनारा, घेरा",
+    "trick": "RIM: the Round Item's Margin.",
+    "examples": [
+      "Mammy folded her hands on the rim of the pot.",
+      "He licked the salt off the rim of the glass."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the rim of something",
+      "partners": [
+        "rim of the glass",
+        "wheel rim",
+        "rim of the pot"
+      ]
+    }
+  },
+  {
+    "word": "ringed",
+    "memory": "surrounded",
+    "meaning": "Surrounded something in a circle",
+    "hindi": "घेरा हुआ",
+    "trick": "RINGED: made a RING around it.",
+    "examples": [
+      "The homes were the same dusty colour as the mountains that ringed the city.",
+      "Tall trees ringed the small lake."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something ringed something / ringed by/with something",
+      "partners": [
+        "ringed by",
+        "ringed with",
+        "mountains ringed"
+      ]
+    }
+  },
+  {
+    "word": "rinsed",
+    "memory": "washed with water",
+    "meaning": "Washed something quickly with clean water",
+    "hindi": "धोया, खंगाला",
+    "trick": "RINSED: water RAN through it (rins-ed).",
+    "examples": [
+      "She rinsed with a bowl and soaped her hair again.",
+      "He rinsed the cups before putting them away."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "rinsed something / rinsed something off/out",
+      "partners": [
+        "rinsed out",
+        "rinsed off",
+        "rinsed with water"
+      ]
+    }
+  },
+  {
+    "word": "rip",
+    "memory": "tear",
+    "meaning": "A long tear or cut in cloth or paper; (verb) to tear quickly",
+    "hindi": "फटन, चीरा",
+    "trick": "RIP: the sound of cloth tearing - rrrip!",
+    "examples": [
+      "Babi ran his finger through the rip.",
+      "There's a rip in the back of your jeans."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a rip in something",
+      "partners": [
+        "a rip in",
+        "small rip",
+        "rip in the fabric"
+      ]
+    }
+  },
+  {
+    "word": "ripe",
+    "memory": "fully grown, ready",
+    "meaning": "Fully grown and ready to eat (of fruit)",
+    "hindi": "पका हुआ",
+    "trick": "RIPE: ready to be RIPPED from the tree.",
+    "examples": [
+      "She had a chubby face like a ripe apple.",
+      "These mangoes are ripe and sweet."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be ripe / a ripe + fruit",
+      "partners": [
+        "ripe fruit",
+        "ripe mango",
+        "fully ripe"
+      ]
+    }
+  },
+  {
+    "word": "ripening",
+    "memory": "getting ready to eat",
+    "meaning": "Becoming fully grown and ready to eat",
+    "hindi": "पक रहा, पकना",
+    "trick": "RIPENING = becoming RIPE.",
+    "examples": [
+      "The early apples were now ripening in the orchard.",
+      "The tomatoes are ripening in the sun."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "something is ripening",
+      "partners": [
+        "ripening fruit",
+        "ripening in the sun",
+        "slowly ripening"
+      ]
+    }
+  },
+  {
+    "word": "rippled",
+    "memory": "flowed in waves",
+    "meaning": "Moved or spread in small waves",
+    "hindi": "लहराया, लहरों में फैला",
+    "trick": "RIPPLED: like ripples on water after a stone falls in.",
+    "examples": [
+      "It rippled off my skin and poured from my soul.",
+      "The lake rippled in the breeze."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something rippled through/across something",
+      "partners": [
+        "rippled through",
+        "rippled across",
+        "water rippled"
+      ]
+    }
+  },
+  {
+    "word": "rite",
+    "memory": "ceremony, ritual",
+    "meaning": "A formal ceremony or custom, often religious",
+    "hindi": "रस्म, अनुष्ठान",
+    "trick": "RITE = RITual (not 'right' or 'write').",
+    "examples": [
+      "My one hope was to escape and defeat their cruel rite.",
+      "Getting your first job is a kind of rite of passage."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a rite of something / perform a rite",
+      "partners": [
+        "rite of passage",
+        "religious rite",
+        "ancient rite"
+      ]
+    }
+  },
+  {
+    "word": "rites",
+    "memory": "ceremonies, rituals",
+    "meaning": "Formal ceremonies or customs, often religious",
+    "hindi": "रस्में, संस्कार",
+    "trick": "RITES = RITuals (not 'rights').",
+    "examples": [
+      "She wished to be buried with the rites of the Church.",
+      "The priest performed the last rites."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "perform the rites / the rites of something",
+      "partners": [
+        "last rites",
+        "funeral rites",
+        "perform the rites"
+      ]
+    }
+  },
+  {
+    "word": "riveted",
+    "memory": "fixed, glued",
+    "meaning": "Fixed firmly on something, unable to look away",
+    "hindi": "टिकी हुई, जमी हुई",
+    "trick": "RIVETED: fixed like a metal RIVET.",
+    "examples": [
+      "His very pale, clear eyes were riveted on me.",
+      "The children were riveted to the TV screen."
+    ],
+    "usage": {
+      "pos": "adjective (past participle)",
+      "pattern": "be riveted on/to someone/something / be riveted by something",
+      "partners": [
+        "riveted on",
+        "riveted to",
+        "eyes riveted"
+      ]
+    }
+  },
+  {
+    "word": "riveting",
+    "memory": "gripping, fascinating",
+    "meaning": "So interesting that you cannot stop paying attention",
+    "hindi": "रोचक, दिलचस्प",
+    "trick": "RIVETING: it RIVETS your eyes to the page.",
+    "examples": [
+      "The Financial Times called the book a riveting read.",
+      "The final match was riveting from start to finish."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a riveting + noun",
+      "partners": [
+        "riveting read",
+        "riveting story",
+        "riveting performance"
+      ]
+    }
+  },
+  {
+    "word": "roaches",
+    "memory": "cockroaches",
+    "meaning": "Cockroaches (informal)",
+    "hindi": "तिलचट्टे",
+    "trick": "ROACHES: cock-ROACHES.",
+    "examples": [
+      "I'd see roaches scurry for cover when I flipped the lights on.",
+      "The old kitchen was full of roaches."
+    ],
+    "usage": {
+      "pos": "noun (plural, informal)",
+      "pattern": "roaches scurry / get rid of roaches",
+      "partners": [
+        "kill roaches",
+        "get rid of roaches",
+        "roaches scurry"
+      ]
+    }
+  },
+  {
+    "word": "roam",
+    "memory": "wander",
+    "meaning": "To walk or travel around without a clear plan",
+    "hindi": "घूमना, भटकना",
+    "trick": "ROAM like a Roman wanders all ROAds.",
+    "examples": [
+      "Millions roam the streets, addicted to comfort and unaware of their potential.",
+      "Cows roam freely on the village roads."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "roam somewhere / roam around/the streets",
+      "partners": [
+        "roam the streets",
+        "roam freely",
+        "roam around"
+      ]
+    }
+  },
+  {
+    "word": "rocked",
+    "memory": "did really well",
+    "meaning": "Did something very well (informal); also moved gently back and forth",
+    "hindi": "कमाल कर दिया (बोलचाल); झुलाया",
+    "trick": "ROCKED it = performed like a ROCK star.",
+    "examples": [
+      "He rocked PT and sailed through First Phase.",
+      "She totally rocked her job interview."
+    ],
+    "usage": {
+      "pos": "verb (past, informal)",
+      "pattern": "rocked something",
+      "partners": [
+        "rocked the exam",
+        "totally rocked",
+        "rocked the stage"
+      ]
+    }
+  },
+  {
+    "word": "rocking",
+    "memory": "swaying back and forth",
+    "meaning": "Moving gently backwards and forwards or from side to side",
+    "hindi": "आगे-पीछे झूलना",
+    "trick": "ROCKING chair: moves back and forth.",
+    "examples": [
+      "Next to Laila, Mammy kept rocking back and forth.",
+      "She was rocking the baby to sleep."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "rocking back and forth / rocking someone",
+      "partners": [
+        "rocking back and forth",
+        "rocking chair",
+        "rocking the baby"
+      ]
+    }
+  },
+  {
+    "word": "rodents",
+    "memory": "rats, mice",
+    "meaning": "Small animals with sharp front teeth, such as rats and mice",
+    "hindi": "कुतरने वाले जीव, चूहे",
+    "trick": "RODENTS make DENTS with their teeth.",
+    "examples": [
+      "I'd see dead rodents stuck to the sticky traps I had laid.",
+      "Keep food in boxes so rodents can't get in."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "rodents + verb / keep rodents away",
+      "partners": [
+        "small rodents",
+        "keep rodents away",
+        "rodents and insects"
+      ]
+    }
+  },
+  {
+    "word": "rodeo",
+    "memory": "cowboy show",
+    "meaning": "A show where cowboys ride wild horses and catch cattle",
+    "hindi": "काउबॉय प्रदर्शन",
+    "trick": "RODEO: cowboys RODE-O horses.",
+    "examples": [
+      "Back then, he was a simple Texas rodeo cowboy who barely said a word.",
+      "We watched cowboys ride bulls at the rodeo."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "at a rodeo / rodeo + noun",
+      "partners": [
+        "rodeo cowboy",
+        "go to a rodeo",
+        "rodeo rider"
+      ]
+    }
+  },
+  {
+    "word": "roller towel",
+    "memory": "looped hand towel",
+    "meaning": "A long towel joined in a loop and hung on a roller, used by many people",
+    "hindi": "घूमने वाला तौलिया",
+    "trick": "ROLLER TOWEL: a towel that ROLLS round and round on a bar.",
+    "examples": [
+      "By evening the roller towel was sopping wet from being used by so many people.",
+      "There was a roller towel next to the sink in the factory."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "use the roller towel",
+      "partners": [
+        "wet roller towel",
+        "shared roller towel",
+        "roller towel by the sink"
+      ]
+    }
+  },
+  {
+    "word": "rollers",
+    "memory": "heavy rolling machines",
+    "meaning": "Heavy machines with a turning cylinder used to flatten ground; also tubes for curling hair",
+    "hindi": "रोलर, बेलन",
+    "trick": "ROLLERS: things that ROLL over the field to flatten it.",
+    "examples": [
+      "Electricity could run threshing machines, ploughs, rollers and reapers.",
+      "Farmers use rollers to flatten the soil after planting."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "use rollers / rollers for something",
+      "partners": [
+        "heavy rollers",
+        "road rollers",
+        "hair rollers"
+      ]
+    }
+  },
+  {
+    "word": "rolling",
+    "memory": "non-stop, going strong",
+    "meaning": "Busy and active without stopping (informal); also turning over and over",
+    "hindi": "लगातार चालू (बोलचाल); लुढ़कता",
+    "trick": "ROLLING: like a ball that never stops rolling.",
+    "examples": [
+      "The guy was always rolling, always on, talking about his work.",
+      "Once she starts telling stories, she keeps rolling for hours."
+    ],
+    "usage": {
+      "pos": "verb (-ing, informal)",
+      "pattern": "be rolling / keep rolling",
+      "partners": [
+        "keep rolling",
+        "get rolling",
+        "always rolling"
+      ]
+    }
+  },
+  {
+    "word": "romanticized",
+    "memory": "idealized",
+    "meaning": "Thought of or described as better or more exciting than it really was",
+    "hindi": "आदर्श बनाया, बढ़ा-चढ़ाकर देखा",
+    "trick": "ROMANTIC-ized: seen through rose-tinted ROMANTIC glasses.",
+    "examples": [
+      "Many romanticized him.",
+      "People often romanticized life in the old village."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "romanticized someone/something",
+      "partners": [
+        "romanticized the past",
+        "romanticized view",
+        "heavily romanticized"
+      ]
+    }
+  },
+  {
+    "word": "romped",
+    "memory": "played noisily",
+    "meaning": "Played in a lively, noisy and happy way",
+    "hindi": "उछल-कूद की, खेलते रहे",
+    "trick": "ROMPED: ROMP = run around like puppies.",
+    "examples": [
+      "Kids romped about in new shirts and bright vests.",
+      "The puppies romped in the garden all afternoon."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "romped about/around somewhere",
+      "partners": [
+        "romped about",
+        "romped around",
+        "romped through"
+      ]
+    }
+  },
+  {
+    "word": "rosary",
+    "memory": "prayer beads",
+    "meaning": "A string of beads used for counting prayers",
+    "hindi": "माला, जपमाला",
+    "trick": "ROSARY: a ROSE garden of beads for prayer.",
+    "examples": [
+      "Mullah Faizullah walked along the stream, twirling his rosary beads.",
+      "My grandmother prays with her rosary every morning."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "rosary beads / say the rosary",
+      "partners": [
+        "rosary beads",
+        "twirl a rosary",
+        "say the rosary"
+      ]
+    }
+  },
+  {
+    "word": "rose",
+    "memory": "got up",
+    "meaning": "Got up from bed or a seat; past of 'rise'",
+    "hindi": "उठा, उठी",
+    "trick": "RISE - ROSE - RISEN: the sun rose, and so did she.",
+    "examples": [
+      "Nine-year-old Laila rose from bed, hungry for the sight of her friend.",
+      "He rose from his chair to greet us."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "rose from something / rose to your feet",
+      "partners": [
+        "rose from bed",
+        "rose to his feet",
+        "rose early"
+      ]
+    }
+  },
+  {
+    "word": "rosette",
+    "memory": "ribbon badge",
+    "meaning": "A round badge made of ribbon, worn as a prize or honour",
+    "hindi": "रिबन का बिल्ला",
+    "trick": "ROSETTE: a ribbon shaped like a little ROSE.",
+    "examples": [
+      "The warden had a Legion of Honour rosette in his buttonhole.",
+      "Our horse won a red rosette at the show."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "wear a rosette / win a rosette",
+      "partners": [
+        "wear a rosette",
+        "win a rosette",
+        "red rosette"
+      ]
+    }
+  },
+  {
+    "word": "rotted",
+    "memory": "decayed, fallen apart",
+    "meaning": "Decayed and become weak or soft over time",
+    "hindi": "सड़ा हुआ, गला हुआ",
+    "trick": "ROTTED: R-O-T, the rope ROTted away.",
+    "examples": [
+      "Laila pictured her life as a rotted rope, snapping and unraveling.",
+      "The wooden fence had rotted in the rain."
+    ],
+    "usage": {
+      "pos": "verb (past) / adjective",
+      "pattern": "something rotted / a rotted + noun",
+      "partners": [
+        "rotted wood",
+        "rotted away",
+        "rotted rope"
+      ]
+    }
+  },
+  {
+    "word": "rotting",
+    "memory": "decaying",
+    "meaning": "Slowly decaying and going bad",
+    "hindi": "सड़ता हुआ",
+    "trick": "ROTTING: going ROTten.",
+    "examples": [
+      "She laughed so hard that her rotting front tooth was on full display.",
+      "The smell of rotting fruit filled the kitchen."
+    ],
+    "usage": {
+      "pos": "adjective (-ing) / verb",
+      "pattern": "a rotting + noun / be rotting",
+      "partners": [
+        "rotting fruit",
+        "rotting teeth",
+        "rotting wood"
+      ]
+    }
+  },
+  {
+    "word": "rotund",
+    "memory": "round, plump",
+    "meaning": "Round and fat (polite)",
+    "hindi": "गोल-मटोल, मोटा",
+    "trick": "ROTUND = ROUND.",
+    "examples": [
+      "There was a rotund old woman whose late husband was a stone carver.",
+      "The rotund shopkeeper laughed at my joke."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a rotund + person",
+      "partners": [
+        "rotund man",
+        "rotund figure",
+        "short and rotund"
+      ]
+    }
+  },
+  {
+    "word": "rouge",
+    "memory": "blusher, red makeup",
+    "meaning": "Red powder or cream put on the cheeks (old-fashioned word for blusher)",
+    "hindi": "गालों की लाली",
+    "trick": "ROUGE = French for RED.",
+    "examples": [
+      "She washed it all off: tears, soapy water, rouge and mascara.",
+      "She put a little rouge on her cheeks before the party."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "wear/put on rouge",
+      "partners": [
+        "put on rouge",
+        "wear rouge",
+        "a touch of rouge"
+      ]
+    }
+  },
+  {
+    "word": "roughhouse",
+    "memory": "rough fight, scuffle",
+    "meaning": "Rough, noisy fighting or play (informal)",
+    "hindi": "धक्का-मुक्की, हाथापाई",
+    "trick": "ROUGH + HOUSE: rough play in the house.",
+    "examples": [
+      "He told me he'd been having a roughhouse with a fellow who annoyed him.",
+      "The boys had a roughhouse in the living room and broke a lamp."
+    ],
+    "usage": {
+      "pos": "noun (informal)",
+      "pattern": "have a roughhouse with someone",
+      "partners": [
+        "have a roughhouse",
+        "bit of roughhouse",
+        "roughhouse with"
+      ]
+    }
+  },
+  {
+    "word": "roulette",
+    "memory": "wheel gambling game",
+    "meaning": "A casino game where a ball spins on a wheel and players bet on where it stops",
+    "hindi": "जुए का पहिया खेल",
+    "trick": "ROULETTE: French for 'little wheel' - it ROLLS.",
+    "examples": [
+      "It was like putting every dollar you own on one number in roulette.",
+      "He lost all his money playing roulette."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "play roulette / bet on roulette",
+      "partners": [
+        "play roulette",
+        "roulette wheel",
+        "Russian roulette"
+      ]
+    }
+  },
+  {
+    "word": "rouse",
+    "memory": "wake up",
+    "meaning": "To wake someone up; also to make someone excited or active",
+    "hindi": "जगाना; उत्साहित करना",
+    "trick": "ROUSE: a mouse could rouse a sleeping house.",
+    "examples": [
+      "What if my body was so burned out that even a rescue breath couldn't rouse me?",
+      "The loud alarm didn't rouse him from sleep."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "rouse someone from something / rouse someone to action",
+      "partners": [
+        "rouse from sleep",
+        "rouse someone",
+        "rouse the crowd"
+      ]
+    }
+  },
+  {
+    "word": "rousing",
+    "memory": "stirring, exciting",
+    "meaning": "Making people feel excited, eager or ready to act",
+    "hindi": "जोशीला, उत्साह भरा",
+    "trick": "ROUSING speech ROUSES (wakes up) the crowd.",
+    "examples": [
+      "Taraki was in the streets giving rousing speeches to demonstrators.",
+      "The coach gave a rousing talk before the final match."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a rousing + speech/welcome/song",
+      "partners": [
+        "rousing speech",
+        "rousing welcome",
+        "rousing applause"
+      ]
+    }
+  },
+  {
+    "word": "row",
+    "memory": "quarrel, argument",
+    "meaning": "A noisy argument or quarrel (British, rhymes with 'cow'); also a line of people or things (rhymes with 'go')",
+    "hindi": "झगड़ा, बहस; कतार",
+    "trick": "ROW (like 'wow') = a loud WOW of shouting in a fight.",
+    "examples": [
+      "One of them's the brother of that girl I had the row with.",
+      "My parents had a row about money last night."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "have a row with someone / a row about something",
+      "partners": [
+        "have a row",
+        "blazing row",
+        "a row about"
+      ]
+    }
+  },
+  {
+    "word": "rubbish",
+    "memory": "waste, trash",
+    "meaning": "Things thrown away as useless; waste; also nonsense",
+    "hindi": "कूड़ा, कचरा; बकवास",
+    "trick": "RUBBISH: RUB it off and throw it in the bin.",
+    "examples": [
+      "She read scraps of newspaper which she found on the rubbish heap.",
+      "Please take the rubbish out before you go to bed."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "throw something in the rubbish / talk rubbish",
+      "partners": [
+        "rubbish bin",
+        "rubbish heap",
+        "talk rubbish"
+      ]
+    }
+  },
+  {
+    "word": "rubble",
+    "memory": "broken stone pieces",
+    "meaning": "Broken pieces of stone, brick and concrete left when a building falls or is destroyed",
+    "hindi": "मलबा",
+    "trick": "RUBBLE = what's left after the building took a tumble (TROUBLE without a T).",
+    "examples": [
+      "It was a public toilet now, nothing in it but rubble.",
+      "After the earthquake, people searched through the rubble for survivors."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "reduce something to rubble / in the rubble",
+      "partners": [
+        "pile of rubble",
+        "reduced to rubble",
+        "clear the rubble"
+      ]
+    }
+  },
+  {
+    "word": "ruck",
+    "memory": "heavy-pack march",
+    "meaning": "A long march or run carrying a heavy backpack (military slang, short for rucksack); also a loose crowd",
+    "hindi": "पीठ पर बोझ लेकर चलना",
+    "trick": "RUCK = RUCKsack march.",
+    "examples": [
+      "On Fridays I added a ruck run.",
+      "The soldiers finished a twelve-mile ruck before breakfast."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "go on a ruck / a + distance + ruck",
+      "partners": [
+        "ruck run",
+        "ruck march",
+        "road ruck"
+      ]
+    }
+  },
+  {
+    "word": "rucksack",
+    "memory": "backpack",
+    "meaning": "A bag carried on the back, used by walkers and soldiers",
+    "hindi": "पिट्ठू बैग, बस्ता",
+    "trick": "RUCKSACK = a SACK on your back (German 'Rücken' = back).",
+    "examples": [
+      "We were weighed down with a fifty-pound rucksack.",
+      "He packed water and snacks into his rucksack for the hike."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "carry/pack a rucksack",
+      "partners": [
+        "heavy rucksack",
+        "pack a rucksack",
+        "rucksack straps"
+      ]
+    }
+  },
+  {
+    "word": "rudderless",
+    "memory": "without direction",
+    "meaning": "Without clear direction or leadership, like a boat with no rudder",
+    "hindi": "दिशाहीन, बिना नेतृत्व",
+    "trick": "A boat without a RUDDER goes nowhere: RUDDER-LESS.",
+    "examples": [
+      "Avoiding rejection makes us rudderless and directionless in the long term.",
+      "After the manager left, the team felt rudderless."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be/feel rudderless / a rudderless + noun",
+      "partners": [
+        "feel rudderless",
+        "rudderless team",
+        "rudderless government"
+      ]
+    }
+  },
+  {
+    "word": "ruddy",
+    "memory": "reddish, healthy-red",
+    "meaning": "(of a face) red in a healthy-looking way; also reddish",
+    "hindi": "लाल, सुर्ख",
+    "trick": "RUDDY = RED-dy: rosy red cheeks.",
+    "examples": [
+      "He was a pleasant-looking man, with blue eyes and ruddy cheeks.",
+      "The farmer had a ruddy face from working in the sun."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "ruddy + cheeks/face/complexion",
+      "partners": [
+        "ruddy cheeks",
+        "ruddy face",
+        "ruddy complexion"
+      ]
+    }
+  },
+  {
+    "word": "rudimentary",
+    "memory": "basic, simple",
+    "meaning": "Very basic and simple; not developed much",
+    "hindi": "बुनियादी, प्रारंभिक",
+    "trick": "RUDIMENTARY = RUDIMENTS = the first ABCs.",
+    "examples": [
+      "It looked rudimentary, like something out of the hangman game we played as kids.",
+      "I have only a rudimentary knowledge of French."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "rudimentary + knowledge/skills/tools",
+      "partners": [
+        "rudimentary knowledge",
+        "rudimentary tools",
+        "rudimentary skills"
+      ]
+    }
+  },
+  {
+    "word": "rue",
+    "memory": "bitter herb",
+    "meaning": "A strong-smelling plant with bitter leaves and seeds, used in medicine and to ward off evil; also (verb, old-fashioned) to regret bitterly",
+    "hindi": "सुदाब, हरमल; पछताना",
+    "trick": "Wild RUE smoke keeps evil away; you'll RUE (regret) skipping it.",
+    "examples": [
+      "She tossed a pinch of wild rue seeds into the brazier to ward off evil.",
+      "My grandmother burned rue to keep bad luck away."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "rue seeds / burn rue",
+      "partners": [
+        "wild rue",
+        "rue seeds",
+        "burn rue"
+      ]
+    }
+  },
+  {
+    "word": "rueful",
+    "memory": "sad and regretful",
+    "meaning": "Showing that you feel sorry or regretful, often with a little sad humour",
+    "hindi": "पछतावे भरा, खेदपूर्ण",
+    "trick": "RUEFUL = full of RUE (regret).",
+    "examples": [
+      "Laila found him standing in his study, a rueful expression on his face.",
+      "She gave a rueful smile when she saw her burnt cake."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a rueful + smile/look/expression",
+      "partners": [
+        "rueful smile",
+        "rueful expression",
+        "rueful laugh"
+      ]
+    }
+  },
+  {
+    "word": "ruefully",
+    "memory": "regretfully",
+    "meaning": "In a way that shows sorrow or regret",
+    "hindi": "पछतावे से, खेद से",
+    "trick": "RUEFULLY = full of RUE, said sadly.",
+    "examples": [
+      "He shook his head ruefully.",
+      "He smiled ruefully and admitted he had forgotten her birthday."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "smile/shake one's head/say ruefully",
+      "partners": [
+        "smile ruefully",
+        "shake head ruefully",
+        "admit ruefully"
+      ]
+    }
+  },
+  {
+    "word": "ruffle",
+    "memory": "frill",
+    "meaning": "A strip of gathered or pleated cloth used as decoration on clothes; also (verb) to mess up hair or feathers",
+    "hindi": "झालर",
+    "trick": "A RUFFLE is a RUFFled (wavy) strip of cloth.",
+    "examples": [
+      "Green cotton pants had a dotted ruffle on the cuff.",
+      "Her party dress had a pink ruffle around the hem."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a ruffle on/around something",
+      "partners": [
+        "lace ruffle",
+        "ruffle on the collar",
+        "dress with a ruffle"
+      ]
+    }
+  },
+  {
+    "word": "ruffled",
+    "memory": "messed up",
+    "meaning": "(of hair, feathers or fur) made untidy or uneven; also upset or annoyed",
+    "hindi": "बिखरे हुए, अस्त-व्यस्त; परेशान",
+    "trick": "RUFFLED hair = the wind RUFFLED (shuffled) it.",
+    "examples": [
+      "His hair was ruffled by the wind.",
+      "She came out of bed with ruffled hair."
+    ],
+    "usage": {
+      "pos": "verb (past) / adjective",
+      "pattern": "something is ruffled by something / ruffle someone's feathers",
+      "partners": [
+        "ruffled hair",
+        "ruffled feathers",
+        "ruffled by the wind"
+      ]
+    }
+  },
+  {
+    "word": "ruffling",
+    "memory": "messing up",
+    "meaning": "Moving something so that it becomes untidy or uneven, like wind in hair",
+    "hindi": "बिखेरते हुए, हिलाते हुए",
+    "trick": "RUFFLING = SHUFFLING the hair about.",
+    "examples": [
+      "I sit there a moment, wind ruffling my hair.",
+      "He walked past, ruffling his little brother's hair."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "ruffling someone's hair / ruffling feathers",
+      "partners": [
+        "ruffling hair",
+        "ruffling feathers",
+        "breeze ruffling"
+      ]
+    }
+  },
+  {
+    "word": "rug",
+    "memory": "small carpet",
+    "meaning": "A thick piece of cloth covering part of a floor",
+    "hindi": "दरी, कालीन",
+    "trick": "RUG = a small carpet you can tug.",
+    "examples": [
+      "Most of us sweep our failures under the rug.",
+      "The cat likes to sleep on the rug by the fire."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "sweep something under the rug / on the rug",
+      "partners": [
+        "sweep under the rug",
+        "living-room rug",
+        "Persian rug"
+      ]
+    }
+  },
+  {
+    "word": "rugged",
+    "memory": "tough, strong",
+    "meaning": "Strongly built and able to handle rough use; also rocky and wild (land); also (of a man's face) strong and attractive",
+    "hindi": "मज़बूत, टिकाऊ; ऊबड़-खाबड़",
+    "trick": "RUGGED = built for ROUGH roads.",
+    "examples": [
+      "TV commercials want you to believe a good life means a more rugged car.",
+      "He bought a rugged phone that survives being dropped."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a rugged + car/phone/landscape",
+      "partners": [
+        "rugged car",
+        "rugged terrain",
+        "rugged good looks"
+      ]
+    }
+  },
+  {
+    "word": "ruggedly",
+    "memory": "strongly, roughly",
+    "meaning": "In a strong, rough way; '... handsome' = attractive in a strong, manly way",
+    "hindi": "कड़क, रौबदार ढंग से",
+    "trick": "RUGGEDLY handsome = handsome in a ROUGH, tough way.",
+    "examples": [
+      "It was the face of a man with a heavy black moustache and ruggedly handsome features.",
+      "The actor was ruggedly handsome, with a strong jaw."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "ruggedly + handsome/built",
+      "partners": [
+        "ruggedly handsome",
+        "ruggedly built",
+        "ruggedly beautiful"
+      ]
+    }
+  },
+  {
+    "word": "rumble",
+    "memory": "deep rolling sound",
+    "meaning": "A long, low, deep sound, like thunder or an engine; also (verb) to make this sound",
+    "hindi": "गड़गड़ाहट",
+    "trick": "RUMBLE = the deep BUMBLE of thunder.",
+    "examples": [
+      "I remember the wait outside a café for the bus, and the rumble of the engine.",
+      "We heard the rumble of thunder in the distance."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the rumble of something / something rumbles",
+      "partners": [
+        "rumble of thunder",
+        "rumble of traffic",
+        "stomach rumble"
+      ]
+    }
+  },
+  {
+    "word": "rummages",
+    "memory": "searches messily",
+    "meaning": "Searches for something by moving things around in a careless or hurried way",
+    "hindi": "टटोलता है, उलट-पलट कर खोजता है",
+    "trick": "RUMMAGES = RUMMAGE sale: dig through a messy pile.",
+    "examples": [
+      "Price quietly rummages through my things, checking pockets.",
+      "She rummages in her bag for her keys every morning."
+    ],
+    "usage": {
+      "pos": "verb (present, he/she)",
+      "pattern": "rummage through/in something for something",
+      "partners": [
+        "rummages through",
+        "rummages in a bag",
+        "rummages around"
+      ]
+    }
+  },
+  {
+    "word": "rumor",
+    "memory": "gossip, unconfirmed story",
+    "meaning": "A story passed from person to person that may not be true (US spelling; British 'rumour')",
+    "hindi": "अफ़वाह",
+    "trick": "RUMOR = ROOM-OR: the story runs from room to room.",
+    "examples": [
+      "There are rumors that the socialists in Kabul helped him take power.",
+      "Don't believe every rumor you hear at the office."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "there is a rumor that ... / spread a rumor",
+      "partners": [
+        "rumor mill",
+        "spread a rumor",
+        "rumor has it"
+      ]
+    }
+  },
+  {
+    "word": "run amok",
+    "memory": "go out of control",
+    "meaning": "To behave in a wild, uncontrolled way; to get out of control",
+    "hindi": "बेकाबू होना, उत्पात मचाना",
+    "trick": "AMOK sounds like 'a muck': things run into a muck-up.",
+    "examples": [
+      "Recent technology seems to allow our insecurities to run amok like never before.",
+      "The children ran amok at the party and broke a vase."
+    ],
+    "usage": {
+      "pos": "phrase (verb)",
+      "pattern": "something/someone runs amok",
+      "partners": [
+        "run amok",
+        "allowed to run amok",
+        "imagination runs amok"
+      ]
+    }
+  },
+  {
+    "word": "ruse",
+    "memory": "trick, deception",
+    "meaning": "A clever trick to fool someone",
+    "hindi": "चाल, छल",
+    "trick": "RUSE = a RUSE is a RUSE-y (sneaky) trick.",
+    "examples": [
+      "The trip to Ghazni had been a ruse.",
+      "The phone call was just a ruse to get him out of the house."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a ruse to do something / see through a ruse",
+      "partners": [
+        "clever ruse",
+        "elaborate ruse",
+        "see through the ruse"
+      ]
+    }
+  },
+  {
+    "word": "rush",
+    "memory": "thrill, sudden excitement",
+    "meaning": "A sudden strong feeling of excitement or pleasure; also great hurry",
+    "hindi": "जोश, रोमांच; जल्दबाज़ी",
+    "trick": "A RUSH of blood: the thrill hits you fast.",
+    "examples": [
+      "That escape can provide us a quick rush that makes us feel better.",
+      "I felt a rush of joy when I saw my name on the list."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a rush of + feeling / get a rush from something",
+      "partners": [
+        "adrenaline rush",
+        "rush of excitement",
+        "sugar rush"
+      ]
+    }
+  },
+  {
+    "word": "russet-haired",
+    "memory": "red-brown haired",
+    "meaning": "Having reddish-brown hair",
+    "hindi": "लाल-भूरे बालों वाला",
+    "trick": "RUSSET = RUST colour: hair the colour of rust.",
+    "examples": [
+      "Sometimes he came with his russet-haired son Hamza.",
+      "The russet-haired girl sat at the front of the class."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a russet-haired + person",
+      "partners": [
+        "russet-haired boy",
+        "russet-haired son",
+        "russet-haired woman"
+      ]
+    }
+  },
+  {
+    "word": "rustle",
+    "memory": "soft crackling sound",
+    "meaning": "A soft, light sound like dry leaves or paper moving; also (verb) to make this sound",
+    "hindi": "सरसराहट",
+    "trick": "RUSTLE = the RUSH of leaves going 'sss'.",
+    "examples": [
+      "Then came the rustle of blankets as they shifted over each other.",
+      "I heard the rustle of leaves in the garden."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the rustle of + leaves/paper/silk",
+      "partners": [
+        "rustle of leaves",
+        "rustle of paper",
+        "rustle of silk"
+      ]
+    }
+  },
+  {
+    "word": "rustled",
+    "memory": "made a soft sound",
+    "meaning": "Moved with a soft crackling sound, or made something do so",
+    "hindi": "सरसराया",
+    "trick": "Wind RUSTLED the trees: 'ssshh' through the leaves.",
+    "examples": [
+      "A cool breeze rustled the trees and dried the sweat from my skin.",
+      "She rustled the newspaper as she turned the page."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something rustled something / leaves rustled",
+      "partners": [
+        "breeze rustled",
+        "leaves rustled",
+        "rustled the papers"
+      ]
+    }
+  },
+  {
+    "word": "rustling",
+    "memory": "softly crackling",
+    "meaning": "Making a soft crackling sound, like leaves, paper or cloth moving",
+    "hindi": "सरसराती, सरसराहट करती",
+    "trick": "RUSTLING skirts go 'sss' as women walk.",
+    "examples": [
+      "These women were all swinging handbags and rustling skirts.",
+      "We heard a rustling sound in the bushes."
+    ],
+    "usage": {
+      "pos": "adjective / noun (-ing form)",
+      "pattern": "rustling + leaves/skirts / a rustling in something",
+      "partners": [
+        "rustling leaves",
+        "rustling sound",
+        "rustling in the bushes"
+      ]
+    }
+  },
+  {
+    "word": "rutted",
+    "memory": "full of deep grooves",
+    "meaning": "(of a road or path) having deep tracks made by wheels",
+    "hindi": "ऊबड़-खाबड़, गड्ढेदार",
+    "trick": "RUTTED road = wheels cut RUTS (grooves) in it.",
+    "examples": [
+      "One took a rutted, uphill dirt track off the main road.",
+      "The car bumped along the rutted country lane."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a rutted + road/track/path",
+      "partners": [
+        "rutted road",
+        "rutted track",
+        "deeply rutted"
+      ]
+    }
+  }
+]

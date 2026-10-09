@@ -3538,6 +3538,26 @@
     }
   },
   {
+    "word": "do someone good",
+    "memory": "help, benefit",
+    "meaning": "Be good for someone's health or mood; make someone feel better",
+    "hindi": "फ़ायदा करना, अच्छा लगना",
+    "trick": "A swim will DO you GOOD — like medicine for the mood.",
+    "examples": [
+      "I decided that a swim would do me good.",
+      "A few days away from work will do you good."
+    ],
+    "usage": {
+      "pos": "phrase (verb)",
+      "pattern": "something will/would do someone good",
+      "partners": [
+        "do me good",
+        "do you a world of good",
+        "would do him good"
+      ]
+    }
+  },
+  {
     "word": "docile",
     "memory": "obedient, meek",
     "meaning": "Quiet and easy to control; obedient",

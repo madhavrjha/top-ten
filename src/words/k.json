@@ -1,0 +1,440 @@
+[
+  {
+    "word": "kaleidoscope",
+    "memory": "colourful mix",
+    "meaning": "A changing mix of many bright colours or things; also a toy tube with coloured patterns",
+    "hindi": "रंग-बिरंगा मेल, बहुरूपदर्शक",
+    "trick": "KALEIDOSCOPE: a scope full of colourful 'kaleido' (beautiful) shapes.",
+    "examples": [
+      "On either side of them is a kaleidoscope of wildflowers swaying in the wind.",
+      "The market was a kaleidoscope of colours and sounds."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a kaleidoscope of something",
+      "partners": [
+        "a kaleidoscope of colours",
+        "a kaleidoscope of flowers"
+      ]
+    }
+  },
+  {
+    "word": "keen",
+    "memory": "fond, attracted",
+    "meaning": "Liking someone or something a lot; also eager",
+    "hindi": "पसंद करने वाला, उत्सुक",
+    "trick": "KEEN on someone = KEEN to be near them.",
+    "examples": [
+      "I was rather keen on her in those days, and I think she liked me too.",
+      "My son is very keen on football."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be keen on someone/something / keen to do something",
+      "partners": [
+        "keen on",
+        "keen to help",
+        "very keen"
+      ]
+    }
+  },
+  {
+    "word": "keeper",
+    "memory": "caretaker, guard",
+    "meaning": "A person who looks after a place, building or animals; also a goalkeeper",
+    "hindi": "रखवाला, चौकीदार",
+    "trick": "KEEPER = the one who KEEPS (looks after) the place.",
+    "examples": [
+      "The keeper switched on the lamps, and I was almost blinded by the light.",
+      "The zoo keeper fed the lions at noon."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the keeper of something / zoo/park keeper",
+      "partners": [
+        "zoo keeper",
+        "lighthouse keeper",
+        "shop keeper"
+      ]
+    }
+  },
+  {
+    "word": "kerosene",
+    "memory": "lamp oil, stove fuel",
+    "meaning": "A thin fuel oil used in stoves and lamps (US; British 'paraffin')",
+    "hindi": "मिट्टी का तेल",
+    "trick": "KEROSENE = the oil in the 'kero' (kerosene) stove and lamp.",
+    "examples": [
+      "The kitchen had pots and pans, a pressure cooker and a kerosene stove.",
+      "When the power went off, we lit the kerosene lamp."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "kerosene + stove/lamp",
+      "partners": [
+        "kerosene stove",
+        "kerosene lamp",
+        "kerosene oil"
+      ]
+    }
+  },
+  {
+    "word": "keynote",
+    "memory": "main",
+    "meaning": "Main or most important, especially the chief talk at a big event",
+    "hindi": "मुख्य, प्रमुख",
+    "trick": "KEY + NOTE: the KEY speech everyone takes NOTE of.",
+    "examples": [
+      "He'd talk about some charity event where he was supposed to be the keynote speaker.",
+      "The company's boss gave the keynote speech at the conference."
+    ],
+    "usage": {
+      "pos": "noun / adjective",
+      "pattern": "the keynote + speaker/speech/address",
+      "partners": [
+        "keynote speaker",
+        "keynote speech",
+        "keynote address"
+      ]
+    }
+  },
+  {
+    "word": "kindle",
+    "memory": "light, start",
+    "meaning": "To light a fire; also to make a feeling start",
+    "hindi": "आग जलाना, सुलगाना",
+    "trick": "KINDLE = KIND of a little flame to start a fire.",
+    "examples": [
+      "Nana showed her how to knead dough and how to kindle the tandoor.",
+      "We used dry leaves to kindle the campfire."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "kindle a fire / kindle someone's interest",
+      "partners": [
+        "kindle a fire",
+        "kindle interest",
+        "kindle hope"
+      ]
+    }
+  },
+  {
+    "word": "kindling",
+    "memory": "fire-starting sticks",
+    "meaning": "Small dry sticks and twigs used to start a fire",
+    "hindi": "आग जलाने की लकड़ियाँ, सूखी टहनियाँ",
+    "trick": "KINDLING is what you use to KINDLE a fire.",
+    "examples": [
+      "Think of your small accomplishments as kindling.",
+      "We gathered kindling before lighting the campfire."
+    ],
+    "usage": {
+      "pos": "noun (uncountable)",
+      "pattern": "use something as kindling / gather kindling",
+      "partners": [
+        "dry kindling",
+        "gather kindling",
+        "as kindling"
+      ]
+    }
+  },
+  {
+    "word": "kinship",
+    "memory": "closeness, bond",
+    "meaning": "A feeling of being close to someone; also family relationship",
+    "hindi": "अपनापन, नाता, रिश्तेदारी",
+    "trick": "KIN = family; KINSHIP = feeling like family.",
+    "examples": [
+      "She felt for the first time a kinship with her husband.",
+      "The two players felt a kinship because they came from the same town."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "feel a kinship with someone",
+      "partners": [
+        "sense of kinship",
+        "feel a kinship",
+        "kinship with"
+      ]
+    }
+  },
+  {
+    "word": "kiosk",
+    "memory": "small stall, booth",
+    "meaning": "A small open stall or booth that sells things like snacks, toys or newspapers",
+    "hindi": "छोटी दुकान, गुमटी",
+    "trick": "KIOSK: a tiny shop where you can 'Kiss-an-ASK' for a quick item.",
+    "examples": [
+      "From a toy kiosk, Zalmai picked out a rubber basketball.",
+      "I bought a newspaper from the kiosk at the station."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a + something + kiosk / buy from a kiosk",
+      "partners": [
+        "newspaper kiosk",
+        "ticket kiosk",
+        "food kiosk"
+      ]
+    }
+  },
+  {
+    "word": "kitted",
+    "memory": "equipped, geared up",
+    "meaning": "Given or wearing all the clothes and equipment needed (often followed by up/out; mainly British)",
+    "hindi": "पूरे साज़-सामान से लैस",
+    "trick": "KITTED = got your whole KIT on.",
+    "examples": [
+      "The class was divided into groups of five and fully kitted up.",
+      "The players were kitted out in new uniforms."
+    ],
+    "usage": {
+      "pos": "verb (past participle)",
+      "pattern": "be kitted up / kitted out (in/with something)",
+      "partners": [
+        "fully kitted up",
+        "kitted out in",
+        "kitted out with"
+      ]
+    }
+  },
+  {
+    "word": "knack",
+    "memory": "natural skill",
+    "meaning": "A special skill or talent for doing something well, often naturally",
+    "hindi": "हुनर, कला, कौशल",
+    "trick": "KNACK = KNOW + HACK: knowing the trick of it.",
+    "examples": [
+      "Hosseini has that rare thing, a knack for storytelling.",
+      "She has a knack for making people laugh."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "have a knack for (doing) something",
+      "partners": [
+        "have a knack for",
+        "natural knack",
+        "rare knack"
+      ]
+    }
+  },
+  {
+    "word": "knacker",
+    "memory": "horse slaughterer",
+    "meaning": "A person who buys old or worn-out horses and kills them for meat or other uses (British, old-fashioned)",
+    "hindi": "बूढ़े घोड़े ख़रीदकर मारने वाला",
+    "trick": "A KNACKERed (worn-out) horse goes to the KNACKER.",
+    "examples": [
+      "When your strength goes, Jones will sell you to the knacker.",
+      "The farmer sold the old, tired horse to the knacker."
+    ],
+    "usage": {
+      "pos": "noun (British, old-fashioned)",
+      "pattern": "sell something to the knacker",
+      "partners": [
+        "sold to the knacker",
+        "the knacker's yard"
+      ]
+    }
+  },
+  {
+    "word": "knead",
+    "memory": "press, work",
+    "meaning": "To press and fold dough firmly with your hands",
+    "hindi": "आटा गूँधना",
+    "trick": "KNEAD the dough because you NEED bread (silent K).",
+    "examples": [
+      "Nana showed her how to knead dough.",
+      "Knead the flour and water for ten minutes."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "knead dough / knead something",
+      "partners": [
+        "knead dough",
+        "knead the bread",
+        "knead well"
+      ]
+    }
+  },
+  {
+    "word": "kneading",
+    "memory": "pressing dough",
+    "meaning": "Pressing and folding dough firmly with the hands",
+    "hindi": "गूँधना, आटा गूँधते हुए",
+    "trick": "KNEADING = the silent-K way of making dough you NEED.",
+    "examples": [
+      "She made fresh dough, kneading it the way Nana had shown her.",
+      "My mother was kneading dough for rotis."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "knead dough / be kneading something",
+      "partners": [
+        "kneading dough",
+        "kneading the bread",
+        "kneading gently"
+      ]
+    }
+  },
+  {
+    "word": "knit",
+    "memory": "woven with yarn",
+    "meaning": "Made by joining wool or thread in loops with long needles; also joined closely together",
+    "hindi": "बुना हुआ",
+    "trick": "KNIT with a silent K: the K is the needle knitting.",
+    "examples": [
+      "The bed had a green-flowered blanket knit in a honeycomb design.",
+      "My grandma knit me a warm sweater."
+    ],
+    "usage": {
+      "pos": "verb (past participle) / adjective",
+      "pattern": "knit (something) in/from something / tightly knit",
+      "partners": [
+        "hand knit",
+        "closely knit",
+        "knit sweater"
+      ]
+    }
+  },
+  {
+    "word": "knitting",
+    "memory": "making with yarn",
+    "meaning": "Making clothes from wool using long needles",
+    "hindi": "बुनाई करना",
+    "trick": "KNITTING: needles 'nit-nit' clicking.",
+    "examples": [
+      "By the way her arms moved, I guessed that she was knitting.",
+      "My aunt sits by the window, knitting a scarf."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "be knitting something",
+      "partners": [
+        "knitting a sweater",
+        "knitting needles",
+        "busy knitting"
+      ]
+    }
+  },
+  {
+    "word": "knob",
+    "memory": "round handle",
+    "meaning": "A round handle on a door or drawer; also a round button to control a machine",
+    "hindi": "मूठ, हत्था",
+    "trick": "KNOB: a round NOB-shaped handle you turn.",
+    "examples": [
+      "Laila turned the knob and walked in.",
+      "Turn the knob to change the volume."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "turn the knob / door knob",
+      "partners": [
+        "door knob",
+        "turn the knob",
+        "volume knob"
+      ]
+    }
+  },
+  {
+    "word": "knobs",
+    "memory": "round lumps",
+    "meaning": "Small round lumps, such as the bones down the back of the neck; also round handles",
+    "hindi": "गाँठें, उभार; मूठें",
+    "trick": "KNOBS = little round bumps, like door knobs on your spine.",
+    "examples": [
+      "His thick fingers slowly pressed the knobs in the back of her neck.",
+      "The cupboard has small brass knobs."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "the knobs of/on something",
+      "partners": [
+        "knobs of the spine",
+        "door knobs",
+        "brass knobs"
+      ]
+    }
+  },
+  {
+    "word": "knoll",
+    "memory": "small hill",
+    "meaning": "A small round hill",
+    "hindi": "टीला, छोटी पहाड़ी",
+    "trick": "KNOLL: a hill that ROLLs gently up.",
+    "examples": [
+      "There was a small knoll which was the highest point on the farm.",
+      "We had a picnic on a grassy knoll."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a (grassy) knoll",
+      "partners": [
+        "grassy knoll",
+        "small knoll",
+        "top of the knoll"
+      ]
+    }
+  },
+  {
+    "word": "knots",
+    "memory": "small groups, clusters",
+    "meaning": "Small groups of people or things close together; also tied loops in rope",
+    "hindi": "झुंड, गुच्छे; गाँठें",
+    "trick": "KNOTS of villages, tied together like knots in a rope.",
+    "examples": [
+      "They passed small towns, big towns and knots of little villages.",
+      "Knots of students stood chatting outside the hall."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "knots of + people/things",
+      "partners": [
+        "knots of people",
+        "small knots",
+        "tie knots"
+      ]
+    }
+  },
+  {
+    "word": "knuckle",
+    "memory": "finger joint",
+    "meaning": "A joint of a finger, especially where it joins the hand",
+    "hindi": "उँगली का जोड़",
+    "trick": "KNUCKLE: you knock on a door with your knuckles.",
+    "examples": [
+      "She sucked air through her teeth and bit on the knuckle of her thumb.",
+      "He cracked his knuckles before typing."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the knuckle of + finger/thumb",
+      "partners": [
+        "crack your knuckles",
+        "bruised knuckle",
+        "knuckle of the thumb"
+      ]
+    }
+  },
+  {
+    "word": "kryptonite",
+    "memory": "weakness",
+    "meaning": "A person's one great weakness (informal; from Superman's weakness)",
+    "hindi": "कमज़ोरी, कमज़ोर नस (बोलचाल)",
+    "trick": "KRYPTONITE is the only thing that weakens SUPERMAN.",
+    "examples": [
+      "The pool had been my kryptonite.",
+      "Chocolate is my kryptonite when I'm dieting."
+    ],
+    "usage": {
+      "pos": "noun (informal)",
+      "pattern": "something is someone's kryptonite",
+      "partners": [
+        "my kryptonite",
+        "his kryptonite",
+        "the kryptonite of"
+      ]
+    }
+  }
+]
