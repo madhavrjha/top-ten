@@ -6,8 +6,8 @@
     "hindi": "अपमान, नीचा दिखाना",
     "trick": "A-BASE-ment → bringing yourself down to the BASEment.",
     "examples": [
-      "He found the constant begging a painful abasement.",
-      "She refused the abasement of apologising for something she hadn't done."
+      "She saw in his face that it had been a place of abasement and despair.",
+      "He found the constant begging a painful abasement."
     ],
     "usage": {
       "pos": "noun",
@@ -26,8 +26,8 @@
     "hindi": "घृणा करता है, सख्त नफरत करता है",
     "trick": "Ab-HORS-e ≈ 'bore' → he finds it so boring he hates it.",
     "examples": [
-      "She abhors violence of any kind.",
-      "My father abhors wasting food."
+      "A true leader abhors arrogance and never looks down on the weakest.",
+      "She abhors violence of any kind."
     ],
     "usage": {
       "pos": "verb (he/she/it form)",
@@ -42,12 +42,12 @@
   {
     "word": "abide",
     "memory": "tolerate, put up with",
-    "meaning": "To tolerate something; also to obey or follow (a rule)",
+    "meaning": "To tolerate or put up with something (usually 'can't abide'); also to obey (abide by a rule)",
     "hindi": "सहन करना, बर्दाश्त करना; पालन करना",
     "trick": "Abide ≈ bride → a bride has to tolerate and obey the new family's rules.",
     "examples": [
-      "I can't abide people who are rude to waiters.",
-      "All players must abide by the rules of the game."
+      "It's called getting soft, and that I could not abide.",
+      "I can't abide people who are rude to waiters."
     ],
     "usage": {
       "pos": "verb",
@@ -62,19 +62,19 @@
   {
     "word": "abiding",
     "memory": "obeying, following",
-    "meaning": "Obeying or following (rules); also lasting a long time",
+    "meaning": "Obeying or following (rules or laws); also lasting a long time",
     "hindi": "पालन करते हुए; स्थायी, टिकाऊ",
     "trick": "Abide → abiding: always abiding by the rules.",
     "examples": [
-      "He is a law-abiding citizen who has never broken a rule.",
-      "She has an abiding love for old Hindi songs."
+      "All we can do is go on abiding by the laws He has set for us.",
+      "He is a law-abiding citizen who has never broken a rule."
     ],
     "usage": {
-      "pos": "adjective / verb (-ing)",
-      "pattern": "an abiding + feeling (love, interest) · law-abiding + person",
+      "pos": "verb (-ing)",
+      "pattern": "abiding by a rule/law/decision",
       "partners": [
-        "an abiding love",
-        "an abiding interest",
+        "abiding by the rules",
+        "abiding by the law",
         "law-abiding citizens"
       ]
     }
@@ -106,8 +106,8 @@
     "hindi": "समाप्त किया, खत्म किया",
     "trick": "Abolished = to end — 'a-BOLISH-ed' → polished off for good.",
     "examples": [
-      "Slavery was abolished in the British Empire in 1833.",
-      "The school abolished its strict uniform rules last year."
+      "Remove Man from the scene, and the cause of hunger is abolished for ever.",
+      "Slavery was abolished in the British Empire in 1833."
     ],
     "usage": {
       "pos": "verb (past)",
@@ -121,13 +121,13 @@
   },
   {
     "word": "abrupt",
-    "memory": "sudden, unexpected",
+    "memory": "sudden, jerky",
     "meaning": "Sudden and unexpected; also short and slightly rude in manner",
     "hindi": "अचानक, आकस्मिक; रूखा",
     "trick": "'A-BURST' → something that bursts out suddenly.",
     "examples": [
-      "The bus came to an abrupt stop.",
-      "His abrupt reply made her feel unwelcome."
+      "She put on her jacket with the same abrupt, robot-like gestures and walked out.",
+      "The bus came to an abrupt stop."
     ],
     "usage": {
       "pos": "adjective",
@@ -146,8 +146,8 @@
     "hindi": "दोषमुक्त किया, बरी किया",
     "trick": "Absolved → the case is SOLVED, so you're no longer blamed.",
     "examples": [
-      "The court absolved him of all charges.",
-      "Her apology absolved her of guilt in her own mind."
+      "He agreed, but it hadn't absolved me from my sin.",
+      "The court absolved him of all charges."
     ],
     "usage": {
       "pos": "verb (past)",
@@ -166,8 +166,8 @@
     "hindi": "परहेज करना, दूर रहना",
     "trick": "ab (away) + stain — stay away so you don't get stained.",
     "examples": [
-      "He decided to abstain from sugar for a month.",
-      "Three members chose to abstain from the vote."
+      "People who abstain from worldly pleasures suffer because of it.",
+      "He decided to abstain from sugar for a month."
     ],
     "usage": {
       "pos": "verb",
@@ -186,8 +186,8 @@
     "hindi": "अमूर्त, काल्पनिक",
     "trick": "Abstract art — shapes and colors, not real objects you can touch.",
     "examples": [
-      "Love and justice are abstract ideas.",
-      "Her explanation was too abstract for the students to follow."
+      "Some problems are abstract and complicated, like finding a career you feel good about.",
+      "Love and justice are abstract ideas."
     ],
     "usage": {
       "pos": "adjective (also noun)",
@@ -206,8 +206,8 @@
     "hindi": "बेतुके ढंग से, हास्यास्पद रूप से",
     "trick": "Absurd → 'a-SURD' → like a surd number, it makes no sense.",
     "examples": [
-      "The tickets were absurdly expensive.",
-      "He was absurdly confident for someone who hadn't studied."
+      "It seemed worthwhile, if absurdly so, to have endured all they had endured.",
+      "The tickets were absurdly expensive."
     ],
     "usage": {
       "pos": "adverb",
@@ -226,8 +226,8 @@
     "hindi": "बहुतायत, प्रचुरता",
     "trick": "Abundance → a BUN-dance: so many buns you could dance on them.",
     "examples": [
-      "The garden had an abundance of mangoes this summer.",
-      "There is an abundance of evidence against him."
+      "Tapering is supposed to give you an abundance of energy as you eat and rest.",
+      "The garden had an abundance of mangoes this summer."
     ],
     "usage": {
       "pos": "noun",
@@ -246,8 +246,8 @@
     "hindi": "भरपूर, प्रचुर, बहुत सारा",
     "trick": "Abundant → a BUN-dant: buns in plenty.",
     "examples": [
-      "Fresh water is abundant in this region.",
-      "The forest has abundant wildlife."
+      "Does he think he will shake the abundant evidence against his client?",
+      "Fresh water is abundant in this region."
     ],
     "usage": {
       "pos": "adjective",
@@ -261,17 +261,17 @@
   },
   {
     "word": "abyss",
-    "memory": "bottomless pit",
-    "meaning": "A very deep hole or chasm that seems bottomless; also a hopeless situation",
-    "hindi": "अथाह गड्ढा, गहरी खाई; निराशाजनक स्थिति",
+    "memory": "endless emptiness",
+    "meaning": "A deep, endless emptiness or nothingness that feels frightening; also a very deep pit",
+    "hindi": "शून्य, खालीपन; गहरी खाई",
     "trick": "A-BYSS ≈ 'a bottomless' pit — no bottom to be seen.",
     "examples": [
-      "He stared down into the dark abyss below the cliff.",
-      "The country was on the edge of an economic abyss."
+      "Sitting on my mom's couch that summer, I stared into the abyss.",
+      "After losing his job, he felt he was falling into an abyss."
     ],
     "usage": {
       "pos": "noun",
-      "pattern": "the abyss of something · on the edge of the abyss",
+      "pattern": "stare into the abyss · fall into an abyss",
       "partners": [
         "stare into the abyss",
         "on the edge of the abyss",
@@ -286,7 +286,7 @@
     "hindi": "बबूल, कीकर",
     "trick": "Acacia → 'a cash-ia' tree — its gum (gum arabic) used to earn cash.",
     "examples": [
-      "An acacia tree gave the only shade in the dry field.",
+      "Babi sat at the foot of a thick-trunked acacia tree reading a paperback.",
       "Giraffes nibble leaves from the thorny acacia."
     ],
     "usage": {
@@ -306,8 +306,8 @@
     "hindi": "नए माहौल का आदी होना, अनुकूलन",
     "trick": "Climate → getting used to the climate.",
     "examples": [
-      "Climbers need a few days of acclimatization before going higher.",
-      "Acclimatization to the new office took her about a month."
+      "Our focus was rest and acclimatization, but on day four the tests started.",
+      "Climbers need a few days of acclimatization before going higher."
     ],
     "usage": {
       "pos": "noun",
@@ -326,8 +326,8 @@
     "hindi": "सम्मान, प्रशंसा, पुरस्कार",
     "trick": "ACCOLADES ≈ 'a cola' for the champion — a reward for doing well.",
     "examples": [
-      "The film received accolades from critics around the world.",
-      "Despite all the accolades, she remained humble."
+      "Despite all the money, the fans and the accolades, he still felt like a failure.",
+      "The film received accolades from critics around the world."
     ],
     "usage": {
       "pos": "noun (plural)",
@@ -341,19 +341,19 @@
   },
   {
     "word": "accommodate",
-    "memory": "make room for",
-    "meaning": "To provide room or space for someone; to adjust to fit someone's needs",
-    "hindi": "जगह देना, ठहराना; समायोजित करना",
+    "memory": "adjust to, adapt",
+    "meaning": "To adjust to fit someone's needs or wishes; also to provide room for someone",
+    "hindi": "समायोजित करना, ढलना; जगह देना",
     "trick": "Spelling: double C, double M — it accommodates two of each.",
     "examples": [
-      "The hotel can accommodate up to 200 guests.",
+      "It's unreasonable to expect two people to accommodate each other 100 percent.",
       "The teacher tried to accommodate every student's needs."
     ],
     "usage": {
       "pos": "verb",
-      "pattern": "accommodate someone / a number of people · accommodate someone's needs",
+      "pattern": "accommodate someone / someone's needs · accommodate each other",
       "partners": [
-        "accommodate 200 guests",
+        "accommodate each other",
         "accommodate your needs",
         "accommodate a request"
       ]
@@ -366,8 +366,8 @@
     "hindi": "साथ गया, साथ दिया",
     "trick": "Accompanied → company → kept someone's company.",
     "examples": [
-      "Her mother accompanied her to the interview.",
-      "The singer was accompanied by a guitarist."
+      "Jalil walked Mariam home in front of the villagers who accompanied them.",
+      "Her mother accompanied her to the interview."
     ],
     "usage": {
       "pos": "verb (past)",
@@ -386,7 +386,7 @@
     "hindi": "अकॉर्डियन (हाथ से दबाने वाला बाजा)",
     "trick": "Accordion → it folds like an ACCORD (agreement) paper being squeezed in and out.",
     "examples": [
-      "The old man played a cheerful tune on his accordion.",
+      "Tariq's father sometimes played old Pashto songs on the accordion.",
       "The accordion's sound filled the small café."
     ],
     "usage": {
@@ -406,8 +406,8 @@
     "hindi": "आरोप लगाने वाला, इल्ज़ाम भरा",
     "trick": "Accusatory → accusation in your tone.",
     "examples": [
-      "She gave him an accusatory look when the cake went missing.",
-      "His email had an accusatory tone."
+      "His silence was broken only by an accusatory grunt.",
+      "She gave him an accusatory look when the cake went missing."
     ],
     "usage": {
       "pos": "adjective",
@@ -422,20 +422,20 @@
   {
     "word": "accusing",
     "memory": "blaming",
-    "meaning": "Saying or suggesting that someone has done something wrong",
+    "meaning": "Showing that you think someone has done something wrong",
     "hindi": "आरोप लगाते हुए, दोष देते हुए",
     "trick": "Accusing → making an accusation.",
     "examples": [
-      "Stop accusing me of lying!",
-      "She pointed an accusing finger at her brother."
+      "Like a compass needle that points north, a man's accusing finger always finds a woman.",
+      "She gave her brother an accusing look."
     ],
     "usage": {
-      "pos": "verb (-ing) / adjective",
-      "pattern": "accuse someone of something / of doing something · an accusing look",
+      "pos": "adjective",
+      "pattern": "an accusing + finger/look/voice · (verb) accuse someone of doing something",
       "partners": [
-        "accusing him of lying",
         "an accusing finger",
-        "an accusing look"
+        "an accusing look",
+        "an accusing tone"
       ]
     }
   },
@@ -446,7 +446,7 @@
     "hindi": "आदी, अभ्यस्त",
     "trick": "Accustomed → it has become your CUSTOM.",
     "examples": [
-      "I'm not accustomed to waking up so early.",
+      "I'm accustomed to sleeping alone.",
       "Her eyes slowly grew accustomed to the dark."
     ],
     "usage": {
@@ -466,8 +466,8 @@
     "hindi": "दर्द करता हुआ, दुखता हुआ",
     "trick": "Ache + ing — 'ACHE' sounds like 'ek' pain that keeps going.",
     "examples": [
-      "My legs were aching after the long hike.",
-      "She had an aching feeling of loneliness."
+      "I climb steadily from rock to rock, my leg muscles stretching and aching.",
+      "My legs were aching after the long hike."
     ],
     "usage": {
       "pos": "adjective / verb (-ing)",
@@ -486,8 +486,8 @@
     "hindi": "शानदार प्रदर्शन करते हुए, बाज़ी मारते हुए",
     "trick": "Ace → acing it: performing like an ace.",
     "examples": [
-      "She is acing all her exams this year.",
-      "He's acing his new job and already got a promotion."
+      "Success may mean acing an exam or smashing a sales goal.",
+      "She is acing all her exams this year."
     ],
     "usage": {
       "pos": "verb (-ing, informal)",
@@ -506,8 +506,8 @@
     "hindi": "स्वीकार करते हुए, मानते हुए",
     "trick": "Ac-KNOWLEDGE-ing — showing you have knowledge of it.",
     "examples": [
-      "Acknowledging your mistakes is the first step to improving.",
-      "He nodded, acknowledging her presence in the room."
+      "Entitled people are incapable of acknowledging their own problems openly and honestly.",
+      "Acknowledging your mistakes is the first step to improving."
     ],
     "usage": {
       "pos": "verb (-ing)",
@@ -521,21 +521,21 @@
   },
   {
     "word": "acolytes",
-    "memory": "loyal followers",
-    "meaning": "Loyal followers or assistants of a leader",
-    "hindi": "अनुयायी, चेले, सहायक",
-    "trick": "Acolytes → 'a-co-LOYAL-ties' → loyal followers.",
+    "memory": "priest's helpers",
+    "meaning": "Assistants who help a priest during a church service; also loyal followers of a leader",
+    "hindi": "पुजारी के सहायक; अनुयायी, चेले",
+    "trick": "Acolytes → 'a colleague' of the priest → helpers at the altar.",
     "examples": [
-      "The guru was surrounded by his acolytes.",
-      "The CEO's acolytes agreed with everything he said."
+      "With him were two acolytes, one of whom carried a censer.",
+      "Two acolytes lit the candles before the service began."
     ],
     "usage": {
       "pos": "noun (plural)",
-      "pattern": "someone's acolytes · acolytes of someone",
+      "pattern": "a priest with his acolytes · acolytes of someone",
       "partners": [
-        "his loyal acolytes",
-        "acolytes of the leader",
-        "surrounded by acolytes"
+        "two young acolytes",
+        "acolytes at the altar",
+        "his loyal acolytes"
       ]
     }
   },
@@ -546,8 +546,8 @@
     "hindi": "परिचित, जान-पहचान वाला",
     "trick": "Jaan pehchaan wala — someone you know but not very well.",
     "examples": [
-      "He's not a friend, just an acquaintance from college.",
-      "I made her acquaintance at a wedding last year."
+      "He is a friend of a business acquaintance of your father's.",
+      "He's not a friend, just an acquaintance from college."
     ],
     "usage": {
       "pos": "noun",
@@ -566,7 +566,7 @@
     "hindi": "बरी किया गया, निर्दोष घोषित",
     "trick": "Acquitted → 'QUIT it' → the court lets you quit the case, free of charges.",
     "examples": [
-      "The jury acquitted him of murder.",
+      "Yes, you'll be acquitted, and we'll go swimming again on Sundays.",
       "After two years, she was finally acquitted."
     ],
     "usage": {
@@ -586,7 +586,7 @@
     "hindi": "एकड़ में ज़मीन का क्षेत्रफल, रकबा",
     "trick": "Acreage → acre + age → how many acres you have.",
     "examples": [
-      "The farmer increased his acreage of wheat this year.",
+      "If one suggested sowing a bigger acreage with barley, the other demanded more oats.",
       "The total acreage of the estate is huge."
     ],
     "usage": {
@@ -606,7 +606,7 @@
     "hindi": "कहावत, लोकोक्ति",
     "trick": "ADAGE ≈ 'AGE-old' saying — wisdom passed down through ages.",
     "examples": [
-      "The old adage says, 'Practice makes perfect.'",
+      "As the old adage goes, the man who thinks he knows everything learns nothing.",
       "He lived by the adage that honesty is the best policy."
     ],
     "usage": {
@@ -621,13 +621,13 @@
   },
   {
     "word": "adhere",
-    "memory": "stick, follow",
-    "meaning": "To stick firmly to something; to follow a rule or belief closely",
-    "hindi": "चिपकना; पालन करना, टिके रहना",
+    "memory": "stick to, follow",
+    "meaning": "To follow a rule, plan or limit closely; also to stick firmly to a surface",
+    "hindi": "पालन करना, टिके रहना; चिपकना",
     "trick": "AD-HERE — glue it right 'here' so it sticks (like adhesive).",
     "examples": [
-      "The sticker didn't adhere to the wet surface.",
-      "All players must adhere to the rules of the game."
+      "It helps us understand and adhere to our own limits.",
+      "The sticker didn't adhere to the wet surface."
     ],
     "usage": {
       "pos": "verb",
@@ -646,7 +646,7 @@
     "hindi": "स्थगन, कार्यवाही टलना",
     "trick": "Adjournment → a pause in the JOURNey; we'll continue later.",
     "examples": [
-      "The judge ordered an adjournment until Monday.",
+      "The judge announced an adjournment till the afternoon.",
       "After a short adjournment, the meeting resumed."
     ],
     "usage": {
@@ -666,7 +666,7 @@
     "hindi": "डाँटते हुए, चेतावनी देते हुए",
     "trick": "Admonishing → 'ADD-MONISH' → like a teacher adding a warning; an admonishing look.",
     "examples": [
-      "The teacher gave him an admonishing look for talking in class.",
+      "Tariq's mother gave her husband an admonishing look.",
       "She kept admonishing her son to drive carefully."
     ],
     "usage": {
@@ -686,8 +686,8 @@
     "hindi": "किशोरावस्था",
     "trick": "ADOLESCENCE — the 'adult-essence' is still forming.",
     "examples": [
-      "Adolescence is a time of big physical and emotional change.",
-      "He spent his adolescence in a small village."
+      "For most of my adolescence, I dreamed of being a rock star.",
+      "Adolescence is a time of big physical and emotional change."
     ],
     "usage": {
       "pos": "noun",
@@ -706,7 +706,7 @@
     "hindi": "एड्रेनालिन (उत्तेजना का हार्मोन), जोश",
     "trick": "Adrenaline rush — the energy boost you feel on a roller coaster.",
     "examples": [
-      "The adrenaline kicked in as the race began.",
+      "I can feel the adrenaline pumping through my body.",
       "Skydiving gave her a huge rush of adrenaline."
     ],
     "usage": {
@@ -721,21 +721,21 @@
   },
   {
     "word": "adrift",
-    "memory": "floating aimlessly",
-    "meaning": "Floating without being steered; without purpose or direction",
-    "hindi": "बहता हुआ, भटका हुआ, दिशाहीन",
+    "memory": "lost, aimless",
+    "meaning": "Feeling lost, without purpose or direction; also (of a boat) floating without control",
+    "hindi": "भटका हुआ, दिशाहीन; बहता हुआ",
     "trick": "A-DRIFT → drifting with no direction.",
     "examples": [
-      "The boat was left adrift after the engine failed.",
+      "For most of the days, Mariam stayed in bed, feeling adrift and forlorn.",
       "After college he felt adrift, unsure what to do next."
     ],
     "usage": {
-      "pos": "adjective / adverb",
-      "pattern": "be/feel adrift · cast/set adrift",
+      "pos": "adjective",
+      "pattern": "feel/be adrift · be cast adrift",
       "partners": [
-        "a boat adrift at sea",
         "feel adrift",
-        "cast adrift"
+        "adrift and alone",
+        "a boat adrift at sea"
       ]
     }
   },
@@ -746,8 +746,8 @@
     "hindi": "अत्यधिक प्रशंसा, चापलूसी",
     "trick": "ADULATION ≈ 'adore-lation' — adoring someone too much.",
     "examples": [
-      "The pop star enjoyed the adulation of millions of fans.",
-      "He was uncomfortable with the adulation that followed his win."
+      "It brought him a lot of attention and adulation.",
+      "The pop star enjoyed the adulation of millions of fans."
     ],
     "usage": {
       "pos": "noun",
@@ -766,7 +766,7 @@
     "hindi": "व्यभिचारी, पराए से संबंध रखने वाला",
     "trick": "Adultery → the person who commits it is an adulterer.",
     "examples": [
-      "In the novel, the adulterer is eventually exposed.",
+      "Ask an adulterer who lost her family whether pleasure made her happy.",
       "She refused to forgive the adulterer who had betrayed her sister."
     ],
     "usage": {
@@ -786,8 +786,8 @@
     "hindi": "व्यभिचार, विवाहेतर संबंध",
     "trick": "Adultery → 'adult' + 'tery' — an adult cheating on their marriage.",
     "examples": [
-      "The novel is about a marriage destroyed by adultery.",
-      "Adultery was given as the reason for the divorce."
+      "The new laws ordered women to cover and punished adultery with stoning.",
+      "The novel is about a marriage destroyed by adultery."
     ],
     "usage": {
       "pos": "noun",
@@ -806,8 +806,8 @@
     "hindi": "रोमांच, साहसिक कार्य",
     "trick": "AD-VENTURE — 'venture' out into the unknown.",
     "examples": [
-      "Their trip to the mountains was a real adventure.",
-      "The children read a story full of adventure and mystery."
+      "Some people chase the thrill of a risky new adventure.",
+      "Their trip to the mountains was a real adventure."
     ],
     "usage": {
       "pos": "noun",
@@ -826,8 +826,8 @@
     "hindi": "विरोधी, दुश्मन, प्रतिद्वंद्वी",
     "trick": "Adversary → 'ADVERSE' person → the one against you.",
     "examples": [
-      "He defeated his old adversary in the final match.",
-      "Treat your adversary with respect."
+      "Know the terrain, know yourself, and know your adversary in detail.",
+      "He defeated his old adversary in the final match."
     ],
     "usage": {
       "pos": "noun",
@@ -846,8 +846,8 @@
     "hindi": "प्रतिकूल, हानिकारक",
     "trick": "Adverse → 'ADD WORSE' → adds harm and trouble.",
     "examples": [
-      "The medicine had no adverse effects.",
-      "Adverse weather delayed the flight."
+      "Instead of recharging me, the long break had an adverse effect.",
+      "The medicine had no adverse effects."
     ],
     "usage": {
       "pos": "adjective",
@@ -866,8 +866,8 @@
     "hindi": "मुसीबत, कठिनाई, विपत्ति",
     "trick": "Adverse (add worse) → adversity: things keep getting worse.",
     "examples": [
-      "She showed great courage in the face of adversity.",
-      "Adversity often makes people stronger."
+      "Adversity and failure are useful for developing strong-minded adults.",
+      "She showed great courage in the face of adversity."
     ],
     "usage": {
       "pos": "noun",
@@ -886,8 +886,8 @@
     "hindi": "एरोसोल, फुहार वाला स्प्रे",
     "trick": "Aero (air) + sol → air spray.",
     "examples": [
-      "She used an aerosol can to spray paint the wall.",
-      "Aerosol deodorants should be kept away from heat."
+      "Each afternoon, I sprayed my stock with aerosol deodorizer.",
+      "She used an aerosol can to spray paint the wall."
     ],
     "usage": {
       "pos": "noun",
@@ -906,7 +906,7 @@
     "hindi": "पीड़ित, ग्रस्त",
     "trick": "Afflicted by disease → a fly that afflicts you.",
     "examples": [
-      "The village was afflicted by drought for years.",
+      "Salamano's dog is ugly and afflicted with some skin disease.",
       "He has been afflicted with back pain since the accident."
     ],
     "usage": {
@@ -926,8 +926,8 @@
     "hindi": "अपमान, बेइज़्ज़ती",
     "trick": "Affront → said right to your FRONT, to your face — an insult to your dignity.",
     "examples": [
-      "His rude comment was an affront to her pride.",
-      "They saw the new law as an affront to their freedom."
+      "Packing up and running would be an even worse affront to her sons' sacrifice.",
+      "His rude comment was an affront to her pride."
     ],
     "usage": {
       "pos": "noun (also verb)",
@@ -946,8 +946,8 @@
     "hindi": "पहले से सोचा हुआ, सुनियोजित",
     "trick": "A-FORE-thought → thought before (as in 'malice aforethought').",
     "examples": [
-      "The crime was committed with malice aforethought.",
-      "Her quick answer seemed spontaneous but was actually aforethought."
+      "He was charged with murder of malice aforethought.",
+      "The jury decided the killing was done with malice aforethought."
     ],
     "usage": {
       "pos": "adjective (after a noun)",
@@ -961,61 +961,61 @@
   },
   {
     "word": "aftermath",
-    "memory": "consequences, after-effects",
-    "meaning": "The situation or consequences after a bad event",
-    "hindi": "बाद का असर, परिणाम",
+    "memory": "after-effects, leftover mess",
+    "meaning": "The period or situation right after an event, and the mess or effects it leaves",
+    "hindi": "बाद का असर, बाद की हालत",
     "trick": "After + math → the mess left after something happened.",
     "examples": [
-      "In the aftermath of the flood, many families were homeless.",
-      "The aftermath of the argument was a week of silence."
+      "In the living room, she took in the aftermath of last night's Eid visits.",
+      "In the aftermath of the flood, many families were homeless."
     ],
     "usage": {
       "pos": "noun",
-      "pattern": "in the aftermath of something (war, storm, crisis)",
+      "pattern": "the aftermath of something · in the (immediate) aftermath of something",
       "partners": [
         "in the aftermath of the war",
         "the immediate aftermath",
-        "in the aftermath of the storm"
+        "the aftermath of the party"
       ]
     }
   },
   {
     "word": "aggravate",
-    "memory": "make worse",
-    "meaning": "To make a bad situation or problem worse",
-    "hindi": "बिगाड़ना, और बदतर करना",
-    "trick": "Aggravate → 'add GRAVE' → makes things more grave.",
+    "memory": "annoy, irritate",
+    "meaning": "To annoy or irritate someone (informal); also to make a problem worse",
+    "hindi": "चिढ़ाना, परेशान करना; और बिगाड़ना",
+    "trick": "Aggravate → 'aggro' → doing things to make someone aggro (angry).",
     "examples": [
-      "Scratching will only aggravate the rash.",
-      "His rude reply aggravated the conflict."
+      "It's possible you hid it somewhere, just to aggravate me.",
+      "His constant humming really aggravates me."
     ],
     "usage": {
       "pos": "verb",
-      "pattern": "aggravate a problem/injury/situation",
+      "pattern": "aggravate someone · aggravate a problem/injury",
       "partners": [
-        "aggravate the problem",
-        "aggravate an injury",
-        "aggravate the situation"
+        "just to aggravate me",
+        "really aggravates her",
+        "aggravate an injury"
       ]
     }
   },
   {
     "word": "aggregating",
-    "memory": "combining, collecting",
-    "meaning": "Collecting or combining many separate items into one group or total",
-    "hindi": "इकट्ठा करते हुए, जोड़ते हुए",
+    "memory": "gathering together",
+    "meaning": "Gathering or grouping together into one mass or whole",
+    "hindi": "इकट्ठा होते हुए, जमा होते हुए",
     "trick": "AGGREGATE ≈ 'a great gate' where everything gathers together.",
     "examples": [
-      "The app works by aggregating news from many sources.",
-      "We are aggregating the survey results into one report."
+      "Below me, tourists were snapping photos and aggregating themselves into antlike groups.",
+      "People were aggregating near the gate, waiting for it to open."
     ],
     "usage": {
       "pos": "verb (-ing)",
-      "pattern": "aggregate data/results (into something)",
+      "pattern": "aggregate (themselves) into groups · aggregate data into something",
       "partners": [
+        "aggregating into groups",
         "aggregating data",
-        "aggregating results",
-        "aggregating news"
+        "aggregating results"
       ]
     }
   },
@@ -1026,8 +1026,8 @@
     "hindi": "दुखी, नाराज़, पीड़ित",
     "trick": "A-GRIEVED → full of grief because of unfair treatment.",
     "examples": [
-      "She felt aggrieved at being left out of the team.",
-      "The aggrieved customer demanded a refund."
+      "She dreaded the confrontation, the aggrieved looks.",
+      "She felt aggrieved at being left out of the team."
     ],
     "usage": {
       "pos": "adjective",
@@ -1046,7 +1046,7 @@
     "hindi": "फुर्तीला, चुस्त",
     "trick": "Agile → 'a GIRL' gymnast — quick to move, think and adapt.",
     "examples": [
-      "The agile cat leapt onto the wall.",
+      "We can always become stronger and more agile, mentally and physically.",
       "She has an agile mind and solves puzzles fast."
     ],
     "usage": {
@@ -1066,8 +1066,8 @@
     "hindi": "बेचैन, उत्तेजित, परेशान",
     "trick": "Agitated → like a washing machine agitator, shaken up inside.",
     "examples": [
-      "He became agitated when his phone went missing.",
-      "The agitated crowd started shouting."
+      "When he was agitated, which happened often, his slurring got worse.",
+      "He became agitated when his phone went missing."
     ],
     "usage": {
       "pos": "adjective",
@@ -1086,8 +1086,8 @@
     "hindi": "बहुत परेशान होता है, तड़पता है",
     "trick": "Agony → agonizes: being in agony over a decision.",
     "examples": [
-      "She agonizes over every small decision.",
-      "He agonizes about what others think of him."
+      "He agonizes over every sign, every laugh, every smile.",
+      "She agonizes over every small decision."
     ],
     "usage": {
       "pos": "verb (he/she/it form)",
@@ -1106,8 +1106,8 @@
     "hindi": "तीव्र पीड़ा, यातना",
     "trick": "Agony → 'AGO-NY' → pain that won't go away.",
     "examples": [
-      "He was in agony after breaking his leg.",
-      "Waiting for the results was pure agony."
+      "But the other side of being spared was the agony of wondering who hadn't.",
+      "He was in agony after breaking his leg."
     ],
     "usage": {
       "pos": "noun",
@@ -1126,36 +1126,36 @@
     "hindi": "मदद, सहायता; मदद करना",
     "trick": "First AID — help given immediately.",
     "examples": [
-      "The charity sends food aid to flood victims.",
+      "Decisions based on emotion, without the aid of reason, usually go wrong.",
       "A map will aid you in finding the way."
     ],
     "usage": {
-      "pos": "noun / verb",
-      "pattern": "aid (to) someone · aid someone in (doing) something · with the aid of something",
+      "pos": "noun (also verb)",
+      "pattern": "with/without the aid of something · aid someone in (doing) something",
       "partners": [
-        "first aid",
-        "food aid",
-        "with the aid of a map"
+        "without the aid of",
+        "with the aid of a map",
+        "first aid"
       ]
     }
   },
   {
     "word": "ailed",
-    "memory": "was ill",
-    "meaning": "Was ill; suffered from an illness or trouble",
-    "hindi": "बीमार रहा, कष्ट में रहा",
+    "memory": "troubled, made ill",
+    "meaning": "Troubled someone or caused them pain or illness",
+    "hindi": "परेशान किया, कष्ट दिया",
     "trick": "\"Ailed\" sounds like \"ill-ed\" — was ill.",
     "examples": [
-      "The old man ailed for months before he recovered.",
-      "Something ailed the team, and they lost every match that season."
+      "No matter what ailed my body or my mind, I had the same solution.",
+      "Nobody knew what ailed the old dog."
     ],
     "usage": {
       "pos": "verb (past)",
       "pattern": "what ailed someone · something ailed someone",
       "partners": [
         "what ailed him",
-        "the illness that ailed her",
-        "ailed for years"
+        "what ailed my body",
+        "whatever ailed her"
       ]
     }
   },
@@ -1166,8 +1166,8 @@
     "hindi": "बीमारियाँ, रोग",
     "trick": "\"Ail\" = ill → ail-ments = illnesses.",
     "examples": [
-      "Grandmother keeps home remedies for common ailments like colds and coughs.",
-      "The doctor treated the villagers for various ailments."
+      "The ailments that would trouble Mammy for the rest of her days began.",
+      "Grandmother keeps home remedies for common ailments like colds and coughs."
     ],
     "usage": {
       "pos": "noun (plural)",
@@ -1186,8 +1186,8 @@
     "hindi": "का भाव, का अंदाज़",
     "trick": "Like a smell in the air — a feeling around a person or place: air of eagerness, air of mystery.",
     "examples": [
-      "There was an air of mystery about the old house at the end of the street.",
-      "The children waited with an air of eagerness for the results."
+      "There was a faint smile on her lips, and an air of eagerness about her.",
+      "There was an air of mystery about the old house at the end of the street."
     ],
     "usage": {
       "pos": "phrase (noun)",
@@ -1206,8 +1206,8 @@
     "hindi": "हवाई पट्टी",
     "trick": "Air + strip = an air path on the ground.",
     "examples": [
-      "The small plane landed on a dusty airstrip near the village.",
-      "Soldiers cleared the jungle to build a temporary airstrip."
+      "After the first week, we headed to an airstrip in Yuma to start jumping.",
+      "The small plane landed on a dusty airstrip near the village."
     ],
     "usage": {
       "pos": "noun",
@@ -1226,7 +1226,7 @@
     "hindi": "हवाई, अव्यावहारिक, काल्पनिक",
     "trick": "Made of AIR and FAIRY dust — nothing solid or practical.",
     "examples": [
-      "His plans sound nice but are a bit airy-fairy.",
+      "No, not that airy-fairy, eternal bliss kind of enlightenment.",
       "We need real figures, not airy-fairy ideas."
     ],
     "usage": {
@@ -1246,8 +1246,8 @@
     "hindi": "गलियारा, कतारों के बीच का रास्ता",
     "trick": "Think of the aisle seat on a plane or the aisles in a supermarket.",
     "examples": [
-      "I always book an aisle seat so I can stretch my legs.",
-      "The bride walked slowly down the aisle."
+      "She made her way down the aisle to the back of the bus.",
+      "I always book an aisle seat so I can stretch my legs."
     ],
     "usage": {
       "pos": "noun",
@@ -1266,8 +1266,8 @@
     "hindi": "के समान, के जैसा",
     "trick": "AKIN ≈ 'a kin' (family) — related, so similar.",
     "examples": [
-      "The feeling was akin to falling in love.",
-      "His style of painting is akin to that of the old masters."
+      "For a teenage nerd like me, it was akin to winning the lottery.",
+      "The feeling was akin to falling in love."
     ],
     "usage": {
       "pos": "phrase (adjective)",
@@ -1286,8 +1286,8 @@
     "hindi": "हालाँकि, यद्यपि",
     "trick": "ALBEIT = 'ALl BE IT' so — although it is so.",
     "examples": [
-      "He agreed, albeit reluctantly.",
-      "It was a good result, albeit a lucky one."
+      "I became an immature, selfish, albeit sometimes charming player.",
+      "He agreed, albeit reluctantly."
     ],
     "usage": {
       "pos": "conjunction",
@@ -1306,7 +1306,7 @@
     "hindi": "भूर्ज जैसा पेड़ (गीली ज़मीन का)",
     "trick": "Alder bushes grow \"older\" near rivers and wet land.",
     "examples": [
-      "We hid behind the alder bushes by the stream.",
+      "They went for walks among the fallen leaves and alder bushes.",
       "The riverbank was lined with tall alder trees."
     ],
     "usage": {
@@ -1321,21 +1321,21 @@
   },
   {
     "word": "ale",
-    "memory": "beer",
-    "meaning": "A type of beer",
-    "hindi": "एक प्रकार की बीयर",
+    "memory": "beer; ginger drink",
+    "meaning": "A type of beer; in 'ginger ale', a sweet fizzy ginger soft drink",
+    "hindi": "एक प्रकार की बीयर; अदरक वाला ठंडा पेय",
     "trick": "Ale = beer; also think of ginger ale.",
     "examples": [
-      "The travellers drank ale at the village inn.",
-      "She ordered a ginger ale because she was driving."
+      "They sit on a blanket and drink cold ginger ale.",
+      "The travellers drank ale at the village inn."
     ],
     "usage": {
       "pos": "noun",
-      "pattern": "a pint/glass of ale",
+      "pattern": "a glass of (ginger) ale",
       "partners": [
-        "a pint of ale",
         "ginger ale",
-        "pale ale"
+        "cold ginger ale",
+        "a pint of ale"
       ]
     }
   },
@@ -1346,8 +1346,8 @@
     "hindi": "रिजका, पशुओं का चारा",
     "trick": "\"Alfalfa\" — food for the animal farm.",
     "examples": [
-      "The farmer fed his cows fresh alfalfa every morning.",
-      "Fields of green alfalfa stretched as far as we could see."
+      "Babi said the fields were green winter wheat and alfalfa.",
+      "The farmer fed his cows fresh alfalfa every morning."
     ],
     "usage": {
       "pos": "noun",
@@ -1366,7 +1366,7 @@
     "hindi": "अलग-थलग करते हुए, दूर करते हुए",
     "trick": "ALIEN-ating — making someone feel like an alien among you.",
     "examples": [
-      "His rude comments ended up alienating his friends.",
+      "I was drinking far too much and alienating a number of friends.",
       "The new policy risks alienating loyal customers."
     ],
     "usage": {
@@ -1386,8 +1386,8 @@
     "hindi": "गुज़ारा भत्ता",
     "trick": "ALI-MONEY — the money paid after the marriage ends.",
     "examples": [
-      "The court ordered him to pay monthly alimony.",
-      "She received alimony for several years after the divorce."
+      "The lawyers go home and the alimony check is in the mail.",
+      "The court ordered him to pay monthly alimony."
     ],
     "usage": {
       "pos": "noun",
@@ -1406,8 +1406,8 @@
     "hindi": "शांत किया, दूर किया",
     "trick": "\"All-ayed\" = \"all okay\" — makes the worry go away.",
     "examples": [
-      "The doctor's calm words allayed her fears about the surgery.",
-      "The bank allayed customer concerns with a clear statement."
+      "Her anxieties that their life together is only temporary are allayed.",
+      "The doctor's calm words allayed her fears about the surgery."
     ],
     "usage": {
       "pos": "verb (past)",
@@ -1426,8 +1426,8 @@
     "hindi": "कम करना, राहत देना",
     "trick": "ALLEVIATE ≈ 'all elevate' — lift all the weight off and make it lighter.",
     "examples": [
-      "The medicine helped alleviate her headache.",
-      "New roads were built to alleviate traffic congestion."
+      "We like the idea that we can alleviate all our suffering permanently.",
+      "The medicine helped alleviate her headache."
     ],
     "usage": {
       "pos": "verb",
@@ -1446,7 +1446,7 @@
     "hindi": "आकर्षक, लुभावना, मोहक",
     "trick": "A LURE — a fishing lure attracts and tempts the fish.",
     "examples": [
-      "The alluring smell of fresh bread filled the street.",
+      "This confidence can be alluring to others, at least for a while.",
       "She found the offer of a job abroad very alluring."
     ],
     "usage": {
@@ -1461,20 +1461,20 @@
   },
   {
     "word": "aloof",
-    "memory": "distant, unfriendly",
-    "meaning": "Distant and not friendly; keeping to yourself",
-    "hindi": "अलग-थलग, रूखा, उदासीन",
+    "memory": "stayed apart",
+    "meaning": "Keeping apart from others and not taking part; also cold and unfriendly",
+    "hindi": "अलग-थलग, दूर; रूखा",
     "trick": "A-loof ≈ alone — someone who stays apart from others.",
     "examples": [
-      "He seemed aloof at the party and spoke to no one.",
+      "Only Napoleon held aloof.",
       "She remained aloof from the office gossip."
     ],
     "usage": {
-      "pos": "adjective",
-      "pattern": "be/remain/stay aloof (from someone/something)",
+      "pos": "adjective / adverb",
+      "pattern": "hold/remain/stay aloof (from someone/something)",
       "partners": [
-        "remain aloof",
-        "aloof from others",
+        "held aloof",
+        "remain aloof from",
         "cold and aloof"
       ]
     }
@@ -1486,8 +1486,8 @@
     "hindi": "अलगाव, रूखापन, उदासीनता",
     "trick": "Aloof (alone, unfriendly) + -ness = the state of being aloof.",
     "examples": [
-      "His aloofness made it hard for new classmates to approach him.",
-      "Her aloofness was often mistaken for arrogance."
+      "All those years of aloofness, of cooping herself up and not caring.",
+      "His aloofness made it hard for new classmates to approach him."
     ],
     "usage": {
       "pos": "noun",
@@ -1506,7 +1506,7 @@
     "hindi": "वर्णक्रम में लगाया हुआ",
     "trick": "Alphabet + -ized = put in A-B-C order.",
     "examples": [
-      "The librarian alphabetized the books by the authors' surnames.",
+      "She took down Babi's books, dusted and alphabetized them.",
       "All the files were neatly alphabetized in the cabinet."
     ],
     "usage": {
@@ -1526,8 +1526,8 @@
     "hindi": "ऊँचाई मापने का यंत्र",
     "trick": "Alti-meter = altitude meter.",
     "examples": [
-      "The pilot checked the altimeter before descending.",
-      "Her hiking watch has a built-in altimeter."
+      "On my first high jump, I couldn't take my eyes off my altimeter.",
+      "The pilot checked the altimeter before descending."
     ],
     "usage": {
       "pos": "noun",
@@ -1546,8 +1546,8 @@
     "hindi": "फेफड़ों की वायु-थैलियाँ",
     "trick": "Alveoli = \"air valley\" — tiny air pockets in the lungs.",
     "examples": [
-      "Oxygen passes from the alveoli into the bloodstream.",
-      "Smoking damages the delicate walls of the alveoli."
+      "His alveoli, or air sacs, were filling with fluid.",
+      "Oxygen passes from the alveoli into the bloodstream."
     ],
     "usage": {
       "pos": "noun (plural of alveolus)",
@@ -1561,13 +1561,13 @@
   },
   {
     "word": "amber",
-    "memory": "yellowish-orange",
+    "memory": "glowing orange",
     "meaning": "A warm yellowish-orange color (also the hardened tree resin of that color)",
     "hindi": "पीला-नारंगी रंग; तृणमणि",
     "trick": "Amber is the color of the middle traffic light.",
     "examples": [
-      "The traffic light turned amber, so he slowed down.",
-      "Her eyes glowed amber in the evening sunlight."
+      "The amber tip of his cigarette brightened and dimmed.",
+      "The traffic light turned amber, so he slowed down."
     ],
     "usage": {
       "pos": "noun / adjective",
@@ -1586,7 +1586,7 @@
     "hindi": "धीरे-धीरे टहला, आराम से चला",
     "trick": "\"Amble\" sounds like \"ramble\" — a slow, easy walk.",
     "examples": [
-      "Laila ambled around the house.",
+      "When it was too cold to go outside, Laila ambled around the house.",
       "We ambled along the beach after dinner."
     ],
     "usage": {
@@ -1606,8 +1606,8 @@
     "hindi": "घात लगाकर हमला",
     "trick": "Am-BUSH — attackers hiding in the bush.",
     "examples": [
-      "The soldiers were caught in an ambush on the mountain road.",
-      "The lion waited in the tall grass to ambush its prey."
+      "The horses and cows had been lying in ambush in the cowshed.",
+      "The soldiers were caught in an ambush on the mountain road."
     ],
     "usage": {
       "pos": "noun / verb",
@@ -1621,21 +1621,21 @@
   },
   {
     "word": "amends",
-    "memory": "changes, revises",
-    "meaning": "Makes changes to a law, rule or agreement to improve it (also: make amends = make up for a wrong)",
-    "hindi": "संशोधन करता है, सुधारता है; भरपाई",
-    "trick": "Amend = mend (repair) a law or rule.",
+    "memory": "making up, repair",
+    "meaning": "(in 'make amends') something done to make up for a wrong or hurt you caused",
+    "hindi": "भरपाई, गलती सुधारना",
+    "trick": "Amends → MEND → mend things after you hurt someone.",
     "examples": [
-      "Parliament amends the law whenever new problems arise.",
+      "Sometimes he would try to make amends for the slaps with empty apologies.",
       "He tried to make amends for his rude behaviour by apologising."
     ],
     "usage": {
-      "pos": "verb (he/she/it)",
-      "pattern": "someone amends a law / rule / document",
+      "pos": "noun (plural, in 'make amends')",
+      "pattern": "make amends (to someone) for something / for doing something",
       "partners": [
-        "amends the law",
-        "amends the agreement",
-        "amends the rules"
+        "make amends",
+        "try to make amends",
+        "make amends for his mistake"
       ]
     }
   },
@@ -1646,7 +1646,7 @@
     "hindi": "मिलनसार, सौम्य, दोस्ताना",
     "trick": "\"Am I able to be friendly?\" — yes, amiable = friendly.",
     "examples": [
-      "The new neighbour was an amiable man who greeted everyone.",
+      "Her friend stood at the door with his white beard and amiable, toothless smile.",
       "They had an amiable chat over tea."
     ],
     "usage": {
@@ -1666,8 +1666,8 @@
     "hindi": "मिलनसार ढंग से, प्रेम से",
     "trick": "Amiable (friendly) + -ly = in a friendly way.",
     "examples": [
-      "The two old rivals chatted amiably at the reunion.",
-      "She smiled amiably at the nervous student."
+      "Mariam waved amiably.",
+      "The two old rivals chatted amiably at the reunion."
     ],
     "usage": {
       "pos": "adverb",
@@ -1686,8 +1686,8 @@
     "hindi": "दोस्त, यार (बोलचाल)",
     "trick": "Spanish for friend — 'Hola, amigo!'",
     "examples": [
-      "He greeted me with a smile: 'Hello, amigo!'",
-      "They have been amigos since school."
+      "Calm down, amigo.",
+      "He greeted me with a smile: 'Hello, amigo!'"
     ],
     "usage": {
       "pos": "noun (informal)",
@@ -1700,21 +1700,21 @@
   },
   {
     "word": "ammunition",
-    "memory": "bullets, shells",
-    "meaning": "Bullets, shells and bombs fired from weapons",
-    "hindi": "गोला-बारूद",
+    "memory": "fuel for attack",
+    "meaning": "Facts or weaknesses that someone can use against you; also bullets and shells fired from guns",
+    "hindi": "किसी के ख़िलाफ़ इस्तेमाल होने वाली बात; गोला-बारूद",
     "trick": "Ammo-nition = bullets and bombs.",
     "examples": [
-      "The soldiers were running low on ammunition.",
+      "I was showing a ton of weakness, which gave Gary ammunition.",
       "His mistakes gave his opponents ammunition to criticise him."
     ],
     "usage": {
       "pos": "noun (uncountable)",
-      "pattern": "ammunition for a gun; give someone ammunition against someone",
+      "pattern": "give someone ammunition (against someone) · ammunition for something",
       "partners": [
-        "run out of ammunition",
-        "live ammunition",
-        "ammunition for an argument"
+        "give them ammunition",
+        "ammunition against him",
+        "run out of ammunition"
       ]
     }
   },
@@ -1725,7 +1725,7 @@
     "hindi": "बढ़ाना, जोश भरना (बोलचाल)",
     "trick": "Amp = amplifier — turn the volume and energy up.",
     "examples": [
-      "The coach tried to amp up the team before the final.",
+      "A competitive environment can amp up an entire platoon's commitment.",
       "The DJ amped up the music as midnight approached."
     ],
     "usage": {
@@ -1740,20 +1740,21 @@
   },
   {
     "word": "amphibian",
-    "memory": "land-and-water animal",
-    "meaning": "An animal that can live both on land and in water, like a frog",
-    "hindi": "उभयचर (जल-थल दोनों में रहने वाला)",
-    "trick": "Amphi = both — an animal who can do both, land and water.",
+    "memory": "land-and-water",
+    "meaning": "Done on both land and water (of military operations or vehicles); also an animal like a frog that lives on land and in water",
+    "hindi": "जल-थल (दोनों पर); उभयचर",
+    "trick": "Amphi = both → works on both land and water.",
     "examples": [
-      "A frog is an amphibian that starts life in water.",
-      "Salamanders and toads are also amphibians."
+      "Both skills come in handy on amphibian operations.",
+      "A frog is an amphibian that starts life in water."
     ],
     "usage": {
-      "pos": "noun",
-      "pattern": "an amphibian lives on land and in water",
+      "pos": "adjective (also noun)",
+      "pattern": "amphibian + operation/vehicle · an amphibian (animal)",
       "partners": [
-        "frogs are amphibians",
-        "a small amphibian"
+        "amphibian operations",
+        "amphibian vehicle",
+        "frogs are amphibians"
       ]
     }
   },
@@ -1764,7 +1765,7 @@
     "hindi": "पर्याप्त, काफ़ी, भरपूर",
     "trick": "Ample = A-plenty — more than enough.",
     "examples": [
-      "There is ample space in the car for all our luggage.",
+      "Mariam would have ample occasion to think about how things might have turned out.",
       "You will have ample time to finish the test."
     ],
     "usage": {
@@ -1784,7 +1785,7 @@
     "hindi": "बढ़ाता है, तेज़ करता है",
     "trick": "Amplify your voice — a microphone amplifies sound.",
     "examples": [
-      "The microphone amplifies the singer's voice.",
+      "A spin cycle of panic and doubt only amplifies your self-torture.",
       "Social media often amplifies rumours."
     ],
     "usage": {
@@ -1804,7 +1805,7 @@
     "hindi": "अंग काटा गया",
     "trick": "Andrew Tate - hair cut — a cut, but of limbs, done surgically.",
     "examples": [
-      "The surgeon amputated his leg after the accident.",
+      "Finish the race strong and worry about amputated toes at the hospital later.",
       "Her frostbitten fingers had to be amputated."
     ],
     "usage": {
@@ -1824,8 +1825,8 @@
     "hindi": "अंग-विच्छेद, अंग काटना",
     "trick": "Amputate (Andrew Tate - cut) + -ion = the process of cutting off a limb.",
     "examples": [
-      "The infection was so severe that amputation was the only option.",
-      "He learned to walk again after the amputation of his foot."
+      "Tariq told her the bone spurs sometimes grew after an amputation.",
+      "The infection was so severe that amputation was the only option."
     ],
     "usage": {
       "pos": "noun",
@@ -1844,8 +1845,8 @@
     "hindi": "जिसका अंग कटा हो, अपंग व्यक्ति",
     "trick": "Amputate + -ee = the person it was done to (like employee).",
     "examples": [
-      "The amputee ran the marathon on a prosthetic leg.",
-      "The charity provides artificial limbs to amputees."
+      "The ache of his absence was like the phantom pain of an amputee.",
+      "The amputee ran the marathon on a prosthetic leg."
     ],
     "usage": {
       "pos": "noun",
@@ -1864,8 +1865,8 @@
     "hindi": "मनोरंजन करना, हँसाना",
     "trick": "\"A music\" — something that entertains you.",
     "examples": [
-      "The clown's tricks never fail to amuse the children.",
-      "She played games on her phone to amuse herself on the long train ride."
+      "I keep things that amuse me from the papers in an album.",
+      "The clown's tricks never fail to amuse the children."
     ],
     "usage": {
       "pos": "verb",
@@ -1879,40 +1880,41 @@
   },
   {
     "word": "anarcho-communist",
-    "memory": "no-government sharing believer",
-    "meaning": "A person who believes in a society with no government and no private property, where everything is shared",
+    "memory": "anti-state communist",
+    "meaning": "Believing in a society with no government and no private property, where everything is shared; also a person with these beliefs",
     "hindi": "अराजकतावादी साम्यवादी",
     "trick": "ANARCHY (no government) + COMMUNIST (shared property).",
     "examples": [
-      "The anarcho-communist argued that the state should be abolished.",
+      "If my goal was to become an anarcho-communist revolutionary, my failure to make money was a success.",
       "He described himself as an anarcho-communist in his youth."
     ],
     "usage": {
-      "pos": "noun / adjective",
-      "pattern": "an anarcho-communist believes / argues that...",
+      "pos": "adjective / noun",
+      "pattern": "an anarcho-communist + noun; be an anarcho-communist",
       "partners": [
-        "a self-described anarcho-communist",
-        "anarcho-communist ideas"
+        "anarcho-communist revolutionary",
+        "anarcho-communist ideas",
+        "a self-described anarcho-communist"
       ]
     }
   },
   {
     "word": "anchored",
-    "memory": "held firmly",
-    "meaning": "Held firmly in place (like a ship by its anchor)",
-    "hindi": "लंगर डाला हुआ, मज़बूती से टिका",
+    "memory": "fixed deep",
+    "meaning": "Fixed firmly and deeply in something (such as the mind); also held in place by an anchor",
+    "hindi": "गहराई से बैठा, जमा हुआ; लंगर डाला",
     "trick": "A ship anchored deep cannot drift.",
     "examples": [
-      "The boat was anchored just off the shore.",
+      "Those moments were anchored deep in my subconscious.",
       "Her beliefs are anchored in her family values."
     ],
     "usage": {
-      "pos": "verb (past) / adjective",
-      "pattern": "something is anchored to / in something; the ship anchored in the bay",
+      "pos": "verb (past participle) / adjective",
+      "pattern": "be anchored in / to something",
       "partners": [
-        "anchored in the bay",
+        "anchored deep",
         "firmly anchored",
-        "anchored to the ground"
+        "anchored in the past"
       ]
     }
   },
@@ -1923,7 +1925,7 @@
     "hindi": "बेहोशी देने वाला डॉक्टर",
     "trick": "Anesthesia + -ologist = the doctor who handles anesthesia.",
     "examples": [
-      "The anesthesiologist monitored the patient throughout the operation.",
+      "The anesthesiologist placed an oxygen mask over my face and counted down softly.",
       "Before surgery, the anesthesiologist explained how she would be put to sleep."
     ],
     "usage": {
@@ -1942,8 +1944,8 @@
     "hindi": "बेहोशी की दवा, सुन्न करने वाली दवा",
     "trick": "An-esthetic = no feeling — the drug that numbs pain.",
     "examples": [
-      "The dentist gave him a local anesthetic before pulling the tooth.",
-      "She was under general anesthetic for the whole operation."
+      "Regina loaded a syringe with local anesthetic for the wound on my hand.",
+      "The dentist gave him a local anesthetic before pulling the tooth."
     ],
     "usage": {
       "pos": "noun",
@@ -1957,12 +1959,12 @@
   },
   {
     "word": "angsty",
-    "memory": "anxious, moody",
+    "memory": "moody, anxious",
     "meaning": "Full of anxiety, worry or teenage-style emotional turmoil",
     "hindi": "बेचैन, चिंताग्रस्त",
     "trick": "ANGST (German for fear/anxiety) + y — moody and anxious.",
     "examples": [
-      "The band is known for its angsty teenage songs.",
+      "Josh and I sat in the pool, drinking beers and talking as young angsty males do.",
       "He went through an angsty phase in high school."
     ],
     "usage": {
@@ -1982,8 +1984,8 @@
     "hindi": "मानसिक पीड़ा, वेदना",
     "trick": "Anguish sounds like \"anger + languish\" — deep emotional suffering.",
     "examples": [
-      "The mother cried out in anguish when she heard the news.",
-      "He hid his anguish behind a brave smile."
+      "I chose physical pain now over the mental anguish of regret later.",
+      "The mother cried out in anguish when she heard the news."
     ],
     "usage": {
       "pos": "noun",
@@ -1997,13 +1999,13 @@
   },
   {
     "word": "antics",
-    "memory": "silly behaviour",
-    "meaning": "Silly, funny or foolish behaviour",
+    "memory": "wild, silly behaviour",
+    "meaning": "Wild, funny or silly behaviour that gets attention",
     "hindi": "हरकतें, शरारतें",
     "trick": "Ant-ics — like ants running around in silly ways.",
     "examples": [
-      "The children laughed at the clown's antics.",
-      "His antics in class got him sent to the principal."
+      "My antics annoyed the instructors and fired up my crew.",
+      "The children laughed at the clown's antics."
     ],
     "usage": {
       "pos": "noun (plural)",
@@ -2018,39 +2020,40 @@
   {
     "word": "anvil",
     "memory": "blacksmith's iron block",
-    "meaning": "A heavy iron block on which a blacksmith hammers and shapes metal",
-    "hindi": "निहाई",
-    "trick": "Anvil — where the blacksmith shapes iron.",
+    "meaning": "A heavy iron block on which a blacksmith hammers metal; (figurative) a hard, crushing test",
+    "hindi": "निहाई; कड़ी परीक्षा",
+    "trick": "Anvil — where iron gets hammered; under the anvil, the weak crumble.",
     "examples": [
-      "The blacksmith hammered the red-hot iron on the anvil.",
-      "The ringing of the hammer on the anvil filled the workshop."
+      "Many great athletes crumbled beneath the anvil of ultra running.",
+      "The blacksmith hammered the red-hot iron on the anvil."
     ],
     "usage": {
       "pos": "noun",
-      "pattern": "hammer metal on an anvil",
+      "pattern": "hammer metal on an anvil; beneath the anvil of something (figurative)",
       "partners": [
         "a blacksmith's anvil",
-        "an iron anvil"
+        "hammer on an anvil",
+        "the anvil of hardship"
       ]
     }
   },
   {
     "word": "apart",
-    "memory": "separated",
-    "meaning": "Separated by distance or time; divided into pieces",
-    "hindi": "अलग, दूर; टुकड़े-टुकड़े",
+    "memory": "into pieces",
+    "meaning": "Into separate pieces; also separated by distance or time",
+    "hindi": "टुकड़े-टुकड़े, बिखरा; अलग, दूर",
     "trick": "A-PART = into parts, separated.",
     "examples": [
-      "The twins have never lived apart.",
+      "His body was limp, so he didn't come apart when he hit the ground.",
       "The old chair fell apart when he sat on it."
     ],
     "usage": {
       "pos": "adverb",
-      "pattern": "be / live / fall / take apart; apart from something (= except)",
+      "pattern": "come / fall / break apart; take something apart; live apart",
       "partners": [
-        "live apart",
+        "come apart",
         "fall apart",
-        "apart from that"
+        "take apart"
       ]
     }
   },
@@ -2061,8 +2064,8 @@
     "hindi": "उदासीनता, बेरुखी",
     "trick": "A-pathy = no feeling — \"I don't care.\"",
     "examples": [
-      "Voter apathy led to a very low turnout.",
-      "His apathy towards his studies worried his parents."
+      "At the beginning they met with much stupidity and apathy.",
+      "Voter apathy led to a very low turnout."
     ],
     "usage": {
       "pos": "noun",
@@ -2076,33 +2079,33 @@
   },
   {
     "word": "apparatus",
-    "memory": "equipment",
-    "meaning": "A set of equipment or tools used for a particular purpose",
-    "hindi": "उपकरण, साधन",
+    "memory": "machine, equipment",
+    "meaning": "A machine or set of equipment made for a particular job",
+    "hindi": "यंत्र, उपकरण",
     "trick": "\"A pair of us\" — a set of tools working together.",
     "examples": [
-      "The scientists set up the apparatus for the experiment.",
+      "The condemned man had to hope the apparatus was in good working order!",
       "Firefighters wear breathing apparatus in smoky buildings."
     ],
     "usage": {
       "pos": "noun",
-      "pattern": "an apparatus for doing something; the apparatus of the state",
+      "pattern": "an apparatus for doing something; the apparatus works / fails",
       "partners": [
         "breathing apparatus",
-        "laboratory apparatus",
-        "a piece of apparatus"
+        "a piece of apparatus",
+        "in good working order"
       ]
     }
   },
   {
     "word": "apparent",
-    "memory": "obvious, clear",
-    "meaning": "Clearly visible or understood; seeming real but possibly not",
+    "memory": "clearly visible, obvious",
+    "meaning": "Clearly seen or understood; also seeming real but possibly not",
     "hindi": "स्पष्ट, ज़ाहिर; प्रतीत होने वाला",
     "trick": "Spelling: A-PP-A-RENT — it's 'a parent' that is clearly visible, not 'apparant'.",
     "examples": [
-      "It was apparent that she was tired.",
-      "For no apparent reason, the lights went out."
+      "The tendency toward entitlement is apparent across all of society.",
+      "It was apparent that she was tired."
     ],
     "usage": {
       "pos": "adjective",
@@ -2116,13 +2119,13 @@
   },
   {
     "word": "apparition",
-    "memory": "ghost",
-    "meaning": "A ghost or ghostlike image of a person",
-    "hindi": "भूत, प्रेत-छाया",
+    "memory": "ghost, vision",
+    "meaning": "A ghostly or unreal image of a person; something seen that is not really there",
+    "hindi": "भूत, प्रेत-छाया, छलावा",
     "trick": "Apparition = something that suddenly appears — the spirit of a dead person.",
     "examples": [
-      "She claimed to have seen an apparition in the old castle.",
-      "A pale apparition seemed to float down the staircase."
+      "She wanted to prove he was really here, not a dream, an apparition.",
+      "She claimed to have seen an apparition in the old castle."
     ],
     "usage": {
       "pos": "noun",
@@ -2140,8 +2143,8 @@
     "hindi": "खुश करना, मनाना, शांत करना",
     "trick": "Ap-PEASE ≈ please — make them happy/calm.",
     "examples": [
-      "The manager offered a refund to appease the angry customer.",
-      "Nothing could appease the crying baby."
+      "Everything she did was an effort to appease him so he wouldn't beat her sons.",
+      "The manager offered a refund to appease the angry customer."
     ],
     "usage": {
       "pos": "verb",
@@ -2155,18 +2158,19 @@
   },
   {
     "word": "appeasement",
-    "memory": "giving in, pacifying",
-    "meaning": "The act of calming or pleasing someone by giving in to their demands",
-    "hindi": "तुष्टीकरण, मनाना",
-    "trick": "Appease (please) + -ment = the act of appeasing.",
+    "memory": "calming, soothing",
+    "meaning": "The act of calming or satisfying someone (even your own conscience); also giving in to demands to keep the peace",
+    "hindi": "तसल्ली, मन की शांति; तुष्टीकरण",
+    "trick": "Appease (please) + -ment = making someone (or yourself) feel calm.",
     "examples": [
-      "The policy of appeasement failed to prevent the war.",
-      "Giving in to every tantrum is appeasement, not parenting."
+      "His gestures were meant more for his own appeasement than hers.",
+      "The policy of appeasement failed to prevent the war."
     ],
     "usage": {
       "pos": "noun",
-      "pattern": "a policy of appeasement; appeasement of someone",
+      "pattern": "for someone's appeasement; a policy of appeasement",
       "partners": [
+        "his own appeasement",
         "a policy of appeasement",
         "appeasement of the enemy"
       ]
@@ -2179,8 +2183,8 @@
     "hindi": "स्वादिष्ट दिखने वाला, भूख जगाने वाला",
     "trick": "Appetite + -ising = it raises your appetite (appetizing food).",
     "examples": [
-      "The bakery had an appetising smell of fresh bread.",
-      "She arranged the food on the plate to make it more appetising."
+      "A warm, rich, appetising scent wafted across the yard.",
+      "The bakery had an appetising smell of fresh bread."
     ],
     "usage": {
       "pos": "adjective",
@@ -2199,8 +2203,8 @@
     "hindi": "आशंका, डर, चिंता",
     "trick": "Apprehension = worry about the future.",
     "examples": [
-      "She felt a sense of apprehension before her first job interview.",
-      "There was apprehension in the town as the storm approached."
+      "Tariq's face showed apprehension, tenderness and embarrassment.",
+      "She felt a sense of apprehension before her first job interview."
     ],
     "usage": {
       "pos": "noun",
@@ -2219,8 +2223,8 @@
     "hindi": "आशंकित, चिंतित",
     "trick": "Apprehensive = feeling apprehension — worried about the future.",
     "examples": [
-      "He was apprehensive about flying for the first time.",
-      "The students looked apprehensive as the exam papers were handed out."
+      "Zalmai only sucked his thumb when he was apprehensive.",
+      "He was apprehensive about flying for the first time."
     ],
     "usage": {
       "pos": "adjective",
@@ -2234,21 +2238,21 @@
   },
   {
     "word": "appropriate",
-    "memory": "suitable, proper",
-    "meaning": "Suitable or proper for a particular situation",
+    "memory": "right, proper",
+    "meaning": "Suitable or correct for the situation; the right one needed",
     "hindi": "उचित, उपयुक्त",
     "trick": "AP-PROPER-iate — the proper thing for the occasion.",
     "examples": [
-      "Jeans are not appropriate for a job interview.",
-      "Please choose an appropriate time to call."
+      "Filling out the appropriate paperwork to drop out of med school is easy.",
+      "Jeans are not appropriate for a job interview."
     ],
     "usage": {
       "pos": "adjective",
-      "pattern": "appropriate for someone / something; It is appropriate to do something",
+      "pattern": "the appropriate + noun; appropriate for something",
       "partners": [
-        "appropriate for the occasion",
+        "the appropriate paperwork",
         "take appropriate action",
-        "the appropriate time"
+        "appropriate for the occasion"
       ]
     }
   },
@@ -2259,8 +2263,8 @@
     "hindi": "खुबानियाँ",
     "trick": "Apri-cots — a fruit that looks like a tiny peach.",
     "examples": [
-      "She bought a bag of dried apricots for the trip.",
-      "Apricots grow well in the valleys of Ladakh."
+      "Laila dipped a spoon into her bowl of soaked raisins, pistachios, and apricots.",
+      "She bought a bag of dried apricots for the trip."
     ],
     "usage": {
       "pos": "noun (plural)",
@@ -2279,8 +2283,8 @@
     "hindi": "एप्रन, कपड़ा बचाने वाले लबादे",
     "trick": "Aprons — what you wear while cooking.",
     "examples": [
-      "The chefs tied on their aprons before the dinner rush.",
-      "The children wore aprons for the painting class."
+      "Nearly all the women wore aprons tied tight round their waists.",
+      "The chefs tied on their aprons before the dinner rush."
     ],
     "usage": {
       "pos": "noun (plural)",
@@ -2319,7 +2323,7 @@
     "hindi": "मछलीघर",
     "trick": "Aqua = water → a fish tank.",
     "examples": [
-      "We spent the afternoon watching sharks at the city aquarium.",
+      "I was a lone fish in a glass box aquarium under hot show lights.",
       "He cleans the aquarium in his bedroom every Sunday."
     ],
     "usage": {
@@ -2339,16 +2343,16 @@
     "hindi": "मनमाना, बेतुका",
     "trick": "ARBITRARY ≈ 'a bit random' — no real reason behind it.",
     "examples": [
-      "The rules seemed arbitrary and unfair.",
-      "He picked an arbitrary number between one and ten."
+      "Not many people want to suffer through arbitrary corporate hierarchies.",
+      "The rules seemed arbitrary and unfair."
     ],
     "usage": {
       "pos": "adjective",
       "pattern": "an arbitrary decision / rule / choice",
       "partners": [
-        "an arbitrary decision",
+        "arbitrary hierarchies",
         "arbitrary rules",
-        "seem arbitrary"
+        "an arbitrary decision"
       ]
     }
   },
@@ -2359,35 +2363,35 @@
     "hindi": "चाप, वक्र रेखा",
     "trick": "Think of a rainbow — it forms an arc across the sky.",
     "examples": [
-      "The ball flew through the air in a high arc.",
+      "A paper airplane floats across the room in a high arc.",
       "A rainbow stretched in a perfect arc over the hills."
     ],
     "usage": {
-      "pos": "noun / verb",
-      "pattern": "in an arc; something arcs through the air",
+      "pos": "noun",
+      "pattern": "in an arc; the arc of something",
       "partners": [
+        "in a high arc",
         "in a wide arc",
-        "the arc of a rainbow",
-        "a story arc"
+        "the arc of a rainbow"
       ]
     }
   },
   {
     "word": "archless",
-    "memory": "flat, without curve",
-    "meaning": "Lacking an arch or arc (e.g. a flat foot with no arch)",
-    "hindi": "बिना मेहराब का, सपाट",
-    "trick": "Arch + less = without an arch.",
+    "memory": "flat, uncurved",
+    "meaning": "Without a curve or arch (e.g. straight, flat eyebrows or flat feet)",
+    "hindi": "बिना घुमाव का, सपाट",
+    "trick": "Arch + less = no curve.",
     "examples": [
-      "His archless feet made long walks painful.",
-      "The doctor said she had archless, completely flat feet."
+      "Mariam saw her own face, the archless, unshapely eyebrows and the flat hair.",
+      "She drew curves on her archless eyebrows with a pencil."
     ],
     "usage": {
       "pos": "adjective",
-      "pattern": "archless feet (flat feet)",
+      "pattern": "archless eyebrows / feet",
       "partners": [
-        "archless feet",
-        "an archless foot"
+        "archless eyebrows",
+        "archless feet"
       ]
     }
   },
@@ -2398,7 +2402,7 @@
     "hindi": "कठिन, थकाऊ, मेहनत भरा",
     "trick": "'ARD-uous' sounds like 'HARD-uous' → hard, challenging.",
     "examples": [
-      "The climb to the summit was long and arduous.",
+      "These activities are stressful, arduous, and often unpleasant.",
       "Preparing for the exam was an arduous task."
     ],
     "usage": {
@@ -2418,7 +2422,7 @@
     "hindi": "कुलीन वर्ग, अभिजात वर्ग",
     "trick": "Aristocrats = upper-class people (lords, dukes, nobles).",
     "examples": [
-      "The palace was built for members of the aristocracy.",
+      "The era of aristocracy, nepotism, and inequality is over.",
       "Before the revolution, the aristocracy owned most of the land."
     ],
     "usage": {
@@ -2438,8 +2442,8 @@
     "hindi": "उत्पन्न हुआ, पैदा हुआ; उठा",
     "trick": "A ROSE arose from the ground — it came up.",
     "examples": [
-      "A problem arose during the meeting.",
-      "She arose early to watch the sunrise."
+      "Her story makes sense when we understand the values in which her beliefs arose.",
+      "A problem arose during the meeting."
     ],
     "usage": {
       "pos": "verb (past of arise)",
@@ -2458,8 +2462,8 @@
     "hindi": "अनियमित लय वाला, बेताल",
     "trick": "A (not) + rhythmic → irregular rhythm.",
     "examples": [
-      "The patient's arrhythmic heartbeat worried the doctors.",
-      "The drummer's arrhythmic playing threw the band off."
+      "It looked like an arrhythmic EKG.",
+      "The patient's arrhythmic heartbeat worried the doctors."
     ],
     "usage": {
       "pos": "adjective",
@@ -2477,8 +2481,8 @@
     "hindi": "धमनी",
     "trick": "Like a vein, but an ARTery goes Away from the heart.",
     "examples": [
-      "A blocked artery can cause a heart attack.",
-      "The nurse pressed on the artery to stop the bleeding."
+      "Out the words came, like blood gushing from an artery.",
+      "A blocked artery can cause a heart attack."
     ],
     "usage": {
       "pos": "noun",
@@ -2497,8 +2501,8 @@
     "hindi": "गठिया से ग्रस्त",
     "trick": "Arthritis → arthritic joints are swollen.",
     "examples": [
-      "Her arthritic fingers made it hard to open jars.",
-      "The old dog moved slowly on its arthritic legs."
+      "He tapped her cheek with one arthritic finger.",
+      "Her arthritic fingers made it hard to open jars."
     ],
     "usage": {
       "pos": "adjective",
@@ -2512,21 +2516,21 @@
   },
   {
     "word": "articulate",
-    "memory": "well-spoken",
-    "meaning": "Able to express ideas clearly and effectively (or to say something clearly)",
-    "hindi": "स्पष्ट बोलने वाला; साफ़-साफ़ कहना",
-    "trick": "'Art' of speaking → speak clearly.",
+    "memory": "put into words",
+    "meaning": "To express a thought or feeling clearly in words; also (adjective) able to speak clearly",
+    "hindi": "शब्दों में कहना, साफ़-साफ़ कहना; स्पष्ट बोलने वाला",
+    "trick": "'Art' of speaking → put feelings into clear words.",
     "examples": [
-      "She is an articulate speaker who explains complex ideas simply.",
+      "If she could articulate it, she might have said she was tired of being used.",
       "He struggled to articulate his feelings."
     ],
     "usage": {
-      "pos": "adjective / verb",
-      "pattern": "be articulate; articulate your thoughts / feelings",
+      "pos": "verb",
+      "pattern": "articulate something (a feeling / an idea / a thought)",
       "partners": [
-        "an articulate speaker",
-        "articulate your thoughts",
-        "clear and articulate"
+        "articulate your feelings",
+        "articulate a thought",
+        "clearly articulate"
       ]
     }
   },
@@ -2537,8 +2541,8 @@
     "hindi": "तोपखाना, तोपें",
     "trick": "ART-ILLERY → guns on wheels that make things 'ill'.",
     "examples": [
-      "The artillery fired at the enemy positions all night.",
-      "Soldiers dragged the artillery up the hill."
+      "Outside, there was the far-off boom of artillery, then gunfire.",
+      "The artillery fired at the enemy positions all night."
     ],
     "usage": {
       "pos": "noun (uncountable)",
@@ -2557,8 +2561,8 @@
     "hindi": "चढ़ाई, ऊपर उठना",
     "trick": "Ascent and descent — ascent goes UP (A for Above).",
     "examples": [
-      "The ascent to the top of the mountain took six hours.",
-      "The plane began its steep ascent after take-off."
+      "Each lap demanded an ascent and descent of around 5,000 vertical feet.",
+      "The ascent to the top of the mountain took six hours."
     ],
     "usage": {
       "pos": "noun",
@@ -2577,8 +2581,8 @@
     "hindi": "पीला पड़ा हुआ, राख जैसा",
     "trick": "Ash-en → grey like ash.",
     "examples": [
-      "His face turned ashen when he heard the news.",
-      "She looked ashen after the long illness."
+      "Their faces were ashen gray after the long, uneasy vigil.",
+      "His face turned ashen when he heard the news."
     ],
     "usage": {
       "pos": "adjective",
@@ -2597,13 +2601,14 @@
     "hindi": "बदनाम करते हुए, लांछन लगाते हुए",
     "trick": "Aspersing → 'a spray' of insults on someone's name.",
     "examples": [
-      "He was accused of aspersing his rival's character in the press.",
+      "Does my friend think that by aspersing a witness he will shake the evidence?",
       "Stop aspersing her reputation without any proof."
     ],
     "usage": {
       "pos": "verb (-ing)",
-      "pattern": "aspersing someone's character / reputation",
+      "pattern": "by aspersing someone; aspersing someone's character / reputation",
       "partners": [
+        "aspersing a witness",
         "aspersing his character",
         "aspersing her reputation"
       ]
@@ -2616,8 +2621,8 @@
     "hindi": "डामर, तारकोल",
     "trick": "Asphalt = 'damber' (tar) on the road.",
     "examples": [
-      "The workers spread fresh asphalt on the road.",
-      "The asphalt was burning hot under the summer sun."
+      "My favorite run was an asphalt path that wound through the trees.",
+      "The workers spread fresh asphalt on the road."
     ],
     "usage": {
       "pos": "noun",
@@ -2632,31 +2637,31 @@
   {
     "word": "assessed",
     "memory": "evaluated, judged",
-    "meaning": "Evaluated or judged the quality, value or importance of something",
+    "meaning": "Judged or measured (past participle of assess)",
     "hindi": "आकलन किया, मूल्यांकन किया",
     "trick": "Assess — like an exam that tests and grades you.",
     "examples": [
-      "The damage was assessed by an insurance expert.",
+      "The values, and the metrics by which those values are assessed, stay the same.",
       "Students are assessed at the end of each term."
     ],
     "usage": {
-      "pos": "verb (past)",
-      "pattern": "someone assessed something; be assessed on / by something",
+      "pos": "verb (past participle)",
+      "pattern": "something is assessed by / on something; someone assessed something",
       "partners": [
+        "assessed by a teacher",
         "assessed the damage",
-        "assessed the situation",
-        "be assessed by a teacher"
+        "assessed the situation"
       ]
     }
   },
   {
     "word": "assortments",
-    "memory": "mixed collections",
+    "memory": "mixed varieties",
     "meaning": "Collections of different kinds of things mixed together",
     "hindi": "तरह-तरह की चीज़ों के संग्रह, मिश्रण",
     "trick": "Assortment of vegetables → different types sorted together.",
     "examples": [
-      "The market had an assortment of vegetables on display.",
+      "Other times, she met with assortments of wooden clubs, short whips and slaps.",
       "The shop sells assortments of chocolates for gifts."
     ],
     "usage": {
@@ -2676,16 +2681,16 @@
     "hindi": "आश्वासन, भरोसे",
     "trick": "To assure → give assurances.",
     "examples": [
-      "Despite his assurances, the work was not finished on time.",
-      "The government gave assurances that prices would not rise."
+      "She could now hear the hollow, false assurances clearly.",
+      "Despite his assurances, the work was not finished on time."
     ],
     "usage": {
       "pos": "noun (plural)",
       "pattern": "give / receive assurances (that...)",
       "partners": [
+        "false assurances",
         "give assurances",
-        "despite assurances",
-        "assurances that it is safe"
+        "despite assurances"
       ]
     }
   },
@@ -2696,8 +2701,8 @@
     "hindi": "चकित, हैरान",
     "trick": "Astonished = so surprised you turn to STONE.",
     "examples": [
-      "She was astonished to see her old friend at the door.",
-      "We were astonished by how quickly he learned the language."
+      "Laila is astonished that she too has survived.",
+      "She was astonished to see her old friend at the door."
     ],
     "usage": {
       "pos": "adjective",
@@ -2716,8 +2721,8 @@
     "hindi": "आश्चर्यजनक, हैरान करने वाला",
     "trick": "So surprising it turns you to STONE.",
     "examples": [
-      "The child showed an astonishing talent for music.",
-      "The team made an astonishing comeback in the second half."
+      "It's astonishing I even made it through Hell Week.",
+      "The child showed an astonishing talent for music."
     ],
     "usage": {
       "pos": "adjective",
@@ -2736,7 +2741,7 @@
     "hindi": "आश्चर्य, हैरानी",
     "trick": "Astonish + ment → the feeling of being stunned like stone.",
     "examples": [
-      "To my astonishment, the shop was completely empty.",
+      "To her astonishment, Rasheed calmly walked out of the room.",
       "He stared at the results in astonishment."
     ],
     "usage": {
@@ -2756,8 +2761,8 @@
     "hindi": "स्तब्ध, भौंचक्का",
     "trick": "Astounded = struck by a loud SOUND of shock.",
     "examples": [
-      "We were astounded by the size of the crowd.",
-      "She was astounded to learn she had won the prize."
+      "She was too astounded to notice what her hand had done.",
+      "We were astounded by the size of the crowd."
     ],
     "usage": {
       "pos": "adjective",
@@ -2771,12 +2776,12 @@
   },
   {
     "word": "astray",
-    "memory": "off course",
-    "meaning": "Away from the correct path or direction; into error",
+    "memory": "off the right path",
+    "meaning": "Away from the right path; into wrong thinking or behaviour",
     "hindi": "भटका हुआ, गलत राह पर",
     "trick": "A stray dog wanders astray — off the right path.",
     "examples": [
-      "The letter went astray and never arrived.",
+      "No argument must lead you astray.",
       "Bad friends can lead you astray."
     ],
     "usage": {
@@ -2796,8 +2801,8 @@
     "hindi": "दोनों तरफ़ टाँगें करके",
     "trick": "A + stride → legs spread across, one on each side.",
     "examples": [
-      "He sat astride the horse.",
-      "The boy sat astride the wall, swinging his legs."
+      "The tobacconist sat astride a chair, resting his arms on the back.",
+      "He sat astride the horse."
     ],
     "usage": {
       "pos": "preposition / adverb",
@@ -2816,13 +2821,14 @@
     "hindi": "आर-पार, आड़े",
     "trick": "A-THWART → lying across your path, thwarting you.",
     "examples": [
-      "A fallen tree lay athwart the road.",
-      "The ship was anchored athwart the harbour entrance."
+      "The Arab drew his knife and held it up toward me, athwart the sunlight.",
+      "A fallen tree lay athwart the road."
     ],
     "usage": {
       "pos": "preposition",
       "pattern": "athwart something (across it)",
       "partners": [
+        "athwart the sunlight",
         "athwart the path",
         "athwart the ship"
       ]
@@ -2835,8 +2841,8 @@
     "hindi": "के ऊपर, चोटी पर",
     "trick": "A + top → on top of.",
     "examples": [
-      "A small bird sat atop the flagpole.",
-      "She placed a cherry atop the cake."
+      "She spotted a pack of cigarettes atop the dresser.",
+      "A small bird sat atop the flagpole."
     ],
     "usage": {
       "pos": "preposition",
@@ -2855,8 +2861,8 @@
     "hindi": "प्राप्त करने योग्य, हासिल होने लायक",
     "trick": "Possible to attain → attain + able.",
     "examples": [
-      "Set goals that are challenging but attainable.",
-      "With hard work, a top score is attainable."
+      "Our imagination hunts down dreams that suddenly feel attainable.",
+      "Set goals that are challenging but attainable."
     ],
     "usage": {
       "pos": "adjective",
@@ -2875,16 +2881,16 @@
     "hindi": "कोशिश की, प्रयास किया",
     "trick": "AT-TEMPT-ed — tempted to try, so you attempted it.",
     "examples": [
-      "He attempted to climb the mountain alone.",
-      "She attempted the question but couldn't finish it."
+      "He was a failure at everything he had attempted.",
+      "He attempted to climb the mountain alone."
     ],
     "usage": {
-      "pos": "verb (past) / adjective",
-      "pattern": "someone attempted to do something; attempted something",
+      "pos": "verb (past / past participle)",
+      "pattern": "someone attempted (to do) something",
       "partners": [
+        "had attempted",
         "attempted to escape",
-        "attempted the question",
-        "attempted murder"
+        "attempted the question"
       ]
     }
   },
@@ -2895,8 +2901,8 @@
     "hindi": "अफ़ग़ानी नूडल्स-दही वाला सूप",
     "trick": "Aush sounds like 'ash-soup' → a warm Afghan noodle soup.",
     "examples": [
-      "Her mother made a pot of aush for dinner.",
-      "They shared steaming bowls of aush on the cold winter night."
+      "Babi dipped bread into his bowl of aush.",
+      "Her mother made a pot of aush for dinner."
     ],
     "usage": {
       "pos": "noun",
@@ -2914,7 +2920,7 @@
     "hindi": "स्वायत्तता, आज़ादी",
     "trick": "AUTO (self) + NOMY (law) — making your own laws, like an automatic self-driving car.",
     "examples": [
-      "The region was granted autonomy from the central government.",
+      "It was freedom, autonomy.",
       "Teenagers often want more autonomy over their lives."
     ],
     "usage": {
@@ -2929,21 +2935,21 @@
   },
   {
     "word": "autopsy",
-    "memory": "post-mortem",
-    "meaning": "A medical examination of a dead body to find the cause of death",
-    "hindi": "पोस्टमार्टम, शव-परीक्षा",
-    "trick": "Auto (self) + opsy (see) → see for yourself why they died.",
+    "memory": "detailed failure review",
+    "meaning": "A close review of what went wrong, like a doctor examining a body; also a medical examination of a dead body to find the cause of death",
+    "hindi": "बारीकी से जाँच; पोस्टमार्टम",
+    "trick": "Auto (self) + opsy (see) → see for yourself why it died or failed.",
     "examples": [
-      "The autopsy showed that he died of a heart attack.",
-      "Police ordered an autopsy after the suspicious death."
+      "A tactical review is the most vital piece of any live autopsy.",
+      "The autopsy showed that he died of a heart attack."
     ],
     "usage": {
       "pos": "noun",
-      "pattern": "carry out / do an autopsy (on someone)",
+      "pattern": "do an autopsy on something (a failure / a body)",
       "partners": [
+        "a live autopsy",
         "carry out an autopsy",
-        "the autopsy report",
-        "autopsy results"
+        "the autopsy report"
       ]
     }
   },
@@ -2954,8 +2960,8 @@
     "hindi": "पतझड़, शरद ऋतु",
     "trick": "Autumn = the season when leaves fall (fall).",
     "examples": [
-      "The trees turn red and gold in autumn.",
-      "We planned our trip for early autumn when the weather is cool."
+      "By the autumn the animals were tired but happy.",
+      "The trees turn red and gold in autumn."
     ],
     "usage": {
       "pos": "noun",
@@ -2969,21 +2975,21 @@
   },
   {
     "word": "auxiliary",
-    "memory": "extra, backup",
-    "meaning": "Giving extra help or support; additional",
-    "hindi": "सहायक, अतिरिक्त",
-    "trick": "Auxiliary staff → the helping/support staff.",
+    "memory": "support group",
+    "meaning": "A group that helps or supports a main organisation; also (adjective) extra, backup",
+    "hindi": "सहायक दल; अतिरिक्त",
+    "trick": "Auxiliary → the helping/support team.",
     "examples": [
-      "The hospital hired auxiliary staff during the busy season.",
+      "I joined the Civil Air Patrol, the civilian auxiliary of the Air Force.",
       "The ship has an auxiliary engine in case the main one fails."
     ],
     "usage": {
-      "pos": "adjective / noun",
-      "pattern": "auxiliary staff / power / equipment",
+      "pos": "noun / adjective",
+      "pattern": "an auxiliary of something; auxiliary + noun (staff / power)",
       "partners": [
+        "civilian auxiliary",
         "auxiliary staff",
-        "auxiliary power",
-        "an auxiliary nurse"
+        "auxiliary engine"
       ]
     }
   },
@@ -2994,8 +3000,8 @@
     "hindi": "अरुचि, नापसंदगी",
     "trick": "A-VERSION you hate → strong dislike.",
     "examples": [
-      "He has a strong aversion to spicy food.",
-      "Many cats have an aversion to water."
+      "The first step is to get over your aversion to negotiating.",
+      "He has a strong aversion to spicy food."
     ],
     "usage": {
       "pos": "noun",
@@ -3009,21 +3015,21 @@
   },
   {
     "word": "averted",
-    "memory": "prevented",
-    "meaning": "Prevented from happening; or turned away (eyes, gaze)",
-    "hindi": "टाला गया; फेरी हुई (नज़र)",
-    "trick": "Averted = avoided — a crisis is averted.",
+    "memory": "turned away",
+    "meaning": "Turned away (your eyes or face); also prevented something bad from happening",
+    "hindi": "फेर ली (नज़र); टाला",
+    "trick": "Averted eyes = AVOIDED looking.",
     "examples": [
-      "Quick thinking averted a serious accident.",
-      "She averted her eyes from the gruesome scene."
+      "Some averted their eyes, almost embarrassed.",
+      "Quick thinking averted a serious accident."
     ],
     "usage": {
       "pos": "verb (past)",
-      "pattern": "someone averted a crisis / disaster; averted their eyes",
+      "pattern": "avert your eyes / gaze; avert a crisis",
       "partners": [
-        "averted a disaster",
-        "averted a crisis",
-        "averted her eyes"
+        "averted her eyes",
+        "averted his gaze",
+        "averted a disaster"
       ]
     }
   },
@@ -3034,7 +3040,7 @@
     "hindi": "विमान चालक, पायलट",
     "trick": "Aviation → aviate → aviators are pilots.",
     "examples": [
-      "The museum honours the first aviators who crossed the ocean.",
+      "A quick reaction force of Navy SEALs, marines, and aviators was assembled.",
       "The aviators prepared their planes for the air show."
     ],
     "usage": {
@@ -3054,36 +3060,36 @@
     "hindi": "उत्सुक, शौकीन, उत्साही",
     "trick": "Avid reader → can't wait to read more.",
     "examples": [
-      "She is an avid reader who finishes a book every week.",
-      "My uncle is an avid cricket fan."
+      "The most avid was Naghma, who followed Mariam everywhere.",
+      "She is an avid reader who finishes a book every week."
     ],
     "usage": {
       "pos": "adjective",
-      "pattern": "an avid reader / fan / collector",
+      "pattern": "an avid reader / fan; the most avid",
       "partners": [
         "an avid reader",
         "an avid fan",
-        "an avid collector"
+        "the most avid"
       ]
     }
   },
   {
     "word": "awash",
-    "memory": "flooded",
-    "meaning": "Covered or flooded with liquid; having too much of something",
-    "hindi": "पानी से भरा, जलमग्न; भरमार",
+    "memory": "bathed, covered",
+    "meaning": "Covered or flooded with something (light, water); also having too much of something",
+    "hindi": "नहाया हुआ, भरा हुआ; भरमार",
     "trick": "The floor was awash → washed all over with water.",
     "examples": [
-      "After the pipe burst, the floor was awash with water.",
-      "The city was awash with tourists during the festival."
+      "Mariam saw tulips and lilies, their petals awash in sunlight.",
+      "After the pipe burst, the floor was awash with water."
     ],
     "usage": {
       "pos": "adjective",
-      "pattern": "be awash with / in something",
+      "pattern": "be awash in / with something",
       "partners": [
+        "awash in sunlight",
         "awash with water",
-        "awash with money",
-        "the floor was awash"
+        "awash with money"
       ]
     }
   },
@@ -3094,8 +3100,8 @@
     "hindi": "विस्मय, श्रद्धा भरा भय",
     "trick": "'Awww!' — the sound you make in wonder, respect, or surprise.",
     "examples": [
-      "They stood in awe of the giant waterfall.",
-      "The students looked at the famous scientist with awe."
+      "A woman sitting near him was looking on in awe.",
+      "They stood in awe of the giant waterfall."
     ],
     "usage": {
       "pos": "noun",
@@ -3114,8 +3120,8 @@
     "hindi": "विस्मित, चकित",
     "trick": "Struck by awe → awestruck.",
     "examples": [
-      "The children were awestruck by the fireworks.",
-      "He stood awestruck in front of the huge mountain."
+      "The women eyed her with a reverent, almost awestruck, expression.",
+      "The children were awestruck by the fireworks."
     ],
     "usage": {
       "pos": "adjective",
@@ -3134,16 +3140,16 @@
     "hindi": "बहुत बुरा, भयानक",
     "trick": "AW-ful — 'aww' full of disappointment; very bad.",
     "examples": [
-      "The weather was awful all weekend.",
-      "I feel awful about forgetting your birthday."
+      "This value gave him awful problems, like needing to sell more records.",
+      "The weather was awful all weekend."
     ],
     "usage": {
       "pos": "adjective",
-      "pattern": "feel awful (about something); It is awful that...",
+      "pattern": "awful + noun; feel awful (about something)",
       "partners": [
-        "feel awful",
+        "awful problems",
         "awful weather",
-        "an awful mistake"
+        "feel awful"
       ]
     }
   },
@@ -3154,8 +3160,8 @@
     "hindi": "कुछ देर, थोड़ी देर",
     "trick": "A while → for some time.",
     "examples": [
-      "Sit down and rest awhile.",
-      "She stayed awhile after the party to help clean up."
+      "She went back to the stream and waited awhile longer.",
+      "Sit down and rest awhile."
     ],
     "usage": {
       "pos": "adverb",
@@ -3174,8 +3180,8 @@
     "hindi": "छज्जा, तिरपाल की छतरी",
     "trick": "An awning protects you from the sun's 'dawning' rays.",
     "examples": [
-      "We stood under the shop's awning to avoid the rain.",
-      "The café's striped awning kept the tables in the shade."
+      "They ate beneath the awning of a closed rug shop.",
+      "We stood under the shop's awning to avoid the rain."
     ],
     "usage": {
       "pos": "noun",

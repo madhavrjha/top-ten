@@ -23,6 +23,17 @@ just `Word`, or WhatsApp lines with timestamps (`[7:33 pm, 3/10/2026] Madhav: ..
    `npx vite build --logLevel error` succeeds.
 7. Do NOT commit/push until the user says so ("commit and push" is the usual phrase).
 
+### Words from a ReadEra backup
+The user reads in the ReadEra app and saves words there. A ReadEra `.bak` file (e.g. in `~/Downloads`) is a zip
+with `library.json`; its `words` list holds every saved word plus the book sentence it was saved from.
+`python3 scripts/readera.py <backup.bak> <letter> [--json out.json]` lists words not yet in the app for a letter,
+with their sentences. Plan agreed on 2026-10-09: add them **letter by letter** (C was finished first, then D, E …),
+one letter per request; use the book sentence (shortened if long) as example 1. Skip words already covered by
+another spelling or form (e.g. "concertina'd" = concertinaed) and say which were skipped.
+On 2026-10-09 every A/B/C/W entry that has a book sentence was rewritten from that context: the **book's sense comes
+first** in memory, meaning, hindi and usage (other senses after "; also"), example 1 = the book sentence. Do the
+same for every new letter. Never change an existing `word` string (stages/progress are keyed on it).
+
 ### Writing entries
 ```json
 {
@@ -136,6 +147,7 @@ brought back on request. When the stages arrived, every word was reset to New.
 - `src/sets.js` — filter ↔ set id (`makeSetId`, `parseSetId`), `setLabel`, `filterWords`, `buildSet`.
 - `src/rarity.js` — `RARITIES` thresholds and `rarityOf(freq)`; `src/frequency.json` — generated scores (don't hand-edit).
 - `scripts/frequency.py` — regenerates `src/frequency.json` with wordfreq (run from `.venv`).
+- `scripts/readera.py` — lists new words (with book sentences) from a ReadEra backup.
 - `src/App.jsx` — routes → screens, practice set from the URL/saved id, stage state, clear data, toast.
 - `src/router.js` — `useRoute`, `navigate(to, {replace})`, `href`.
 - `src/components/` — `Home`, `Today`, `Walk` (card-by-card go-through), `Quiz` (Spell the word / Pick the meaning),
