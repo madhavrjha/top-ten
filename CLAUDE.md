@@ -17,7 +17,8 @@ just `Word`, or WhatsApp lines with timestamps (`[7:33 pm, 3/10/2026] Madhav: ..
    Keep the array sorted alphabetically by `word`; `word` is lowercase unless a proper noun.
 5. Score how common the new words are: `.venv/bin/python scripts/frequency.py` (rewrites
    `src/frequency.json`). One-time setup if `.venv` is missing: `python3 -m venv .venv && .venv/bin/pip install wordfreq`
-   (the system Python refuses global pip installs).
+   (the system Python refuses global pip installs). Then `python3 scripts/make_sets.py` to put new words into study
+   sets (existing sets never change; new words become new sets at the end).
 6. Validate: every entry has `word`, `memory`, `meaning`, `hindi`, `trick`, exactly 2 `examples`, and `usage`; each
    example should contain the word (or a form of it); JSON parses;
    `npx vite build --logLevel error` succeeds.
@@ -96,15 +97,21 @@ brought back on request. When the stages arrived, every word was reset to New.
   keys 1–5 in Walk and in Spell after answering; on Browse rows a stage pill that opens a small menu
   (icon + label + hint per stage; the label is hidden on phones). The old `vocab.repeat`
   key is removed on load.
-- **Today** (top of Home, `src/daily.js`, `Today.jsx`, `Walk.jsx`): two daily tasks.
-  📖 *Letter of the day* — go through every word of one letter, card by card (word → Space shows meaning →
-  Enter = next/done; 1–5 sets the stage). Progress in `vocab.today` = `{ day, letter, letters: {a: [lower...]}, reviewed }`.
-  New day: an unfinished letter carries over, a finished one moves to the next letter (wrapping).
-  "Clear today's progress" (link in Today and a button under Saved data) resets the letter progress and
-  undoes today's Mastered reviews (`reviewed` in `vocab.today` holds each word's entry from before its first
-  review today); stages and everything else stay. Letter order: A–Z or 🔀 Shuffle
-  (`vocab.letterShuffle`). ✅ *Mastered review* — Mastered words that are due, random order; each card ends
-  with Forgot (F) / Knew it (Enter). Inside a walk, 🔀 Shuffle mixes the remaining cards.
+- **Study sets** (2026-10-09, replaced "Letter of the day" at the user's request; goal = recognise words to read
+  books without a dictionary). `scripts/make_sets.py` → `src/studysets.json`: all words in fixed sets of 20, most
+  common first (Set 1 = most common, ~210 sets); stable across devices and re-runs. `src/studySets.js`: progress in
+  `vocab.studySets` = `{ "<n>": { status: ongoing|completed, started, step, due, lastReview, rounds: {day, n} } }`
+  (absent = Untouched). Learning day: go through the set `LEARN_ROUNDS` (3) times; reviews due after
+  `REVIEW_GAPS` [1, 2, 4, 7, 15] days (day 2, 4, 8, 15, 30); the first round finished on a due day counts as the
+  review; after the 5th review → Completed. Status can be changed by hand in the Sets list.
+  `SetStudy.jsx` (#/set/<n>): shuffled cards, word → Space/Enter shows details → Enter = Knew it, F = Forgot
+  (forgotten words come back at the end of the round). `SetList.jsx` (#/sets): all sets, status tabs, rarity mix,
+  preview, status dropdown, "review N of 5 · due in X days".
+- **Today** (top of Home, `Today.jsx`): 📚 Study sets — 1. sets due for review, 2. sets being learned today
+  (round k of 3), then "Start set N" (next Untouched); link to All sets. ✅ *Mastered review* (stage-based word
+  reviews, `Walk.jsx` with Forgot/Knew it). "Clear today's progress" (link in Today + button under Saved data)
+  undoes today's set progress and Mastered reviews: `vocab.today` = `{ day, reviewed, setsBefore }` holds the
+  state from before the first change today (`src/daily.js`).
 - **How common** (`src/rarity.js`, `src/frequency.json`, `scripts/frequency.py`): each word's Zipf score
   (1 rare … 7 very common) from the `wordfreq` library; phrases/hyphenated words = rarest part − 1 (estimate).
   🟢 Common ≥ 3.5, 🟡 Medium ≥ 2.5, 🔴 Rare below. Shown as a dot on Browse rows and a badge next to the
@@ -131,7 +138,7 @@ brought back on request. When the stages arrived, every word was reset to New.
 - **Browse**: filter panel (collapsed), search by word only, rows collapsed until expanded (meaning, trick,
   "How to use", examples), 🔊, a rarity dot and a stage pill + menu per row; order A–Z / 🟢 Common first / 🔀 Shuffle; pages of 60 rows loaded on scroll.
 - **Routing** (`src/router.js`, hash-based so GitHub Pages needs no rewrites): `#/`, `#/browse/<set>`,
-  `#/spell/<set>`, `#/pick/<set>`, `#/today/letter`, `#/today/review` (<set> = a set id, e.g. all, recall-b, recognise.recall-a.b-common). Browser Back/Forward move between screens; unknown routes redirect home. Set chips
+  `#/spell/<set>`, `#/pick/<set>`, `#/sets`, `#/set/<n>`, `#/today/review` (<set> = a set id, e.g. all, recall-b, recognise.recall-a.b-common). Browser Back/Forward move between screens; unknown routes redirect home. Set chips
   in Browse use `replace`. (A Back-button "are you sure?" guard was tried and removed at the user's
   request — don't re-add it.)
 - **Pronunciation**: browser text-to-speech (`src/speech.js`); novelty macOS voices filtered out;
@@ -143,7 +150,8 @@ brought back on request. When the stages arrived, every word was reset to New.
   (`today`, `addDays`, `daysBetween`), `clearSavedData`.
 - `src/session.js` — pure quiz logic (modes 'spell' / 'pick', options for pick) + spelling check with a light stemmer.
 - `src/stages.js` — stage storage, `setStage`, `gradeReview`, `isDue`, `dueLabel`, `INTERVALS`.
-- `src/daily.js` — pure daily-task logic + `vocab.today` storage.
+- `src/daily.js` — today's undo state (`vocab.today`).
+- `src/studySets.js` + `src/studysets.json` — study sets and their progress/schedule; `scripts/make_sets.py` builds the JSON.
 - `src/spellProgress.js` — saved Spell progress per set (`vocab.spell`).
 - `src/speech.js` — voice ranking and `speak()`.
 - `src/sets.js` — filter ↔ set id (`makeSetId`, `parseSetId`), `setLabel`, `filterWords`, `buildSet`.
@@ -152,7 +160,7 @@ brought back on request. When the stages arrived, every word was reset to New.
 - `scripts/readera.py` — lists new words (with book sentences) from a ReadEra backup.
 - `src/App.jsx` — routes → screens, practice set from the URL/saved id, stage state, clear data, toast.
 - `src/router.js` — `useRoute`, `navigate(to, {replace})`, `href`.
-- `src/components/` — `Home`, `Today`, `Walk` (card-by-card go-through), `Quiz` (Spell the word / Pick the meaning),
+- `src/components/` — `Home`, `Today`, `SetStudy`, `SetList`, `Walk` (Mastered review cards), `Quiz` (Spell the word / Pick the meaning),
   `Browse`, `WordDetails`, `SetPicker`, `StagePicker`, `RarityBadge`, `SpeakButton`, `VoicePicker`.
 - `vite.config.js` — `base: '/top-ten/'` for builds.
 

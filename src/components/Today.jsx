@@ -1,11 +1,12 @@
-// Home-screen section with today's two tasks and their saved progress.
+import { LEARN_ROUNDS } from '../studySets.js';
+
+// Home-screen section with today's tasks: study sets (learning + reviews +
+// a new set) and the Mastered word review.
 export default function Today({
-  letters, letter, letterWords, letterDone, onLetterChange, onStartLetter, shuffleLetter, onShuffleChange,
+  learning, due, nextNew, completed, totalSets, onOpenSet, onAllSets,
   masteredCount, reviewDue, reviewDone, nextDue, onStartReview, hasProgress, onClear,
 }) {
-  const letterCount = letterWords.length;
-  const letterFinished = letterCount > 0 && letterDone >= letterCount;
-
+  const learningLeft = learning.filter(l => l.rounds < LEARN_ROUNDS);
   return (
     <div className="today">
       <div className="today-head">
@@ -17,32 +18,47 @@ export default function Today({
 
       <div className="task">
         <div className="task-top">
-          <span className="task-name">📖 Letter of the day</span>
-          <span className="muted small-text">{letterDone} / {letterCount} words</span>
+          <span className="task-name">📚 Study sets</span>
+          <button type="button" className="link-btn accent" onClick={onAllSets}>
+            All sets · {completed}/{totalSets} done →
+          </button>
         </div>
-        <div className="letter-pick">
-          {letters.map(l => (
-            <button
-              key={l}
-              className={`set-chip ${l === letter ? 'active' : ''}`}
-              aria-pressed={l === letter}
-              onClick={() => onLetterChange(l)}
-            >
-              {l.toUpperCase()}
-            </button>
-          ))}
+
+        {due.length > 0 && (
+          <div className="set-task">
+            <span className="small-text"><strong>1. Review</strong> · {due.length} set{due.length === 1 ? '' : 's'} due</span>
+            <div className="set-buttons">
+              {due.map(n => <button key={n} className="primary" onClick={() => onOpenSet(n)}>Review set {n}</button>)}
+            </div>
+          </div>
+        )}
+
+        {learning.length > 0 && (
+          <div className="set-task">
+            <span className="small-text"><strong>{due.length ? '2. ' : ''}Learning today</strong> · go through each {LEARN_ROUNDS}×</span>
+            <div className="set-buttons">
+              {learning.map(l => (
+                <button key={l.number} className={l.rounds < LEARN_ROUNDS ? 'primary' : 'ghost'} onClick={() => onOpenSet(l.number)}>
+                  Set {l.number} · {l.rounds < LEARN_ROUNDS ? `round ${l.rounds + 1} of ${LEARN_ROUNDS}` : `✓ ${l.rounds} rounds`}
+                </button>
+              ))}
+            </div>
+          </div>
+        )}
+
+        <div className="set-task">
+          <span className="small-text">
+            <strong>{due.length || learning.length ? 'Next' : 'Start'}: a new set</strong>
+            {learningLeft.length ? ' · finish today\'s rounds first' : ' · 20 new words, most common first'}
+          </span>
+          <div className="set-buttons">
+            {nextNew
+              ? <button className={due.length || learningLeft.length ? 'ghost' : 'primary'} onClick={() => onOpenSet(nextNew)}>
+                  Start set {nextNew}
+                </button>
+              : <span className="muted small-text">Every set is started. 🎉</span>}
+          </div>
         </div>
-        <div className="bar"><div className="bar-fill" style={{ width: `${(letterDone / Math.max(1, letterCount)) * 100}%` }} /></div>
-        <div className="order-pick" role="group" aria-label="Word order">
-          <span className="muted small-text">Order:</span>
-          <button className={`set-chip ${!shuffleLetter ? 'active' : ''}`} aria-pressed={!shuffleLetter}
-            onClick={() => onShuffleChange(false)}>A–Z</button>
-          <button className={`set-chip ${shuffleLetter ? 'active' : ''}`} aria-pressed={shuffleLetter}
-            onClick={() => onShuffleChange(true)}>🔀 Shuffle</button>
-        </div>
-        <button className={letterFinished ? 'ghost' : 'primary'} disabled={!letterCount} onClick={onStartLetter}>
-          {letterFinished ? `✓ Letter ${letter.toUpperCase()} done` : letterDone ? 'Continue' : `Start letter ${letter.toUpperCase()}`}
-        </button>
       </div>
 
       <div className="task">
@@ -52,8 +68,7 @@ export default function Today({
         </div>
         {masteredCount === 0 ? (
           <p className="muted small-text">
-            No Mastered words yet. When a word is all clear, set its stage to ✅ Mastered and it will come back here
-            for spaced reviews.
+            No Mastered words yet. Set a word's stage to ✅ Mastered and it will come back here for spaced reviews.
           </p>
         ) : (
           <>

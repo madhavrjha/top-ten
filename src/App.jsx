@@ -4,15 +4,17 @@ import { clearSavedData } from './utils.js';
 import { buildSet } from './sets.js';
 import { loadStages, saveStages, setStage, gradeReview, undoReviews, isDue, reviewedToday, dueLabel } from './stages.js';
 import { loadSpell } from './spellProgress.js';
-import { loadDaily, saveDaily, setLetter, letterDoneSet, markLetterDone, noteReview, clearToday } from './daily.js';
+import { loadDaily, saveDaily, noteReview, noteSet, clearToday } from './daily.js';
+import { buildStudySets, loadProgress, saveProgress, startSet, finishRound, setStatus, statusOf, isDueSet, isLearningToday, roundsToday } from './studySets.js';
 import { useRoute, navigate, href } from './router.js';
 import Home from './components/Home.jsx';
 import Quiz, { MODES } from './components/Quiz.jsx';
 import Browse from './components/Browse.jsx';
 import Walk from './components/Walk.jsx';
+import SetList from './components/SetList.jsx';
+import SetStudy from './components/SetStudy.jsx';
 
 const SET_KEY = 'vocab.practiceSet';
-const SHUFFLE_KEY = 'vocab.letterShuffle';
 
 function load(key, fallback) {
   try { return localStorage.getItem(key) || fallback; } catch { return fallback; }
@@ -22,7 +24,7 @@ function store(key, value) {
 }
 
 export default function App() {
-  // Routes: #/  #/browse/<set>  #/spell/<set>  #/pick/<set>  #/today/letter  #/today/review
+  // Routes: #/  #/browse/<set>  #/spell/<set>  #/pick/<set>  #/sets  #/set/<number>  #/today/review
   const path = useRoute();
   const [, page = '', param = ''] = path.split('/');
   const [setId, setSetId] = useState(() => load(SET_KEY, 'all'));
@@ -49,21 +51,35 @@ export default function App() {
   }, []);
   const changeStage = useCallback((word, stage) => updateStages(m => setStage(m, word, stage)), [updateStages]);
 
-  // Today's tasks (letter of the day + Mastered review).
-  const letterWords = useMemo(() => {
-    const byLetter = {};
-    WORDS.forEach(w => (byLetter[w.word[0].toLowerCase()] ||= []).push(w));
-    return byLetter;
-  }, []);
-  const [daily, setDaily] = useState(() => loadDaily(letterWords));
+  // Letters that have words (for the filter panel).
+  const letters = useMemo(() => [...new Set(WORDS.map(w => w.word[0].toLowerCase()))].sort(), []);
+
+  // Today's saved state (for undoing today) + Mastered review walk.
+  const [daily, setDaily] = useState(() => loadDaily());
   const [reviewWalkId, setReviewWalkId] = useState(0); // new id = fresh review walk
-  const [shuffleLetter, setShuffleLetter] = useState(() => load(SHUFFLE_KEY, '') === '1');
-  const changeShuffle = on => { setShuffleLetter(on); store(SHUFFLE_KEY, on ? '1' : ''); };
   const updateDaily = fn => setDaily(prev => {
     const next = fn(prev);
     if (next !== prev) saveDaily(next);
     return next;
   });
+
+  // Study sets: fixed sets of 20 words and their progress.
+  const studySets = useMemo(() => buildStudySets(WORDS), []);
+  const [setProgress, setSetProgress] = useState(loadProgress);
+  const progressRef = useRef(setProgress);
+  progressRef.current = setProgress;
+  const updateSetProgress = (number, fn) => {
+    const before = progressRef.current[number];
+    updateDaily(d => noteSet(d, number, before));
+    const next = fn(progressRef.current);
+    progressRef.current = next;
+    setSetProgress(next);
+    if (!saveProgress(next)) setToast("Couldn't save — this browser is blocking storage (private mode?).");
+  };
+  const openSet = number => {
+    if (statusOf(progressRef.current[number]) === 'untouched') updateSetProgress(number, m => startSet(m, number));
+    navigate(`/set/${number}`);
+  };
 
   const grade = (word, remembered) => {
     const before = stagesRef.current[word.lower]; // read now; the updater below runs later
@@ -71,11 +87,18 @@ export default function App() {
     updateStages(m => gradeReview(m, word, remembered));
   };
 
-  // Resets only today: letter-of-the-day progress and today's Mastered reviews.
-  // Stages, spelling progress and everything else stay.
+  // Resets only today: today's study-set progress and Mastered reviews go back to
+  // how they were this morning. Word stages, spelling progress and everything else stay.
   const clearProgress = () => {
-    if (!window.confirm("Clear today's progress? Today's letter progress and Mastered reviews are reset. Word stages and everything else stay.")) return;
+    if (!window.confirm("Clear today's progress? Today's study-set rounds and Mastered reviews are undone. Word stages and everything else stay.")) return;
     updateStages(m => undoReviews(m, daily.reviewed));
+    const restored = { ...progressRef.current };
+    for (const [n, rec] of Object.entries(daily.setsBefore)) {
+      if (rec) restored[n] = rec; else delete restored[n];
+    }
+    progressRef.current = restored;
+    setSetProgress(restored);
+    saveProgress(restored);
     updateDaily(clearToday);
     setToast("Today's progress cleared.");
   };
@@ -88,14 +111,14 @@ export default function App() {
     }
     setStages({});
     setSetId('all');
-    setDaily(loadDaily(letterWords));
-    setShuffleLetter(false);
+    setDaily(loadDaily());
+    setSetProgress({});
+    progressRef.current = {};
     setDataVersion(v => v + 1);
     setToast('Saved data cleared.');
   };
 
-  // A set is a stage, a letter, both, or neither (see sets.js).
-  const letters = useMemo(() => Object.keys(letterWords).sort(), [letterWords]);
+  // A practice set is a filter over stage, letter and rarity (see sets.js).
   const stageOfWord = useCallback(w => stages[w.lower]?.stage || 'new', [stages]);
   const practiceSet = useMemo(
     () => buildSet(setId, WORDS, stageOfWord, letters) || buildSet('all', WORDS, stageOfWord, letters),
@@ -112,13 +135,21 @@ export default function App() {
     : page === 'browse' && routeSet ? 'browse'
     : page === 'spell' && routeSet ? 'spell'
     : page === 'pick' && routeSet ? 'pick'
-    : page === 'today' && param === 'letter' ? 'today-letter'
+    : page === 'sets' ? 'sets'
+    : page === 'set' && studySets.some(x => String(x.number) === param) ? 'set'
     : page === 'today' && param === 'review' ? 'today-review'
     : null;
 
   useEffect(() => {
     if (!screen) navigate('/', { replace: true });
   }, [screen]);
+
+  // Opening an Untouched set (e.g. from its link) starts it today.
+  useEffect(() => {
+    if (screen === 'set' && statusOf(progressRef.current[param]) === 'untouched') {
+      updateSetProgress(param, m => startSet(m, param));
+    }
+  }, [screen, param]); // eslint-disable-line react-hooks/exhaustive-deps
 
   // Opening a set from its URL also makes it the selected set on Home.
   useEffect(() => {
@@ -131,7 +162,8 @@ export default function App() {
       browse: `Browse · ${routeSet?.label}`,
       spell: `Spell · ${routeSet?.label}`,
       pick: `Pick the meaning · ${routeSet?.label}`,
-      'today-letter': 'Letter of the day',
+      sets: 'Study sets',
+      set: `Set ${param}`,
       'today-review': 'Mastered review',
     };
     document.title = titles[screen] ? `${titles[screen]} — Vocab Trainer` : 'Vocab Trainer';
@@ -153,8 +185,13 @@ export default function App() {
     };
     return { spell: get('spell'), pick: get('pick') };
   }, [screen, practiceSet.id, dataVersion]);
-  const todayLetterWords = letterWords[daily.letter] || [];
-  const todayLetterDone = letterDoneSet(daily);
+  // Today's study-set tasks.
+  const setsDue = studySets.filter(x => isDueSet(setProgress[x.number])).map(x => x.number);
+  const setsLearning = studySets.filter(x => isLearningToday(setProgress[x.number]))
+    .map(x => ({ number: x.number, rounds: roundsToday(setProgress[x.number]) }));
+  const nextNew = studySets.find(x => statusOf(setProgress[x.number]) === 'untouched')?.number || null;
+  const setsCompleted = studySets.filter(x => statusOf(setProgress[x.number]) === 'completed').length;
+  const studySet = screen === 'set' ? studySets.find(x => String(x.number) === param) : null;
 
   return (
     <main className="app">
@@ -171,20 +208,19 @@ export default function App() {
           quizSaved={quizSaved}
           onPick={id => navigate(`/${id}/${practiceSet.id}`)}
           today={{
-            letters,
-            letter: daily.letter,
-            letterWords: todayLetterWords,
-            letterDone: todayLetterWords.filter(w => todayLetterDone.has(w.lower)).length,
-            onLetterChange: l => updateDaily(d => setLetter(d, l)),
-            onStartLetter: () => navigate('/today/letter'),
-            shuffleLetter,
-            onShuffleChange: changeShuffle,
+            learning: setsLearning,
+            due: setsDue,
+            nextNew,
+            completed: setsCompleted,
+            totalSets: studySets.length,
+            onOpenSet: openSet,
+            onAllSets: () => navigate('/sets'),
             masteredCount: masteredWords.length,
             reviewDue: reviewWords.length - reviewDoneSet.size,
             reviewDone: reviewDoneSet.size,
             nextDue: nextDueEntry ? dueLabel(nextDueEntry).replace('review ', '') : '',
             onStartReview: () => { setReviewWalkId(i => i + 1); navigate('/today/review'); },
-            hasProgress: todayLetterDone.size > 0 || reviewDoneSet.size > 0,
+            hasProgress: Object.keys(daily.setsBefore).length > 0 || reviewDoneSet.size > 0,
             onClear: clearProgress,
           }}
           onClearToday={clearProgress}
@@ -193,19 +229,23 @@ export default function App() {
           hasWords={WORDS.length > 0}
         />
       )}
-      {screen === 'today-letter' && (
-        <Walk
-          key={`letter-${daily.letter}`}
-          title={`📖 Letter ${daily.letter.toUpperCase()}`}
-          words={todayLetterWords}
-          done={todayLetterDone}
-          onDone={w => updateDaily(d => markLetterDone(d, w))}
-          randomOrder={shuffleLetter}
-          stages={stages}
-          onStageChange={changeStage}
+      {screen === 'sets' && (
+        <SetList
+          sets={studySets}
+          progress={setProgress}
+          onOpen={openSet}
+          onStatus={(n, st) => updateSetProgress(n, m => setStatus(m, n, st))}
           onBack={goHome}
-          finishedTitle={`Letter ${daily.letter.toUpperCase()} done! 🎉`}
-          finishedText={`You went through all ${todayLetterWords.length} words.`}
+        />
+      )}
+      {screen === 'set' && studySet && (
+        <SetStudy
+          key={studySet.number}
+          set={studySet}
+          rec={setProgress[studySet.number]}
+          onRoundDone={n => updateSetProgress(n, m => finishRound(m, n))}
+          onBack={goHome}
+          onAllSets={() => navigate('/sets')}
         />
       )}
       {screen === 'today-review' && (
