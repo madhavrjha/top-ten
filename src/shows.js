@@ -1,26 +1,7 @@
 // Word lists from shows (src/shows/<slug>.json = { title, icon, words: [{ word, line }] }).
-// `word` matches an entry in src/words; `line` is the subtitle it was heard in.
-// Levels come from how common the word is: Easy = 🟢 Common, Medium = 🟡, Tough = 🔴 Rare.
+// `word` matches an entry in src/words; `line` is the subtitle it was heard in. Shows are
+// browsed through the Source filter (sets.js).
 const files = import.meta.glob('./shows/*.json', { eager: true, import: 'default' });
-
-export const LEVELS = [
-  { id: 'easy', icon: '🟢', label: 'Easy', rarity: 'common' },
-  { id: 'medium', icon: '🟡', label: 'Medium', rarity: 'medium' },
-  { id: 'tough', icon: '🔴', label: 'Tough', rarity: 'rare' },
-];
-
-export function buildShows(words) {
-  const byLower = new Map(words.map(w => [w.lower, w]));
-  return Object.entries(files).map(([path, show]) => ({
-    slug: path.match(/([^/]+)\.json$/)[1],
-    title: show.title,
-    icon: show.icon || '🎬',
-    // Kept in the order they appear in the show; words missing from src/words are dropped.
-    items: show.words
-      .map(x => ({ word: byLower.get(x.word.toLowerCase()), line: x.line }))
-      .filter(x => x.word),
-  }));
-}
 
 // One entry per show, for the Source filter. `id` is the slug without "-" (that
 // character separates groups in set ids, see sets.js): "demon-slayer" → "demonslayer".
@@ -39,4 +20,3 @@ Object.values(files).forEach((show, i) => {
   }
 });
 
-export const levelOf = word => LEVELS.find(l => l.rarity === word.rarity)?.id || 'tough';

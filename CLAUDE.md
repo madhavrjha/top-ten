@@ -144,13 +144,14 @@ brought back on request. When the stages arrived, every word was reset to New.
   `#/spell/<set>`, `#/pick/<set>`, `#/sets`, `#/set/<n>`, `#/today/review` (<set> = a set id, e.g. all, recall-b, recognise.recall-a.b-common). Browser Back/Forward move between screens; unknown routes redirect home. Set chips
   in Browse use `replace`. (A Back-button "are you sure?" guard was tried and removed at the user's
   request — don't re-add it.)
-- **Shows** (2026-10-28, `src/shows.js`, `src/shows/<slug>.json`, `Show.jsx`, `#/show/<slug>`): word lists from
-  shows the user watches. `{ title, icon, words: [{ word, line }] }` — `word` must exist in `src/words`, `line` = the
-  subtitle it came from (shown under each row). Words from a show get `sources` (in `words.js`): a 🎬 on Browse
-  rows and a "🎬 Demon Slayer" pill by Examples (+ the subtitle line if it isn't already an example). Easy / Medium / Tough tabs = 🟢 / 🟡 / 🔴 rarity; words in the order
-  they come up. A card per show on Home. **Demon Slayer**: 1,067 words OCR'd from screenshots in
-  `~/Downloads/Demon Slayer` (816 were new entries, example 1 = the subtitle line); names/series terms
-  (Tanjiro, Hashira, nichirin…) and phone-UI text were skipped.
+- **Shows** (2026-10-28, `src/shows.js`, `src/shows/<slug>.json`): word lists from shows the user watches.
+  `{ title, icon, words: [{ word, line }] }` — `word` must exist in `src/words`, `line` = the subtitle it came from.
+  Words from a show get `sources` (in `words.js`): a 🎬 on Browse rows (hover = the line) and a "🎬 Demon Slayer"
+  pill by Examples (+ the subtitle line if it isn't already an example). Shows are reached **only via the Source
+  filter** (Browse/practice). A separate show screen + Home card was built and removed at the user's request —
+  don't re-add one.
+  **Demon Slayer**: 1,067 words OCR'd from screenshots in `~/Downloads/Demon Slayer` (816 were new entries,
+  example 1 = the subtitle line); names/series terms (Tanjiro, Hashira, nichirin…) and phone-UI text were skipped.
 - **Pronunciation**: browser text-to-speech (`src/speech.js`); novelty macOS voices filtered out;
   the default is always an en-US voice (user's request; best-sounding en-US first); voice choice saved in localStorage. In Spell it's only offered after answering.
 
@@ -170,9 +171,9 @@ brought back on request. When the stages arrived, every word was reset to New.
 - `scripts/readera.py` — lists new words (with book sentences) from a ReadEra backup.
 - `src/App.jsx` — routes → screens, practice set from the URL/saved id, stage state, clear data, toast.
 - `src/router.js` — `useRoute`, `navigate(to, {replace})`, `href`.
-- `src/shows.js` + `src/shows/*.json` — show word lists (Easy/Medium/Tough by rarity).
+- `src/shows.js` + `src/shows/*.json` — show word lists → `SHOW_LIST` (Source filter) and `SOURCES` (per word).
 - `src/components/` — `Home`, `Today`, `SetStudy`, `SetList`, `Walk` (Mastered review cards), `Quiz` (Spell the word / Pick the meaning),
-  `Browse`, `Show`, `WordDetails`, `SetPicker`, `StagePicker`, `RarityBadge`, `SpeakButton`, `VoicePicker`.
+  `Browse`, `WordDetails`, `SetPicker`, `StagePicker`, `RarityBadge`, `SpeakButton`, `VoicePicker`.
 - `vite.config.js` — `base: '/top-ten/'` for builds.
 
 ## Deploy

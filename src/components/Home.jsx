@@ -5,7 +5,7 @@ import Today from './Today.jsx';
 import { stageInfo } from '../stages.js';
 
 export default function Home({
-  picker, onSetChange, practiceSet, quizSaved, onPick, today, shows, onOpenShow, onClearToday, onClearData, onExport,
+  picker, onSetChange, practiceSet, quizSaved, onPick, today, onClearToday, onClearData, onExport,
   onImport, dataVersion, hasWords,
 }) {
   const fileInput = useRef(null);
@@ -47,13 +47,6 @@ export default function Home({
           <strong>Browse words</strong>
           <span className="muted">Go through a letter, expand words to revise, and set each word's stage.</span>
         </button>
-        {shows.map(x => (
-          <button key={x.slug} className="level-card" onClick={() => onOpenShow(x.slug)}>
-            <span className="level-num">From a show · {x.items.length} words</span>
-            <strong>{x.icon} {x.title}</strong>
-            <span className="muted">Words from the subtitles with the line they came from — Easy, Medium and Tough.</span>
-          </button>
-        ))}
       </div>
 
       <h2 className="section-title spaced">Pronunciation</h2>

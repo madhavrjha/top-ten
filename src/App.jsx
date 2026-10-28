@@ -13,8 +13,6 @@ import Browse from './components/Browse.jsx';
 import Walk from './components/Walk.jsx';
 import SetList from './components/SetList.jsx';
 import SetStudy from './components/SetStudy.jsx';
-import Show from './components/Show.jsx';
-import { buildShows } from './shows.js';
 
 const SET_KEY = 'vocab.practiceSet';
 
@@ -26,7 +24,7 @@ function store(key, value) {
 }
 
 export default function App() {
-  // Routes: #/  #/browse/<set>  #/spell/<set>  #/pick/<set>  #/sets  #/set/<number>  #/today/review  #/show/<slug>
+  // Routes: #/  #/browse/<set>  #/spell/<set>  #/pick/<set>  #/sets  #/set/<number>  #/today/review
   const path = useRoute();
   const [, page = '', param = ''] = path.split('/');
   const [setId, setSetId] = useState(() => load(SET_KEY, 'all'));
@@ -67,8 +65,6 @@ export default function App() {
 
   // Study sets: fixed sets of 20 words and their progress.
   const studySets = useMemo(() => buildStudySets(WORDS), []);
-  // Word lists from shows (e.g. Demon Slayer).
-  const shows = useMemo(() => buildShows(WORDS), []);
   const [setProgress, setSetProgress] = useState(loadProgress);
   const progressRef = useRef(setProgress);
   progressRef.current = setProgress;
@@ -179,7 +175,6 @@ export default function App() {
     : page === 'sets' ? 'sets'
     : page === 'set' && studySets.some(x => String(x.number) === param) ? 'set'
     : page === 'today' && param === 'review' ? 'today-review'
-    : page === 'show' && shows.some(x => x.slug === param) ? 'show'
     : null;
 
   useEffect(() => {
@@ -207,7 +202,6 @@ export default function App() {
       sets: 'Study sets',
       set: `Set ${param}`,
       'today-review': 'Mastered review',
-      show: shows.find(x => x.slug === param)?.title,
     };
     document.title = titles[screen] ? `${titles[screen]} — Vocab Trainer` : 'Vocab Trainer';
   }, [path]); // eslint-disable-line react-hooks/exhaustive-deps
@@ -266,8 +260,6 @@ export default function App() {
             hasProgress: Object.keys(daily.setsBefore).length > 0 || reviewDoneSet.size > 0,
             onClear: clearProgress,
           }}
-          shows={shows}
-          onOpenShow={slug => navigate(`/show/${slug}`)}
           onClearToday={clearProgress}
           onClearData={clearData}
           onExport={exportData}
@@ -308,15 +300,6 @@ export default function App() {
           onBack={goHome}
           finishedTitle="Review done! 🎉"
           finishedText="Every Mastered word due today is reviewed. The ones you knew come back later than last time."
-        />
-      )}
-      {screen === 'show' && (
-        <Show
-          key={param}
-          show={shows.find(x => x.slug === param)}
-          stages={stages}
-          onStageChange={changeStage}
-          onBack={goHome}
         />
       )}
       {screen === 'browse' && (

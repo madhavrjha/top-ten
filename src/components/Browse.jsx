@@ -139,8 +139,7 @@ export default function Browse({ picker, set, onSetChange, stages, onStageChange
 }
 
 // Memoized so expanding one word doesn't re-render every other row.
-// `quote` (optional) is the line the word came from, shown under the row head.
-export const WordRow = memo(function WordRow({ word, entry, isOpen, onToggle, onStageChange, quote }) {
+const WordRow = memo(function WordRow({ word, entry, isOpen, onToggle, onStageChange }) {
   return (
     <div className={`word-row ${isOpen ? 'open' : ''}`}>
       <div className="word-head">
@@ -165,7 +164,6 @@ export const WordRow = memo(function WordRow({ word, entry, isOpen, onToggle, on
           compact
         />
       </div>
-      {quote && <p className="word-quote">🎬 “{quote}”</p>}
       {isOpen && (
         <div className="word-body">
           <WordDetails word={word} showTitle={false} />
