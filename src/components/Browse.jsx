@@ -139,13 +139,19 @@ export default function Browse({ picker, set, onSetChange, stages, onStageChange
 }
 
 // Memoized so expanding one word doesn't re-render every other row.
-const WordRow = memo(function WordRow({ word, entry, isOpen, onToggle, onStageChange }) {
+// `quote` (optional) is the line the word came from, shown under the row head.
+export const WordRow = memo(function WordRow({ word, entry, isOpen, onToggle, onStageChange, quote }) {
   return (
     <div className={`word-row ${isOpen ? 'open' : ''}`}>
       <div className="word-head">
         <SpeakButton text={word.word} className="row-speak" />
         <button className="word-toggle" onClick={() => onToggle(word.word)} aria-expanded={isOpen}>
           <span className="word-name">{word.word}</span>
+          {(word.sources || []).map(src => (
+            <span key={src.slug} className="source-tag" title={`From ${src.title}: “${src.line}”`}>
+              <span aria-hidden="true">{src.icon}</span><span className="sr-only">From {src.title}</span>
+            </span>
+          ))}
           <RarityBadge word={word} compact />
           <svg className="chevron" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
             <path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" strokeWidth="2"
@@ -159,6 +165,7 @@ const WordRow = memo(function WordRow({ word, entry, isOpen, onToggle, onStageCh
           compact
         />
       </div>
+      {quote && <p className="word-quote">🎬 “{quote}”</p>}
       {isOpen && (
         <div className="word-body">
           <WordDetails word={word} showTitle={false} />

@@ -166,6 +166,9 @@ button:disabled { cursor: default; }
 .chevron { color: var(--muted); transition: transform .2s; flex-shrink: 0; }
 .word-row.open .chevron { transform: rotate(180deg); color: var(--accent); }
 .word-body { padding: 8px; border-top: 1px solid var(--border); }
+.source-tag { font-size: 12px; margin-left: 8px; }
+.d-source-line { font-style: italic; }
+.word-quote { margin: -6px 16px 10px 16px; font-size: 14px; font-style: italic; color: var(--muted); line-height: 1.4; }
 
 .letters { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 14px; }
 .tile {

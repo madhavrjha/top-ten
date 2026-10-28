@@ -1,5 +1,25 @@
 [
   {
+    "word": "sachets",
+    "memory": "small scented bags; also small packets",
+    "meaning": "Small bags filled with sweet-smelling herbs or powder; also small sealed packets of sugar, shampoo, etc.",
+    "hindi": "खुशबू की छोटी थैलियाँ; छोटे पाउच",
+    "trick": "Sachet sounds like 'sa-SHAY' — a small shampoo sachet.",
+    "examples": [
+      "Scattering the courtesans' sachets along with the rubble.",
+      "She bought two sachets of shampoo for the trip."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "a sachet of + something",
+      "partners": [
+        "scented sachets",
+        "sachets of sugar",
+        "shampoo sachets"
+      ]
+    }
+  },
+  {
     "word": "sacrilege",
     "memory": "disrespect to holy things",
     "meaning": "Treating something holy or highly respected without respect",
@@ -16,6 +36,26 @@
         "act of sacrilege",
         "pure sacrilege",
         "an act of sacrilege"
+      ]
+    }
+  },
+  {
+    "word": "sacs",
+    "memory": "small pouches",
+    "meaning": "Small bag-like parts in a plant or animal body, often holding air or liquid",
+    "hindi": "थैलियाँ, कोष",
+    "trick": "Sacs sound like 'sacks' — tiny body sacks.",
+    "examples": [
+      "Well, the air sacs in your lungs are going through necrosis.",
+      "A spider keeps its eggs in silk sacs."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "the + noun + sacs (air sacs, egg sacs)",
+      "partners": [
+        "air sacs",
+        "egg sacs",
+        "venom sacs"
       ]
     }
   },
@@ -296,6 +336,26 @@
         "sampling food",
         "sampling wines",
         "sampling the menu"
+      ]
+    }
+  },
+  {
+    "word": "sanctioned",
+    "memory": "officially approved",
+    "meaning": "Officially allowed or approved; also punished with official penalties",
+    "hindi": "स्वीकृत किया, मंज़ूरी दी; प्रतिबंध लगाया",
+    "trick": "SANCTION = loan 'sanctioned' by the bank = approved.",
+    "examples": [
+      "About Tanjiro and Nezuko... I've sanctioned their situation.",
+      "The manager sanctioned my leave."
+    ],
+    "usage": {
+      "pos": "verb (past participle)",
+      "pattern": "sanction something / be sanctioned by someone",
+      "partners": [
+        "officially sanctioned",
+        "sanctioned the loan",
+        "sanctioned by the government"
       ]
     }
   },
@@ -920,6 +980,46 @@
     }
   },
   {
+    "word": "scaredy-cat",
+    "memory": "coward",
+    "meaning": "(Informal) a person who is easily frightened",
+    "hindi": "डरपोक (बोलचाल)",
+    "trick": "SCAREDY-CAT → a cat that jumps at every sound.",
+    "examples": [
+      "Still such a scaredy-cat.",
+      "Don't be a scaredy-cat; the dog won't bite."
+    ],
+    "usage": {
+      "pos": "noun (informal)",
+      "pattern": "be a scaredy-cat",
+      "partners": [
+        "such a scaredy-cat",
+        "don't be a scaredy-cat",
+        "big scaredy-cat"
+      ]
+    }
+  },
+  {
+    "word": "scarred",
+    "memory": "marked with scars, damaged",
+    "meaning": "Marked with scars from old wounds; also deeply hurt by a bad experience",
+    "hindi": "घावों के निशान वाला; आहत",
+    "trick": "SCAR + red → red marks left on the skin.",
+    "examples": [
+      "I'm only flesh and blood, so my body is scarred and battered...",
+      "His hands were scarred from years of farm work."
+    ],
+    "usage": {
+      "pos": "adjective / verb (past)",
+      "pattern": "be scarred (by something) / scarred + noun",
+      "partners": [
+        "badly scarred",
+        "scarred for life",
+        "a scarred face"
+      ]
+    }
+  },
+  {
     "word": "scarring",
     "memory": "cutting, marking",
     "meaning": "Damaging or marking something with cuts that leave scars; also hurting deeply",
@@ -936,6 +1036,26 @@
         "scarring experience",
         "emotional scarring",
         "scarring the skin"
+      ]
+    }
+  },
+  {
+    "word": "scatter",
+    "memory": "spread apart",
+    "meaning": "To make people or things move apart in different directions",
+    "hindi": "बिखेरना, तितर-बितर करना",
+    "trick": "SCATTER → shatter → pieces flying everywhere.",
+    "examples": [
+      "Best to scatter people at odds with each other!",
+      "The birds scatter when the dog runs."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "scatter something/someone / scatter across something",
+      "partners": [
+        "scatter seeds",
+        "scatter across",
+        "scatter in all directions"
       ]
     }
   },
@@ -1000,6 +1120,66 @@
     }
   },
   {
+    "word": "scent",
+    "memory": "smell",
+    "meaning": "A smell, especially a pleasant one or one left behind by a person or animal",
+    "hindi": "गंध, खुशबू",
+    "trick": "SCENT sounds like 'sent' — a smell is sent through the air.",
+    "examples": [
+      "This isn't the scent that was lingering in my house.",
+      "The scent of fresh bread filled the kitchen."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the scent of something / pick up a scent",
+      "partners": [
+        "faint scent",
+        "pick up the scent",
+        "sweet scent"
+      ]
+    }
+  },
+  {
+    "word": "scents",
+    "memory": "smells",
+    "meaning": "Smells, especially those left by people or animals",
+    "hindi": "गंधें, खुशबुएँ",
+    "trick": "SCENT sounds like 'sent' — smells sent through the air.",
+    "examples": [
+      "I'm even more adept at detecting scents than before.",
+      "The shop sells candles in many scents."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "pick up / detect scents",
+      "partners": [
+        "detect scents",
+        "floral scents",
+        "different scents"
+      ]
+    }
+  },
+  {
+    "word": "scheming",
+    "memory": "secretly plotting",
+    "meaning": "Making secret, clever plans to get something, usually dishonestly",
+    "hindi": "षड्यंत्र रचना, चाल चलना",
+    "trick": "SCHEME = plan; SCHEMING = secretly planning tricks.",
+    "examples": [
+      "I don't know what you're scheming,...",
+      "My sister is always scheming to get the bigger room."
+    ],
+    "usage": {
+      "pos": "verb (-ing) / adjective",
+      "pattern": "scheme to do something / scheme against someone",
+      "partners": [
+        "scheming to",
+        "scheming against",
+        "scheming villain"
+      ]
+    }
+  },
+  {
     "word": "schism",
     "memory": "split, division",
     "meaning": "A split or division between people or groups because of a disagreement",
@@ -1060,6 +1240,26 @@
     }
   },
   {
+    "word": "scorching",
+    "memory": "burning hot",
+    "meaning": "Very hot, burning; also very harsh or fierce",
+    "hindi": "झुलसाने वाला, जलाता हुआ",
+    "trick": "SCORCH → like a torch burning you.",
+    "examples": [
+      "The pain is scorching me! Calm down!",
+      "It was a scorching day, so we stayed indoors."
+    ],
+    "usage": {
+      "pos": "verb (-ing) / adjective",
+      "pattern": "something is scorching someone / a scorching + noun",
+      "partners": [
+        "scorching heat",
+        "a scorching day",
+        "scorching sun"
+      ]
+    }
+  },
+  {
     "word": "scorn",
     "memory": "contempt, disrespect",
     "meaning": "A strong feeling that someone or something is worthless; also to reject something with contempt",
@@ -1100,6 +1300,26 @@
     }
   },
   {
+    "word": "scoundrel",
+    "memory": "rascal, villain",
+    "meaning": "A dishonest or badly behaved person (old-fashioned insult)",
+    "hindi": "बदमाश, धूर्त",
+    "trick": "SCOUNDREL — a SCAM-doing DEVIL.",
+    "examples": [
+      "Don't ask a lady her age, you ill-mannered scoundrel!",
+      "The scoundrel ran off with all the money."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "you scoundrel! / a scoundrel who...",
+      "partners": [
+        "you scoundrel",
+        "old scoundrel",
+        "lying scoundrel"
+      ]
+    }
+  },
+  {
     "word": "scoundrels",
     "memory": "villains, crooks",
     "meaning": "Dishonest or wicked people who cheat others (old-fashioned)",
@@ -1116,6 +1336,26 @@
         "lying scoundrels",
         "a pack of scoundrels",
         "old scoundrels"
+      ]
+    }
+  },
+  {
+    "word": "scouting",
+    "memory": "looking around, checking",
+    "meaning": "Exploring an area to gather information; also searching for talented people",
+    "hindi": "जासूसी, टोह लेना; प्रतिभा खोजना",
+    "trick": "SCOUT → Boy Scouts go out exploring = scouting.",
+    "examples": [
+      "All right, that's enough scouting.",
+      "We went scouting for a good picnic spot."
+    ],
+    "usage": {
+      "pos": "noun / verb (-ing)",
+      "pattern": "go scouting (for something) / scouting an area",
+      "partners": [
+        "go scouting",
+        "scouting for talent",
+        "scouting mission"
       ]
     }
   },
@@ -1240,6 +1480,26 @@
     }
   },
   {
+    "word": "scratches",
+    "memory": "rubs lightly; also small cuts",
+    "meaning": "Rubs or marks a surface with something sharp; (scratches the surface = deals with only a tiny part of something); also small marks or cuts",
+    "hindi": "खरोंचता है; ऊपर-ऊपर छूता है; खरोंचें",
+    "trick": "Scratch = the sound of nails on a board — 'skrrch'.",
+    "examples": [
+      "\"Unbearable\" barely even scratches the surface!",
+      "My cat scratches the sofa every morning."
+    ],
+    "usage": {
+      "pos": "verb (present, he/she/it); also noun (plural)",
+      "pattern": "scratch something / scratch the surface (of something)",
+      "partners": [
+        "scratches the surface",
+        "scratches his head",
+        "minor scratches"
+      ]
+    }
+  },
+  {
     "word": "scratchy",
     "memory": "rough, crackly",
     "meaning": "Rough and crackly in sound; also rough and itchy to touch",
@@ -1316,6 +1576,26 @@
         "got screwed over",
         "totally screwed",
         "screwed by"
+      ]
+    }
+  },
+  {
+    "word": "scrub",
+    "memory": "worthless nobody; also rub clean",
+    "meaning": "Informal: a weak, unimportant person; also to rub something hard to clean it",
+    "hindi": "नाचीज़, निकम्मा (बोलचाल); रगड़कर साफ़ करना",
+    "trick": "Scrub brush → so lowly you only scrub floors.",
+    "examples": [
+      "A lowly scrub like you...",
+      "Scrub the pan well before you cook."
+    ],
+    "usage": {
+      "pos": "noun (informal); also verb",
+      "pattern": "a scrub like you / scrub something (clean)",
+      "partners": [
+        "lowly scrub",
+        "scrub the floor",
+        "scrub clean"
       ]
     }
   },
@@ -1620,6 +1900,26 @@
     }
   },
   {
+    "word": "scythe",
+    "memory": "long curved blade",
+    "meaning": "A tool with a long curved blade on a long handle, used to cut grass or crops",
+    "hindi": "दरांती, हँसिया (बड़ा)",
+    "trick": "The Grim Reaper's scythe — rhymes with 'writhe'.",
+    "examples": [
+      "My only toy was a scythe that a customer had left behind.",
+      "The farmer cut the tall grass with a scythe."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "cut something with a scythe",
+      "partners": [
+        "swing a scythe",
+        "sharp scythe",
+        "the Reaper's scythe"
+      ]
+    }
+  },
+  {
     "word": "seagulls",
     "memory": "sea birds",
     "meaning": "Large grey and white birds that live near the sea",
@@ -1720,6 +2020,26 @@
     }
   },
   {
+    "word": "seaweed",
+    "memory": "plant in the sea",
+    "meaning": "Plants that grow in the sea, often green, brown or red",
+    "hindi": "समुद्री शैवाल, समुद्री घास",
+    "trick": "Sea + weed = a weed of the sea.",
+    "examples": [
+      "Your hair's too long! Get a haircut, seaweed head!",
+      "Sushi is often wrapped in seaweed."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "seaweed + noun / covered in seaweed",
+      "partners": [
+        "dried seaweed",
+        "seaweed salad",
+        "tangled in seaweed"
+      ]
+    }
+  },
+  {
     "word": "seclusion",
     "memory": "isolation, privacy",
     "meaning": "The state of being alone and away from other people",
@@ -1736,6 +2056,46 @@
         "in seclusion",
         "complete seclusion",
         "live in seclusion"
+      ]
+    }
+  },
+  {
+    "word": "secretive",
+    "memory": "hiding things",
+    "meaning": "Liking to keep your thoughts, feelings or actions hidden",
+    "hindi": "रहस्यमय, छुपाने वाला",
+    "trick": "SECRET + ive: full of secrets.",
+    "examples": [
+      "What is it that you're being so secretive about, I wonder?",
+      "He is very secretive about his new job."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be secretive about something",
+      "partners": [
+        "secretive about",
+        "secretive nature",
+        "highly secretive"
+      ]
+    }
+  },
+  {
+    "word": "secretly",
+    "memory": "without others knowing",
+    "meaning": "In a way that others do not know about",
+    "hindi": "चुपके से, गुप्त रूप से",
+    "trick": "SECRET-ly → in SECRET",
+    "examples": [
+      "Tanjiro, I secretly snagged us some bean paste buns, so let's eat!",
+      "She secretly ate the last cookie."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "secretly + verb",
+      "partners": [
+        "secretly hoped",
+        "secretly planned",
+        "secretly recorded"
       ]
     }
   },
@@ -2060,6 +2420,106 @@
     }
   },
   {
+    "word": "selfishness",
+    "memory": "caring only for oneself",
+    "meaning": "Caring only about yourself and not about others",
+    "hindi": "स्वार्थ",
+    "trick": "SELF-ish-ness → only self.",
+    "examples": [
+      "They're selfishness personified.",
+      "His selfishness lost him many friends."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "someone's selfishness / out of selfishness",
+      "partners": [
+        "pure selfishness",
+        "out of selfishness",
+        "selfishness and greed"
+      ]
+    }
+  },
+  {
+    "word": "selves",
+    "memory": "versions of oneself",
+    "meaning": "Plural of self: a person's different sides or versions",
+    "hindi": "स्वयं (बहुवचन), रूप",
+    "trick": "SELF → SELVES like shelf → shelves.",
+    "examples": [
+      "Both of my other selves got taken out by this guy!",
+      "Be your true selves, the teacher told the class."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "someone's selves / our true selves",
+      "partners": [
+        "other selves",
+        "true selves",
+        "past selves"
+      ]
+    }
+  },
+  {
+    "word": "senile",
+    "memory": "old and forgetful",
+    "meaning": "Weak in mind or memory because of old age",
+    "hindi": "सठियाया हुआ, बुढ़ापे में कमज़ोर दिमाग",
+    "trick": "Senile ~ senior → old age, memory fading.",
+    "examples": [
+      "I have no use for a senile geezer!",
+      "My grandfather is old but not senile at all."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be/become senile / a senile + noun",
+      "partners": [
+        "senile old man",
+        "going senile",
+        "senile dementia"
+      ]
+    }
+  },
+  {
+    "word": "sensation",
+    "memory": "feeling",
+    "meaning": "The ability to feel something in the body; also a physical feeling; also great excitement",
+    "hindi": "संवेदना, एहसास; सनसनी",
+    "trick": "SENSE-ation → your sense of touch.",
+    "examples": [
+      "I have no sensation in my right hand.",
+      "The new singer is an overnight sensation."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a sensation of something / no sensation in something",
+      "partners": [
+        "no sensation",
+        "burning sensation",
+        "overnight sensation"
+      ]
+    }
+  },
+  {
+    "word": "sensed",
+    "memory": "felt, noticed",
+    "meaning": "Became aware of something without being told, by a feeling",
+    "hindi": "महसूस किया, भाँप लिया",
+    "trick": "SENSE + d — your sixth sense felt it.",
+    "examples": [
+      "I would've sensed it if there'd been any animosity!",
+      "She sensed that something was wrong."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "sense something / sense that...",
+      "partners": [
+        "sensed danger",
+        "sensed something was wrong",
+        "sensed his fear"
+      ]
+    }
+  },
+  {
     "word": "senseis",
     "memory": "martial arts teachers",
     "meaning": "Teachers of martial arts like karate or judo (from Japanese)",
@@ -2076,6 +2536,66 @@
         "karate senseis",
         "judo senseis",
         "senseis and students"
+      ]
+    }
+  },
+  {
+    "word": "senses",
+    "memory": "sight, hearing, smell etc.",
+    "meaning": "The natural powers of sight, hearing, smell, taste and touch; also good judgement",
+    "hindi": "इंद्रियाँ; होश, समझ",
+    "trick": "SENSE-s → the five ways you SENSE the world.",
+    "examples": [
+      "This stupid outfit blunts my senses like you wouldn't believe!",
+      "Dogs have very sharp senses of smell."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "someone's senses / come to your senses",
+      "partners": [
+        "sharp senses",
+        "five senses",
+        "come to your senses"
+      ]
+    }
+  },
+  {
+    "word": "sensitivity",
+    "memory": "understanding others' feelings",
+    "meaning": "Being aware of and caring about other people's feelings; also reacting easily to something (e.g. light, pain)",
+    "hindi": "संवेदनशीलता, भावुकता",
+    "trick": "SENSE → sensitivity: you sense what others feel.",
+    "examples": [
+      "Don't go showering me with your sensitivity and kindness!",
+      "Teachers need sensitivity when children are upset."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "sensitivity to something / show sensitivity",
+      "partners": [
+        "show sensitivity",
+        "sensitivity to light",
+        "great sensitivity"
+      ]
+    }
+  },
+  {
+    "word": "seppuku",
+    "memory": "ritual suicide",
+    "meaning": "A Japanese form of ritual suicide by cutting the stomach, once done by samurai to restore honour",
+    "hindi": "जापानी समुराई की आत्महत्या की रस्म",
+    "trick": "SEPPUKU ≈ 'pet pe chaku' → knife to the stomach.",
+    "examples": [
+      "Sakonji Urokodaki and Giyu Tomioka will atone by committing seppuku.",
+      "In old Japan, some samurai committed seppuku after losing a battle."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "commit seppuku",
+      "partners": [
+        "commit seppuku",
+        "ritual seppuku",
+        "samurai seppuku"
       ]
     }
   },
@@ -2140,6 +2660,26 @@
     }
   },
   {
+    "word": "sesame",
+    "memory": "small oil seed (til)",
+    "meaning": "A plant with small seeds used in cooking and for oil",
+    "hindi": "तिल",
+    "trick": "SESAME = \"Open Sesame!\" → tiny til seeds",
+    "examples": [
+      "He's no bigger than a sesame seed now!",
+      "She sprinkled sesame seeds on the bread."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "sesame seeds / sesame oil",
+      "partners": [
+        "sesame seed",
+        "sesame oil",
+        "sesame paste"
+      ]
+    }
+  },
+  {
     "word": "set-tos",
     "memory": "quarrels, fights",
     "meaning": "Short angry arguments or fights (informal, British)",
@@ -2176,6 +2716,66 @@
         "major setback",
         "suffer a setback",
         "temporary setback"
+      ]
+    }
+  },
+  {
+    "word": "sever",
+    "memory": "cut off",
+    "meaning": "To cut through something completely; also to end a relationship",
+    "hindi": "काट देना, अलग करना; संबंध तोड़ना",
+    "trick": "SEVER ≈ \"separate for ever\"",
+    "examples": [
+      "I have a feeling that I shouldn't sever this rope with my Nichirin Sword.",
+      "Be careful not to sever the wire."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "sever something / sever ties with someone",
+      "partners": [
+        "sever the rope",
+        "sever ties",
+        "sever a nerve"
+      ]
+    }
+  },
+  {
+    "word": "severed",
+    "memory": "cut off, broken",
+    "meaning": "Cut through completely; also ended (a link or relationship)",
+    "hindi": "काट दिया, अलग किया; तोड़ा",
+    "trick": "SEVERED ≈ SEVER-e cut → a severe cut that separates.",
+    "examples": [
+      "...severed by anyone!",
+      "The storm severed the power lines."
+    ],
+    "usage": {
+      "pos": "verb (past participle)",
+      "pattern": "sever something / be severed (by/from something)",
+      "partners": [
+        "severed ties",
+        "a severed head",
+        "severed the link"
+      ]
+    }
+  },
+  {
+    "word": "severely",
+    "memory": "very seriously, harshly",
+    "meaning": "In a very harsh or serious way",
+    "hindi": "कड़ाई से, गंभीर रूप से",
+    "trick": "SEVERE → severely: done in a severe way.",
+    "examples": [
+      "We assure you that this boy will be severely reprimanded.",
+      "He was severely injured in the accident."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "severely + punished/injured/damaged",
+      "partners": [
+        "severely punished",
+        "severely injured",
+        "severely damaged"
       ]
     }
   },
@@ -2260,6 +2860,46 @@
     }
   },
   {
+    "word": "shackle",
+    "memory": "chain, restrain",
+    "meaning": "To chain someone's hands or feet; also to stop someone being free",
+    "hindi": "बेड़ियाँ डालना, बाँधना; बेड़ी",
+    "trick": "SHACKLE ≈ 'shake-ul' → you shake but the chains won't come off.",
+    "examples": [
+      "Using terror to shackle someone hand and foot is not the bond of a family!",
+      "Don't let old fears shackle you."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "shackle someone (to something) / be shackled by something",
+      "partners": [
+        "shackle hand and foot",
+        "shackled by debt",
+        "shackled to the wall"
+      ]
+    }
+  },
+  {
+    "word": "shackled",
+    "memory": "chained, held back",
+    "meaning": "Held back or tied down, as if in chains",
+    "hindi": "जकड़ा हुआ, बेड़ियों में बँधा",
+    "trick": "SHACKLE → the chain around a prisoner's feet.",
+    "examples": [
+      "I'm at the top of my game when I'm shackled by poison in my system!",
+      "She felt shackled by her boring job."
+    ],
+    "usage": {
+      "pos": "verb (past participle)",
+      "pattern": "be shackled by/to something",
+      "partners": [
+        "shackled by debt",
+        "shackled to the wall",
+        "shackled hands"
+      ]
+    }
+  },
+  {
     "word": "shadowed",
     "memory": "followed closely",
     "meaning": "Followed someone closely, often secretly; also darkened by shade",
@@ -2320,6 +2960,26 @@
     }
   },
   {
+    "word": "shambles",
+    "memory": "total mess",
+    "meaning": "A state of complete mess or chaos (informal)",
+    "hindi": "पूरी तरह अस्तव्यस्त, बर्बादी (बोलचाल)",
+    "trick": "SHAMBLES → what a SHAME, it's all a mess.",
+    "examples": [
+      "This room is still in a shambles.",
+      "The meeting was a shambles — no one knew what to do."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "be (in) a shambles / leave something in a shambles",
+      "partners": [
+        "in a shambles",
+        "a complete shambles",
+        "an utter shambles"
+      ]
+    }
+  },
+  {
     "word": "shard",
     "memory": "sharp broken piece",
     "meaning": "A sharp broken piece of glass, pottery or metal",
@@ -2360,6 +3020,26 @@
     }
   },
   {
+    "word": "shattered",
+    "memory": "broken (emotionally); also smashed",
+    "meaning": "Deeply upset and broken emotionally; also smashed into many pieces; (informal) very tired",
+    "hindi": "टूटा हुआ, बिखरा हुआ; चकनाचूर",
+    "trick": "SHATTER → glass SHATTERED → heart shattered",
+    "examples": [
+      "How enthralling is it to gaze at someone shattered by misfortune?",
+      "She was shattered by the news of his death."
+    ],
+    "usage": {
+      "pos": "adjective (past participle)",
+      "pattern": "be shattered by something",
+      "partners": [
+        "shattered glass",
+        "shattered dreams",
+        "feel shattered"
+      ]
+    }
+  },
+  {
     "word": "shavings",
     "memory": "thin slices",
     "meaning": "Very thin pieces cut off something",
@@ -2376,6 +3056,26 @@
         "wood shavings",
         "chocolate shavings",
         "pencil shavings"
+      ]
+    }
+  },
+  {
+    "word": "sheathe",
+    "memory": "put away (blade)",
+    "meaning": "To put a sword or knife back into its cover",
+    "hindi": "म्यान में रखना",
+    "trick": "Sheath = the cover; sheathE (with E) = the action of putting it in.",
+    "examples": [
+      "The sound it makes when you sheathe it is unique.",
+      "The soldier wiped his sword and sheathed it."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "sheathe a sword/knife / sheathe something in something",
+      "partners": [
+        "sheathe a sword",
+        "sheathe the blade",
+        "sheathe your claws"
       ]
     }
   },
@@ -2759,6 +3459,26 @@
     }
   },
   {
+    "word": "shivers",
+    "memory": "trembling, thrills",
+    "meaning": "Small shaking movements of the body from cold, fear or excitement",
+    "hindi": "सिहरन, कंपकंपी",
+    "trick": "SHIVERs in winter — teeth chattering.",
+    "examples": [
+      "Shivers of first love!",
+      "The ghost story gave me shivers."
+    ],
+    "usage": {
+      "pos": "noun (plural) / verb",
+      "pattern": "give someone the shivers / send shivers down someone's spine",
+      "partners": [
+        "send shivers down my spine",
+        "give me the shivers",
+        "shivers of fear"
+      ]
+    }
+  },
+  {
     "word": "shone",
     "memory": "glowed, sparkled",
     "meaning": "Gave out or reflected bright light; past of shine",
@@ -2879,6 +3599,26 @@
     }
   },
   {
+    "word": "shoving",
+    "memory": "pushing roughly",
+    "meaning": "Pushing someone or something roughly",
+    "hindi": "धक्का देना, ठूंसना",
+    "trick": "SHOVE — sounds like 'shove-l': shovelling people out of the way.",
+    "examples": [
+      "Shoving my face into this vile dirt!",
+      "Stop shoving — there's room for everyone."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "shove someone/something into/out of something",
+      "partners": [
+        "pushing and shoving",
+        "shoving into",
+        "shoving aside"
+      ]
+    }
+  },
+  {
     "word": "showering",
     "memory": "heaping, lavishing",
     "meaning": "Giving someone a lot of something, like praise or gifts; also taking a shower",
@@ -2919,6 +3659,26 @@
     }
   },
   {
+    "word": "shred",
+    "memory": "tiny bit",
+    "meaning": "A very small amount (not a shred of = none at all); also a thin strip torn off",
+    "hindi": "ज़रा-सा, रत्ती भर; टुकड़ा",
+    "trick": "Shredder cuts paper into shreds — tiny bits.",
+    "examples": [
+      "Not a shred of dignity or grit!",
+      "There isn't a shred of evidence against him."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "not a shred of something / tear something to shreds",
+      "partners": [
+        "not a shred of evidence",
+        "a shred of hope",
+        "torn to shreds"
+      ]
+    }
+  },
+  {
     "word": "shredded",
     "memory": "torn to pieces",
     "meaning": "Torn or cut into long thin strips",
@@ -2935,6 +3695,26 @@
         "shredded paper",
         "shredded cabbage",
         "shredded documents"
+      ]
+    }
+  },
+  {
+    "word": "shreds",
+    "memory": "small torn pieces",
+    "meaning": "Small thin pieces torn or cut off something; 'tear to shreds' = destroy completely",
+    "hindi": "टुकड़े, चिथड़े",
+    "trick": "SHREDder machine → turns paper into shreds.",
+    "examples": [
+      "I'm gonna tear you to shreds, you damn demon!",
+      "The dog tore the newspaper to shreds."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "tear/rip something to shreds / in shreds",
+      "partners": [
+        "tear to shreds",
+        "in shreds",
+        "shreds of paper"
       ]
     }
   },
@@ -3299,6 +4079,46 @@
     }
   },
   {
+    "word": "siblings",
+    "memory": "brothers and sisters",
+    "meaning": "Brothers and sisters",
+    "hindi": "भाई-बहन",
+    "trick": "SIBLINGS → 'sab bhai-bahen' together.",
+    "examples": [
+      "Lord Tengen, do you still think about your deceased siblings?",
+      "I have two siblings, a brother and a sister."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "someone's siblings",
+      "partners": [
+        "older siblings",
+        "younger siblings",
+        "fight with siblings"
+      ]
+    }
+  },
+  {
+    "word": "sickles",
+    "memory": "curved blades",
+    "meaning": "Tools with a curved blade used for cutting crops or grass",
+    "hindi": "हँसिए, दरांती",
+    "trick": "SICKLE ≈ a curved moon shape — the farmer's hook-blade.",
+    "examples": [
+      "My Blood Sickles are drenched with deadly poison.",
+      "The farmers cut the wheat with sickles."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "cut something with sickles",
+      "partners": [
+        "sharp sickles",
+        "hammer and sickle",
+        "swing sickles"
+      ]
+    }
+  },
+  {
     "word": "sickly",
     "memory": "weak, unhealthy",
     "meaning": "Often ill and looking weak; also unpleasantly sweet",
@@ -3538,6 +4358,26 @@
     }
   },
   {
+    "word": "sighing",
+    "memory": "breathing out sadly",
+    "meaning": "Letting out a long, deep breath that shows sadness, tiredness or relief",
+    "hindi": "आहें भरना, उसाँस लेना",
+    "trick": "SIGH-ing → the sound \"haaah\" when you're sad or tired",
+    "examples": [
+      "Fuku, enough of that sighing.",
+      "Stop sighing and finish your homework."
+    ],
+    "usage": {
+      "pos": "noun / verb (-ing form)",
+      "pattern": "be sighing / sighing with relief",
+      "partners": [
+        "sighing with relief",
+        "sighing deeply",
+        "stop sighing"
+      ]
+    }
+  },
+  {
     "word": "sighting",
     "memory": "seeing, spotting",
     "meaning": "An occasion of seeing something, especially something rare",
@@ -3718,6 +4558,46 @@
     }
   },
   {
+    "word": "single-minded",
+    "memory": "focused on one goal",
+    "meaning": "Thinking only about one aim and working hard for it",
+    "hindi": "एकाग्र, एक लक्ष्य वाला",
+    "trick": "SINGLE + MIND → one mind, one goal.",
+    "examples": [
+      "You were pure and single-minded.",
+      "She is single-minded about winning the race."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be single-minded (about something)",
+      "partners": [
+        "single-minded focus",
+        "single-minded determination",
+        "single-minded pursuit"
+      ]
+    }
+  },
+  {
+    "word": "sins",
+    "memory": "wrong deeds",
+    "meaning": "Wrong or bad acts, especially against religious or moral rules",
+    "hindi": "पाप",
+    "trick": "SINS → seven deadly sins.",
+    "examples": [
+      "And to atone for my sins...",
+      "He confessed all his sins to the priest."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "atone/pay for your sins",
+      "partners": [
+        "atone for sins",
+        "forgive sins",
+        "seven deadly sins"
+      ]
+    }
+  },
+  {
     "word": "sinuous",
     "memory": "curving, winding",
     "meaning": "Having many smooth, graceful curves",
@@ -3838,6 +4718,26 @@
     }
   },
   {
+    "word": "sizes",
+    "memory": "how big things are",
+    "meaning": "How big or small things are; also standard measurements for clothes and shoes",
+    "hindi": "आकार, नाप",
+    "trick": "Sizes → S, M, L, XL on clothes.",
+    "examples": [
+      "These lights of different sizes must be the potency of each demon's Blood Demon Art.",
+      "The shop has shoes in all sizes."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "of different sizes / in all sizes",
+      "partners": [
+        "different sizes",
+        "all shapes and sizes",
+        "come in three sizes"
+      ]
+    }
+  },
+  {
     "word": "sizing",
     "memory": "judging, assessing",
     "meaning": "Looking carefully at someone to judge them (used with 'up')",
@@ -3938,6 +4838,26 @@
     }
   },
   {
+    "word": "skewered",
+    "memory": "stabbed through",
+    "meaning": "Pierced through with a long sharp object, like meat on a stick; also, harshly criticised",
+    "hindi": "आर-पार भेदा, सीख में पिरोया",
+    "trick": "Skewer = the stick in a kebab; skewered = stuck through like a kebab.",
+    "examples": [
+      "I could've skewered her along with you!",
+      "She skewered the vegetables for the barbecue."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "skewer someone/something (with something)",
+      "partners": [
+        "skewered meat",
+        "skewered by a sword",
+        "skewered by critics"
+      ]
+    }
+  },
+  {
     "word": "skewers",
     "memory": "meat sticks",
     "meaning": "Long thin sticks for holding pieces of food while cooking",
@@ -4034,6 +4954,26 @@
         "skimping on sleep",
         "skimping on food",
         "skimping on quality"
+      ]
+    }
+  },
+  {
+    "word": "skinned",
+    "memory": "skin removed",
+    "meaning": "Had the skin removed; also scraped (skinned your knee)",
+    "hindi": "खाल उतारी गई; छिल गया",
+    "trick": "SKIN + ned → the skin's gone.",
+    "examples": [
+      "Like getting skinned alive or maybe getting your belly slit open!",
+      "He skinned his knee when he fell off the bike."
+    ],
+    "usage": {
+      "pos": "verb (past participle)",
+      "pattern": "be skinned alive / skin your knee",
+      "partners": [
+        "skinned alive",
+        "skinned knee",
+        "skinned the fish"
       ]
     }
   },
@@ -4178,6 +5118,26 @@
     }
   },
   {
+    "word": "skull",
+    "memory": "head bone",
+    "meaning": "The bony frame of the head that protects the brain",
+    "hindi": "खोपड़ी",
+    "trick": "SKULL → the 'shell' of your head.",
+    "examples": [
+      "To crush his skull and smash it completely...",
+      "The helmet protects your skull when you ride."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "someone's skull / a fractured skull",
+      "partners": [
+        "fractured skull",
+        "thick skull",
+        "skull and crossbones"
+      ]
+    }
+  },
+  {
     "word": "skullcap",
     "memory": "small cap",
     "meaning": "A small round cap that fits closely on top of the head",
@@ -4298,6 +5258,26 @@
     }
   },
   {
+    "word": "slam",
+    "memory": "hit or shut hard",
+    "meaning": "To put, push or hit something somewhere with great force; also, to shut loudly",
+    "hindi": "ज़ोर से पटकना, ठोकना",
+    "trick": "SLAM → the 'slam' sound of a door shut hard.",
+    "examples": [
+      "Slam it into your flesh!",
+      "Please don't slam the door."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "slam something (into/against something) / slam the door",
+      "partners": [
+        "slam the door",
+        "slam on the brakes",
+        "slam into"
+      ]
+    }
+  },
+  {
     "word": "slander",
     "memory": "false claims",
     "meaning": "False spoken statements that damage someone's reputation",
@@ -4314,6 +5294,26 @@
         "sue for slander",
         "pure slander",
         "slander and libel"
+      ]
+    }
+  },
+  {
+    "word": "slandering",
+    "memory": "falsely speaking ill of",
+    "meaning": "Saying false things about someone that harm their reputation",
+    "hindi": "बदनाम करते हुए, झूठी निंदा करते हुए",
+    "trick": "SLANDER ≈ \"slam + der\" → slamming someone with lies",
+    "examples": [
+      "Now you're just slandering me!",
+      "Stop slandering your neighbours."
+    ],
+    "usage": {
+      "pos": "verb (-ing form)",
+      "pattern": "be slandering someone",
+      "partners": [
+        "slandering someone's name",
+        "accused of slandering",
+        "slandering the leader"
       ]
     }
   },
@@ -4358,6 +5358,66 @@
     }
   },
   {
+    "word": "slash",
+    "memory": "long cut",
+    "meaning": "A long, quick cut made with a sharp blade; also to cut or reduce sharply",
+    "hindi": "वार, चीरा; भारी कटौती करना",
+    "trick": "SLASH → the sound of a sword: swish-SLASH!",
+    "examples": [
+      "It blunted my sword slash by bending and weaving.",
+      "The shop slashed its prices for the sale."
+    ],
+    "usage": {
+      "pos": "noun / verb",
+      "pattern": "a slash (of a sword) / slash something",
+      "partners": [
+        "sword slash",
+        "slash prices",
+        "slash and burn"
+      ]
+    }
+  },
+  {
+    "word": "slashed",
+    "memory": "cut violently",
+    "meaning": "Cut with a quick, violent swing of a blade; also cut prices sharply",
+    "hindi": "काट डाला, चीर दिया; घटा दिया",
+    "trick": "SLASH = the '/' sign — one quick sword cut.",
+    "examples": [
+      "If I defy him, I'll be slashed to shreds!",
+      "The shop slashed its prices in the sale."
+    ],
+    "usage": {
+      "pos": "verb (past participle)",
+      "pattern": "slash something/someone / be slashed",
+      "partners": [
+        "slashed prices",
+        "slashed tyres",
+        "slashed with a knife"
+      ]
+    }
+  },
+  {
+    "word": "slashing",
+    "memory": "cutting wildly",
+    "meaning": "Cutting with long, fast swinging strokes; also, reducing greatly (prices)",
+    "hindi": "काटना, वार करना",
+    "trick": "SLASH → the '/' mark looks like a sword cut.",
+    "examples": [
+      "I'm going to protect these two while slashing those three demons!",
+      "Shops are slashing prices this week."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "slash something / slash at someone",
+      "partners": [
+        "slashing prices",
+        "slashing the enemy",
+        "slashing attack"
+      ]
+    }
+  },
+  {
     "word": "slaughter",
     "memory": "mass killing",
     "meaning": "The cruel killing of many people at once; also the killing of animals for food",
@@ -4394,6 +5454,66 @@
         "brutally slaughtered",
         "slaughtered for meat",
         "slaughtered in battle"
+      ]
+    }
+  },
+  {
+    "word": "slay",
+    "memory": "kill violently",
+    "meaning": "To kill violently (literary); also do something very well (informal slang)",
+    "hindi": "मार डालना, वध करना; (बोलचाल) कमाल कर देना",
+    "trick": "Demon SLAYer — the one who SLAYS demons.",
+    "examples": [
+      "Of course we're going to slay them vindictively.",
+      "You really slayed that dance!"
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "slay someone/something (a dragon, demon)",
+      "partners": [
+        "slay a dragon",
+        "slay demons",
+        "slay the enemy"
+      ]
+    }
+  },
+  {
+    "word": "slayer",
+    "memory": "killer",
+    "meaning": "A person who kills, especially a monster or enemy",
+    "hindi": "संहारक, वध करने वाला",
+    "trick": "SLAY → kill; slayer = the one who kills (dragon slayer).",
+    "examples": [
+      "But as for who's leading the Demon Slayer Corps...",
+      "In the story, the dragon slayer saved the town."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a + noun + slayer",
+      "partners": [
+        "demon slayer",
+        "dragon slayer",
+        "giant slayer"
+      ]
+    }
+  },
+  {
+    "word": "slayers",
+    "memory": "killers",
+    "meaning": "People who kill (especially monsters or dragons)",
+    "hindi": "संहारक, मारने वाले",
+    "trick": "SLAY = kill → slayers = killers (Demon Slayer).",
+    "examples": [
+      "We'll have to bolster the ranks of the Demon Slayers.",
+      "Old stories are full of dragon slayers."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "slayers of something / demon/dragon slayers",
+      "partners": [
+        "demon slayers",
+        "dragon slayers",
+        "giant slayers"
       ]
     }
   },
@@ -4518,6 +5638,26 @@
     }
   },
   {
+    "word": "slice",
+    "memory": "cut through",
+    "meaning": "To cut something with a sharp blade; also (noun), a thin flat piece cut from something",
+    "hindi": "काटना; टुकड़ा",
+    "trick": "SLICE → a slice of pizza, cut clean.",
+    "examples": [
+      "If you can slice this boulder...",
+      "Can you slice the bread for me?"
+    ],
+    "usage": {
+      "pos": "verb (also noun)",
+      "pattern": "slice something / a slice of something",
+      "partners": [
+        "slice bread",
+        "slice through",
+        "a slice of pizza"
+      ]
+    }
+  },
+  {
     "word": "slick",
     "memory": "slippery",
     "meaning": "Smooth and slippery, hard to stand on; also clever but not sincere",
@@ -4614,6 +5754,26 @@
         "narrow slit",
         "eyes narrowed to slits",
         "slit in the door"
+      ]
+    }
+  },
+  {
+    "word": "slithery",
+    "memory": "slippery, snake-like",
+    "meaning": "Smooth and slippery, moving in a twisting way like a snake",
+    "hindi": "फिसलने वाला, साँप जैसा",
+    "trick": "SLITHER → the hiss-slither of a snake.",
+    "examples": [
+      "They're slithery, but they're freaking hard!",
+      "The fish felt slithery in my hands."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "slithery + noun / be slithery",
+      "partners": [
+        "slithery snake",
+        "slithery fish",
+        "slithery movement"
       ]
     }
   },
@@ -4778,6 +5938,66 @@
     }
   },
   {
+    "word": "slowpoke",
+    "memory": "slow person",
+    "meaning": "Informal: a person who moves or works too slowly",
+    "hindi": "धीमा व्यक्ति, सुस्त (बोलचाल)",
+    "trick": "SLOW + POKE → so slow you have to poke them.",
+    "examples": [
+      "A slowpoke like you...",
+      "Hurry up, slowpoke, the bus is leaving!"
+    ],
+    "usage": {
+      "pos": "noun (informal)",
+      "pattern": "a slowpoke like you / come on, slowpoke",
+      "partners": [
+        "such a slowpoke",
+        "hurry up, slowpoke",
+        "a real slowpoke"
+      ]
+    }
+  },
+  {
+    "word": "sluggish",
+    "memory": "slow, lazy",
+    "meaning": "Moving or working very slowly, without energy",
+    "hindi": "सुस्त, धीमा",
+    "trick": "SLUG → slow like a slug = sluggish.",
+    "examples": [
+      "Look how sluggish you are!",
+      "I feel sluggish after a big lunch."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be/feel sluggish",
+      "partners": [
+        "feel sluggish",
+        "sluggish economy",
+        "sluggish start"
+      ]
+    }
+  },
+  {
+    "word": "slumber",
+    "memory": "deep sleep",
+    "meaning": "Sleep (a literary word); also (verb) to sleep peacefully",
+    "hindi": "गहरी नींद, निद्रा",
+    "trick": "SLUMBER party → sleepover",
+    "examples": [
+      "Their slumber will grow deeper in a little while.",
+      "The baby fell into a peaceful slumber."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "fall into a slumber / deep slumber",
+      "partners": [
+        "deep slumber",
+        "peaceful slumber",
+        "slumber party"
+      ]
+    }
+  },
+  {
     "word": "slump",
     "memory": "sink down heavily",
     "meaning": "To sit or fall down heavily and loosely; also (noun) a sudden fall in value or performance",
@@ -4938,6 +6158,26 @@
     }
   },
   {
+    "word": "smash",
+    "memory": "break violently",
+    "meaning": "To break something violently into pieces; also, to hit very hard",
+    "hindi": "तोड़ना, चकनाचूर करना",
+    "trick": "SMASH → the sound of a plate hitting the floor.",
+    "examples": [
+      "To crush his skull and smash it completely...",
+      "The ball smashed the window."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "smash something (into pieces) / smash into something",
+      "partners": [
+        "smash a window",
+        "smash into pieces",
+        "smash hit"
+      ]
+    }
+  },
+  {
     "word": "smeared",
     "memory": "streaked, smudged",
     "meaning": "Covered or marked with something spread messily; also (of colour) spread across",
@@ -4954,6 +6194,46 @@
         "smeared with mud",
         "smeared with paint",
         "smeared lipstick"
+      ]
+    }
+  },
+  {
+    "word": "smells",
+    "memory": "has a smell",
+    "meaning": "Has a particular smell; also notices a smell with the nose",
+    "hindi": "महकता है, गंध आती है",
+    "trick": "SMELLS — your nose tells you.",
+    "examples": [
+      "It smells like wisteria.",
+      "The kitchen smells of fresh bread."
+    ],
+    "usage": {
+      "pos": "verb (present, it/he/she)",
+      "pattern": "something smells + adjective / smells like/of something",
+      "partners": [
+        "smells good",
+        "smells like",
+        "smells of"
+      ]
+    }
+  },
+  {
+    "word": "smirk",
+    "memory": "smug smile",
+    "meaning": "A silly or self-satisfied smile, often at someone else's trouble",
+    "hindi": "व्यंग्य भरी मुस्कान, दंभी मुस्कान",
+    "trick": "SMIrk = SMIle + jerk: a jerk's smile.",
+    "examples": [
+      "And wipe that smirk off of your face!",
+      "He gave a smirk when his rival lost."
+    ],
+    "usage": {
+      "pos": "noun (also verb)",
+      "pattern": "wipe the smirk off your face / smirk at someone",
+      "partners": [
+        "wipe that smirk",
+        "a smug smirk",
+        "smirk at someone"
       ]
     }
   },
@@ -5134,6 +6414,26 @@
         "snag a deal",
         "snag a seat",
         "hit a snag"
+      ]
+    }
+  },
+  {
+    "word": "snagged",
+    "memory": "grabbed quickly (informal)",
+    "meaning": "Got or grabbed something quickly (informal); also caught on something sharp",
+    "hindi": "झपट लिया, जुगाड़ लिया (बोलचाल); अटक गया",
+    "trick": "SNAG ≈ SNATCH + grab",
+    "examples": [
+      "I secretly snagged us some bean paste buns, so let's eat!",
+      "I snagged two tickets for the show."
+    ],
+    "usage": {
+      "pos": "verb (past, informal)",
+      "pattern": "snag something / snag something on something",
+      "partners": [
+        "snagged a seat",
+        "snagged tickets",
+        "snagged on a nail"
       ]
     }
   },
@@ -5398,6 +6698,46 @@
     }
   },
   {
+    "word": "sniveling",
+    "memory": "crying, whining",
+    "meaning": "Crying and complaining in a weak, annoying way, with a runny nose",
+    "hindi": "रोना-धोना, नाक सुड़कना",
+    "trick": "SNIVEL ≈ sniff + snot — sniffing and whining.",
+    "examples": [
+      "But I end up cowering, running away, sniveling.",
+      "Stop sniveling and tell me what happened."
+    ],
+    "usage": {
+      "pos": "verb (-ing) / adjective",
+      "pattern": "stop sniveling / a sniveling + person",
+      "partners": [
+        "stop sniveling",
+        "a sniveling coward",
+        "sniveling child"
+      ]
+    }
+  },
+  {
+    "word": "snore",
+    "memory": "loud breathing in sleep",
+    "meaning": "To breathe noisily through the nose and mouth while sleeping",
+    "hindi": "खर्राटे लेना",
+    "trick": "SNORE — the sound 'SNORRR' at night.",
+    "examples": [
+      "...and you snore so loud, he's had it!",
+      "My dad snores so loudly I can't sleep."
+    ],
+    "usage": {
+      "pos": "verb (also noun)",
+      "pattern": "snore loudly",
+      "partners": [
+        "snore loudly",
+        "stop snoring",
+        "loud snore"
+      ]
+    }
+  },
+  {
     "word": "snorkel",
     "memory": "breathing tube",
     "meaning": "A tube that lets you breathe while your face is under water",
@@ -5558,6 +6898,26 @@
     }
   },
   {
+    "word": "snuggle",
+    "memory": "cuddle up close",
+    "meaning": "To lie or sit close to someone in a warm, comfy way",
+    "hindi": "लिपटकर बैठना, सटकर सोना",
+    "trick": "SNUGGLE ≈ SNUG → warm and cosy",
+    "examples": [
+      "...or snuggle you and grieve along with you.",
+      "The puppy snuggled up to me on the sofa."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "snuggle up (to someone) / snuggle into something",
+      "partners": [
+        "snuggle up",
+        "snuggle under a blanket",
+        "snuggle together"
+      ]
+    }
+  },
+  {
     "word": "snugly",
     "memory": "tightly and warmly",
     "meaning": "In a close, warm and comfortable way; fitting closely",
@@ -5614,6 +6974,26 @@
         "soaped his hands",
         "soaped and rinsed",
         "hair soaped"
+      ]
+    }
+  },
+  {
+    "word": "soar",
+    "memory": "fly high",
+    "meaning": "To fly high in the air; also to rise quickly (prices soar)",
+    "hindi": "ऊँचा उड़ना; तेज़ी से बढ़ना",
+    "trick": "SOAR ≈ 'sore' neck from looking up at birds that soar.",
+    "examples": [
+      "I wish I could become a dragonfly and soar like that!",
+      "Eagles soar over the mountains."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "soar (into the sky / above something) / prices soar",
+      "partners": [
+        "soar high",
+        "prices soar",
+        "soar into the sky"
       ]
     }
   },
@@ -5794,6 +7174,46 @@
         "clear the sofrah",
         "spread the sofrah",
         "around the sofrah"
+      ]
+    }
+  },
+  {
+    "word": "soften",
+    "memory": "make softer, weaken",
+    "meaning": "To make something less hard, strong or harsh",
+    "hindi": "नरम करना, कम करना",
+    "trick": "SOFT + EN = make soft.",
+    "examples": [
+      "Oh, so you thrust at the curve diagonally to soften the temari's blow.",
+      "Leave the butter out to soften."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "soften something / soften the blow",
+      "partners": [
+        "soften the blow",
+        "soften the butter",
+        "soften your tone"
+      ]
+    }
+  },
+  {
+    "word": "soiled",
+    "memory": "dirty, stained",
+    "meaning": "Made dirty or stained",
+    "hindi": "गंदा, मैला",
+    "trick": "Covered in SOIL = soiled.",
+    "examples": [
+      "Those thick, blister-ridden, soiled hands!",
+      "Put the soiled clothes in the washing machine."
+    ],
+    "usage": {
+      "pos": "adjective / verb (past)",
+      "pattern": "soiled + clothes/hands / be soiled",
+      "partners": [
+        "soiled clothes",
+        "soiled hands",
+        "soiled nappies"
       ]
     }
   },
@@ -5994,6 +7414,26 @@
         "a solitary figure",
         "solitary confinement",
         "a single, solitary"
+      ]
+    }
+  },
+  {
+    "word": "solvent",
+    "memory": "dissolving liquid",
+    "meaning": "A liquid that dissolves other substances; also (adjective) having enough money to pay debts",
+    "hindi": "घोलने वाला द्रव, विलायक; कर्ज़ चुकाने योग्य",
+    "trick": "SOLVE-nt → it 'solves' (dissolves) things.",
+    "examples": [
+      "First, the solvent will melt those clothes out of the way.",
+      "Use a solvent to remove the paint."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a solvent (for something) / dissolve in a solvent",
+      "partners": [
+        "chemical solvent",
+        "paint solvent",
+        "industrial solvent"
       ]
     }
   },
@@ -6438,6 +7878,46 @@
     }
   },
   {
+    "word": "spank",
+    "memory": "slap on the bottom",
+    "meaning": "To hit someone, usually a child, on the bottom with an open hand as punishment",
+    "hindi": "चूतड़ पर थप्पड़ मारना",
+    "trick": "SPANK sounds like the slap — 'spank!'",
+    "examples": [
+      "I'm going to spank you! I'm very angry with you, young lady!",
+      "Many parents today don't spank their children."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "spank someone (for doing something)",
+      "partners": [
+        "spank a child",
+        "get spanked",
+        "spank someone for lying"
+      ]
+    }
+  },
+  {
+    "word": "spar",
+    "memory": "practise fighting",
+    "meaning": "To practise fighting with someone without real force; also to argue in a friendly way",
+    "hindi": "अभ्यास लड़ाई करना",
+    "trick": "SPAR → sparring partner in boxing.",
+    "examples": [
+      "We spar with each other, Hashira versus Hashira.",
+      "Boxers spar before a big fight."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "spar with someone",
+      "partners": [
+        "spar with",
+        "spar partner",
+        "spar verbally"
+      ]
+    }
+  },
+  {
     "word": "spare",
     "memory": "save from",
     "meaning": "To save someone from something unpleasant; also to give or have extra",
@@ -6474,6 +7954,106 @@
         "spared the pain",
         "spared his life",
         "be spared"
+      ]
+    }
+  },
+  {
+    "word": "sparingly",
+    "memory": "in small amounts",
+    "meaning": "Using only a little of something, carefully",
+    "hindi": "कम मात्रा में, किफ़ायत से",
+    "trick": "SPARE → spare it, don't waste.",
+    "examples": [
+      "Use that water sparingly!",
+      "Use salt sparingly in this recipe."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "use something sparingly",
+      "partners": [
+        "use sparingly",
+        "eat sparingly",
+        "sparingly used"
+      ]
+    }
+  },
+  {
+    "word": "sparkles",
+    "memory": "shines brightly",
+    "meaning": "Shines with small, bright flashes of light; also is lively",
+    "hindi": "चमकता है, जगमगाता है",
+    "trick": "SPARK-les → little sparks flying",
+    "examples": [
+      "At night, it sparkles and dazzles.",
+      "The lake sparkles in the morning sun."
+    ],
+    "usage": {
+      "pos": "verb (he/she/it form)",
+      "pattern": "something sparkles (with something)",
+      "partners": [
+        "sparkles in the sun",
+        "sparkles with life",
+        "eyes sparkle"
+      ]
+    }
+  },
+  {
+    "word": "sparkly",
+    "memory": "shiny, glittering",
+    "meaning": "Shining with small flashes of light; glittering",
+    "hindi": "चमकीला, जगमगाता",
+    "trick": "SPARK-ly → full of little sparks",
+    "examples": [
+      "Look, I'll give you these sparkly acorns!",
+      "She wore sparkly shoes to the party."
+    ],
+    "usage": {
+      "pos": "adjective (informal)",
+      "pattern": "sparkly + noun",
+      "partners": [
+        "sparkly dress",
+        "sparkly eyes",
+        "sparkly shoes"
+      ]
+    }
+  },
+  {
+    "word": "sparring",
+    "memory": "practice fighting",
+    "meaning": "Fighting for practice or for fun, without trying to really hurt; also arguing",
+    "hindi": "अभ्यास लड़ाई, नूरा कुश्ती",
+    "trick": "Sparring partner = 'spare' fighter for practice.",
+    "examples": [
+      "...and I don't enjoy sparring random passersby for amusement.",
+      "The boxers were sparring in the gym."
+    ],
+    "usage": {
+      "pos": "verb (-ing) / noun",
+      "pattern": "spar with someone / sparring partner",
+      "partners": [
+        "sparring partner",
+        "sparring session",
+        "sparring with"
+      ]
+    }
+  },
+  {
+    "word": "sparrow",
+    "memory": "small brown bird",
+    "meaning": "A small, common brown and grey bird",
+    "hindi": "गौरैया",
+    "trick": "SPARROW — small as an ARROW tip.",
+    "examples": [
+      "Was it distressed? The sparrow?",
+      "A sparrow built a nest on our balcony."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a sparrow + nest/chirping",
+      "partners": [
+        "house sparrow",
+        "little sparrow",
+        "sparrows chirping"
       ]
     }
   },
@@ -6534,6 +8114,26 @@
         "spat on the ground",
         "spat it out",
         "spat into"
+      ]
+    }
+  },
+  {
+    "word": "spawned",
+    "memory": "produced, created",
+    "meaning": "Produced or created, often suddenly or in large numbers; (of fish/frogs) laid eggs",
+    "hindi": "उत्पन्न हुए, पैदा किए गए",
+    "trick": "In games, enemies SPAWN — they just appear.",
+    "examples": [
+      "How are those vases spawned?",
+      "The hit film spawned three sequels."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something spawned something / be spawned",
+      "partners": [
+        "spawned a sequel",
+        "spawned a new trend",
+        "spawned many copies"
       ]
     }
   },
@@ -6718,6 +8318,26 @@
     }
   },
   {
+    "word": "spew",
+    "memory": "spit out, pour out",
+    "meaning": "To say a lot of something unpleasant or silly; also to pour out quickly in large amounts",
+    "hindi": "उगलना, बकना",
+    "trick": "SPEW ≈ spit + spray.",
+    "examples": [
+      "If you're going to spew such positive drivel...",
+      "The broken pipe started to spew water."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "spew something (out) / spew insults",
+      "partners": [
+        "spew insults",
+        "spew out",
+        "spew smoke"
+      ]
+    }
+  },
+  {
     "word": "spewed",
     "memory": "poured out (words)",
     "meaning": "Said or let out in a rush, often angrily or hatefully; also gushed out",
@@ -6734,6 +8354,26 @@
         "spewed hate",
         "spewed smoke",
         "spewed out"
+      ]
+    }
+  },
+  {
+    "word": "spiders",
+    "memory": "eight-legged web makers",
+    "meaning": "Small creatures with eight legs that spin webs to catch insects",
+    "hindi": "मकड़ियाँ",
+    "trick": "Spider-Man → spiders spin webs.",
+    "examples": [
+      "And this sound of spiders rustling around is so creepy!",
+      "There are spiders in the old shed."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "spiders spin webs / afraid of spiders",
+      "partners": [
+        "afraid of spiders",
+        "spiders' webs",
+        "poisonous spiders"
       ]
     }
   },
@@ -6818,6 +8458,26 @@
     }
   },
   {
+    "word": "spinning",
+    "memory": "turning round fast",
+    "meaning": "Turning round and round quickly",
+    "hindi": "घूमना, चक्कर खाना",
+    "trick": "A SPINNING top goes round and round.",
+    "examples": [
+      "So, you eluded it by spinning in the same direction as the Kouketsu Arrow?",
+      "My head is spinning after that ride."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "spin around / head is spinning",
+      "partners": [
+        "spinning around",
+        "spinning top",
+        "head spinning"
+      ]
+    }
+  },
+  {
     "word": "spiny",
     "memory": "prickly, thorny",
     "meaning": "Covered with sharp points or thorns",
@@ -6878,6 +8538,26 @@
     }
   },
   {
+    "word": "spite",
+    "memory": "wish to hurt, malice",
+    "meaning": "A wish to hurt, annoy or upset someone",
+    "hindi": "द्वेष, बैर",
+    "trick": "SPITe — spitting at someone out of nastiness.",
+    "examples": [
+      "That crow is just oozing spite.",
+      "She broke his toy out of spite."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "out of spite / in spite of something",
+      "partners": [
+        "out of spite",
+        "pure spite",
+        "in spite of"
+      ]
+    }
+  },
+  {
     "word": "spiteful",
     "memory": "mean, hurtful",
     "meaning": "Wanting to hurt or upset others on purpose",
@@ -6934,6 +8614,26 @@
         "brass spittoon",
         "old spittoon",
         "spit into a spittoon"
+      ]
+    }
+  },
+  {
+    "word": "splattered",
+    "memory": "splashed, spattered",
+    "meaning": "Splashed something wet or dirty in drops all over a surface",
+    "hindi": "छींटे डाले, छिड़क दिया",
+    "trick": "SPLAT! — the sound of mud hitting you.",
+    "examples": [
+      "You splattered my kimono with dust!",
+      "The car splattered mud on my jeans."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "splatter something with something / splatter something on/over something",
+      "partners": [
+        "splattered with mud",
+        "splattered with paint",
+        "blood-splattered"
       ]
     }
   },
@@ -7014,6 +8714,26 @@
         "get a splinter",
         "splinter of wood",
         "splinter of glass"
+      ]
+    }
+  },
+  {
+    "word": "splintered",
+    "memory": "split apart",
+    "meaning": "Broken or split into separate pieces or groups",
+    "hindi": "टूटकर बिखरा, अलग हुआ",
+    "trick": "SPLINTER → a thin piece of wood breaking off → split apart.",
+    "examples": [
+      "Splintered off from each other?",
+      "The old door splintered when he kicked it."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "splinter (off) from something / splinter into pieces",
+      "partners": [
+        "splintered off",
+        "splintered wood",
+        "splintered into groups"
       ]
     }
   },
@@ -7354,6 +9074,46 @@
         "sprightly old man",
         "sprightly tune",
         "sprightly step"
+      ]
+    }
+  },
+  {
+    "word": "springboard",
+    "memory": "launching point",
+    "meaning": "Something that helps you start or move forward to something bigger; also a board for jumping",
+    "hindi": "सहायक कदम, आधार; कूदने का तख़्ता",
+    "trick": "SPRING + BOARD — you jump off it to go higher.",
+    "examples": [
+      "Die on the battlefield and serve as my springboard!",
+      "The small job was a springboard to her career."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a springboard for/to something",
+      "partners": [
+        "springboard to success",
+        "springboard for",
+        "use as a springboard"
+      ]
+    }
+  },
+  {
+    "word": "springy",
+    "memory": "bouncy, elastic",
+    "meaning": "Bouncing back quickly when pressed",
+    "hindi": "लचीला, उछालदार",
+    "trick": "SPRING-y → bounces back like a spring.",
+    "examples": [
+      "How do you like how springy this octopus flesh is?",
+      "The new mattress feels nice and springy."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be springy / a springy + noun",
+      "partners": [
+        "springy texture",
+        "springy grass",
+        "springy step"
       ]
     }
   },
@@ -7818,6 +9578,26 @@
     }
   },
   {
+    "word": "squirming",
+    "memory": "wriggling, twisting about",
+    "meaning": "Twisting and wriggling the body, from discomfort, pain or embarrassment",
+    "hindi": "छटपटाना, कसमसाना",
+    "trick": "Squirm sounds like WORM — wriggling like a worm.",
+    "examples": [
+      "Squirming like an insect... How disgraceful is that!",
+      "The child kept squirming in his chair during the lecture."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "be squirming in/with something / squirm out of something",
+      "partners": [
+        "squirming in his seat",
+        "squirming with embarrassment",
+        "squirming around"
+      ]
+    }
+  },
+  {
     "word": "squirreling",
     "memory": "secretly saving, hiding",
     "meaning": "Hiding or storing something away (often money) to use later, like a squirrel with nuts",
@@ -7834,6 +9614,26 @@
         "squirreling away money",
         "squirreling away savings",
         "squirreling cash"
+      ]
+    }
+  },
+  {
+    "word": "stabbed",
+    "memory": "pierced with a knife",
+    "meaning": "Wounded or pierced with a knife or other sharp, pointed weapon",
+    "hindi": "छुरा घोंपा गया, चाकू मारा",
+    "trick": "Stab sounds like a 'stab' of pain — a sudden jab with a knife.",
+    "examples": [
+      "Where's the wound? Was he stabbed in the heart?",
+      "He was stabbed in the arm during the fight."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "be stabbed in + body part / stab someone with something",
+      "partners": [
+        "stabbed to death",
+        "stabbed in the back",
+        "stabbed with a knife"
       ]
     }
   },
@@ -7918,6 +9718,26 @@
     }
   },
   {
+    "word": "stagnant",
+    "memory": "not moving, stuck",
+    "meaning": "Not changing or developing; also (of water) not flowing and dirty",
+    "hindi": "ठहरा हुआ, स्थिर; रुका हुआ पानी",
+    "trick": "Stag-NANT → stagnant water, still and smelly.",
+    "examples": [
+      "...is what set the stagnant situation into motion.",
+      "Mosquitoes breed in stagnant water."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be/remain stagnant / a stagnant + noun",
+      "partners": [
+        "stagnant water",
+        "stagnant economy",
+        "remain stagnant"
+      ]
+    }
+  },
+  {
     "word": "stagnated",
     "memory": "stopped growing",
     "meaning": "Stopped developing, growing or making progress",
@@ -7998,6 +9818,26 @@
     }
   },
   {
+    "word": "stale",
+    "memory": "no longer fresh",
+    "meaning": "(Of food) no longer fresh; also, boring from being too familiar",
+    "hindi": "बासी",
+    "trick": "STALE → stale bread is 'stall' old.",
+    "examples": [
+      "That girl's gonna go stale on me, dammit!",
+      "The bread is stale; let's buy fresh."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "go stale / stale + food",
+      "partners": [
+        "go stale",
+        "stale bread",
+        "stale air"
+      ]
+    }
+  },
+  {
     "word": "stalemate",
     "memory": "deadlock, no progress",
     "meaning": "A situation where neither side can win or make progress",
@@ -8074,6 +9914,26 @@
         "stalled career",
         "stalled talks",
         "the engine stalled"
+      ]
+    }
+  },
+  {
+    "word": "stamina",
+    "memory": "staying power",
+    "meaning": "The physical or mental strength to keep going for a long time",
+    "hindi": "सहनशक्ति, दम-खम",
+    "trick": "STAMINA → STAY + MAN → the man who can STAY going.",
+    "examples": [
+      "I must've gone way past my stamina threshold!",
+      "Running every day builds your stamina."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "have the stamina to do something / build stamina",
+      "partners": [
+        "build stamina",
+        "lack stamina",
+        "physical stamina"
       ]
     }
   },
@@ -8494,6 +10354,26 @@
         "in its stead",
         "in his stead",
         "stand you in good stead"
+      ]
+    }
+  },
+  {
+    "word": "steadfastly",
+    "memory": "firmly, without changing",
+    "meaning": "In a firm, loyal way that does not change",
+    "hindi": "दृढ़ता से, अडिग होकर",
+    "trick": "STEADY + FAST (held fast) = firmly, never moving.",
+    "examples": [
+      "Time and time again, he steadfastly reprimanded me.",
+      "She steadfastly refused to give up."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "steadfastly + verb (refuse/support/believe)",
+      "partners": [
+        "steadfastly refused",
+        "steadfastly loyal",
+        "steadfastly supported"
       ]
     }
   },
@@ -9058,6 +10938,26 @@
     }
   },
   {
+    "word": "stink",
+    "memory": "bad smell",
+    "meaning": "A strong, very unpleasant smell; also (verb) to smell bad",
+    "hindi": "बदबू, दुर्गंध",
+    "trick": "STINK = stinky socks → yuck!",
+    "examples": [
+      "The one who's got the stink of those bento clinging to her!",
+      "There's a terrible stink coming from the bin."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the stink of something / something stinks",
+      "partners": [
+        "the stink of fish",
+        "a terrible stink",
+        "raise a stink"
+      ]
+    }
+  },
+  {
     "word": "stint",
     "memory": "period of work",
     "meaning": "A fixed period spent doing a job or activity",
@@ -9134,6 +11034,26 @@
         "a stirring of",
         "stirring speech",
         "soul-stirring"
+      ]
+    }
+  },
+  {
+    "word": "stoicism",
+    "memory": "calm endurance, no complaining",
+    "meaning": "Staying calm and not showing feelings when facing pain or trouble",
+    "hindi": "सहनशीलता, धैर्य",
+    "trick": "STOIC → Greek thinkers who 'stood' calm no matter what.",
+    "examples": [
+      "That look of fake stoicism...",
+      "She faced her illness with great stoicism."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "with stoicism / someone's stoicism",
+      "partners": [
+        "quiet stoicism",
+        "calm stoicism",
+        "with great stoicism"
       ]
     }
   },
@@ -9354,6 +11274,46 @@
         "stooping old man",
         "stooping figure",
         "stooping back"
+      ]
+    }
+  },
+  {
+    "word": "stopgap",
+    "memory": "temporary fill-in",
+    "meaning": "Something or someone used for a short time until a better one is found",
+    "hindi": "अस्थायी व्यवस्था, काम चलाऊ",
+    "trick": "It STOPs a GAP for now.",
+    "examples": [
+      "Someone seems thrilled to have made it as an Upper Rank bottom-feeder as a stopgap.",
+      "The tape is just a stopgap until we buy a new pipe."
+    ],
+    "usage": {
+      "pos": "noun; also adjective",
+      "pattern": "as a stopgap / a stopgap + measure/solution",
+      "partners": [
+        "stopgap measure",
+        "stopgap solution",
+        "as a stopgap"
+      ]
+    }
+  },
+  {
+    "word": "stored",
+    "memory": "kept (for later)",
+    "meaning": "Kept somewhere safe to be used later",
+    "hindi": "संग्रहित, रखा हुआ",
+    "trick": "STORE → STOREroom, where things are kept",
+    "examples": [
+      "After all, the Flame Hashira Chronicles are stored very carefully.",
+      "The winter clothes are stored in the attic."
+    ],
+    "usage": {
+      "pos": "verb (past participle)",
+      "pattern": "be stored in/at somewhere",
+      "partners": [
+        "stored safely",
+        "stored in a box",
+        "data stored"
       ]
     }
   },
@@ -9638,6 +11598,26 @@
     }
   },
   {
+    "word": "strap",
+    "memory": "band, belt",
+    "meaning": "A narrow strip of cloth or leather used to hold or carry something",
+    "hindi": "पट्टा, फीता",
+    "trick": "STRAP → wraps and traps your bag on the shoulder.",
+    "examples": [
+      "Sorry, Nezuko. The shoulder strap broke.",
+      "The strap on my sandal is loose."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the strap of something / a shoulder strap",
+      "partners": [
+        "shoulder strap",
+        "leather strap",
+        "watch strap"
+      ]
+    }
+  },
+  {
     "word": "strapped",
     "memory": "fastened with straps",
     "meaning": "Fastened or tied with a strap; also (informal, '... for cash') short of money",
@@ -9798,6 +11778,26 @@
     }
   },
   {
+    "word": "strenuous",
+    "memory": "very tiring, hard",
+    "meaning": "Needing great effort or energy",
+    "hindi": "कठिन, थकाने वाला",
+    "trick": "STRENuous → needs STRENgth.",
+    "examples": [
+      "That was the truly strenuous part.",
+      "Avoid strenuous exercise after surgery."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "strenuous + activity/exercise / be strenuous",
+      "partners": [
+        "strenuous exercise",
+        "strenuous effort",
+        "strenuous work"
+      ]
+    }
+  },
+  {
     "word": "strewn",
     "memory": "scattered",
     "meaning": "Scattered untidily over an area",
@@ -9874,6 +11874,26 @@
         "strident voice",
         "strident tone",
         "strident critic"
+      ]
+    }
+  },
+  {
+    "word": "strife",
+    "memory": "conflict",
+    "meaning": "Angry disagreement or fighting",
+    "hindi": "संघर्ष, कलह",
+    "trick": "STRIFE → 'strike' + 'fight' = conflict.",
+    "examples": [
+      "From here on out, you'll be going through such hardship and strife.",
+      "The country was torn by years of strife."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "strife (between people) / be in strife",
+      "partners": [
+        "civil strife",
+        "family strife",
+        "political strife"
       ]
     }
   },
@@ -10316,6 +12336,26 @@
     }
   },
   {
+    "word": "stupor",
+    "memory": "dazed state",
+    "meaning": "A state where you can hardly think or move, often from alcohol or shock",
+    "hindi": "बेहोशी, मदहोशी",
+    "trick": "STUPOR ≈ STUPID → drunk into a stupid daze.",
+    "examples": [
+      "I've done nothing but drink myself into a stupor and wallow.",
+      "He woke up in a stupor after the long flight."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "drink yourself into a stupor / in a stupor",
+      "partners": [
+        "drunken stupor",
+        "in a stupor",
+        "drink into a stupor"
+      ]
+    }
+  },
+  {
     "word": "sturdy",
     "memory": "strong, solid",
     "meaning": "Strong and solidly built; not easily broken or hurt",
@@ -10352,6 +12392,26 @@
         "pig sty",
         "mere sty",
         "dirty sty"
+      ]
+    }
+  },
+  {
+    "word": "subconscious",
+    "memory": "hidden part of the mind",
+    "meaning": "The part of the mind you are not aware of but which affects how you think and act",
+    "hindi": "अवचेतन मन",
+    "trick": "SUB (under) + CONSCIOUS → under your awareness",
+    "examples": [
+      "The realm of the subconscious exists just outside the dream.",
+      "Dreams may come from the subconscious."
+    ],
+    "usage": {
+      "pos": "noun / adjective",
+      "pattern": "the subconscious / a subconscious fear",
+      "partners": [
+        "subconscious mind",
+        "subconscious fear",
+        "deep in the subconscious"
       ]
     }
   },
@@ -10415,6 +12475,26 @@
     }
   },
   {
+    "word": "sublime",
+    "memory": "wonderful, awe-inspiring",
+    "meaning": "So excellent or beautiful that it fills you with wonder",
+    "hindi": "उत्कृष्ट, अद्भुत",
+    "trick": "SUBLIME sounds like 'super lime' — superbly great.",
+    "examples": [
+      "How sublime!",
+      "The view from the mountain top was sublime."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be sublime / a sublime + view/performance",
+      "partners": [
+        "sublime beauty",
+        "sublime view",
+        "from the sublime to the ridiculous"
+      ]
+    }
+  },
+  {
     "word": "suboptimal",
     "memory": "not ideal",
     "meaning": "Below the best possible level or quality",
@@ -10431,6 +12511,26 @@
         "suboptimal results",
         "slightly suboptimal",
         "suboptimal performance"
+      ]
+    }
+  },
+  {
+    "word": "subordination",
+    "memory": "obedience to those above",
+    "meaning": "The state of being under someone's control or authority and obeying them",
+    "hindi": "अधीनता, मातहती",
+    "trick": "SUB (under) + ORDINATION (order): under orders.",
+    "examples": [
+      "Which, in turn, undermines subordination.",
+      "The army depends on strict subordination to officers."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "subordination to someone/something",
+      "partners": [
+        "subordination to authority",
+        "strict subordination",
+        "subordination of women"
       ]
     }
   },
@@ -10571,6 +12671,26 @@
         "succumb to pressure",
         "succumb to temptation",
         "succumb to illness"
+      ]
+    }
+  },
+  {
+    "word": "succumbed",
+    "memory": "gave in, died",
+    "meaning": "Died from an illness or injury; also gave in to pressure or temptation",
+    "hindi": "दम तोड़ दिया; हार मान ली",
+    "trick": "SUCK-UMBED → sucked under, couldn't fight any more.",
+    "examples": [
+      "My beloved wife succumbed to illness.",
+      "I succumbed to temptation and ate the whole cake."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "succumb to something",
+      "partners": [
+        "succumbed to illness",
+        "succumbed to injuries",
+        "succumbed to temptation"
       ]
     }
   },
@@ -10775,6 +12895,46 @@
     }
   },
   {
+    "word": "sullied",
+    "memory": "stained, dirtied",
+    "meaning": "Made dirty or spoiled; also damaged someone's reputation",
+    "hindi": "मलिन किया, दाग लगाया",
+    "trick": "Sullied → soiled; sully = soil.",
+    "examples": [
+      "I sullied my master's beloved Soryu with blood...",
+      "The scandal sullied his good name."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "sully something (with something)",
+      "partners": [
+        "sullied his name",
+        "sullied reputation",
+        "sullied with blood"
+      ]
+    }
+  },
+  {
+    "word": "sulphur",
+    "memory": "yellow smelly element",
+    "meaning": "A yellow chemical element that smells like rotten eggs when burned",
+    "hindi": "गंधक",
+    "trick": "SULPHUR → 'sulk-fur' → smells so bad everyone sulks.",
+    "examples": [
+      "The sulphur smell from the hot springs is gone!",
+      "Matches contain a little sulphur."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the smell of sulphur / sulphur + noun",
+      "partners": [
+        "sulphur smell",
+        "sulphur springs",
+        "sulphur dioxide"
+      ]
+    }
+  },
+  {
     "word": "sum",
     "memory": "amount (of money)",
     "meaning": "An amount of money; also the total of numbers added together",
@@ -10895,6 +13055,26 @@
     }
   },
   {
+    "word": "sunlight",
+    "memory": "sun's light",
+    "meaning": "The light that comes from the sun",
+    "hindi": "धूप, सूर्य का प्रकाश",
+    "trick": "SUN + LIGHT = light of the sun.",
+    "examples": [
+      "They can only be killed by sunlight.",
+      "Plants need sunlight to grow."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in the sunlight / direct sunlight",
+      "partners": [
+        "direct sunlight",
+        "bright sunlight",
+        "morning sunlight"
+      ]
+    }
+  },
+  {
     "word": "sunlit",
     "memory": "lit by sunshine",
     "meaning": "Lit up or brightened by the sun",
@@ -10911,6 +13091,26 @@
         "sunlit room",
         "sunlit garden",
         "sunlit hair"
+      ]
+    }
+  },
+  {
+    "word": "sunset",
+    "memory": "evening sundown",
+    "meaning": "The time in the evening when the sun goes down",
+    "hindi": "सूर्यास्त",
+    "trick": "Sun + set → the sun sets.",
+    "examples": [
+      "It was a grueling event that went on interminably from sunset to dawn.",
+      "We walked on the beach at sunset."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "at sunset / watch the sunset",
+      "partners": [
+        "at sunset",
+        "beautiful sunset",
+        "watch the sunset"
       ]
     }
   },
@@ -11071,6 +13271,26 @@
         "have supper",
         "make supper",
         "after supper"
+      ]
+    }
+  },
+  {
+    "word": "supple",
+    "memory": "bendy, flexible",
+    "meaning": "Bending easily without breaking",
+    "hindi": "लचीला, मुलायम",
+    "trick": "SUPPLE ≈ 'super-pliable' → bends easily.",
+    "examples": [
+      "Is that because of how supple it is?",
+      "Yoga keeps your body supple."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be/stay supple / supple + noun",
+      "partners": [
+        "supple leather",
+        "supple body",
+        "stay supple"
       ]
     }
   },
@@ -11375,6 +13595,26 @@
     }
   },
   {
+    "word": "swamp",
+    "memory": "marsh, wetland",
+    "meaning": "Wet, soft land often covered with water; also (verb), to overwhelm",
+    "hindi": "दलदल",
+    "trick": "SWAMP → a 'swim + damp' place.",
+    "examples": [
+      "Inside a swamp...",
+      "Alligators live in the swamp."
+    ],
+    "usage": {
+      "pos": "noun (also verb)",
+      "pattern": "in a swamp / be swamped with something",
+      "partners": [
+        "muddy swamp",
+        "swamp land",
+        "swamped with work"
+      ]
+    }
+  },
+  {
     "word": "swamplands",
     "memory": "marshes, wetlands",
     "meaning": "Large areas of wet, soft, muddy land",
@@ -11431,6 +13671,26 @@
         "swarmed around",
         "swarmed the stage",
         "swarmed with people"
+      ]
+    }
+  },
+  {
+    "word": "swarming",
+    "memory": "crowding around in large numbers",
+    "meaning": "Moving around in a large, busy group (like bees)",
+    "hindi": "झुंड में मंडराते हुए, भीड़ लगाते हुए",
+    "trick": "SWARM of bees → buzzing all around",
+    "examples": [
+      "Are they swarming around him?",
+      "Fans were swarming around the singer."
+    ],
+    "usage": {
+      "pos": "verb (-ing form)",
+      "pattern": "be swarming around someone / be swarming with something",
+      "partners": [
+        "swarming bees",
+        "swarming with tourists",
+        "swarming around"
       ]
     }
   },
@@ -11631,6 +13891,26 @@
         "reduce the swelling",
         "swelling goes down",
         "painful swelling"
+      ]
+    }
+  },
+  {
+    "word": "swerve",
+    "memory": "turn sharply",
+    "meaning": "To change direction suddenly while moving",
+    "hindi": "अचानक मुड़ना",
+    "trick": "SWERVE — you SWERVE to avoid a cow on the road.",
+    "examples": [
+      "That temari will only swerve if I dodge it.",
+      "The bus had to swerve to miss the dog."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "swerve to avoid something / swerve off/into something",
+      "partners": [
+        "swerve to avoid",
+        "swerve off the road",
+        "sudden swerve"
       ]
     }
   },
@@ -11875,6 +14155,26 @@
     }
   },
   {
+    "word": "switching",
+    "memory": "changing, swapping",
+    "meaning": "Changing from one thing to another; also turning on/off",
+    "hindi": "बदलना, अदला-बदली करना",
+    "trick": "Light SWITCH → flip from one state to another.",
+    "examples": [
+      "It'll bring on the repercussions of forcibly switching...",
+      "I'm switching to a new phone plan."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "switching (from something) to something / switching on/off",
+      "partners": [
+        "switching jobs",
+        "switching sides",
+        "switching off"
+      ]
+    }
+  },
+  {
     "word": "swollen",
     "memory": "puffed up",
     "meaning": "Larger than normal, often from injury or filling with water",
@@ -11931,6 +14231,66 @@
         "swooping down",
         "swooping birds",
         "swooping and circling"
+      ]
+    }
+  },
+  {
+    "word": "swords",
+    "memory": "bladed weapons",
+    "meaning": "Weapons with long metal blades and handles",
+    "hindi": "तलवारें",
+    "trick": "SWORDS → the W is silent: 'sords'.",
+    "examples": [
+      "The swords wielded by the Demon Slayer Corps...",
+      "The knights drew their swords."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "draw/wield swords",
+      "partners": [
+        "draw swords",
+        "cross swords",
+        "wooden swords"
+      ]
+    }
+  },
+  {
+    "word": "swordsmith",
+    "memory": "sword maker",
+    "meaning": "A person who makes swords",
+    "hindi": "तलवार बनाने वाला",
+    "trick": "Sword + smith (maker), like blacksmith.",
+    "examples": [
+      "As a swordsmith, the child is still unseasoned.",
+      "The swordsmith worked at his forge all day."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a swordsmith / as a swordsmith",
+      "partners": [
+        "master swordsmith",
+        "skilled swordsmith",
+        "swordsmith's forge"
+      ]
+    }
+  },
+  {
+    "word": "swordsmiths",
+    "memory": "sword makers",
+    "meaning": "People who make swords",
+    "hindi": "तलवार बनाने वाले",
+    "trick": "Sword + smiths (makers), like blacksmiths.",
+    "examples": [
+      "For this piece, I used five swordsmiths to lavish, extravagant effect!",
+      "The village was home to many swordsmiths."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "swordsmiths + verb / a village of swordsmiths",
+      "partners": [
+        "village of swordsmiths",
+        "skilled swordsmiths",
+        "master swordsmiths"
       ]
     }
   },

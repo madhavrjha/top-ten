@@ -1,5 +1,45 @@
 [
   {
+    "word": "PR",
+    "memory": "public relations",
+    "meaning": "Public relations: the work of keeping a good public image for a person or company",
+    "hindi": "जनसंपर्क, छवि प्रबंधन",
+    "trick": "PR = Public Relations: making you look good in public.",
+    "examples": [
+      "If she just needed some PR advice, that would be one thing.",
+      "The company hired a PR team after the scandal."
+    ],
+    "usage": {
+      "pos": "noun (abbreviation)",
+      "pattern": "PR + noun / do PR for someone",
+      "partners": [
+        "PR advice",
+        "PR team",
+        "PR stunt"
+      ]
+    }
+  },
+  {
+    "word": "Panama hat",
+    "memory": "straw summer hat",
+    "meaning": "A light hat made of fine straw, worn in hot weather",
+    "hindi": "पनामा टोपी, घास की टोपी",
+    "trick": "PANAMA HAT: a straw hat famous from the PANAMA Canal workers.",
+    "examples": [
+      "He leaned forward, elbows on knees and his Panama hat between his hands.",
+      "Grandpa wears a Panama hat in the summer sun."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "wear a Panama hat",
+      "partners": [
+        "straw Panama hat",
+        "white Panama hat",
+        "wear a Panama hat"
+      ]
+    }
+  },
+  {
     "word": "pace",
     "memory": "speed",
     "meaning": "The speed at which someone walks, runs or moves; also the speed at which something happens",
@@ -216,6 +256,26 @@
         "pained expression",
         "pained look",
         "pained sigh"
+      ]
+    }
+  },
+  {
+    "word": "pains",
+    "memory": "hurts, saddens",
+    "meaning": "Makes someone feel sad or upset; also hurts physically",
+    "hindi": "दुःख देता है, पीड़ा देता है",
+    "trick": "PAIN → pains: it gives pain to the heart.",
+    "examples": [
+      "That pains my heart! It fills me with anguish!",
+      "It pains me to see you so sad."
+    ],
+    "usage": {
+      "pos": "verb (he/she/it form)",
+      "pattern": "it pains someone to do something / something pains someone",
+      "partners": [
+        "pains me",
+        "it pains me to say",
+        "pains my heart"
       ]
     }
   },
@@ -460,22 +520,22 @@
     }
   },
   {
-    "word": "Panama hat",
-    "memory": "straw summer hat",
-    "meaning": "A light hat made of fine straw, worn in hot weather",
-    "hindi": "पनामा टोपी, घास की टोपी",
-    "trick": "PANAMA HAT: a straw hat famous from the PANAMA Canal workers.",
+    "word": "pander",
+    "memory": "please someone weakly",
+    "meaning": "To try to please someone by doing what they want, even if it is wrong",
+    "hindi": "खुशामद करना, जी-हुजूरी करना",
+    "trick": "PANDA ≈ PANDER → a cute panda doing whatever you want",
     "examples": [
-      "He leaned forward, elbows on knees and his Panama hat between his hands.",
-      "Grandpa wears a Panama hat in the summer sun."
+      "Hunch over and rub your hands together, constantly pander to my every whim.",
+      "Don't pander to his demands."
     ],
     "usage": {
-      "pos": "noun",
-      "pattern": "wear a Panama hat",
+      "pos": "verb",
+      "pattern": "pander to someone/something",
       "partners": [
-        "straw Panama hat",
-        "white Panama hat",
-        "wear a Panama hat"
+        "pander to someone's whims",
+        "pander to voters",
+        "pander to demands"
       ]
     }
   },
@@ -540,6 +600,26 @@
     }
   },
   {
+    "word": "par",
+    "memory": "equal level",
+    "meaning": "An equal or normal level (on par with = as good as); also the usual score in golf",
+    "hindi": "बराबर, समान स्तर",
+    "trick": "Par → 'pair' — on the same level as a pair.",
+    "examples": [
+      "Just 'cause he's stronger doesn't mean he's on par with an Upper Rank!",
+      "Her cooking is on par with a restaurant's."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "on par with someone/something / up to par / below par",
+      "partners": [
+        "on par with",
+        "up to par",
+        "below par"
+      ]
+    }
+  },
+  {
     "word": "paraded",
     "memory": "showed off",
     "meaning": "Showed someone or something to others in order to impress or be chosen; also marched in a procession",
@@ -556,6 +636,26 @@
         "paraded through the streets",
         "paraded the trophy",
         "paraded in front of"
+      ]
+    }
+  },
+  {
+    "word": "paradise",
+    "memory": "heaven, perfect place",
+    "meaning": "Heaven; a place of perfect happiness; also a very beautiful place",
+    "hindi": "स्वर्ग, जन्नत",
+    "trick": "Para-DICE → in paradise every roll of the dice is a win.",
+    "examples": [
+      "Paradise doesn't even exist.",
+      "This beach is a paradise for swimmers."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a paradise for someone / in paradise",
+      "partners": [
+        "tropical paradise",
+        "paradise on earth",
+        "a shopper's paradise"
       ]
     }
   },
@@ -740,6 +840,26 @@
     }
   },
   {
+    "word": "parental",
+    "memory": "of parents",
+    "meaning": "Relating to a parent or parents",
+    "hindi": "माता-पिता का, पैतृक",
+    "trick": "PARENT + al = of a parent.",
+    "examples": [
+      "Such astounding parental love.",
+      "The movie needs parental guidance."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "parental + noun",
+      "partners": [
+        "parental love",
+        "parental guidance",
+        "parental leave"
+      ]
+    }
+  },
+  {
     "word": "pariah",
     "memory": "outcast",
     "meaning": "A person who is rejected and avoided by others",
@@ -816,6 +936,26 @@
         "parrot the script",
         "parrot the answers",
         "parrot someone's words"
+      ]
+    }
+  },
+  {
+    "word": "partake",
+    "memory": "eat, take part in (formal)",
+    "meaning": "To eat or drink something (formal); also to join in an activity",
+    "hindi": "ग्रहण करना, सेवन करना; भाग लेना",
+    "trick": "PART-TAKE → take your PART (share) of the food",
+    "examples": [
+      "Now then, let me partake of this with gratitude!",
+      "Would you like to partake of some cake?"
+    ],
+    "usage": {
+      "pos": "verb (formal)",
+      "pattern": "partake of something / partake in something",
+      "partners": [
+        "partake of food",
+        "partake in the fun",
+        "partake of a meal"
       ]
     }
   },
@@ -916,6 +1056,26 @@
         "curious passersby",
         "stopped passersby",
         "shouted at passersby"
+      ]
+    }
+  },
+  {
+    "word": "paste",
+    "memory": "thick soft mixture",
+    "meaning": "A thick, soft, smooth mixture (e.g. bean paste, toothpaste); also (verb) to stick something",
+    "hindi": "लेप, गाढ़ा पेस्ट; चिपकाना",
+    "trick": "PASTE = toothPASTE → thick and squeezy",
+    "examples": [
+      "Go on and eat your bean paste bun.",
+      "Mix the flour with water to make a paste."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a paste of something / make a paste",
+      "partners": [
+        "bean paste",
+        "tomato paste",
+        "make a paste"
       ]
     }
   },
@@ -1076,6 +1236,46 @@
         "patent-leather shoes",
         "patent-leather boots",
         "black patent-leather"
+      ]
+    }
+  },
+  {
+    "word": "pathetic",
+    "memory": "pitiful, weak",
+    "meaning": "So weak or useless that it makes you feel pity or scorn; also, causing sadness",
+    "hindi": "दयनीय, बेकार",
+    "trick": "PATHETIC → 'pity-tic': it makes you feel pity.",
+    "examples": [
+      "Stop that pathetic groveling!",
+      "That was a pathetic excuse for being late."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be pathetic / a pathetic + noun",
+      "partners": [
+        "pathetic excuse",
+        "pathetic attempt",
+        "look pathetic"
+      ]
+    }
+  },
+  {
+    "word": "patrolling",
+    "memory": "guarding by walking around",
+    "meaning": "Going around an area regularly to guard it or check for trouble",
+    "hindi": "गश्त लगाना, पहरा देना",
+    "trick": "PATROL → police on PATROL, walking around to keep watch.",
+    "examples": [
+      "Uzui was patrolling outside the Houses during the night, right?",
+      "Guards were patrolling the gate all night."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "patrol an area / be patrolling (the streets)",
+      "partners": [
+        "patrolling the streets",
+        "patrolling the border",
+        "police patrolling"
       ]
     }
   },
@@ -1419,6 +1619,26 @@
     }
   },
   {
+    "word": "pedigree",
+    "memory": "family line, ancestry",
+    "meaning": "A person's (or animal's) line of ancestors, especially a good or noble one",
+    "hindi": "वंशावली, खानदान",
+    "trick": "PEDIGREE dog food → dogs of pure family line.",
+    "examples": [
+      "Or those of distinguished pedigree who have hunted demons for generations...",
+      "Their dog has a long pedigree."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "of (good/noble) pedigree / have a pedigree",
+      "partners": [
+        "distinguished pedigree",
+        "noble pedigree",
+        "pedigree dog"
+      ]
+    }
+  },
+  {
     "word": "peeling away",
     "memory": "removing layers",
     "meaning": "Removing something layer by layer, slowly uncovering what is underneath",
@@ -1515,6 +1735,26 @@
         "pelting with stones",
         "pelting rain",
         "pelting each other"
+      ]
+    }
+  },
+  {
+    "word": "penalize",
+    "memory": "punish",
+    "meaning": "To punish someone for breaking a rule",
+    "hindi": "दंड देना, सज़ा देना",
+    "trick": "PENALty → penalize: give a penalty.",
+    "examples": [
+      "I request that you penalize both Kamado and Tomioka!",
+      "The referee will penalize the team for the foul."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "penalize someone for (doing) something",
+      "partners": [
+        "penalize for",
+        "heavily penalize",
+        "penalize the team"
       ]
     }
   },
@@ -1699,6 +1939,26 @@
     }
   },
   {
+    "word": "perceive",
+    "memory": "see, understand",
+    "meaning": "To see, notice or understand something in a particular way",
+    "hindi": "समझना, देखना",
+    "trick": "PER-CEIVE ≈ re-CEIVE → receive through your senses.",
+    "examples": [
+      "Don't be rigid about how you perceive the world...",
+      "Children perceive things differently from adults."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "perceive something (as something)",
+      "partners": [
+        "perceive the world",
+        "perceive as a threat",
+        "perceive a change"
+      ]
+    }
+  },
+  {
     "word": "perceptible",
     "memory": "noticeable",
     "meaning": "Just large or clear enough to be noticed",
@@ -1715,6 +1975,26 @@
         "barely perceptible",
         "perceptible change",
         "hardly perceptible"
+      ]
+    }
+  },
+  {
+    "word": "perceptive",
+    "memory": "quick to notice",
+    "meaning": "Quick to notice and understand things",
+    "hindi": "सूक्ष्मदर्शी, समझदार",
+    "trick": "PERCEIVE (notice) + TIVE — good at perceiving.",
+    "examples": [
+      "The young and the elderly are particularly perceptive.",
+      "She is very perceptive about people's feelings."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be perceptive about something / a perceptive + comment",
+      "partners": [
+        "very perceptive",
+        "perceptive comment",
+        "perceptive reader"
       ]
     }
   },
@@ -1775,6 +2055,26 @@
         "jump on to their perches",
         "wooden perches",
         "bird perches"
+      ]
+    }
+  },
+  {
+    "word": "perfection",
+    "memory": "flawless state",
+    "meaning": "The state of being perfect, with no faults",
+    "hindi": "पूर्णता, निपुणता",
+    "trick": "PERFECT + ion → perfection.",
+    "examples": [
+      "If you can only do one thing, hone it to perfection.",
+      "The cake was baked to perfection."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "to perfection / strive for perfection",
+      "partners": [
+        "cooked to perfection",
+        "strive for perfection",
+        "sheer perfection"
       ]
     }
   },
@@ -1875,6 +2175,26 @@
         "submarine periscope",
         "raise the periscope",
         "look through a periscope"
+      ]
+    }
+  },
+  {
+    "word": "perish",
+    "memory": "die, be destroyed",
+    "meaning": "To die, especially in a violent or sudden way; also to rot or decay",
+    "hindi": "मर जाना, नष्ट होना",
+    "trick": "PERISHable food goes bad — and people perish.",
+    "examples": [
+      "How many people do you think will perish while you drone on and on?",
+      "Many animals perish in the cold winter."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "perish in something (a fire, war)",
+      "partners": [
+        "perish in the fire",
+        "perish the thought",
+        "publish or perish"
       ]
     }
   },
@@ -2119,6 +2439,26 @@
     }
   },
   {
+    "word": "personified",
+    "memory": "in human form, perfect example",
+    "meaning": "Being a perfect example of a quality (as a person); also given human qualities",
+    "hindi": "साक्षात रूप, मूर्त रूप",
+    "trick": "PERSON-ified → a quality turned into a person.",
+    "examples": [
+      "They're selfishness personified.",
+      "She is kindness personified."
+    ],
+    "usage": {
+      "pos": "adjective / verb (past participle)",
+      "pattern": "quality + personified / personify something",
+      "partners": [
+        "evil personified",
+        "kindness personified",
+        "patience personified"
+      ]
+    }
+  },
+  {
     "word": "personnel",
     "memory": "staff, workers",
     "meaning": "The people who work for an organization or the army",
@@ -2299,6 +2639,26 @@
     }
   },
   {
+    "word": "pesky",
+    "memory": "annoying",
+    "meaning": "Annoying and causing trouble (informal)",
+    "hindi": "परेशान करने वाला, झंझटी (बोलचाल)",
+    "trick": "PESKY ≈ PEST → annoying like a pest.",
+    "examples": [
+      "You're a pesky one. More than I thought you'd be.",
+      "Those pesky flies keep landing on my food."
+    ],
+    "usage": {
+      "pos": "adjective (informal)",
+      "pattern": "a pesky + noun",
+      "partners": [
+        "pesky flies",
+        "pesky kids",
+        "pesky problem"
+      ]
+    }
+  },
+  {
     "word": "pest",
     "memory": "nuisance, annoying one",
     "meaning": "An annoying person or thing; also an insect or animal that damages crops or homes",
@@ -2355,6 +2715,26 @@
         "stop pestering me",
         "keep pestering",
         "pestering for money"
+      ]
+    }
+  },
+  {
+    "word": "petal",
+    "memory": "flower part",
+    "meaning": "One of the coloured leaf-like parts of a flower",
+    "hindi": "पंखुड़ी",
+    "trick": "PETAL ≈ PEDAL → flower 'pedals' spin in the wind.",
+    "examples": [
+      "Lord Tengen, would you mind giving me that petal?",
+      "A rose petal fell on the table."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a petal of a flower",
+      "partners": [
+        "rose petal",
+        "flower petal",
+        "petals fall"
       ]
     }
   },
@@ -2579,6 +2959,46 @@
     }
   },
   {
+    "word": "pickling",
+    "memory": "preserving in vinegar/brine",
+    "meaning": "Preserving food in vinegar or salty water",
+    "hindi": "अचार डालना",
+    "trick": "PICKLE → achaar making.",
+    "examples": [
+      "...and lifted up a 33-pound pickling stone.",
+      "My grandmother is busy pickling mangoes."
+    ],
+    "usage": {
+      "pos": "verb (-ing) / noun",
+      "pattern": "pickling + noun / pickle something",
+      "partners": [
+        "pickling stone",
+        "pickling jar",
+        "pickling spices"
+      ]
+    }
+  },
+  {
+    "word": "pickpocketing",
+    "memory": "stealing from pockets",
+    "meaning": "Stealing things from people's pockets or bags without them noticing",
+    "hindi": "जेब काटना, जेबकतरी",
+    "trick": "Pick + pocket → picking from a pocket.",
+    "examples": [
+      "You've already got three tattoos for pickpocketing on both arms!",
+      "Watch your wallet; pickpocketing is common on trains."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "be arrested for pickpocketing",
+      "partners": [
+        "arrested for pickpocketing",
+        "pickpocketing gang",
+        "beware of pickpocketing"
+      ]
+    }
+  },
+  {
     "word": "piebald",
     "memory": "black-and-white patched",
     "meaning": "(of an animal) having patches of two colours, usually black and white",
@@ -2615,6 +3035,46 @@
         "end of the pier",
         "fishing pier",
         "walk along the pier"
+      ]
+    }
+  },
+  {
+    "word": "pierced",
+    "memory": "stabbed through, made a hole in",
+    "meaning": "Went into or through something with a sharp point",
+    "hindi": "भेदा, छेद दिया",
+    "trick": "PIERCE → ear PIERCING → a hole through",
+    "examples": [
+      "I've pierced through his solar plexus with my right arm!",
+      "The nail pierced the tyre."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "pierce (through) something",
+      "partners": [
+        "pierced through",
+        "pierced the skin",
+        "pierced ears"
+      ]
+    }
+  },
+  {
+    "word": "piercing",
+    "memory": "stabbing through",
+    "meaning": "Going into or through something with a sharp point; also very loud or sharp (of sound, eyes)",
+    "hindi": "चुभना, भेदना; तीखा",
+    "trick": "PIERCING — like ear-PIERCING with a needle.",
+    "examples": [
+      "The bones are piercing my inner organs!",
+      "She has piercing blue eyes."
+    ],
+    "usage": {
+      "pos": "verb (-ing) / adjective",
+      "pattern": "pierce something / a piercing + scream/look",
+      "partners": [
+        "piercing scream",
+        "piercing eyes",
+        "piercing pain"
       ]
     }
   },
@@ -2695,6 +3155,26 @@
         "keep pigs",
         "raise pigs",
         "pigs on the farm"
+      ]
+    }
+  },
+  {
+    "word": "piles",
+    "memory": "hemorrhoids; also heaps",
+    "meaning": "(medical) swollen veins around the anus, hemorrhoids; also heaps of things placed on top of each other",
+    "hindi": "बवासीर; ढेर",
+    "trick": "Piles of clothes — heaps; and the medical 'piles' are swollen lumps.",
+    "examples": [
+      "Cuts, burns, hemorrhoids, bleeding piles, constipation...",
+      "There were piles of books on his desk."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "have piles / piles of something",
+      "partners": [
+        "bleeding piles",
+        "piles of books",
+        "piles of work"
       ]
     }
   },
@@ -2879,6 +3359,26 @@
     }
   },
   {
+    "word": "pinned",
+    "memory": "held fixed",
+    "meaning": "Held firmly in one place so it cannot move; also fastened with a pin",
+    "hindi": "जकड़ दिया, अटका दिया; पिन से लगाया",
+    "trick": "PIN → pinned to the board, can't move.",
+    "examples": [
+      "The belts are now pinned in one spot!",
+      "She pinned the photo to the wall."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "pin something/someone (down/to something)",
+      "partners": [
+        "pinned down",
+        "pinned to the wall",
+        "pinned in place"
+      ]
+    }
+  },
+  {
     "word": "pipe",
     "memory": "impossible hope",
     "meaning": "(~ dream) a hope or plan that can never come true; also a tube for carrying water or gas",
@@ -2895,6 +3395,26 @@
         "pipe dream",
         "water pipe",
         "burst pipe"
+      ]
+    }
+  },
+  {
+    "word": "pissant",
+    "memory": "worthless, petty (rude)",
+    "meaning": "Rude slang: tiny and worthless; also a worthless person",
+    "hindi": "तुच्छ, घटिया (अशिष्ट)",
+    "trick": "PISS + ANT → as small as an ant, worth nothing",
+    "examples": [
+      "Do you really think I'd fall victim to one of your pissant head-butts?",
+      "He was tired of his pissant little job."
+    ],
+    "usage": {
+      "pos": "adjective (rude slang)",
+      "pattern": "a pissant + noun",
+      "partners": [
+        "pissant little job",
+        "pissant town",
+        "pissant attack"
       ]
     }
   },
@@ -3019,6 +3539,26 @@
     }
   },
   {
+    "word": "pitfall",
+    "memory": "hidden danger, trap",
+    "meaning": "A hidden pit used as a trap; also, a hidden danger or difficulty",
+    "hindi": "गड्ढे वाला जाल; छिपा खतरा",
+    "trick": "PIT + FALL → you fall into a pit.",
+    "examples": [
+      "A pitfall?",
+      "One pitfall of online shopping is fake reviews."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a pitfall of something / avoid pitfalls",
+      "partners": [
+        "avoid pitfalls",
+        "common pitfall",
+        "hidden pitfall"
+      ]
+    }
+  },
+  {
     "word": "pitfalls",
     "memory": "hidden dangers",
     "meaning": "Hidden problems or dangers that are easy to fall into",
@@ -3115,6 +3655,26 @@
         "look pityingly",
         "smile pityingly",
         "shake his head pityingly"
+      ]
+    }
+  },
+  {
+    "word": "pivoted",
+    "memory": "turned sharply",
+    "meaning": "Turned quickly on one point or foot; also changed plans or direction",
+    "hindi": "घूम गया, मुड़ गया",
+    "trick": "Pivot → a door turning on its pin.",
+    "examples": [
+      "...pivoted at the last second...",
+      "The company pivoted to selling online."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "pivot on something / pivot to something",
+      "partners": [
+        "pivoted on his heel",
+        "pivoted to",
+        "pivoted quickly"
       ]
     }
   },
@@ -3235,6 +3795,26 @@
         "metal plaque",
         "brass plaque",
         "dental plaque"
+      ]
+    }
+  },
+  {
+    "word": "plastered",
+    "memory": "stuck all over",
+    "meaning": "Covered or stuck something thickly on a surface; also (informal) very drunk",
+    "hindi": "चिपका दिया, पोत दिया; (बोलचाल) नशे में धुत",
+    "trick": "PLASTER → stuck on the wall like plaster.",
+    "examples": [
+      "You plastered them on yourself, didn't you?",
+      "Her room is plastered with posters."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "plaster something on/over something / be plastered with something",
+      "partners": [
+        "plastered with posters",
+        "plastered on the wall",
+        "get plastered"
       ]
     }
   },
@@ -3439,6 +4019,46 @@
     }
   },
   {
+    "word": "plexus",
+    "memory": "network (of nerves); solar plexus = stomach pit",
+    "meaning": "A network of nerves or vessels; \"solar plexus\" = the area at the pit of the stomach",
+    "hindi": "तंत्रिका जाल; (सोलर प्लेक्सस) पेट का ऊपरी गड्ढा",
+    "trick": "PLEXUS ≈ comPLEX → a complex web of nerves",
+    "examples": [
+      "I've pierced through his solar plexus with my right arm!",
+      "The punch hit him right in the solar plexus."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the solar plexus / a nerve plexus",
+      "partners": [
+        "solar plexus",
+        "nerve plexus",
+        "a blow to the solar plexus"
+      ]
+    }
+  },
+  {
+    "word": "pliant",
+    "memory": "easily led; also bendable",
+    "meaning": "Easily influenced or controlled by others; also soft and bending easily",
+    "hindi": "आज्ञाकारी, आसानी से झुकने वाला; लचीला",
+    "trick": "Pliant ≈ PLIable — easy to bend, like pliers bend wire.",
+    "examples": [
+      "Since you have such an impressionable, pliant nature...",
+      "The new manager wanted a pliant team that never argued."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a pliant + person/nature/material",
+      "partners": [
+        "pliant nature",
+        "pliant leather",
+        "pliant workforce"
+      ]
+    }
+  },
+  {
     "word": "pliers",
     "memory": "gripping tool",
     "meaning": "A hand tool with two hinged arms for gripping, bending or cutting wire",
@@ -3575,6 +4195,26 @@
         "pull the plough",
         "plough a field",
         "horse-drawn plough"
+      ]
+    }
+  },
+  {
+    "word": "plow",
+    "memory": "dig up soil",
+    "meaning": "To turn over soil with a plough before planting; also the farm tool itself (US spelling of plough)",
+    "hindi": "हल चलाना, जोतना; हल",
+    "trick": "PLOW sounds like 'hal'-ow — the farmer's hal.",
+    "examples": [
+      "I'll even plow fields!",
+      "Farmers plow the land before the rains."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "plow a field/the land / plow through something",
+      "partners": [
+        "plow the fields",
+        "plow the land",
+        "plow through work"
       ]
     }
   },
@@ -3779,6 +4419,26 @@
     }
   },
   {
+    "word": "plunging",
+    "memory": "diving in; dropping fast",
+    "meaning": "Jumping or diving into water; also falling or dropping suddenly",
+    "hindi": "गोता लगाना; तेज़ी से गिरना",
+    "trick": "PLUNGE → plunger dives down.",
+    "examples": [
+      "You'll start off by cold plunging in the waterfall...",
+      "Prices are plunging this week."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "plunge into something / prices are plunging",
+      "partners": [
+        "cold plunging",
+        "plunging into water",
+        "plunging prices"
+      ]
+    }
+  },
+  {
     "word": "plush",
     "memory": "luxurious, fancy",
     "meaning": "Expensive, comfortable and luxurious; also a soft, thick fabric",
@@ -3839,6 +4499,26 @@
     }
   },
   {
+    "word": "pointless",
+    "memory": "useless, no purpose",
+    "meaning": "Having no purpose or use",
+    "hindi": "बेकार, निरर्थक",
+    "trick": "POINT-LESS → there's no point.",
+    "examples": [
+      "Even the most jaw-dropping attack is pointless if you can't land it, right?",
+      "It's pointless arguing with him."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "it is pointless to do / doing something",
+      "partners": [
+        "completely pointless",
+        "pointless argument",
+        "seem pointless"
+      ]
+    }
+  },
+  {
     "word": "poised",
     "memory": "hanging, ready",
     "meaning": "Held still in position, ready to move or act; also calm and confident",
@@ -3855,6 +4535,46 @@
         "poised to strike",
         "poised for success",
         "calm and poised"
+      ]
+    }
+  },
+  {
+    "word": "poison",
+    "memory": "deadly substance",
+    "meaning": "A substance that can kill or harm you if it gets into your body",
+    "hindi": "ज़हर, विष",
+    "trick": "POISON → 'poi' + 'son': don't let your son near poison.",
+    "examples": [
+      "Any minute now, you'll be rendered immobile by that poison.",
+      "Keep rat poison away from children."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "poison + someone / a deadly poison",
+      "partners": [
+        "deadly poison",
+        "rat poison",
+        "take poison"
+      ]
+    }
+  },
+  {
+    "word": "poisoned",
+    "memory": "given poison",
+    "meaning": "Harmed or killed by poison; also spoiled or made bad",
+    "hindi": "ज़हर दिया गया, विषाक्त",
+    "trick": "Poison + ed → the poison already got in.",
+    "examples": [
+      "Getting poisoned is so amusing!",
+      "The dog got poisoned after eating something on the street."
+    ],
+    "usage": {
+      "pos": "verb (past) / adjective",
+      "pattern": "get/be poisoned / poison someone with something",
+      "partners": [
+        "food poisoned",
+        "got poisoned",
+        "poisoned water"
       ]
     }
   },
@@ -3995,6 +4715,26 @@
         "ponder the question",
         "ponder over",
         "pause to ponder"
+      ]
+    }
+  },
+  {
+    "word": "pondering",
+    "memory": "thinking deeply",
+    "meaning": "Thinking about something carefully for a long time",
+    "hindi": "गहराई से सोचना",
+    "trick": "PONDER → sit by a pond and think.",
+    "examples": [
+      "I've been pondering myself ever since that day...",
+      "I was pondering what to eat for dinner."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "ponder (over) something / ponder whether...",
+      "partners": [
+        "pondering a question",
+        "pondering over",
+        "pondering whether"
       ]
     }
   },
@@ -4159,6 +4899,26 @@
     }
   },
   {
+    "word": "positioned",
+    "memory": "placed, put in place",
+    "meaning": "Put in a particular place or position, often for a purpose",
+    "hindi": "तैनात किया, स्थित किया",
+    "trick": "Position + ed → already put in place.",
+    "examples": [
+      "He had the Hashira positioned to arrive on the scene at any time...",
+      "The camera was positioned near the door."
+    ],
+    "usage": {
+      "pos": "verb (past) / adjective",
+      "pattern": "be positioned somewhere / be well positioned to do something",
+      "partners": [
+        "positioned near",
+        "well positioned",
+        "strategically positioned"
+      ]
+    }
+  },
+  {
     "word": "possessions",
     "memory": "belongings",
     "meaning": "Things that you own",
@@ -4215,6 +4975,26 @@
         "poster child",
         "put up a poster",
         "movie poster"
+      ]
+    }
+  },
+  {
+    "word": "posterity",
+    "memory": "future generations",
+    "meaning": "All the people who will live in the future",
+    "hindi": "आने वाली पीढ़ियाँ, भावी पीढ़ी",
+    "trick": "POST = after: those who come after us.",
+    "examples": [
+      "Then the least I can do is to pass down your name to posterity.",
+      "We took a photo for posterity."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "for posterity / pass something down to posterity",
+      "partners": [
+        "for posterity",
+        "preserved for posterity",
+        "remembered by posterity"
       ]
     }
   },
@@ -4419,22 +5199,22 @@
     }
   },
   {
-    "word": "PR",
-    "memory": "public relations",
-    "meaning": "Public relations: the work of keeping a good public image for a person or company",
-    "hindi": "जनसंपर्क, छवि प्रबंधन",
-    "trick": "PR = Public Relations: making you look good in public.",
+    "word": "practically",
+    "memory": "almost",
+    "meaning": "Almost, nearly; also in a practical way",
+    "hindi": "लगभग, प्रायः; व्यावहारिक रूप से",
+    "trick": "PRACTICALLY ≈ 'pretty much'.",
     "examples": [
-      "If she just needed some PR advice, that would be one thing.",
-      "The company hired a PR team after the scandal."
+      "Monichi and I are practically unscathed!",
+      "The tank is practically empty."
     ],
     "usage": {
-      "pos": "noun (abbreviation)",
-      "pattern": "PR + noun / do PR for someone",
+      "pos": "adverb",
+      "pattern": "practically + adjective / practically everyone",
       "partners": [
-        "PR advice",
-        "PR team",
-        "PR stunt"
+        "practically empty",
+        "practically impossible",
+        "practically everyone"
       ]
     }
   },
@@ -4475,6 +5255,26 @@
         "prance about",
         "prance around",
         "prance on stage"
+      ]
+    }
+  },
+  {
+    "word": "praying",
+    "memory": "talking to God",
+    "meaning": "Speaking to God to ask for help or give thanks; (praying mantis) an insect that holds its legs as if praying",
+    "hindi": "प्रार्थना करना",
+    "trick": "PRAY → 'praying mantis' looks like it's folding hands to pray.",
+    "examples": [
+      "You two go defeat that praying mantis!",
+      "She was praying for her mother's health."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "praying for something / praying to God",
+      "partners": [
+        "praying for rain",
+        "praying mantis",
+        "praying hard"
       ]
     }
   },
@@ -4759,6 +5559,26 @@
     }
   },
   {
+    "word": "premonition",
+    "memory": "feeling of what's coming",
+    "meaning": "A strong feeling that something, usually bad, is going to happen",
+    "hindi": "पूर्वाभास, आशंका",
+    "trick": "Pre (before) + monition (warning) → a warning before.",
+    "examples": [
+      "And I had goosebumps from an ominous premonition.",
+      "She had a premonition that the flight would be late."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "have a premonition of something / that...",
+      "partners": [
+        "ominous premonition",
+        "a premonition of danger",
+        "strange premonition"
+      ]
+    }
+  },
+  {
     "word": "preordained",
     "memory": "fated",
     "meaning": "Decided in advance by God or fate",
@@ -4795,6 +5615,26 @@
         "preparatory school",
         "preparatory work",
         "college preparatory"
+      ]
+    }
+  },
+  {
+    "word": "preposterous",
+    "memory": "absurd, ridiculous",
+    "meaning": "Completely unreasonable or silly; absurd",
+    "hindi": "बेतुका, हास्यास्पद",
+    "trick": "PRE (before) + POST (after): putting the after before — upside-down nonsense.",
+    "examples": [
+      "That's so preposterous, you make me laugh!",
+      "It's preposterous to charge so much for water."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "it is preposterous (to do / that...)",
+      "partners": [
+        "preposterous idea",
+        "utterly preposterous",
+        "preposterous claim"
       ]
     }
   },
@@ -4919,6 +5759,26 @@
     }
   },
   {
+    "word": "pressed",
+    "memory": "pushed firmly against",
+    "meaning": "Pushed firmly against something; also ironed flat",
+    "hindi": "दबाया गया, सटाया गया",
+    "trick": "PRESS a button = push it.",
+    "examples": [
+      "That chilling feeling of a blade pressed against your neck...",
+      "She pressed her face against the window."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "press something against/into something",
+      "partners": [
+        "pressed against",
+        "pressed the button",
+        "pressed for time"
+      ]
+    }
+  },
+  {
     "word": "pretender",
     "memory": "fake, imposter",
     "meaning": "A person who pretends or is only a weak copy of what they claim to be; also someone who claims a throne",
@@ -5035,6 +5895,26 @@
         "entitled prick",
         "prick of a needle",
         "prick your finger"
+      ]
+    }
+  },
+  {
+    "word": "pricked",
+    "memory": "stung, poked",
+    "meaning": "Made a tiny hole in or hurt with something sharp",
+    "hindi": "चुभा, चुभोया",
+    "trick": "PRICK = a needle's quick 'prick' — chhota sa chubhna.",
+    "examples": [
+      "Something just pricked me!",
+      "I pricked my finger on a rose thorn."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something pricked someone / prick your finger on something",
+      "partners": [
+        "pricked my finger",
+        "pricked by a thorn",
+        "pricked with a needle"
       ]
     }
   },
@@ -5374,6 +6254,26 @@
         "a little prodding",
         "at her prodding",
         "gentle prodding"
+      ]
+    }
+  },
+  {
+    "word": "prodigious",
+    "memory": "remarkably great",
+    "meaning": "Remarkably great in size, amount or talent",
+    "hindi": "असाधारण, विलक्षण",
+    "trick": "PRODIGY → a child prodigy = prodigious talent.",
+    "examples": [
+      "...was prodigious among the Ubuyashiki Clan.",
+      "She has a prodigious memory."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be prodigious / a prodigious + noun",
+      "partners": [
+        "prodigious talent",
+        "prodigious amount",
+        "prodigious memory"
       ]
     }
   },
@@ -5898,6 +6798,26 @@
     }
   },
   {
+    "word": "prosper",
+    "memory": "do well, flourish",
+    "meaning": "To be successful, especially in making money; to grow well",
+    "hindi": "फलना-फूलना, समृद्ध होना",
+    "trick": "PROSPER ≈ PROfit + SuPER → super profits.",
+    "examples": [
+      "Whose earnings was it that allowed this House to prosper so?",
+      "The small shop began to prosper after the new road opened."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "someone/something prospers / allow something to prosper",
+      "partners": [
+        "the business prospered",
+        "live long and prosper",
+        "help the town prosper"
+      ]
+    }
+  },
+  {
     "word": "prospering",
     "memory": "doing well",
     "meaning": "Becoming successful, especially with money",
@@ -5998,6 +6918,26 @@
     }
   },
   {
+    "word": "prostrate",
+    "memory": "lie face down (in respect)",
+    "meaning": "To lie flat on the ground, face down, to show respect or submission; also (adjective) lying flat or overcome",
+    "hindi": "साष्टांग प्रणाम करना, दंडवत होना",
+    "trick": "PRO-STRATE → lie STRAIGHT on the ground before a PRO (master)",
+    "examples": [
+      "Prostrate yourselves.",
+      "The pilgrims prostrated themselves before the temple."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "prostrate yourself before someone / be prostrate with grief",
+      "partners": [
+        "prostrate yourself",
+        "lie prostrate",
+        "prostrate with grief"
+      ]
+    }
+  },
+  {
     "word": "prostrated",
     "memory": "lying face down",
     "meaning": "Lying flat with the face down, often to pray or bow; also made weak or helpless",
@@ -6054,6 +6994,26 @@
         "protruded from",
         "protruded over",
         "protruded slightly"
+      ]
+    }
+  },
+  {
+    "word": "protrudes",
+    "memory": "sticks out",
+    "meaning": "Sticks out from a surface or beyond the edge",
+    "hindi": "बाहर निकला है, उभरा है",
+    "trick": "pro (forward) + trude (push) = pushes forward, sticks out.",
+    "examples": [
+      "She kinda protrudes, huh?",
+      "A nail protrudes from the wooden board."
+    ],
+    "usage": {
+      "pos": "verb (3rd person)",
+      "pattern": "something protrudes from something",
+      "partners": [
+        "protrudes from the wall",
+        "protruding teeth",
+        "protrudes slightly"
       ]
     }
   },
@@ -6154,6 +7114,46 @@
         "without provocation",
         "plea of provocation",
         "slightest provocation"
+      ]
+    }
+  },
+  {
+    "word": "prowess",
+    "memory": "great skill",
+    "meaning": "Great skill or ability in a particular activity; also, bravery in battle",
+    "hindi": "कौशल, पराक्रम",
+    "trick": "PROWESS → 'pro' + 'wess': a pro's skill.",
+    "examples": [
+      "Their physical prowess is remarkable.",
+      "She is known for her prowess on the tennis court."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "someone's prowess (in/at something)",
+      "partners": [
+        "physical prowess",
+        "military prowess",
+        "athletic prowess"
+      ]
+    }
+  },
+  {
+    "word": "prowl",
+    "memory": "hunting around",
+    "meaning": "Moving around quietly looking for something to hunt or steal",
+    "hindi": "शिकार की तलाश में घूमना",
+    "trick": "PROWL ≈ HOWL → a wolf prowls at night, then howls.",
+    "examples": [
+      "She must be on the prowl for humans.",
+      "The cat is on the prowl for mice."
+    ],
+    "usage": {
+      "pos": "noun / verb",
+      "pattern": "be on the prowl (for something) / prowl around",
+      "partners": [
+        "on the prowl",
+        "prowl the streets",
+        "prowl around"
       ]
     }
   },
@@ -6437,6 +7437,26 @@
     }
   },
   {
+    "word": "pulp",
+    "memory": "soft mushy mass",
+    "meaning": "A soft, wet, shapeless mass; 'beat to a pulp' = beat very badly; also, the soft part of fruit",
+    "hindi": "गूदा, लुगदी",
+    "trick": "PULP → orange juice with pulp — all mushy.",
+    "examples": [
+      "...and clobbered to a pulp.",
+      "I like orange juice with no pulp."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "beat someone to a pulp / the pulp of a fruit",
+      "partners": [
+        "beat to a pulp",
+        "fruit pulp",
+        "wood pulp"
+      ]
+    }
+  },
+  {
     "word": "pulsate",
     "memory": "throb, beat",
     "meaning": "To beat or throb with a steady rhythm",
@@ -6453,6 +7473,46 @@
         "pulsate with energy",
         "pulsate with music",
         "temples pulsate"
+      ]
+    }
+  },
+  {
+    "word": "pulsating",
+    "memory": "throbbing, beating",
+    "meaning": "Beating or moving in a steady rhythm; also very exciting",
+    "hindi": "धड़कता हुआ, स्पंदित; रोमांचक",
+    "trick": "Pulse + ating → the pulse keeps going and going.",
+    "examples": [
+      "And these pulsating buildings in constant motion...",
+      "The match had a pulsating finish."
+    ],
+    "usage": {
+      "pos": "adjective / verb (-ing)",
+      "pattern": "pulsating + noun / be pulsating with something",
+      "partners": [
+        "pulsating rhythm",
+        "pulsating lights",
+        "pulsating finish"
+      ]
+    }
+  },
+  {
+    "word": "pulsing",
+    "memory": "beating, throbbing",
+    "meaning": "Beating or moving with a steady rhythm, like a heartbeat",
+    "hindi": "धड़कता हुआ, स्पंदित",
+    "trick": "Pulse → doctors check your pulse; pulsing = beating like it.",
+    "examples": [
+      "The buildings themselves are throbbing like they're pulsing! It's like it's alive!",
+      "The music was pulsing through the walls."
+    ],
+    "usage": {
+      "pos": "verb (-ing) / adjective",
+      "pattern": "something is pulsing / pulsing with something",
+      "partners": [
+        "pulsing music",
+        "pulsing with energy",
+        "pulsing lights"
       ]
     }
   },
@@ -6497,6 +7557,26 @@
     }
   },
   {
+    "word": "pummeled",
+    "memory": "beaten repeatedly",
+    "meaning": "Hit someone or something again and again with fists",
+    "hindi": "पीट डाला, मुक्कों से मारा",
+    "trick": "PUMMEL — PUMP your fists again and again.",
+    "examples": [
+      "That's not why I got pummeled and kicked by that weird wild boar, right?",
+      "The boxer pummeled his opponent."
+    ],
+    "usage": {
+      "pos": "verb (past / past participle)",
+      "pattern": "pummel someone / get pummeled",
+      "partners": [
+        "got pummeled",
+        "pummeled with fists",
+        "pummeled by rain"
+      ]
+    }
+  },
+  {
     "word": "pummeling",
     "memory": "hitting repeatedly",
     "meaning": "Hitting someone or something again and again with the fists (US spelling)",
@@ -6517,6 +7597,26 @@
     }
   },
   {
+    "word": "punches",
+    "memory": "hard hits with the fist",
+    "meaning": "Hard hits made with a closed hand",
+    "hindi": "घूँसे, मुक्के",
+    "trick": "PUNCH → boxer punches.",
+    "examples": [
+      "I was clenching my fist to throw punches with full force.",
+      "The boxer threw three quick punches."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "throw/land punches",
+      "partners": [
+        "throw punches",
+        "land punches",
+        "pull no punches"
+      ]
+    }
+  },
+  {
     "word": "punctuated",
     "memory": "emphasised, interrupted",
     "meaning": "Stressed or broke up words or events with something at intervals",
@@ -6533,6 +7633,46 @@
         "punctuated by",
         "punctuated with",
         "punctuated his words"
+      ]
+    }
+  },
+  {
+    "word": "pungent",
+    "memory": "strong-smelling, sharp",
+    "meaning": "Having a very strong, sharp smell or taste",
+    "hindi": "तीखी गंध वाला, तेज़",
+    "trick": "PUNGENT ≈ 'pun-gent' → a gent whose socks have a pungent smell.",
+    "examples": [
+      "Talk about pungent!",
+      "Garlic has a pungent smell."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be pungent / a pungent + smell/taste",
+      "partners": [
+        "a pungent smell",
+        "pungent smoke",
+        "pungent cheese"
+      ]
+    }
+  },
+  {
+    "word": "pupils",
+    "memory": "students, disciples",
+    "meaning": "Students, especially young ones or those taught by a master; also, the black centres of the eyes",
+    "hindi": "शिष्य, छात्र; आँख की पुतलियाँ",
+    "trick": "PUPIL → a pupil looks into the teacher's eyes (pupil of the eye).",
+    "examples": [
+      "Each of them trains their pupils with their own regimen.",
+      "The teacher has thirty pupils in her class."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "train/teach pupils",
+      "partners": [
+        "train pupils",
+        "school pupils",
+        "dilated pupils"
       ]
     }
   },
@@ -6613,6 +7753,26 @@
         "in pursuance of",
         "pursuance of a goal",
         "pursuance of duty"
+      ]
+    }
+  },
+  {
+    "word": "pursuers",
+    "memory": "chasers",
+    "meaning": "People who are chasing someone",
+    "hindi": "पीछा करने वाले",
+    "trick": "PURSUE = chase → pursuers = chasers.",
+    "examples": [
+      "Kibutsuji has sent pursuers after Tanjiro.",
+      "The thief escaped from his pursuers."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "escape (from) your pursuers / send pursuers after someone",
+      "partners": [
+        "escape pursuers",
+        "lose the pursuers",
+        "send pursuers"
       ]
     }
   },

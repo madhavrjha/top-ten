@@ -100,6 +100,26 @@
     }
   },
   {
+    "word": "backward",
+    "memory": "towards the back; also behind others",
+    "meaning": "Towards the back or the opposite direction; also slower to develop than others",
+    "hindi": "पीछे की ओर; पिछड़ा",
+    "trick": "Back + ward (direction) = toward the back.",
+    "examples": [
+      "I'm here to denounce your every weak point backward and forward!",
+      "He took a step backward."
+    ],
+    "usage": {
+      "pos": "adverb (also adjective)",
+      "pattern": "backward and forward / step backward",
+      "partners": [
+        "backward and forward",
+        "a step backward",
+        "backward area"
+      ]
+    }
+  },
+  {
     "word": "badgering",
     "memory": "pestering, nagging",
     "meaning": "Asking someone again and again in an annoying way",
@@ -160,6 +180,46 @@
     }
   },
   {
+    "word": "bailing",
+    "memory": "leaving, backing out",
+    "meaning": "Informal: leaving or backing out of something suddenly; also removing water from a boat",
+    "hindi": "छोड़कर जाना, पीछे हटना (बोलचाल)",
+    "trick": "BAIL out → jump out of a plane.",
+    "examples": [
+      "We feel guilty, bailing like this now.",
+      "Sorry, I'm bailing on tonight's party."
+    ],
+    "usage": {
+      "pos": "verb (-ing, informal)",
+      "pattern": "bail (on someone/something) / bail out",
+      "partners": [
+        "bailing on",
+        "bailing out",
+        "bailing early"
+      ]
+    }
+  },
+  {
+    "word": "bald",
+    "memory": "hairless",
+    "meaning": "Having little or no hair on the head",
+    "hindi": "गंजा",
+    "trick": "BALD ≈ ball → a head as smooth as a ball.",
+    "examples": [
+      "So, why do I have to end up going bald and turning into a monster?",
+      "My uncle started going bald at thirty."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "go bald / a bald + head/man",
+      "partners": [
+        "go bald",
+        "a bald head",
+        "bald patch"
+      ]
+    }
+  },
+  {
     "word": "balk",
     "memory": "hesitate, refuse",
     "meaning": "To be unwilling to do or accept something; to hold back",
@@ -216,6 +276,26 @@
         "balmy evening",
         "balmy weather",
         "balmy breeze"
+      ]
+    }
+  },
+  {
+    "word": "bamboo",
+    "memory": "tall hollow grass",
+    "meaning": "A tall plant with hard, hollow stems, used to make furniture, baskets and hats",
+    "hindi": "बांस",
+    "trick": "BAM-BOO — 'BAMs' and 'BOOms' when you hit the hollow stick.",
+    "examples": [
+      "If you're gonna have udon, take off that bamboo thingie first!",
+      "Pandas love to eat bamboo."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a bamboo + stick/basket/hat",
+      "partners": [
+        "bamboo stick",
+        "bamboo basket",
+        "bamboo forest"
       ]
     }
   },
@@ -380,6 +460,26 @@
     }
   },
   {
+    "word": "barging",
+    "memory": "rushing in rudely",
+    "meaning": "Moving or entering quickly and rudely, without being invited",
+    "hindi": "घुस आना, धड़धड़ाते आना",
+    "trick": "BARGE — a big boat that crashes into everything.",
+    "examples": [
+      "Why do they all keep barging into someone else's home?",
+      "He came barging into the meeting late."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "barge into/in on somewhere/someone",
+      "partners": [
+        "barging into",
+        "barging in",
+        "barging past"
+      ]
+    }
+  },
+  {
     "word": "barley",
     "memory": "grain crop",
     "meaning": "A grain crop used for food, animal feed and making beer",
@@ -540,6 +640,46 @@
     }
   },
   {
+    "word": "baseless",
+    "memory": "without proof",
+    "meaning": "Not based on facts; untrue",
+    "hindi": "निराधार, बेबुनियाद",
+    "trick": "Base + less → no base (no facts) under it.",
+    "examples": [
+      "...was spew baseless lies.",
+      "The rumours about her were baseless."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "baseless + claims/lies / be baseless",
+      "partners": [
+        "baseless lies",
+        "baseless rumours",
+        "baseless claims"
+      ]
+    }
+  },
+  {
+    "word": "basement",
+    "memory": "underground floor",
+    "meaning": "A floor of a building below ground level",
+    "hindi": "तहखाना",
+    "trick": "BASE + MENT — the floor at the BASE of the house.",
+    "examples": [
+      "Unfortunately, I have to keep her husband restrained in the basement.",
+      "We keep old boxes in the basement."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in the basement",
+      "partners": [
+        "basement parking",
+        "in the basement",
+        "basement flat"
+      ]
+    }
+  },
+  {
     "word": "bases",
     "memory": "bottoms, stands",
     "meaning": "The bottom parts that things stand on; also military camps (plural of base)",
@@ -636,6 +776,26 @@
         "baby bassinet",
         "in the bassinet",
         "bedside bassinet"
+      ]
+    }
+  },
+  {
+    "word": "bastard",
+    "memory": "nasty person (rude); also illegitimate child",
+    "meaning": "Rude slang for an unpleasant or hateful person; also (old use) a child born to unmarried parents",
+    "hindi": "कमीना (अशिष्ट); नाजायज़ संतान",
+    "trick": "BAST-ard ≈ \"bas, tard!\" → a word you shout only when you've had enough",
+    "examples": [
+      "We're sorry! We're sorry! You bastard! Are you flaunting it?",
+      "He called the driver a bastard after nearly being hit."
+    ],
+    "usage": {
+      "pos": "noun (rude slang)",
+      "pattern": "you bastard / a lucky bastard",
+      "partners": [
+        "you bastard",
+        "a lucky bastard",
+        "a cruel bastard"
       ]
     }
   },
@@ -756,6 +916,46 @@
         "batting at flies",
         "batting at mosquitoes",
         "batting at a toy"
+      ]
+    }
+  },
+  {
+    "word": "battlefield",
+    "memory": "place of fighting",
+    "meaning": "A place where a battle is fought",
+    "hindi": "युद्धभूमि, रणभूमि",
+    "trick": "BATTLE + FIELD — Kurukshetra was a battlefield.",
+    "examples": [
+      "Die on the battlefield and serve as my springboard!",
+      "Many soldiers died on the battlefield."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "on the battlefield",
+      "partners": [
+        "on the battlefield",
+        "battlefield hero",
+        "bloody battlefield"
+      ]
+    }
+  },
+  {
+    "word": "battles",
+    "memory": "fights",
+    "meaning": "Fights between people, armies or groups; also struggles",
+    "hindi": "लड़ाइयां, युद्ध",
+    "trick": "BATTLE — Bat + tle: two bats fighting.",
+    "examples": [
+      "...battles between demons are futile.",
+      "She has won many battles against illness."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "fight/win/lose battles / battles between/against someone",
+      "partners": [
+        "fight battles",
+        "win battles",
+        "battles between"
       ]
     }
   },
@@ -940,6 +1140,26 @@
     }
   },
   {
+    "word": "bean",
+    "memory": "seed of a pod plant",
+    "meaning": "A seed of certain plants, cooked and eaten (e.g. kidney beans, red beans); also a coffee bean",
+    "hindi": "फली का बीज, सेम, राजमा जैसा दाना",
+    "trick": "BEAN ≈ \"bin\" → beans stored in a bin",
+    "examples": [
+      "Go on and eat your bean paste bun.",
+      "My mom makes a tasty bean curry."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a bean / beans",
+      "partners": [
+        "bean paste",
+        "green beans",
+        "coffee beans"
+      ]
+    }
+  },
+  {
     "word": "bearers",
     "memory": "carriers",
     "meaning": "People who carry something, especially a coffin at a funeral",
@@ -1059,6 +1279,26 @@
     }
   },
   {
+    "word": "beetle",
+    "memory": "hard-shelled insect",
+    "meaning": "An insect with a hard, shiny shell over its wings",
+    "hindi": "भृंग, गुबरैला",
+    "trick": "BEETLE ≈ 'Beatles' → bug band.",
+    "examples": [
+      "Just like a dung beetle can't read even if you show it a book!",
+      "A small black beetle crawled across the floor."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a (dung) beetle",
+      "partners": [
+        "dung beetle",
+        "black beetle",
+        "beetle shell"
+      ]
+    }
+  },
+  {
     "word": "befuddled",
     "memory": "confused, puzzled",
     "meaning": "Confused and unable to think clearly",
@@ -1119,6 +1359,26 @@
     }
   },
   {
+    "word": "begged",
+    "memory": "pleaded, asked desperately",
+    "meaning": "Asked for something in a very strong, desperate way; also asked for money or food",
+    "hindi": "गिड़गिड़ाया, भीख माँगी",
+    "trick": "Beggar → begged for help.",
+    "examples": [
+      "...and sob as you begged for your sister's life.",
+      "He begged his parents to let him go."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "beg (someone) for something / beg someone to do something",
+      "partners": [
+        "begged for mercy",
+        "begged for forgiveness",
+        "begged him to stay"
+      ]
+    }
+  },
+  {
     "word": "begrudged",
     "memory": "envied, resented",
     "meaning": "Felt jealous or unhappy that someone else had something (past); also gave something unwillingly",
@@ -1155,6 +1415,26 @@
         "public beheadings",
         "brutal beheadings",
         "hangings and beheadings"
+      ]
+    }
+  },
+  {
+    "word": "behold",
+    "memory": "look at, see",
+    "meaning": "To look at or see something, especially something special (old-fashioned)",
+    "hindi": "देखो, निहारना",
+    "trick": "BE + HOLD — hold your eyes on it and look.",
+    "examples": [
+      "I'd like you to behold Nezuko without the muzzle!",
+      "Behold, my new bike!"
+    ],
+    "usage": {
+      "pos": "verb (old-fashioned)",
+      "pattern": "behold someone/something / a sight to behold",
+      "partners": [
+        "a sight to behold",
+        "behold the view",
+        "lo and behold"
       ]
     }
   },
@@ -1279,6 +1559,66 @@
     }
   },
   {
+    "word": "bells",
+    "memory": "ringing metal cups",
+    "meaning": "Hollow metal objects that make a ringing sound when hit",
+    "hindi": "घंटियाँ",
+    "trick": "Bells → ding-dong, temple bells.",
+    "examples": [
+      "We lit bonfires around the house and put up ropes with bells on them.",
+      "The church bells rang at noon."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "bells ring / ring the bells",
+      "partners": [
+        "church bells",
+        "wedding bells",
+        "ring a bell"
+      ]
+    }
+  },
+  {
+    "word": "belly",
+    "memory": "stomach",
+    "meaning": "The stomach or front part of the body below the chest",
+    "hindi": "पेट",
+    "trick": "BELLY → 'belly button' is on your stomach.",
+    "examples": [
+      "And slit your own belly and die!",
+      "My belly hurts after eating too much."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "someone's belly / a full belly",
+      "partners": [
+        "belly ache",
+        "full belly",
+        "belly laugh"
+      ]
+    }
+  },
+  {
+    "word": "beloved",
+    "memory": "dearly loved",
+    "meaning": "Loved very much",
+    "hindi": "प्यारा, प्रिय",
+    "trick": "BE-LOVED → be loved dearly.",
+    "examples": [
+      "Things went from bad to worse when my beloved wife succumbed to illness.",
+      "He visited his beloved grandmother every Sunday."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "someone's beloved + noun / beloved by someone",
+      "partners": [
+        "beloved wife",
+        "beloved pet",
+        "beloved by all"
+      ]
+    }
+  },
+  {
     "word": "belt loops",
     "memory": "belt holders",
     "meaning": "The small fabric loops on trousers that hold a belt in place",
@@ -1295,6 +1635,26 @@
         "thumbs in belt loops",
         "through the belt loops",
         "torn belt loop"
+      ]
+    }
+  },
+  {
+    "word": "belts",
+    "memory": "straps (for waist)",
+    "meaning": "Strips of leather or cloth worn around the waist; also long bands",
+    "hindi": "पट्टे, कमरबंद",
+    "trick": "BELT → keeps your pants in place.",
+    "examples": [
+      "The belts he warded off with his sword ridge are now pinned in one spot!",
+      "The shop sells leather belts."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "wear belts / seat belts",
+      "partners": [
+        "leather belts",
+        "seat belts",
+        "conveyor belts"
       ]
     }
   },
@@ -1335,6 +1695,26 @@
         "in bemusement",
         "look of bemusement",
         "to my bemusement"
+      ]
+    }
+  },
+  {
+    "word": "bending",
+    "memory": "curving",
+    "meaning": "Curving or folding something; also leaning the body",
+    "hindi": "मुड़ना, झुकना",
+    "trick": "BEND → a road with a bend → bending.",
+    "examples": [
+      "It blunted my sword slash by bending and weaving.",
+      "Bending your knees helps when you lift something heavy."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "bending something / bending down/over",
+      "partners": [
+        "bending down",
+        "bending the rules",
+        "bending over"
       ]
     }
   },
@@ -1419,6 +1799,26 @@
     }
   },
   {
+    "word": "bento",
+    "memory": "Japanese packed lunch box",
+    "meaning": "A Japanese packed meal in a box with sections for rice, meat, vegetables, etc.",
+    "hindi": "जापानी डिब्बाबंद भोजन (लंचबॉक्स)",
+    "trick": "BENTO ≈ \"bento box\" = Japanese tiffin",
+    "examples": [
+      "The one who's got the stink of those bento clinging to her!",
+      "She packs a bento for her son every morning."
+    ],
+    "usage": {
+      "pos": "noun (Japanese loanword)",
+      "pattern": "a bento (box) / pack a bento",
+      "partners": [
+        "bento box",
+        "pack a bento",
+        "train-station bento"
+      ]
+    }
+  },
+  {
     "word": "berate",
     "memory": "scold angrily",
     "meaning": "To scold someone angrily",
@@ -1455,6 +1855,26 @@
         "over the berm",
         "sand berm",
         "berm sprints"
+      ]
+    }
+  },
+  {
+    "word": "berserk",
+    "memory": "wildly violent, out of control",
+    "meaning": "Out of control with anger or excitement, usually in 'go berserk'",
+    "hindi": "आपे से बाहर, पागल-सा",
+    "trick": "BERSERKers were wild Viking warriors who fought like mad bears.",
+    "examples": [
+      "...would unquestionably go berserk.",
+      "The crowd went berserk when the team scored."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "go berserk",
+      "partners": [
+        "go berserk",
+        "went berserk",
+        "drive someone berserk"
       ]
     }
   },
@@ -1979,6 +2399,26 @@
     }
   },
   {
+    "word": "bizarrely",
+    "memory": "strangely, weirdly",
+    "meaning": "In a very strange or unusual way",
+    "hindi": "अजीब तरह से, विचित्र रूप से",
+    "trick": "BIZARRE — 'bazaar' full of strange things.",
+    "examples": [
+      "His attacks are bizarrely low!",
+      "Bizarrely, the cat liked taking baths."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "bizarrely + adjective / Bizarrely, ...",
+      "partners": [
+        "bizarrely low",
+        "bizarrely enough",
+        "bizarrely dressed"
+      ]
+    }
+  },
+  {
     "word": "black sheep",
     "memory": "odd one out",
     "meaning": "A person seen as a disgrace or very different from the rest of their family or group",
@@ -2034,6 +2474,26 @@
         "full bladder",
         "weak bladder",
         "bladder infection"
+      ]
+    }
+  },
+  {
+    "word": "blade",
+    "memory": "sharp cutting edge",
+    "meaning": "The flat sharp cutting part of a knife, sword or tool; also a long thin leaf of grass",
+    "hindi": "धार, ब्लेड; घास की पत्ती",
+    "trick": "A razor BLADE.",
+    "examples": [
+      "That chilling feeling of a blade pressed against your neck...",
+      "Be careful, the blade is very sharp."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the blade of a knife/sword",
+      "partners": [
+        "sharp blade",
+        "razor blade",
+        "blade of grass"
       ]
     }
   },
@@ -2258,6 +2718,66 @@
     }
   },
   {
+    "word": "bleeding",
+    "memory": "losing blood",
+    "meaning": "Losing blood from the body",
+    "hindi": "खून बहना, रक्तस्राव",
+    "trick": "BLEED → blood leaks out.",
+    "examples": [
+      "Cuts, burns, hemorrhoids, bleeding piles, constipation...",
+      "His nose was bleeding after he fell."
+    ],
+    "usage": {
+      "pos": "verb (-ing) / adjective / noun",
+      "pattern": "be bleeding (from something) / stop the bleeding",
+      "partners": [
+        "stop the bleeding",
+        "bleeding badly",
+        "bleeding nose"
+      ]
+    }
+  },
+  {
+    "word": "blemish",
+    "memory": "flaw, stain",
+    "meaning": "Something that spoils how good or perfect a person or thing is; also a mark on the skin or a surface",
+    "hindi": "कलंक, दाग; धब्बा",
+    "trick": "Blemish → a BLEMISH on a dish: a spot that spoils it.",
+    "examples": [
+      "You, the sole blemish on my family!",
+      "She had a small blemish on her cheek."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a blemish on something",
+      "partners": [
+        "a blemish on his record",
+        "skin blemishes",
+        "without blemish"
+      ]
+    }
+  },
+  {
+    "word": "blend",
+    "memory": "mixture; mix together",
+    "meaning": "A mixture made by combining different things; also to mix things together smoothly",
+    "hindi": "मिश्रण; मिलाना",
+    "trick": "Blender → it makes a blend.",
+    "examples": [
+      "Do you think your next blend will work?",
+      "This tea is a blend of green and black leaves."
+    ],
+    "usage": {
+      "pos": "noun; also verb",
+      "pattern": "a blend of A and B / blend A with B / blend in",
+      "partners": [
+        "a perfect blend",
+        "blend of spices",
+        "blend in"
+      ]
+    }
+  },
+  {
     "word": "blinding",
     "memory": "overpowering, dazzling",
     "meaning": "So strong it stops you thinking or seeing clearly; also too bright to see",
@@ -2298,6 +2818,26 @@
     }
   },
   {
+    "word": "blink",
+    "memory": "eye shut quickly",
+    "meaning": "A quick shutting and opening of the eyes; 'in the blink of an eye' = very quickly",
+    "hindi": "पलक झपकना",
+    "trick": "BLINK → a tiny 'link' of darkness between seeing.",
+    "examples": [
+      "Wounds heal in the blink of an eye.",
+      "The holiday was over in the blink of an eye."
+    ],
+    "usage": {
+      "pos": "noun (also verb)",
+      "pattern": "in the blink of an eye / blink at someone",
+      "partners": [
+        "in the blink of an eye",
+        "without a blink",
+        "blink twice"
+      ]
+    }
+  },
+  {
     "word": "bliss",
     "memory": "perfect happiness",
     "meaning": "Perfect happiness",
@@ -2314,6 +2854,26 @@
         "pure bliss",
         "total bliss",
         "ignorance is bliss"
+      ]
+    }
+  },
+  {
+    "word": "blissful",
+    "memory": "extremely happy",
+    "meaning": "Full of great happiness and peace",
+    "hindi": "आनंदमय, परम सुखद",
+    "trick": "BLISS-ful → full of BLISS",
+    "examples": [
+      "So that you can have blissful dreams.",
+      "We spent a blissful week by the sea."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a blissful + noun / blissfully happy",
+      "partners": [
+        "blissful dreams",
+        "blissful silence",
+        "blissful ignorance"
       ]
     }
   },
@@ -2498,6 +3058,26 @@
     }
   },
   {
+    "word": "bloom",
+    "memory": "flowering",
+    "meaning": "The state of having flowers open; also (verb) to produce flowers or to grow well",
+    "hindi": "खिलना, फूलों से लदा होना",
+    "trick": "BLOOM ≈ \"boom\" of flowers → they burst open",
+    "examples": [
+      "And there are tons of white clovers in bloom!",
+      "The roses are in full bloom."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in bloom / in full bloom",
+      "partners": [
+        "in full bloom",
+        "come into bloom",
+        "flowers bloom"
+      ]
+    }
+  },
+  {
     "word": "blooming",
     "memory": "full of flowers",
     "meaning": "Full of flowers; growing well; also (British informal) used for emphasis like 'bloody'",
@@ -2598,6 +3178,26 @@
     }
   },
   {
+    "word": "blows",
+    "memory": "hits, strikes",
+    "meaning": "Hard hits with the hand, a weapon or an object; also bad shocks",
+    "hindi": "प्रहार, मार, वार",
+    "trick": "Blows → each blow knocks the wind out.",
+    "examples": [
+      "It's like there are magnets pulling his blows straight to the human body's vitals!",
+      "The boxer took several blows to the head."
+    ],
+    "usage": {
+      "pos": "noun (plural); also verb",
+      "pattern": "a blow to something / come to blows / deal a blow",
+      "partners": [
+        "heavy blows",
+        "come to blows",
+        "a blow to the head"
+      ]
+    }
+  },
+  {
     "word": "blue-lavender",
     "memory": "pale purple-blue",
     "meaning": "A soft, pale purple-blue colour",
@@ -2633,6 +3233,46 @@
         "blunt the impact",
         "blunt the pain",
         "blunt the heat"
+      ]
+    }
+  },
+  {
+    "word": "blunted",
+    "memory": "dulled, weakened",
+    "meaning": "Made something weaker or less sharp or effective",
+    "hindi": "कुंद कर दिया, कमज़ोर कर दिया",
+    "trick": "BLUNT + ed → made it not sharp.",
+    "examples": [
+      "It blunted my sword slash by bending and weaving.",
+      "The cold weather blunted our excitement for the trip."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "blunt something / be blunted by something",
+      "partners": [
+        "blunted the blade",
+        "blunted the attack",
+        "blunted the impact"
+      ]
+    }
+  },
+  {
+    "word": "blunts",
+    "memory": "dulls, weakens",
+    "meaning": "Makes something weaker or less sharp",
+    "hindi": "कुंद करता है, कमज़ोर करता है",
+    "trick": "BLUNT knife = not sharp → blunts = makes it un-sharp.",
+    "examples": [
+      "Wearing this stupid outfit blunts my senses like you wouldn't believe!",
+      "Too much sugar blunts your appetite for real food."
+    ],
+    "usage": {
+      "pos": "verb (he/she/it form)",
+      "pattern": "something blunts something",
+      "partners": [
+        "blunts the senses",
+        "blunts the impact",
+        "blunts the edge"
       ]
     }
   },
@@ -2810,6 +3450,26 @@
         "bogus claim",
         "bogus idea",
         "bogus company"
+      ]
+    }
+  },
+  {
+    "word": "boiling",
+    "memory": "bubbling with heat",
+    "meaning": "Very hot and bubbling; also full of strong feeling such as anger",
+    "hindi": "उबलता हुआ",
+    "trick": "BOIL → kettle boiling, anger boiling over.",
+    "examples": [
+      "...that seemed to be boiling over from the pit of my stomach.",
+      "Put the pasta in boiling water."
+    ],
+    "usage": {
+      "pos": "verb (-ing) / adjective",
+      "pattern": "be boiling (over) / boiling + noun",
+      "partners": [
+        "boiling water",
+        "boiling over",
+        "boiling hot"
       ]
     }
   },
@@ -2993,6 +3653,26 @@
     }
   },
   {
+    "word": "bonfires",
+    "memory": "big outdoor fires",
+    "meaning": "Large outdoor fires made for burning things or for celebration",
+    "hindi": "अलाव, होलिका जैसी बड़ी आग",
+    "trick": "Bon (good) + fires → big fires for a party.",
+    "examples": [
+      "We lit bonfires around the house and put up ropes with bells on them.",
+      "People sat around bonfires on the cold night."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "light a bonfire / around a bonfire",
+      "partners": [
+        "light bonfires",
+        "around the bonfire",
+        "bonfire night"
+      ]
+    }
+  },
+  {
     "word": "bonking",
     "memory": "losing all energy",
     "meaning": "Suddenly running out of energy during long exercise (informal, sports); also hitting lightly, or having sex (rude slang)",
@@ -3091,6 +3771,26 @@
     }
   },
   {
+    "word": "boot",
+    "memory": "as well, in addition",
+    "meaning": "In 'to boot': as well, in addition; also a heavy shoe covering the ankle, or a car's luggage space",
+    "hindi": "साथ ही, ऊपर से; जूता (बूट)",
+    "trick": "'To boot' = something extra kicked in with a BOOT on top.",
+    "examples": [
+      "And an eyesore to boot.",
+      "The hotel was cheap, and clean to boot."
+    ],
+    "usage": {
+      "pos": "noun (in the phrase 'to boot')",
+      "pattern": "..., and + adjective + to boot",
+      "partners": [
+        "to boot",
+        "rubber boots",
+        "car boot"
+      ]
+    }
+  },
+  {
     "word": "borderline",
     "memory": "almost, nearly",
     "meaning": "Almost, very close to being something; on the edge between two groups",
@@ -3147,6 +3847,46 @@
         "botched attempt",
         "botched job",
         "botched operation"
+      ]
+    }
+  },
+  {
+    "word": "bottom-feeder",
+    "memory": "lowest-ranked nobody",
+    "meaning": "Informal: an unimportant person of low status, or someone who profits from others' trouble; also a fish that feeds on the bottom",
+    "hindi": "निचले दर्जे का, तुच्छ व्यक्ति (बोलचाल)",
+    "trick": "A fish eating scraps at the BOTTOM of the tank.",
+    "examples": [
+      "Someone seems thrilled to have made it as an Upper Rank bottom-feeder.",
+      "He's just a bottom-feeder who copies other people's ideas."
+    ],
+    "usage": {
+      "pos": "noun (informal)",
+      "pattern": "a bottom-feeder / bottom-feeder + of something",
+      "partners": [
+        "a bottom-feeder",
+        "corporate bottom-feeder",
+        "bottom-feeder fish"
+      ]
+    }
+  },
+  {
+    "word": "boulder",
+    "memory": "huge rock",
+    "meaning": "A very large rock",
+    "hindi": "बड़ी चट्टान, शिलाखंड",
+    "trick": "BOULDER → 'bolder' rock — big and heavy.",
+    "examples": [
+      "If you can slice this boulder...",
+      "A huge boulder blocked the road."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a huge boulder",
+      "partners": [
+        "huge boulder",
+        "boulder rolled",
+        "climb a boulder"
       ]
     }
   },
@@ -3329,6 +4069,46 @@
     }
   },
   {
+    "word": "brace",
+    "memory": "prepare for something hard",
+    "meaning": "To prepare yourself for something difficult or unpleasant; also something that supports or holds firmly",
+    "hindi": "खुद को तैयार करना; सहारा",
+    "trick": "Brace for impact — hold tight like teeth braces.",
+    "examples": [
+      "So I'm going to brace myself and see it through.",
+      "Brace yourself — the exam results are out."
+    ],
+    "usage": {
+      "pos": "verb (also noun)",
+      "pattern": "brace yourself (for something)",
+      "partners": [
+        "brace yourself",
+        "brace for impact",
+        "teeth braces"
+      ]
+    }
+  },
+  {
+    "word": "bracing",
+    "memory": "tightening, preparing",
+    "meaning": "Tightening or steadying your body to be ready for force or impact; also, preparing for something hard",
+    "hindi": "कसना, तैयार होना",
+    "trick": "BRACE → braces hold teeth firm; bracing holds your body firm.",
+    "examples": [
+      "I get yelled at for not bracing my stomach.",
+      "We are bracing ourselves for a busy week."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "brace something / brace yourself for something",
+      "partners": [
+        "bracing for impact",
+        "brace yourself",
+        "bracing the stomach"
+      ]
+    }
+  },
+  {
     "word": "bragging",
     "memory": "showing off",
     "meaning": "Talking too proudly about yourself or what you have",
@@ -3388,6 +4168,26 @@
     }
   },
   {
+    "word": "braiding",
+    "memory": "plaiting hair",
+    "meaning": "Weaving three or more strands of hair or rope together",
+    "hindi": "चोटी बनाना, गूँथना",
+    "trick": "BRAID = the 'brain' of a ponytail — three strands woven.",
+    "examples": [
+      "Braiding sure is hard.",
+      "Mom is braiding my sister's hair."
+    ],
+    "usage": {
+      "pos": "verb (-ing) / noun",
+      "pattern": "braid something (hair/rope)",
+      "partners": [
+        "braiding hair",
+        "braiding rope",
+        "braiding her hair"
+      ]
+    }
+  },
+  {
     "word": "braids",
     "memory": "plaits",
     "meaning": "Lengths of hair twisted together (plural)",
@@ -3423,6 +4223,26 @@
       "partners": [
         "get brain boners",
         "give someone brain boners"
+      ]
+    }
+  },
+  {
+    "word": "brains",
+    "memory": "intelligence",
+    "meaning": "Intelligence or cleverness; also the organs inside heads",
+    "hindi": "दिमाग़, अक़्ल",
+    "trick": "BRAINS → 'have the brains' = be smart.",
+    "examples": [
+      "My sweet little sister was doing her best with what little brains she had.",
+      "She has the brains to be a doctor."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "have the brains to do something / use your brains",
+      "partners": [
+        "use your brains",
+        "rack your brains",
+        "beauty and brains"
       ]
     }
   },
@@ -3507,6 +4327,86 @@
     }
   },
   {
+    "word": "brat",
+    "memory": "annoying child",
+    "meaning": "A badly behaved, annoying child (informal, insulting)",
+    "hindi": "बदतमीज़ बच्चा (बोलचाल)",
+    "trick": "BRAT → 'brat' sounds like a bratty kid stamping feet.",
+    "examples": [
+      "Hey, are you listening, brat?",
+      "The spoiled brat screamed until he got the toy."
+    ],
+    "usage": {
+      "pos": "noun (informal)",
+      "pattern": "a (spoiled) brat",
+      "partners": [
+        "spoiled brat",
+        "little brat",
+        "act like a brat"
+      ]
+    }
+  },
+  {
+    "word": "brats",
+    "memory": "badly behaved kids",
+    "meaning": "Badly behaved, annoying children (informal, rude)",
+    "hindi": "बिगड़ैल बच्चे (बोलचाल)",
+    "trick": "BRATS → rhymes with RATS — little pests.",
+    "examples": [
+      "Stupid brats who start acting cranky don't belong on the battlefield.",
+      "The spoiled brats screamed for more candy."
+    ],
+    "usage": {
+      "pos": "noun (plural, informal)",
+      "pattern": "spoiled brats / you brats",
+      "partners": [
+        "spoiled brats",
+        "little brats",
+        "rich brats"
+      ]
+    }
+  },
+  {
+    "word": "bravado",
+    "memory": "fake bravery",
+    "meaning": "A show of courage or confidence, often to hide fear",
+    "hindi": "दिखावटी बहादुरी",
+    "trick": "BRAVO + DO → shouting 'bravo' to look brave.",
+    "examples": [
+      "Jeez, can't you even show me some bravado?",
+      "His bravado hid how nervous he was."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a show of bravado / out of bravado",
+      "partners": [
+        "show of bravado",
+        "false bravado",
+        "youthful bravado"
+      ]
+    }
+  },
+  {
+    "word": "brawling",
+    "memory": "fighting noisily",
+    "meaning": "Fighting in a rough, noisy way, usually in public",
+    "hindi": "झगड़ा करना, मारपीट करना",
+    "trick": "BRAWL ≈ BALL → a ball game turns into a brawl.",
+    "examples": [
+      "You have a lot of nerve, brawling in front of my House!",
+      "Two men were caught brawling outside the bar."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "brawling with someone / brawling in the street",
+      "partners": [
+        "brawling in the street",
+        "drunken brawling",
+        "brawling with fans"
+      ]
+    }
+  },
+  {
     "word": "brayed",
     "memory": "made donkey sounds",
     "meaning": "Made the loud, harsh sound of a donkey; also laughed loudly and harshly (past)",
@@ -3541,6 +4441,26 @@
       "partners": [
         "donkey brays",
         "brays loudly"
+      ]
+    }
+  },
+  {
+    "word": "brazen",
+    "memory": "shameless, bold",
+    "meaning": "Bold and without shame, even when doing something wrong",
+    "hindi": "बेशर्म, ढीठ",
+    "trick": "BRAZEN → 'brass' face — hard and shameless.",
+    "examples": [
+      "He was brazen enough to attack me unarmed.",
+      "The thief made a brazen escape in daylight."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be brazen enough to do something / a brazen + noun",
+      "partners": [
+        "brazen lie",
+        "brazen attack",
+        "brazen it out"
       ]
     }
   },
@@ -3584,6 +4504,26 @@
     }
   },
   {
+    "word": "breadwinner",
+    "memory": "main earner",
+    "meaning": "The person who earns the money that supports a family",
+    "hindi": "कमाने वाला, घर चलाने वाला",
+    "trick": "Bread + winner → the one who WINS the BREAD (money) for the family.",
+    "examples": [
+      "She's the breadwinner, on whom each house has lavished time and money.",
+      "After his father fell ill, he became the family's breadwinner."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the breadwinner (of the family)",
+      "partners": [
+        "the family breadwinner",
+        "the main breadwinner",
+        "sole breadwinner"
+      ]
+    }
+  },
+  {
     "word": "breast",
     "memory": "chest",
     "meaning": "The front of the upper body, the chest; also either of a woman's two milk-producing parts",
@@ -3600,6 +4540,26 @@
         "breast pocket",
         "chicken breast",
         "clutch to her breast"
+      ]
+    }
+  },
+  {
+    "word": "breathable",
+    "memory": "lets air through",
+    "meaning": "(Of a material) allowing air to pass through; also, fit to breathe",
+    "hindi": "हवादार, हवा आने-जाने वाला",
+    "trick": "BREATH + ABLE → the cloth can breathe.",
+    "examples": [
+      "The fabric is quite breathable.",
+      "These breathable shoes keep my feet cool."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be breathable / breathable + material",
+      "partners": [
+        "breathable fabric",
+        "breathable shoes",
+        "lightweight and breathable"
       ]
     }
   },
@@ -3703,6 +4663,26 @@
     }
   },
   {
+    "word": "breeze",
+    "memory": "very easy task; light wind",
+    "meaning": "Something very easy to do (informal); also a light, gentle wind",
+    "hindi": "बहुत आसान काम (बोलचाल); हल्की हवा",
+    "trick": "Easy as a cool BREEZE — no effort at all.",
+    "examples": [
+      "Locating you is a breeze, as well!",
+      "There's a cool breeze by the sea."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "something is a breeze / a cool/gentle breeze",
+      "partners": [
+        "a breeze",
+        "cool breeze",
+        "sea breeze"
+      ]
+    }
+  },
+  {
     "word": "breezed",
     "memory": "moved casually",
     "meaning": "Moved quickly and casually, in a light, confident way (past); also did something very easily",
@@ -3762,6 +4742,26 @@
     }
   },
   {
+    "word": "brewing",
+    "memory": "developing, starting",
+    "meaning": "Starting to develop (usually trouble or a plan); also making tea, coffee or beer",
+    "hindi": "पनपना, तैयार होना; बनाना (चाय/बीयर)",
+    "trick": "Tea BREWING in a pot → something slowly building up.",
+    "examples": [
+      "Well, well, I see you have some fun brewing here.",
+      "A storm is brewing in the west."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "something is brewing / brewing tea/coffee",
+      "partners": [
+        "trouble brewing",
+        "a storm brewing",
+        "brewing coffee"
+      ]
+    }
+  },
+  {
     "word": "bricked",
     "memory": "failed badly",
     "meaning": "(slang) Failed or messed up something badly (past); also made a phone or device stop working for good",
@@ -3778,6 +4778,26 @@
         "bricked the test",
         "bricked the shot",
         "bricked my phone"
+      ]
+    }
+  },
+  {
+    "word": "bride",
+    "memory": "woman getting married",
+    "meaning": "A woman on her wedding day or who has just got married",
+    "hindi": "दुल्हन, वधू",
+    "trick": "Bride rides to the wedding → BRIDE on a RIDE.",
+    "examples": [
+      "First look for my bride.",
+      "The bride wore a red dress at the wedding."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the bride and groom / someone's bride",
+      "partners": [
+        "bride and groom",
+        "the bride's family",
+        "a beautiful bride"
       ]
     }
   },
@@ -4100,6 +5120,26 @@
     }
   },
   {
+    "word": "brooded",
+    "memory": "worried gloomily",
+    "meaning": "Thought about something for a long time in a sad or worried way",
+    "hindi": "चिंता में डूबे रहे, कुढ़ते रहे",
+    "trick": "BROOD → a hen sitting on eggs → sitting on your sad thoughts.",
+    "examples": [
+      "There were many who brooded over not having the mark appear.",
+      "He brooded over his mistake for days."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "brood over/about something",
+      "partners": [
+        "brooded over",
+        "brooded about",
+        "brooded silently"
+      ]
+    }
+  },
+  {
     "word": "brooding",
     "memory": "serious, gloomy",
     "meaning": "Looking serious, thoughtful and a little sad or dark",
@@ -4278,6 +5318,26 @@
     }
   },
   {
+    "word": "brutal",
+    "memory": "cruel, violent",
+    "meaning": "Very cruel and violent; also very harsh or unpleasant",
+    "hindi": "क्रूर, निर्दयी",
+    "trick": "BRUTAL → BRUTE → acts like a wild beast.",
+    "examples": [
+      "You brutal fiends who torment the weak...",
+      "The cold this winter has been brutal."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a brutal + noun / be brutal",
+      "partners": [
+        "brutal attack",
+        "brutal honesty",
+        "brutal murder"
+      ]
+    }
+  },
+  {
     "word": "brute",
     "memory": "cruel person",
     "meaning": "A cruel, violent person or animal; also using only physical strength",
@@ -4334,6 +5394,26 @@
         "bucked over a pothole",
         "horse bucked",
         "bucked the trend"
+      ]
+    }
+  },
+  {
+    "word": "buckle",
+    "memory": "give way, bend",
+    "meaning": "(Of legs or a structure) to bend and give way under weight or pressure; also, to fasten with a buckle",
+    "hindi": "झुक जाना, लड़खड़ाना; बकसुआ लगाना",
+    "trick": "BUCKLE → a belt buckle bends; knees buckle and bend.",
+    "examples": [
+      "My legs are starting to buckle!",
+      "Buckle your seat belt before we start."
+    ],
+    "usage": {
+      "pos": "verb (also noun)",
+      "pattern": "someone's knees/legs buckle / buckle under pressure / buckle up",
+      "partners": [
+        "knees buckle",
+        "buckle under pressure",
+        "buckle up"
       ]
     }
   },
@@ -4473,6 +5553,26 @@
     }
   },
   {
+    "word": "bully",
+    "memory": "hurt weaker people",
+    "meaning": "To frighten or hurt someone weaker; also a person who does this",
+    "hindi": "धौंस जमाना, सताना; दबंग",
+    "trick": "BULL-y → pushes others around like a bull.",
+    "examples": [
+      "So I'll massacre everyone who had the nerve to bully her.",
+      "It's wrong to bully younger kids."
+    ],
+    "usage": {
+      "pos": "verb / noun",
+      "pattern": "bully someone (into doing something)",
+      "partners": [
+        "bully someone",
+        "school bully",
+        "bully into"
+      ]
+    }
+  },
+  {
     "word": "bum",
     "memory": "homeless person",
     "meaning": "A homeless person, or someone who won't work (informal, rude); also the bottom (British)",
@@ -4512,6 +5612,26 @@
     }
   },
   {
+    "word": "bummer",
+    "memory": "disappointing thing",
+    "meaning": "Something disappointing or annoying (informal slang)",
+    "hindi": "निराशाजनक बात (बोलचाल)",
+    "trick": "BUMMER → bum (bekaar) luck.",
+    "examples": [
+      "Bummer. I heard he was a Demon Slayer with a demon in tow.",
+      "The trip got cancelled? What a bummer!"
+    ],
+    "usage": {
+      "pos": "noun / exclamation (slang)",
+      "pattern": "What a bummer! / be a bummer",
+      "partners": [
+        "what a bummer",
+        "a real bummer",
+        "total bummer"
+      ]
+    }
+  },
+  {
     "word": "bumped into",
     "memory": "hit by accident",
     "meaning": "Hit someone or something by accident while moving (past); also met someone by chance",
@@ -4547,6 +5667,46 @@
       "partners": [
         "bumpier road",
         "bumpier ride"
+      ]
+    }
+  },
+  {
+    "word": "bun",
+    "memory": "small soft bread roll",
+    "meaning": "A small, round, soft bread roll, often sweet; also hair tied in a round knot",
+    "hindi": "गोल मीठी पाव रोटी, बन",
+    "trick": "BUN → the round bread in a burger \"bun\"",
+    "examples": [
+      "Go on and eat your bean paste bun.",
+      "I had a sweet bun with my tea."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a bun / a sweet bun",
+      "partners": [
+        "sweet bun",
+        "burger bun",
+        "hot cross bun"
+      ]
+    }
+  },
+  {
+    "word": "buns",
+    "memory": "small soft bread rolls",
+    "meaning": "Small, round, soft bread rolls, often sweet (plural of \"bun\")",
+    "hindi": "गोल मीठी पाव रोटियाँ, बन",
+    "trick": "BUNS → hot cross buns",
+    "examples": [
+      "I secretly snagged us some bean paste buns, so let's eat!",
+      "Mom baked fresh buns for breakfast."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "buns / sweet buns",
+      "partners": [
+        "sweet buns",
+        "cinnamon buns",
+        "fresh buns"
       ]
     }
   },
@@ -4711,6 +5871,26 @@
     }
   },
   {
+    "word": "burnt",
+    "memory": "damaged by fire",
+    "meaning": "Damaged, hurt or blackened by fire or heat",
+    "hindi": "जला हुआ, जल गया",
+    "trick": "Burnt toast — black and crispy.",
+    "examples": [
+      "I got home from work to find you burnt to a crisp.",
+      "The toast was burnt, so I made another."
+    ],
+    "usage": {
+      "pos": "verb (past) / adjective",
+      "pattern": "be burnt (to a crisp) / burnt + noun",
+      "partners": [
+        "burnt to a crisp",
+        "burnt toast",
+        "badly burnt"
+      ]
+    }
+  },
+  {
     "word": "burped",
     "memory": "let out gas",
     "meaning": "Let air come up noisily from the stomach through the mouth (past)",
@@ -4787,6 +5967,26 @@
         "burrowing its way",
         "burrowing animals",
         "burrowing into"
+      ]
+    }
+  },
+  {
+    "word": "burst",
+    "memory": "broke open suddenly",
+    "meaning": "Broke open or apart suddenly; also came or went suddenly with force",
+    "hindi": "फट गया",
+    "trick": "BURST → a balloon going BURST!",
+    "examples": [
+      "M-My eardrums just burst!",
+      "The balloon burst with a loud bang."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something burst / burst into tears/laughter",
+      "partners": [
+        "burst into tears",
+        "pipe burst",
+        "burst open"
       ]
     }
   },
@@ -5071,6 +6271,26 @@
     }
   },
   {
+    "word": "buzzing",
+    "memory": "humming sound; also lively",
+    "meaning": "Making a low humming sound like a bee; also full of activity and excitement",
+    "hindi": "भिनभिनाना; चहल-पहल",
+    "trick": "Bees go BUZZ.",
+    "examples": [
+      "The cicadas were buzzing really loud.",
+      "My phone kept buzzing during the meeting."
+    ],
+    "usage": {
+      "pos": "verb (-ing) / adjective",
+      "pattern": "be buzzing / be buzzing with something",
+      "partners": [
+        "buzzing bees",
+        "phone buzzing",
+        "buzzing with excitement"
+      ]
+    }
+  },
+  {
     "word": "by degrees",
     "memory": "little by little",
     "meaning": "Slowly and gradually, a little at a time",
@@ -5087,6 +6307,26 @@
         "get used to it by degrees",
         "improve by degrees",
         "change by degrees"
+      ]
+    }
+  },
+  {
+    "word": "bystanders",
+    "memory": "onlookers",
+    "meaning": "People who are near an event and see it but are not part of it",
+    "hindi": "तमाशबीन, पास खड़े लोग",
+    "trick": "BY + STANDERS → people STANDING BY.",
+    "examples": [
+      "The bystanders will get hurt again!",
+      "Several bystanders called for an ambulance."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "innocent bystanders",
+      "partners": [
+        "innocent bystanders",
+        "bystanders watched",
+        "shocked bystanders"
       ]
     }
   }

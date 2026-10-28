@@ -40,6 +40,26 @@
     }
   },
   {
+    "word": "taboo",
+    "memory": "forbidden",
+    "meaning": "Not allowed or not talked about because of custom, religion or social rules",
+    "hindi": "वर्जित, निषिद्ध",
+    "trick": "TABOO — 'tab? NO!' — don't touch it.",
+    "examples": [
+      "It's because it's taboo for us to draw our swords on each other for no reason!",
+      "Talking about salary is taboo in some offices."
+    ],
+    "usage": {
+      "pos": "adjective (also noun)",
+      "pattern": "it is taboo to do something / a taboo + subject",
+      "partners": [
+        "taboo subject",
+        "break a taboo",
+        "social taboo"
+      ]
+    }
+  },
+  {
     "word": "taciturn",
     "memory": "quiet, uncommunicative",
     "meaning": "Saying very little; not liking to talk",
@@ -276,6 +296,26 @@
         "tallied up",
         "tallied the votes",
         "tallied the score"
+      ]
+    }
+  },
+  {
+    "word": "talons",
+    "memory": "sharp claws",
+    "meaning": "The sharp, hooked claws of a bird of prey such as an eagle",
+    "hindi": "पंजे, नुकीले नाखून",
+    "trick": "TALONS — an eagle's TALL hooks.",
+    "examples": [
+      "How do you like my talons?",
+      "The eagle grabbed the fish with its talons."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "in someone's talons / with its talons",
+      "partners": [
+        "sharp talons",
+        "eagle's talons",
+        "sink its talons in"
       ]
     }
   },
@@ -720,6 +760,26 @@
     }
   },
   {
+    "word": "tattoos",
+    "memory": "skin ink marks",
+    "meaning": "Designs or marks made permanently on the skin with ink and a needle",
+    "hindi": "गोदना, टैटू",
+    "trick": "Tattoo = godna.",
+    "examples": [
+      "You've already got three tattoos for pickpocketing on both arms!",
+      "He has tattoos on both arms."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "have/get tattoos on somewhere",
+      "partners": [
+        "get tattoos",
+        "covered in tattoos",
+        "arm tattoos"
+      ]
+    }
+  },
+  {
     "word": "taunting",
     "memory": "mocking, teasing",
     "meaning": "Making fun of someone or provoking them in a cruel way",
@@ -856,6 +916,26 @@
         "teed up",
         "teed herself up",
         "teed off"
+      ]
+    }
+  },
+  {
+    "word": "teeming",
+    "memory": "full of, crowded",
+    "meaning": "Full of people, animals or things moving around",
+    "hindi": "भरा हुआ, खचाखच",
+    "trick": "TEEMING ≈ TEAM-ing → whole teams of people",
+    "examples": [
+      "It's teeming with people!",
+      "The river is teeming with fish."
+    ],
+    "usage": {
+      "pos": "adjective / verb (-ing form)",
+      "pattern": "be teeming with something",
+      "partners": [
+        "teeming with people",
+        "teeming with life",
+        "teeming crowds"
       ]
     }
   },
@@ -1360,6 +1440,26 @@
     }
   },
   {
+    "word": "texture",
+    "memory": "feel of a surface",
+    "meaning": "The way a surface or material feels when you touch it",
+    "hindi": "बनावट, स्पर्श",
+    "trick": "TEXTURE → 'text' on paper you can feel — rough or smooth.",
+    "examples": [
+      "I know the texture of the masks Urokodaki carved.",
+      "This cloth has a soft texture."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the texture of something",
+      "partners": [
+        "smooth texture",
+        "rough texture",
+        "soft texture"
+      ]
+    }
+  },
+  {
     "word": "theatrical",
     "memory": "dramatic, showy",
     "meaning": "Exaggerated and showy, as if acting; also to do with the theatre",
@@ -1516,6 +1616,26 @@
         "silver thimble",
         "a thimble of",
         "sewing thimble"
+      ]
+    }
+  },
+  {
+    "word": "thingie",
+    "memory": "thing, whatsit",
+    "meaning": "A thing whose name you don't know or can't remember (informal)",
+    "hindi": "चीज़, वो चीज़ (बोलचाल)",
+    "trick": "THING + IE — a cute, lazy way to say 'thing'.",
+    "examples": [
+      "If you're gonna have udon, take off that bamboo thingie first!",
+      "Pass me that remote thingie, please."
+    ],
+    "usage": {
+      "pos": "noun (informal)",
+      "pattern": "that + noun + thingie",
+      "partners": [
+        "that thingie",
+        "little thingie",
+        "plastic thingie"
       ]
     }
   },
@@ -1680,6 +1800,26 @@
     }
   },
   {
+    "word": "threads",
+    "memory": "clothes",
+    "meaning": "Clothes (informal); also thin strands of cotton or silk used for sewing",
+    "hindi": "कपड़े (बोलचाल); धागे",
+    "trick": "Clothes are made of THREADS, so slang calls clothes 'threads'.",
+    "examples": [
+      "Hey, look at you, decked out in those posh-looking threads!",
+      "She bought red threads to fix her torn dupatta."
+    ],
+    "usage": {
+      "pos": "noun (plural; slang for clothes)",
+      "pattern": "nice/new/fancy threads; a needle and thread",
+      "partners": [
+        "fancy threads",
+        "new threads",
+        "cotton threads"
+      ]
+    }
+  },
+  {
     "word": "threshed",
     "memory": "grain beaten out",
     "meaning": "(Of corn or wheat) beaten to separate the grain from the stalks",
@@ -1716,6 +1856,66 @@
         "threshing machine",
         "threshing floor",
         "threshing season"
+      ]
+    }
+  },
+  {
+    "word": "threshold",
+    "memory": "limit level; doorway",
+    "meaning": "The level at which something starts or can be borne; also the floor at the entrance of a door",
+    "hindi": "सीमा, दहलीज़",
+    "trick": "THRESHOLD — the door HOLDS you until you cross the line.",
+    "examples": [
+      "After all, we all have a different pain threshold.",
+      "He stopped at the threshold and looked inside."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "pain threshold / on the threshold of something",
+      "partners": [
+        "pain threshold",
+        "on the threshold of",
+        "cross the threshold"
+      ]
+    }
+  },
+  {
+    "word": "thrilled",
+    "memory": "very happy, excited",
+    "meaning": "Very pleased and excited",
+    "hindi": "बहुत खुश, रोमांचित",
+    "trick": "Thrill → a roller-coaster thrill makes you thrilled.",
+    "examples": [
+      "Someone seems thrilled to have made it as an Upper Rank bottom-feeder.",
+      "I was thrilled to get the job."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be thrilled to do something / thrilled with/about something",
+      "partners": [
+        "thrilled to bits",
+        "absolutely thrilled",
+        "thrilled with the result"
+      ]
+    }
+  },
+  {
+    "word": "thrive",
+    "memory": "grow well, succeed",
+    "meaning": "To grow strongly and healthily, or to be very successful",
+    "hindi": "फलना-फूलना, खूब तरक्की करना",
+    "trick": "THRIVE ≈ \"three-five\" → business going from 3 to 5, growing!",
+    "examples": [
+      "Mister, I bet you'd really thrive if you set up shop in Ueno!",
+      "Plants thrive in sunlight and water."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "thrive in/on something",
+      "partners": [
+        "thrive on hard work",
+        "thrive in a city",
+        "businesses thrive"
       ]
     }
   },
@@ -1880,6 +2080,46 @@
     }
   },
   {
+    "word": "thrusting",
+    "memory": "pushing forward hard",
+    "meaning": "Pushing or stabbing suddenly and forcefully forward",
+    "hindi": "ज़ोर से आगे धकेलना, भोंकना",
+    "trick": "THRUST — a rocket's THRUST pushes it forward.",
+    "examples": [
+      "The fastest thrusting technique...",
+      "He was thrusting his way through the crowd."
+    ],
+    "usage": {
+      "pos": "verb (-ing) / adjective",
+      "pattern": "thrust something into/at something",
+      "partners": [
+        "thrusting technique",
+        "thrusting forward",
+        "thrusting a sword"
+      ]
+    }
+  },
+  {
+    "word": "thrusts",
+    "memory": "sharp pushes, stabs",
+    "meaning": "Sudden strong forward pushes, especially with a sword or knife; also pushes something forward hard",
+    "hindi": "ज़ोरदार वार, धक्के; घोंपता है",
+    "trick": "Thrust → 'trust' your sword, push it forward hard.",
+    "examples": [
+      "Thrusts can't kill a demon.",
+      "He thrusts his hands into his pockets when he is nervous."
+    ],
+    "usage": {
+      "pos": "noun (plural); also verb",
+      "pattern": "a thrust (of a sword) / thrust something into something",
+      "partners": [
+        "sword thrusts",
+        "thrusts forward",
+        "the main thrust of the argument"
+      ]
+    }
+  },
+  {
     "word": "thudding",
     "memory": "pounding, thumping",
     "meaning": "Making a dull heavy beating sound",
@@ -1960,6 +2200,26 @@
     }
   },
   {
+    "word": "thwart",
+    "memory": "block, stop",
+    "meaning": "To stop someone from doing what they planned",
+    "hindi": "नाकाम करना, रोकना",
+    "trick": "THWART ≈ thwack → whack their plans away.",
+    "examples": [
+      "...had the gall to constantly thwart me...",
+      "The police thwarted the robbery."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "thwart someone/something",
+      "partners": [
+        "thwart a plan",
+        "thwart an attack",
+        "thwart someone's efforts"
+      ]
+    }
+  },
+  {
     "word": "thwarted",
     "memory": "stopped, blocked",
     "meaning": "Stopped someone from doing what they planned",
@@ -1996,6 +2256,26 @@
         "fractured tibia",
         "broken tibia",
         "tibia and fibula"
+      ]
+    }
+  },
+  {
+    "word": "tickled",
+    "memory": "touched lightly to make laugh",
+    "meaning": "Touched lightly so that someone laughed or wriggled; (informal) pleased or amused",
+    "hindi": "गुदगुदी की गई; (बोलचाल) खुश हुआ",
+    "trick": "TICKLE — tick-tick with fingers till you giggle.",
+    "examples": [
+      "Mr. Haganezuka always goes limp for a while after being tickled.",
+      "She tickled the baby's feet and he laughed."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "tickle someone / be tickled (pink) by something",
+      "partners": [
+        "tickled his feet",
+        "tickled pink",
+        "being tickled"
       ]
     }
   },
@@ -2400,6 +2680,26 @@
     }
   },
   {
+    "word": "toe",
+    "memory": "finger of the foot",
+    "meaning": "One of the five small parts at the end of the foot",
+    "hindi": "पैर की उँगली",
+    "trick": "Tiptoe — walking on your toes.",
+    "examples": [
+      "Always covered in grime and dandruff from head to toe.",
+      "I hurt my toe on the table leg."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "from head to toe / stub your toe",
+      "partners": [
+        "from head to toe",
+        "big toe",
+        "stub your toe"
+      ]
+    }
+  },
+  {
     "word": "toenails",
     "memory": "nails on toes",
     "meaning": "The hard flat covers on the tips of the toes",
@@ -2620,6 +2920,26 @@
     }
   },
   {
+    "word": "tooth",
+    "memory": "biting part in the mouth",
+    "meaning": "One of the hard white parts in your mouth used for biting (in 'tooth and nail' = with all your strength)",
+    "hindi": "दाँत; (पूरी ताकत से)",
+    "trick": "Fight TOOTH and nail → use even your teeth and nails.",
+    "examples": [
+      "...the brother you'd fought tooth and nail to protect denounced you...",
+      "I lost a tooth while eating a hard sweet."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "fight tooth and nail / a tooth",
+      "partners": [
+        "tooth and nail",
+        "a broken tooth",
+        "sweet tooth"
+      ]
+    }
+  },
+  {
     "word": "topographic",
     "memory": "showing land shape",
     "meaning": "Showing the shape and height of the land, such as hills and valleys",
@@ -2696,6 +3016,26 @@
         "toppling over",
         "toppling like dominoes",
         "toppling the leader"
+      ]
+    }
+  },
+  {
+    "word": "torment",
+    "memory": "tease, make suffer",
+    "meaning": "To make someone suffer or upset them on purpose; also great suffering",
+    "hindi": "सताना, तंग करना; यातना",
+    "trick": "TOR-MENT ≈ 'tear the mind' → tormenting someone.",
+    "examples": [
+      "Don't torment the younger ones too much.",
+      "Stop tormenting your little sister."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "torment someone (with something)",
+      "partners": [
+        "torment someone",
+        "tormented by guilt",
+        "mental torment"
       ]
     }
   },
@@ -2800,6 +3140,26 @@
     }
   },
   {
+    "word": "tortured",
+    "memory": "made to suffer",
+    "meaning": "Caused severe pain to someone on purpose; also, mentally suffering",
+    "hindi": "यातना दी, तड़पाया",
+    "trick": "TORTURE → 'tort' = twist: twisting in pain.",
+    "examples": [
+      "How many people have you killed, tortured and tormented?",
+      "The prisoners were tortured for information."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "torture someone / be tortured by something",
+      "partners": [
+        "tortured prisoners",
+        "tortured soul",
+        "tortured by guilt"
+      ]
+    }
+  },
+  {
     "word": "totem",
     "memory": "rank symbol, emblem",
     "meaning": "A sacred symbol of a group; in '... pole', a ranking of people from top to bottom",
@@ -2900,6 +3260,46 @@
     }
   },
   {
+    "word": "tow",
+    "memory": "pulling behind; with",
+    "meaning": "'In tow' = following along with someone; also to pull a vehicle with a rope or chain",
+    "hindi": "साथ में; खींचना",
+    "trick": "TOW truck pulls a car behind it → 'in tow' = trailing along.",
+    "examples": [
+      "I heard he was a Demon Slayer with a demon in tow.",
+      "She came to the party with her kids in tow."
+    ],
+    "usage": {
+      "pos": "noun (in tow) / verb",
+      "pattern": "with someone in tow / tow something (away)",
+      "partners": [
+        "in tow",
+        "tow truck",
+        "towed away"
+      ]
+    }
+  },
+  {
+    "word": "towheaded",
+    "memory": "very fair-haired",
+    "meaning": "Having very light blond, almost white hair",
+    "hindi": "बहुत हल्के सुनहरे बालों वाला",
+    "trick": "Tow = pale flax fibre used for rope; a towheaded kid has hair like pale rope.",
+    "examples": [
+      "That towheaded boy's trapped under the rubble.",
+      "A towheaded little girl ran across the beach."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a towheaded + boy/girl/child",
+      "partners": [
+        "towheaded boy",
+        "towheaded kid",
+        "towheaded child"
+      ]
+    }
+  },
+  {
     "word": "towy",
     "memory": "pale yellow (hair)",
     "meaning": "Pale yellow and rough-looking, like flax fibre (of hair); rare",
@@ -2916,6 +3316,26 @@
         "towy hair",
         "towy head",
         "pale towy locks"
+      ]
+    }
+  },
+  {
+    "word": "trace",
+    "memory": "small sign",
+    "meaning": "A very small amount or sign that something was there; also (verb), to find or follow",
+    "hindi": "निशान, सुराग; पता लगाना",
+    "trick": "TRACE → tracing paper copies the faint marks.",
+    "examples": [
+      "There's still a faint trace of demon scent.",
+      "The police could find no trace of the thief."
+    ],
+    "usage": {
+      "pos": "noun (also verb)",
+      "pattern": "a trace of something / trace something",
+      "partners": [
+        "faint trace",
+        "without a trace",
+        "trace the call"
       ]
     }
   },
@@ -3080,6 +3500,26 @@
     }
   },
   {
+    "word": "trample",
+    "memory": "crush under feet",
+    "meaning": "To step heavily on something and crush it; also treat with no respect",
+    "hindi": "कुचलना, रौंदना",
+    "trick": "TRAMPLE — an elephant on a TRAMPoline would crush it.",
+    "examples": [
+      "He saw fit not to trample on it.",
+      "Don't trample on the flowers."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "trample on/over something / be trampled",
+      "partners": [
+        "trample on",
+        "trampled to death",
+        "trample rights"
+      ]
+    }
+  },
+  {
     "word": "trampled",
     "memory": "crushed, spoiled",
     "meaning": "Stepped heavily on and crushed; also harmed or ignored something precious",
@@ -3136,6 +3576,26 @@
         "trancelike state",
         "trancelike calm",
         "trancelike mood"
+      ]
+    }
+  },
+  {
+    "word": "tranquil",
+    "memory": "calm, peaceful",
+    "meaning": "Calm, quiet and peaceful",
+    "hindi": "शांत, स्थिर",
+    "trick": "TRANQUILlizer makes you tranquil — calm and quiet.",
+    "examples": [
+      "I never dreamed that my end would be this tranquil.",
+      "We stayed in a tranquil village by the lake."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be tranquil / a tranquil + noun",
+      "partners": [
+        "a tranquil place",
+        "tranquil waters",
+        "a tranquil life"
       ]
     }
   },
@@ -3220,6 +3680,26 @@
     }
   },
   {
+    "word": "transfusions",
+    "memory": "blood transfers",
+    "meaning": "Acts of putting blood from one person into another person's body",
+    "hindi": "रक्त चढ़ाना, ख़ून चढ़ाना",
+    "trick": "TRANS (across) + FUSION (joining) — blood joins across from one body to another.",
+    "examples": [
+      "...under the guise of transfusions from those unable to make ends meet.",
+      "After the accident, he needed two blood transfusions."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "give someone / receive / need a (blood) transfusion",
+      "partners": [
+        "blood transfusions",
+        "need transfusions",
+        "receive transfusions"
+      ]
+    }
+  },
+  {
     "word": "translucent",
     "memory": "semi-clear",
     "meaning": "Letting some light through but not completely clear",
@@ -3260,6 +3740,46 @@
     }
   },
   {
+    "word": "trapped",
+    "memory": "stuck, unable to escape",
+    "meaning": "Caught in a place or situation and unable to get out",
+    "hindi": "फँसा हुआ, फँस गया",
+    "trick": "A mouse in a TRAP is trapped.",
+    "examples": [
+      "That towheaded boy's trapped under the rubble, and he's flailing.",
+      "The cat got trapped inside the cupboard."
+    ],
+    "usage": {
+      "pos": "verb (past) / adjective",
+      "pattern": "be trapped in/under something / feel trapped",
+      "partners": [
+        "trapped under rubble",
+        "feel trapped",
+        "trapped inside"
+      ]
+    }
+  },
+  {
+    "word": "traps",
+    "memory": "snares",
+    "meaning": "Devices or hidden tricks used to catch animals or people",
+    "hindi": "जाल, फंदे",
+    "trick": "TRAPS backwards is 'SPART' — Sparta soldiers set traps!",
+    "examples": [
+      "I can't stop getting ensnared in all the traps!",
+      "The farmer set traps to catch the rats."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "set traps / fall into a trap",
+      "partners": [
+        "set traps",
+        "walk into traps",
+        "mouse traps"
+      ]
+    }
+  },
+  {
     "word": "treacherous",
     "memory": "dangerous",
     "meaning": "Very dangerous, often in a hidden way; also not loyal, likely to betray",
@@ -3296,6 +3816,26 @@
         "tread on",
         "tread carefully",
         "tread lightly"
+      ]
+    }
+  },
+  {
+    "word": "treasure",
+    "memory": "value greatly, cherish",
+    "meaning": "To value and keep something very carefully because it is precious; also valuable things like gold",
+    "hindi": "संजोकर रखना; खज़ाना",
+    "trick": "TREASURE → keep it like a pirate's treasure.",
+    "examples": [
+      "I promise you, I'll treasure them!",
+      "I will always treasure these memories."
+    ],
+    "usage": {
+      "pos": "verb / noun",
+      "pattern": "treasure something / a treasure",
+      "partners": [
+        "treasure memories",
+        "buried treasure",
+        "treasure a gift"
       ]
     }
   },
@@ -3416,6 +3956,46 @@
         "wooden trellises",
         "garden trellises",
         "vines on trellises"
+      ]
+    }
+  },
+  {
+    "word": "tremble",
+    "memory": "shake, quiver",
+    "meaning": "To shake slightly, usually from fear, cold or excitement",
+    "hindi": "काँपना, थरथराना",
+    "trick": "Tremble → tremor, the earth shaking.",
+    "examples": [
+      "And each time, I tremble at my core, and my heart pounds.",
+      "My hands tremble when I speak in public."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "tremble with fear/cold / tremble at something",
+      "partners": [
+        "tremble with fear",
+        "voice trembled",
+        "hands tremble"
+      ]
+    }
+  },
+  {
+    "word": "trembling",
+    "memory": "shaking",
+    "meaning": "Shaking slightly, usually from fear, cold or excitement",
+    "hindi": "काँपना",
+    "trick": "TREMBLE ≈ tremor → small earthquake in your body.",
+    "examples": [
+      "And you're trembling, aren't you?",
+      "Her hands were trembling as she opened the letter."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "be trembling (with fear/cold)",
+      "partners": [
+        "trembling hands",
+        "trembling with fear",
+        "trembling voice"
       ]
     }
   },
@@ -3676,6 +4256,26 @@
         "trickling down",
         "trickling water",
         "trickling in"
+      ]
+    }
+  },
+  {
+    "word": "tricks",
+    "memory": "cunning moves, clever deceptions",
+    "meaning": "Clever or dishonest actions meant to fool someone; also skilful acts that entertain",
+    "hindi": "चालें, हथकंडे; करतब",
+    "trick": "TRICKS → tricky → used to trick people.",
+    "examples": [
+      "Even if you resort to cheap tricks, you can't beat me.",
+      "My dog can do a few tricks, like sitting and rolling over."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "play tricks on someone / resort to tricks",
+      "partners": [
+        "cheap tricks",
+        "dirty tricks",
+        "play tricks on"
       ]
     }
   },
@@ -4160,6 +4760,26 @@
     }
   },
   {
+    "word": "tuberculosis",
+    "memory": "lung disease (TB)",
+    "meaning": "A serious infectious disease, mainly of the lungs (TB)",
+    "hindi": "क्षय रोग, टीबी",
+    "trick": "TUBER-culosis → TB; tiny lumps (tubercles) in the lungs",
+    "examples": [
+      "You may have tuberculosis or whatever, but if you don't do your job...",
+      "He was treated for tuberculosis for six months."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "have/get tuberculosis",
+      "partners": [
+        "have tuberculosis",
+        "tuberculosis patient",
+        "treat tuberculosis"
+      ]
+    }
+  },
+  {
     "word": "tuberose",
     "memory": "fragrant white flower",
     "meaning": "A plant with strongly scented white flowers",
@@ -4480,6 +5100,26 @@
     }
   },
   {
+    "word": "tweaked",
+    "memory": "slightly changed",
+    "meaning": "Made small changes to something to improve it; also pulled or twisted sharply",
+    "hindi": "थोड़ा बदला, सुधार किया",
+    "trick": "TWEAK → a small 'tweet'-sized change.",
+    "examples": [
+      "Because I've tweaked my body considerably.",
+      "I tweaked the recipe by adding more salt."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "tweak something (a plan, design, recipe)",
+      "partners": [
+        "tweaked the settings",
+        "tweaked the design",
+        "slightly tweaked"
+      ]
+    }
+  },
+  {
     "word": "tweezers",
     "memory": "small pincers",
     "meaning": "A small tool with two thin arms for picking up or pulling out tiny things",
@@ -4696,6 +5336,26 @@
         "twirling a ring",
         "twirling around",
         "twirling her hair"
+      ]
+    }
+  },
+  {
+    "word": "twisted",
+    "memory": "strange and unpleasant; bent",
+    "meaning": "Strange, unpleasant or cruel in thinking; also bent or turned out of shape",
+    "hindi": "विकृत, टेढ़ा",
+    "trick": "TWISTED — like a TWISTED rope, the mind is bent out of shape.",
+    "examples": [
+      "That twisted, ominous scent I was picking up from the mountain...",
+      "I twisted my ankle while running."
+    ],
+    "usage": {
+      "pos": "adjective (also verb, past)",
+      "pattern": "a twisted + mind/sense of humour / twist something",
+      "partners": [
+        "twisted mind",
+        "twisted ankle",
+        "twisted humour"
       ]
     }
   },

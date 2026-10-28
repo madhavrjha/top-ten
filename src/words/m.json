@@ -58,6 +58,26 @@
     }
   },
   {
+    "word": "magistrate",
+    "memory": "local judge",
+    "meaning": "An official who acts as a judge in a local court for minor crimes",
+    "hindi": "दंडाधिकारी, मजिस्ट्रेट",
+    "trick": "MAGIStrate → a MAGIStral (master) judge.",
+    "examples": [
+      "...or I'll get caught by the magistrate and lashed as punishment!",
+      "The thief was brought before the magistrate."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "before/by a magistrate",
+      "partners": [
+        "local magistrate",
+        "before the magistrate",
+        "magistrate's court"
+      ]
+    }
+  },
+  {
     "word": "magnanimous",
     "memory": "generous, big-hearted",
     "meaning": "Generous and kind, especially towards someone weaker or a rival",
@@ -73,6 +93,46 @@
       "partners": [
         "magnanimous gesture",
         "magnanimous in victory"
+      ]
+    }
+  },
+  {
+    "word": "magnets",
+    "memory": "attracting metal pieces",
+    "meaning": "Pieces of iron or metal that pull other iron things towards them",
+    "hindi": "चुंबक",
+    "trick": "Magnet → magnetic, they stick.",
+    "examples": [
+      "It's like there are magnets pulling his blows straight to the human body's vitals!",
+      "We put photos on the fridge with magnets."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "magnets pull/attract something",
+      "partners": [
+        "fridge magnets",
+        "strong magnets",
+        "like magnets"
+      ]
+    }
+  },
+  {
+    "word": "magnificent",
+    "memory": "grand, splendid",
+    "meaning": "Extremely good, beautiful or impressive",
+    "hindi": "शानदार, भव्य",
+    "trick": "MAGNI (big) + ficent → big and grand, like 'magnify'.",
+    "examples": [
+      "And it's what makes humans so magnificent!",
+      "The view from the mountain top was magnificent."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be magnificent / a magnificent + noun",
+      "partners": [
+        "magnificent view",
+        "magnificent palace",
+        "absolutely magnificent"
       ]
     }
   },
@@ -368,6 +428,26 @@
     }
   },
   {
+    "word": "mangle",
+    "memory": "crush badly",
+    "meaning": "To damage something badly by crushing or twisting it",
+    "hindi": "कुचल देना, बिगाड़ देना",
+    "trick": "Mangle → mango crushed into pulp.",
+    "examples": [
+      "Not only did he smash and mangle most of the bodies beyond recognition...",
+      "The machine mangled the paper."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "mangle something (beyond recognition)",
+      "partners": [
+        "mangled beyond recognition",
+        "mangled car",
+        "mangle words"
+      ]
+    }
+  },
+  {
     "word": "mangled",
     "memory": "crushed, badly damaged",
     "meaning": "Badly crushed, twisted or torn so it is hard to recognise",
@@ -402,6 +482,26 @@
       "partners": [
         "manicured lawns",
         "well-manicured hands"
+      ]
+    }
+  },
+  {
+    "word": "manifest",
+    "memory": "show, appear",
+    "meaning": "To show or make something appear clearly; also clear and obvious (adjective)",
+    "hindi": "प्रकट करना, दिखाना",
+    "trick": "MANIFEST → 'many fest' → shows up for everyone to see.",
+    "examples": [
+      "Those around him also manifest marks as if resonating with him.",
+      "Stress can manifest as headaches."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "manifest (itself) as something / manifest something",
+      "partners": [
+        "manifest itself",
+        "manifest as",
+        "manifest symptoms"
       ]
     }
   },
@@ -444,6 +544,26 @@
     }
   },
   {
+    "word": "mannerisms",
+    "memory": "habits of gesture",
+    "meaning": "Particular habits in the way someone moves, speaks or behaves",
+    "hindi": "हाव-भाव, ख़ास आदतें",
+    "trick": "MANNER-isms → someone's special manners.",
+    "examples": [
+      "The same mindset, the same mannerisms as my father...",
+      "He copies all his uncle's mannerisms."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "someone's mannerisms",
+      "partners": [
+        "odd mannerisms",
+        "the same mannerisms",
+        "copy his mannerisms"
+      ]
+    }
+  },
+  {
     "word": "mannerly",
     "memory": "polite, well-behaved",
     "meaning": "Having good manners; polite",
@@ -478,6 +598,26 @@
       "partners": [
         "military manoeuvre",
         "tricky manoeuvre"
+      ]
+    }
+  },
+  {
+    "word": "mantis",
+    "memory": "praying insect",
+    "meaning": "A green insect with long front legs held as if praying",
+    "hindi": "मैंटिस (एक हरा कीड़ा)",
+    "trick": "MAN + TIS → a tiny green man with folded hands.",
+    "examples": [
+      "You two go defeat that praying mantis!",
+      "A mantis sat still on the leaf."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a (praying) mantis",
+      "partners": [
+        "praying mantis",
+        "green mantis",
+        "mantis shrimp"
       ]
     }
   },
@@ -630,6 +770,26 @@
       "partners": [
         "orange marmalade",
         "toast and marmalade"
+      ]
+    }
+  },
+  {
+    "word": "marrow",
+    "memory": "inside of bones",
+    "meaning": "The soft fatty tissue inside bones; 'to the marrow' = completely, deeply",
+    "hindi": "अस्थि मज्जा, गूदा",
+    "trick": "MARROW → deep in the 'narrow' middle of a bone.",
+    "examples": [
+      "Pound it into the marrow of your bones!",
+      "I was chilled to the marrow in the cold wind."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "bone marrow / to the marrow",
+      "partners": [
+        "bone marrow",
+        "chilled to the marrow",
+        "marrow donor"
       ]
     }
   },
@@ -806,6 +966,26 @@
     }
   },
   {
+    "word": "masks",
+    "memory": "face coverings",
+    "meaning": "Coverings worn over the face to hide or protect it",
+    "hindi": "मुखौटे, नकाब",
+    "trick": "MASKS → 'Masked' heroes hide their faces.",
+    "examples": [
+      "I know the texture of the masks Urokodaki carved.",
+      "Doctors wear masks during surgery."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "wear masks",
+      "partners": [
+        "wear masks",
+        "face masks",
+        "carved masks"
+      ]
+    }
+  },
+  {
     "word": "masochism",
     "memory": "enjoying pain",
     "meaning": "Enjoying or seeking things that cause you pain or suffering",
@@ -897,6 +1077,86 @@
       "partners": [
         "masquerade as",
         "masquerading as a friend"
+      ]
+    }
+  },
+  {
+    "word": "massacre",
+    "memory": "kill many cruelly",
+    "meaning": "To kill many people in a violent, cruel way; also such a killing",
+    "hindi": "क़त्लेआम करना, नरसंहार",
+    "trick": "MASS-acre → kill MASSes of people.",
+    "examples": [
+      "So I'll massacre everyone who had the nerve to bully her.",
+      "The history book describes a terrible massacre."
+    ],
+    "usage": {
+      "pos": "verb / noun",
+      "pattern": "massacre people / the massacre of people",
+      "partners": [
+        "massacre of innocents",
+        "a brutal massacre",
+        "survive the massacre"
+      ]
+    }
+  },
+  {
+    "word": "massacred",
+    "memory": "brutally killed",
+    "meaning": "(Of many people) killed violently and cruelly",
+    "hindi": "नरसंहार किया, बेरहमी से मारा",
+    "trick": "MASS + acred → a mass of people killed.",
+    "examples": [
+      "Your family was massacred, and your sister's become a demon.",
+      "The whole village was massacred during the war."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "be massacred / massacre people",
+      "partners": [
+        "brutally massacred",
+        "massacred villagers",
+        "massacred by soldiers"
+      ]
+    }
+  },
+  {
+    "word": "masseur",
+    "memory": "man who gives massages",
+    "meaning": "A man whose job is giving massages",
+    "hindi": "मालिश करने वाला",
+    "trick": "MASSEUR → MASSage + -eur (French job ending).",
+    "examples": [
+      "I've had a masseur come here to Shirasu...",
+      "The hotel has its own masseur."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a masseur",
+      "partners": [
+        "professional masseur",
+        "hotel masseur",
+        "see a masseur"
+      ]
+    }
+  },
+  {
+    "word": "mastered",
+    "memory": "learned fully",
+    "meaning": "Learned or become very good at a skill; also, controlled (a feeling)",
+    "hindi": "महारत हासिल की, सीख लिया",
+    "trick": "MASTER → become the master of it.",
+    "examples": [
+      "She doesn't seem to have mastered any morphing skills yet.",
+      "He has mastered three languages."
+    ],
+    "usage": {
+      "pos": "verb (past participle)",
+      "pattern": "master something",
+      "partners": [
+        "mastered a skill",
+        "fully mastered",
+        "mastered the art"
       ]
     }
   },
@@ -1245,6 +1505,46 @@
     }
   },
   {
+    "word": "measurements",
+    "memory": "sizes",
+    "meaning": "The exact sizes of something, especially of a person's body for clothes",
+    "hindi": "माप, नाप",
+    "trick": "MEASURE + MENTS → what a tailor writes down.",
+    "examples": [
+      "We will take your measurements.",
+      "The tailor took my measurements for a suit."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "take someone's measurements",
+      "partners": [
+        "take measurements",
+        "exact measurements",
+        "body measurements"
+      ]
+    }
+  },
+  {
+    "word": "meddling",
+    "memory": "interfering",
+    "meaning": "Interfering in something that is not your business",
+    "hindi": "टांग अड़ाना, दख़लअंदाज़ी",
+    "trick": "MEDDLING — getting in the MIDDLE of others' business.",
+    "examples": [
+      "If it hadn't been for their meddling...",
+      "Stop meddling in my personal life!"
+    ],
+    "usage": {
+      "pos": "noun / verb (-ing)",
+      "pattern": "meddle in/with something",
+      "partners": [
+        "meddling in",
+        "stop meddling",
+        "meddling neighbours"
+      ]
+    }
+  },
+  {
     "word": "medial",
     "memory": "inner (body side)",
     "meaning": "On the inner side of the body, nearer the middle line",
@@ -1260,6 +1560,26 @@
       "partners": [
         "medial tendon",
         "medial ligament"
+      ]
+    }
+  },
+  {
+    "word": "medicate",
+    "memory": "give medicine to",
+    "meaning": "To give medicine or a drug to someone",
+    "hindi": "दवा देना",
+    "trick": "MEDIC-ATE — the MEDIC gives you medicine.",
+    "examples": [
+      "Not only did I medicate her, she also inhaled my spell inadvertently.",
+      "The vet had to medicate our dog."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "medicate someone / medicate yourself",
+      "partners": [
+        "medicate a patient",
+        "self-medicate",
+        "heavily medicated"
       ]
     }
   },
@@ -1358,6 +1678,26 @@
         "meekly accept",
         "meekly obey",
         "meekly agree"
+      ]
+    }
+  },
+  {
+    "word": "melancholic",
+    "memory": "sad, gloomy",
+    "meaning": "Feeling or expressing a deep, quiet sadness",
+    "hindi": "उदास, विषादपूर्ण",
+    "trick": "Melon-COLIC: a sad melon with a tummy ache.",
+    "examples": [
+      "There you go again with the melancholic words.",
+      "The rainy evening put him in a melancholic mood."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a melancholic + mood/song/look",
+      "partners": [
+        "melancholic mood",
+        "melancholic music",
+        "melancholic look"
       ]
     }
   },
@@ -1480,6 +1820,26 @@
     }
   },
   {
+    "word": "melt",
+    "memory": "turn liquid",
+    "meaning": "To turn from solid into liquid because of heat or chemicals",
+    "hindi": "पिघलना, पिघलाना",
+    "trick": "MELT → ice cream melting in the sun.",
+    "examples": [
+      "First, the solvent will melt those clothes out of the way.",
+      "The ice will melt in the sun."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "something melts / melt something (down/away)",
+      "partners": [
+        "melt away",
+        "melt in your mouth",
+        "snow melts"
+      ]
+    }
+  },
+  {
     "word": "memoranda",
     "memory": "notes, memos",
     "meaning": "Official notes or short written messages within an office (plural of 'memorandum')",
@@ -1594,6 +1954,46 @@
         "hire mercenaries",
         "foreign mercenaries",
         "band of mercenaries"
+      ]
+    }
+  },
+  {
+    "word": "merchandise",
+    "memory": "goods for sale",
+    "meaning": "Goods that are bought and sold",
+    "hindi": "माल, व्यापार की वस्तुएँ",
+    "trick": "MERCHANT + DISE → what the MERCHANT sells.",
+    "examples": [
+      "In this city, women are merchandise.",
+      "The store has new merchandise every week."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "sell merchandise / official merchandise",
+      "partners": [
+        "sell merchandise",
+        "official merchandise",
+        "damaged merchandise"
+      ]
+    }
+  },
+  {
+    "word": "mercilessly",
+    "memory": "without pity",
+    "meaning": "In a cruel way, without showing any kindness or pity",
+    "hindi": "बेरहमी से, निर्दयता से",
+    "trick": "MERCY-less-ly → with zero mercy.",
+    "examples": [
+      "I suppose I may have lashed out at this newcomer too mercilessly.",
+      "The older kids teased him mercilessly."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "do something mercilessly",
+      "partners": [
+        "teased mercilessly",
+        "mercilessly beaten",
+        "criticised mercilessly"
       ]
     }
   },
@@ -2238,6 +2638,66 @@
     }
   },
   {
+    "word": "mind-blowing",
+    "memory": "amazing, astonishing",
+    "meaning": "Extremely impressive or surprising (informal)",
+    "hindi": "हैरान कर देने वाला, ज़बरदस्त",
+    "trick": "So amazing it BLOWS your MIND.",
+    "examples": [
+      "The power he wields is mind-blowing!",
+      "The view from the mountain was mind-blowing."
+    ],
+    "usage": {
+      "pos": "adjective (informal)",
+      "pattern": "be mind-blowing / a mind-blowing + experience",
+      "partners": [
+        "mind-blowing view",
+        "mind-blowing experience",
+        "truly mind-blowing"
+      ]
+    }
+  },
+  {
+    "word": "mind-bogglingly",
+    "memory": "amazingly, unbelievably",
+    "meaning": "In a way that is so amazing or huge it is hard to imagine",
+    "hindi": "हैरान करने की हद तक",
+    "trick": "Your MIND BOGGLES (spins) with wonder.",
+    "examples": [
+      "Isn't it mind-bogglingly yummy?",
+      "The universe is mind-bogglingly big."
+    ],
+    "usage": {
+      "pos": "adverb (informal)",
+      "pattern": "mind-bogglingly + adjective",
+      "partners": [
+        "mind-bogglingly big",
+        "mind-bogglingly complex",
+        "mind-bogglingly expensive"
+      ]
+    }
+  },
+  {
+    "word": "mindset",
+    "memory": "way of thinking",
+    "meaning": "A person's usual way of thinking and set of attitudes",
+    "hindi": "मानसिकता, सोच",
+    "trick": "MIND + SET → how your mind is set.",
+    "examples": [
+      "The same mindset, the same mannerisms as my father...",
+      "A positive mindset helps you learn faster."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "have a + adjective + mindset / change your mindset",
+      "partners": [
+        "positive mindset",
+        "change your mindset",
+        "winning mindset"
+      ]
+    }
+  },
+  {
     "word": "mingle",
     "memory": "mix, socialise",
     "meaning": "To mix with other people or things",
@@ -2292,6 +2752,46 @@
         "miniature boats",
         "miniature version",
         "miniature bottles"
+      ]
+    }
+  },
+  {
+    "word": "minion",
+    "memory": "servant, follower (of a bad boss)",
+    "meaning": "A lowly follower or servant of a powerful (often evil) person",
+    "hindi": "चमचा, गुलाम सेवक",
+    "trick": "MINION → the yellow Minions serve their villain boss",
+    "examples": [
+      "Because my minion asked me to!",
+      "The villain sent his minions to catch the hero."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "someone's minion / a minion of someone",
+      "partners": [
+        "loyal minion",
+        "the boss's minions",
+        "evil minions"
+      ]
+    }
+  },
+  {
+    "word": "minions",
+    "memory": "followers, servants",
+    "meaning": "Unimportant followers or servants who obey a powerful person",
+    "hindi": "चेले, पिछलग्गू, गुर्गे",
+    "trick": "The yellow MINIONS — they serve their evil master.",
+    "examples": [
+      "Is she one of Kibutsuji's minions?",
+      "The boss sent his minions to do the dirty work."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "someone's minions / one of someone's minions",
+      "partners": [
+        "evil minions",
+        "his minions",
+        "loyal minions"
       ]
     }
   },
@@ -2471,6 +2971,26 @@
     }
   },
   {
+    "word": "misfortune",
+    "memory": "bad luck",
+    "meaning": "Bad luck, or an unlucky event",
+    "hindi": "दुर्भाग्य, बदकिस्मती",
+    "trick": "MIS (bad) + FORTUNE (luck)",
+    "examples": [
+      "How enthralling is it to gaze at someone shattered by misfortune?",
+      "He had the misfortune to lose his job twice."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "have the misfortune to (do) something",
+      "partners": [
+        "great misfortune",
+        "suffer misfortune",
+        "the misfortune of others"
+      ]
+    }
+  },
+  {
     "word": "misgiving",
     "memory": "doubt, worry",
     "meaning": "A feeling of doubt or worry about something",
@@ -2490,6 +3010,26 @@
     }
   },
   {
+    "word": "misjudge",
+    "memory": "judge wrongly",
+    "meaning": "To form a wrong opinion or estimate about someone or something",
+    "hindi": "ग़लत आँकना, ग़लत अंदाज़ा लगाना",
+    "trick": "MIS (wrong) + JUDGE.",
+    "examples": [
+      "Don't misjudge the flow of power!",
+      "I misjudged the distance and fell into the puddle."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "misjudge something/someone",
+      "partners": [
+        "misjudge the distance",
+        "misjudge someone",
+        "badly misjudge"
+      ]
+    }
+  },
+  {
     "word": "missus",
     "memory": "wife",
     "meaning": "Someone's wife (informal)",
@@ -2505,6 +3045,46 @@
       "partners": [
         "the missus",
         "his missus"
+      ]
+    }
+  },
+  {
+    "word": "mist",
+    "memory": "thin fog",
+    "meaning": "A thin cloud of tiny water drops near the ground",
+    "hindi": "धुंध, कोहरा",
+    "trick": "MIST → you 'miss' the view in the mist.",
+    "examples": [
+      "Built out of an extremely light wood called \"Cloud Mist Pine.\"",
+      "The hills were covered in morning mist."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in the mist / a thick mist",
+      "partners": [
+        "morning mist",
+        "thick mist",
+        "mist rolled in"
+      ]
+    }
+  },
+  {
+    "word": "mister",
+    "memory": "sir (informal address)",
+    "meaning": "A way to address a man whose name you don't know (informal); also the full form of \"Mr.\"",
+    "hindi": "साहब, भाई साहब (बोलचाल)",
+    "trick": "MISTER = Mr. spelled out → \"Hey, mister!\"",
+    "examples": [
+      "Mister, I bet you'd really thrive if you set up shop in Ueno!",
+      "Excuse me, mister, you dropped your wallet."
+    ],
+    "usage": {
+      "pos": "noun (form of address, informal)",
+      "pattern": "Hey, mister! / Mister + surname",
+      "partners": [
+        "hey mister",
+        "excuse me, mister",
+        "Mister Smith"
       ]
     }
   },
@@ -2547,6 +3127,26 @@
     }
   },
   {
+    "word": "modifying",
+    "memory": "changing slightly",
+    "meaning": "Changing something slightly to improve it or make it fit",
+    "hindi": "बदलना, संशोधन करना",
+    "trick": "MODIFY → MODe + fIx → fix the mode a bit.",
+    "examples": [
+      "...and modifying them into the form that would allow them to exert maximum power!",
+      "We are modifying the recipe to use less sugar."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "modifying something (into something)",
+      "partners": [
+        "modifying the design",
+        "modifying the plan",
+        "genetically modifying"
+      ]
+    }
+  },
+  {
     "word": "moist",
     "memory": "slightly wet, damp",
     "meaning": "Slightly wet, in a pleasant way",
@@ -2583,6 +3183,26 @@
         "moistened lips",
         "moistened cloth",
         "moistened with water"
+      ]
+    }
+  },
+  {
+    "word": "moisture",
+    "memory": "dampness",
+    "meaning": "Small drops of water in the air or on a surface; wetness",
+    "hindi": "नमी",
+    "trick": "MOIST + URE → moist = slightly wet.",
+    "examples": [
+      "Yet it repels moisture and won't burn easily.",
+      "This cream keeps moisture in your skin."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "absorb/repel moisture",
+      "partners": [
+        "absorb moisture",
+        "retain moisture",
+        "repel moisture"
       ]
     }
   },
@@ -2907,6 +3527,46 @@
     }
   },
   {
+    "word": "moron",
+    "memory": "stupid person",
+    "meaning": "A very stupid person; rude insult",
+    "hindi": "बेवकूफ़, मूर्ख (अशिष्ट)",
+    "trick": "MORON → 'more on' nothing — nothing more upstairs.",
+    "examples": [
+      "Then how did it get nicked, moron?",
+      "Only a moron would leave the door unlocked."
+    ],
+    "usage": {
+      "pos": "noun (rude)",
+      "pattern": "you moron / a complete moron",
+      "partners": [
+        "you moron",
+        "total moron",
+        "act like a moron"
+      ]
+    }
+  },
+  {
+    "word": "morphed",
+    "memory": "changed shape",
+    "meaning": "Changed shape or form, often gradually; changed into something else",
+    "hindi": "रूप बदला हुआ",
+    "trick": "MORPH → 'meta-morph-osis': a caterpillar morphs into a butterfly.",
+    "examples": [
+      "What's this morphed demon doing here anyway?",
+      "The small shop morphed into a big company."
+    ],
+    "usage": {
+      "pos": "verb (past) / adjective",
+      "pattern": "morph into something",
+      "partners": [
+        "morphed into",
+        "morphed demon",
+        "slowly morphed"
+      ]
+    }
+  },
+  {
     "word": "morphine",
     "memory": "strong painkiller",
     "meaning": "A strong drug used to relieve severe pain",
@@ -2923,6 +3583,26 @@
         "dose of morphine",
         "on morphine",
         "morphine drip"
+      ]
+    }
+  },
+  {
+    "word": "morphing",
+    "memory": "shape-changing",
+    "meaning": "Changing shape or form into something else",
+    "hindi": "रूप बदलना",
+    "trick": "MORPH → 'meta-morph-osis' = change of shape.",
+    "examples": [
+      "She doesn't seem to have mastered any morphing skills yet.",
+      "The clouds kept morphing into strange shapes."
+    ],
+    "usage": {
+      "pos": "verb (-ing) / adjective",
+      "pattern": "morph into something",
+      "partners": [
+        "morphing into",
+        "morphing skills",
+        "constantly morphing"
       ]
     }
   },
@@ -3327,6 +4007,26 @@
     }
   },
   {
+    "word": "mouths",
+    "memory": "mouths (plural)",
+    "meaning": "The openings in faces used for eating and speaking",
+    "hindi": "मुँह (बहुवचन)",
+    "trick": "Keep your MOUTHS shut = 'muh band rakho'.",
+    "examples": [
+      "Everyone's gloomy, and they're keeping their mouths shut.",
+      "The baby birds opened their mouths for food."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "keep your mouths shut / open their mouths",
+      "partners": [
+        "keep their mouths shut",
+        "hungry mouths",
+        "mouths to feed"
+      ]
+    }
+  },
+  {
     "word": "mow",
     "memory": "knock down",
     "meaning": "(With 'down') knock down or kill in large numbers; also cut grass",
@@ -3667,6 +4367,26 @@
     }
   },
   {
+    "word": "mush",
+    "memory": "soft pulp",
+    "meaning": "A soft, wet, shapeless mass",
+    "hindi": "लुगदी, गूदा",
+    "trick": "MUSH ≈ MASH → mashed into mush.",
+    "examples": [
+      "You'll be reduced to mush in no time.",
+      "The vegetables were boiled into mush."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "turn/be reduced to mush",
+      "partners": [
+        "turn to mush",
+        "reduced to mush",
+        "a bowl of mush"
+      ]
+    }
+  },
+  {
     "word": "mushroom",
     "memory": "grow rapidly",
     "meaning": "To grow or spread very quickly; also a fungus with a round cap",
@@ -3883,6 +4603,26 @@
         "a myriad of",
         "myriad ways",
         "myriad reasons"
+      ]
+    }
+  },
+  {
+    "word": "mysterious",
+    "memory": "strange, hard to understand",
+    "meaning": "Strange and not known or understood; full of mystery",
+    "hindi": "रहस्यमय, अजीब",
+    "trick": "MYSTERY-ous → full of MYSTERY",
+    "examples": [
+      "A demon who's far more powerful and mysterious is lurking somewhere.",
+      "A mysterious man left a letter at our door."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a mysterious + noun / remain mysterious",
+      "partners": [
+        "mysterious stranger",
+        "mysterious death",
+        "mysterious ways"
       ]
     }
   },

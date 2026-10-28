@@ -118,6 +118,46 @@
     }
   },
   {
+    "word": "qualms",
+    "memory": "doubts, guilty feelings",
+    "meaning": "Uneasy feelings that what you are doing might be wrong",
+    "hindi": "संकोच, झिझक",
+    "trick": "QUALMS ≈ 'calm-s' → no qualms = calm even when doing wrong.",
+    "examples": [
+      "They're prone to lying and have no qualms about being cruel.",
+      "I have no qualms about telling him the truth."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "have no qualms about (doing) something",
+      "partners": [
+        "no qualms",
+        "have qualms about",
+        "moral qualms"
+      ]
+    }
+  },
+  {
+    "word": "quandaries",
+    "memory": "dilemmas",
+    "meaning": "Situations where it is hard to decide what to do",
+    "hindi": "दुविधाएँ, असमंजस",
+    "trick": "QUANDARY ≈ 'Kahan dare?' → where to go? confused.",
+    "examples": [
+      "Carrying all that conflict and quandaries inside yourself...",
+      "Choosing a career brings many quandaries."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "be in a quandary (about something) / moral quandaries",
+      "partners": [
+        "moral quandaries",
+        "in a quandary",
+        "face quandaries"
+      ]
+    }
+  },
+  {
     "word": "quarantined",
     "memory": "kept apart",
     "meaning": "Kept away from others for a time, usually to stop a disease from spreading",

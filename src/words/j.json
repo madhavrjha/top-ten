@@ -138,6 +138,46 @@
     }
   },
   {
+    "word": "jarring",
+    "memory": "upsetting, shocking",
+    "meaning": "Causing a sudden unpleasant shock or feeling of being disturbed; also, clashing harshly",
+    "hindi": "झटका देने वाला, खटकने वाला",
+    "trick": "JARRING → like a jar falling and shattering — a sudden shock.",
+    "examples": [
+      "Nezuko, I know it must be jarring, but please be patient!",
+      "The loud alarm was jarring at five in the morning."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be jarring / a jarring + noun",
+      "partners": [
+        "jarring experience",
+        "jarring noise",
+        "jarring contrast"
+      ]
+    }
+  },
+  {
+    "word": "jaw-dropping",
+    "memory": "amazing, astonishing",
+    "meaning": "So amazing or surprising that your mouth falls open",
+    "hindi": "हैरान कर देने वाला",
+    "trick": "Your JAW DROPS open in shock.",
+    "examples": [
+      "Even the most jaw-dropping attack is pointless if you can't land it, right?",
+      "The view from the top was jaw-dropping."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a jaw-dropping + noun / be jaw-dropping",
+      "partners": [
+        "jaw-dropping view",
+        "jaw-dropping moment",
+        "jaw-dropping performance"
+      ]
+    }
+  },
+  {
     "word": "jealous",
     "memory": "envious",
     "meaning": "Unhappy because someone has something you want; also afraid of losing someone's love to another person",
@@ -174,6 +214,26 @@
         "jeers from the crowd",
         "boos and jeers",
         "met with jeers"
+      ]
+    }
+  },
+  {
+    "word": "jeez",
+    "memory": "oh my, wow (annoyed)",
+    "meaning": "Informal: said to show surprise or annoyance",
+    "hindi": "हे भगवान (बोलचाल)",
+    "trick": "JEEZ = short for 'Jesus!'",
+    "examples": [
+      "Jeez, can't you even show me some bravado?",
+      "Jeez, it's cold outside!"
+    ],
+    "usage": {
+      "pos": "interjection (informal)",
+      "pattern": "Jeez, ...!",
+      "partners": [
+        "Jeez, really?",
+        "oh jeez",
+        "jeez, calm down"
       ]
     }
   },
@@ -438,6 +498,26 @@
     }
   },
   {
+    "word": "juices",
+    "memory": "energy, liquids",
+    "meaning": "Creative energy (in 'creative juices'); also liquids from fruit, meat or the body",
+    "hindi": "रस; (रचनात्मक) ऊर्जा",
+    "trick": "Creative JUICES → ideas flowing like fresh juice.",
+    "examples": [
+      "My creative juices are simply gushing!",
+      "She makes fresh juices every morning."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "get the creative juices flowing / fruit juices",
+      "partners": [
+        "creative juices",
+        "fruit juices",
+        "get the juices flowing"
+      ]
+    }
+  },
+  {
     "word": "junkie",
     "memory": "fan, enthusiast",
     "meaning": "Someone who is very keen on something (informal); also a drug addict",
@@ -513,6 +593,26 @@
       "partners": [
         "the twelve jurymen",
         "jurymen agreed"
+      ]
+    }
+  },
+  {
+    "word": "jut",
+    "memory": "stick out",
+    "meaning": "To stick out beyond the edge or surface of something",
+    "hindi": "बाहर निकलना, उभरना",
+    "trick": "Jut → 'jutt' of hair sticking out.",
+    "examples": [
+      "The bones were starting to jut out of his back.",
+      "A rock juts out into the sea."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "jut out (of/into something)",
+      "partners": [
+        "jut out",
+        "jutting chin",
+        "jut into the sea"
       ]
     }
   },

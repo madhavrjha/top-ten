@@ -1,0 +1,4274 @@
+{
+ "title": "Demon Slayer",
+ "icon": "🎬",
+ "words": [
+  {
+   "word": "soot",
+   "line": "Your face is covered in soot."
+  },
+  {
+   "word": "hibernate",
+   "line": "Was it a bear that wasn't able to hibernate?"
+  },
+  {
+   "word": "needless",
+   "line": "Needless to say, I'm going to decapitate your sister."
+  },
+  {
+   "word": "decapitate",
+   "line": "Needless to say, I'm going to decapitate your sister."
+  },
+  {
+   "word": "devoured",
+   "line": "Just now, you were about to be devoured."
+  },
+  {
+   "word": "pathetic",
+   "line": "Stop that pathetic groveling!"
+  },
+  {
+   "word": "groveling",
+   "line": "Stop that pathetic groveling!"
+  },
+  {
+   "word": "hatchet",
+   "line": "Why didn't you swing your hatchet?"
+  },
+  {
+   "word": "skewered",
+   "line": "I could've skewered her along with you!"
+  },
+  {
+   "word": "massacred",
+   "line": "Your family was massacred, and your sister's become a demon."
+  },
+  {
+   "word": "demon",
+   "line": "Your sister's become a demon."
+  },
+  {
+   "word": "hurled",
+   "line": "he hurled that rock toward me and, at the same time,"
+  },
+  {
+   "word": "frowning",
+   "line": "And she's frowning!"
+  },
+  {
+   "word": "protrudes",
+   "line": "She kinda protrudes, huh?"
+  },
+  {
+   "word": "scent",
+   "line": "This isn't the scent that was lingering in my house."
+  },
+  {
+   "word": "lingering",
+   "line": "This isn't the scent that was lingering in my house."
+  },
+  {
+   "word": "goblin",
+   "line": "A goblin mask!"
+  },
+  {
+   "word": "crush",
+   "line": "To crush his skull and smash it completely..."
+  },
+  {
+   "word": "skull",
+   "line": "To crush his skull and smash it completely..."
+  },
+  {
+   "word": "smash",
+   "line": "To crush his skull and smash it completely..."
+  },
+  {
+   "word": "faltered",
+   "line": "I faltered too long. Now the sun's coming up!"
+  },
+  {
+   "word": "brat",
+   "line": "Hey, are you listening, brat?"
+  },
+  {
+   "word": "resolve",
+   "line": "It's because your resolve is too weak!"
+  },
+  {
+   "word": "slit",
+   "line": "And slit your own belly and die!"
+  },
+  {
+   "word": "belly",
+   "line": "And slit your own belly and die!"
+  },
+  {
+   "word": "jarring",
+   "line": "Nezuko, I know it must be jarring, but please be patient!"
+  },
+  {
+   "word": "buckle",
+   "line": "My legs are starting to buckle!"
+  },
+  {
+   "word": "pitfall",
+   "line": "A pitfall?"
+  },
+  {
+   "word": "abruptness",
+   "line": "Forgive my abruptness, Mr. Sakonji Urokodaki."
+  },
+  {
+   "word": "brazen",
+   "line": "He was brazen enough to attack me unarmed."
+  },
+  {
+   "word": "unarmed",
+   "line": "He was brazen enough to attack me unarmed."
+  },
+  {
+   "word": "heir",
+   "line": "Perhaps he'll find a way to break through and become your heir apparent."
+  },
+  {
+   "word": "endeavors",
+   "line": "I hope that you will take good care of yourself in your endeavors."
+  },
+  {
+   "word": "slayer",
+   "line": "But as for who's leading the Demon Slayer Corps..."
+  },
+  {
+   "word": "staple",
+   "line": "Staple food... Humans!"
+  },
+  {
+   "word": "prowess",
+   "line": "Their physical prowess is remarkable."
+  },
+  {
+   "word": "wounds",
+   "line": "Wounds heal in the blink of an eye."
+  },
+  {
+   "word": "heal",
+   "line": "Wounds heal in the blink of an eye."
+  },
+  {
+   "word": "blink",
+   "line": "Wounds heal in the blink of an eye."
+  },
+  {
+   "word": "sunlight",
+   "line": "They can only be killed by sunlight."
+  },
+  {
+   "word": "decapitation",
+   "line": "They can only be killed by sunlight or by decapitation with a special sword."
+  },
+  {
+   "word": "pupils",
+   "line": "Each of them trains their pupils with their own regimen."
+  },
+  {
+   "word": "regimen",
+   "line": "and each of them trains their pupils with their own regimen in their location."
+  },
+  {
+   "word": "descending",
+   "line": "I'm descending the mountain again today."
+  },
+  {
+   "word": "adept",
+   "line": "I'm even more adept at detecting scents than before."
+  },
+  {
+   "word": "detecting",
+   "line": "I'm even more adept at detecting scents than before."
+  },
+  {
+   "word": "scents",
+   "line": "I'm even more adept at detecting scents than before."
+  },
+  {
+   "word": "descent",
+   "line": "I made my descent today, sword in hand,"
+  },
+  {
+   "word": "hampered",
+   "line": "But the sword really hampered my movement."
+  },
+  {
+   "word": "ensnared",
+   "line": "I can't stop getting ensnared in all the traps!"
+  },
+  {
+   "word": "traps",
+   "line": "I can't stop getting ensnared in all the traps!"
+  },
+  {
+   "word": "wield",
+   "line": "I wield my sword..."
+  },
+  {
+   "word": "flings",
+   "line": "He flings me away to roll on the ground every time."
+  },
+  {
+   "word": "yelled",
+   "line": "I get yelled at for not bracing my stomach."
+  },
+  {
+   "word": "bracing",
+   "line": "I get yelled at for not bracing my stomach."
+  },
+  {
+   "word": "clobbered",
+   "line": "...and clobbered to a pulp."
+  },
+  {
+   "word": "pulp",
+   "line": "...and clobbered to a pulp."
+  },
+  {
+   "word": "slice",
+   "line": "If you can slice this boulder..."
+  },
+  {
+   "word": "boulder",
+   "line": "If you can slice this boulder..."
+  },
+  {
+   "word": "whine",
+   "line": "A man shouldn't whine. It's unseemly."
+  },
+  {
+   "word": "unseemly",
+   "line": "A man shouldn't whine. It's unseemly."
+  },
+  {
+   "word": "slam",
+   "line": "Slam it into your flesh!"
+  },
+  {
+   "word": "marrow",
+   "line": "Pound it into the marrow of your bones!"
+  },
+  {
+   "word": "headway",
+   "line": "But I'm not making any headway!"
+  },
+  {
+   "word": "taut",
+   "line": "growing taut the instant I see it."
+  },
+  {
+   "word": "hardship",
+   "line": "From here on out, you'll be going through such hardship and strife."
+  },
+  {
+   "word": "strife",
+   "line": "From here on out, you'll be going through such hardship and strife."
+  },
+  {
+   "word": "warding",
+   "line": "Warding mask."
+  },
+  {
+   "word": "wisteria",
+   "line": "Look at all these wisteria flowers."
+  },
+  {
+   "word": "demons",
+   "line": "That is because wisteria, which demons hate so much..."
+  },
+  {
+   "word": "abound",
+   "line": "...and so demons abound."
+  },
+  {
+   "word": "swords",
+   "line": "The swords wielded by the Demon Slayer Corps..."
+  },
+  {
+   "word": "wielded",
+   "line": "The swords wielded by the Demon Slayer Corps..."
+  },
+  {
+   "word": "forged",
+   "line": "They were forged with a special kind of steel."
+  },
+  {
+   "word": "morphed",
+   "line": "What's this morphed demon doing here anyway?"
+  },
+  {
+   "word": "disciples",
+   "line": "I promised myself to kill every one of his disciples."
+  },
+  {
+   "word": "lacking",
+   "line": "She was small and lacking in power, but she was awfully agile."
+  },
+  {
+   "word": "awfully",
+   "line": "She was small and lacking in power, but she was awfully agile."
+  },
+  {
+   "word": "agile",
+   "line": "She was small and lacking in power, but she was awfully agile."
+  },
+  {
+   "word": "texture",
+   "line": "I know the texture of the masks Urokodaki carved."
+  },
+  {
+   "word": "masks",
+   "line": "I know the texture of the masks Urokodaki carved."
+  },
+  {
+   "word": "carved",
+   "line": "I know the texture of the masks Urokodaki carved."
+  },
+  {
+   "word": "ripped",
+   "line": "I ripped off her limbs, and then..."
+  },
+  {
+   "word": "limbs",
+   "line": "I ripped off her limbs, and then..."
+  },
+  {
+   "word": "irrefutable",
+   "line": "Either way, there's one irrefutable fact."
+  },
+  {
+   "word": "deflected",
+   "line": "He deflected me!"
+  },
+  {
+   "word": "crumbling",
+   "line": "My body's crumbling and disappearing."
+  },
+  {
+   "word": "disappearing",
+   "line": "My body's crumbling and disappearing."
+  },
+  {
+   "word": "scaredy-cat",
+   "line": "Still such a scaredy-cat."
+  },
+  {
+   "word": "measurements",
+   "line": "We will take your measurements."
+  },
+  {
+   "word": "engraved",
+   "line": "We will take your measurements, after which your rank will be engraved."
+  },
+  {
+   "word": "ore",
+   "line": "Today, we will let you choose the ore for your swords."
+  },
+  {
+   "word": "clown",
+   "line": "A clown mask?"
+  },
+  {
+   "word": "fabric",
+   "line": "The fabric is quite breathable."
+  },
+  {
+   "word": "breathable",
+   "line": "The fabric is quite breathable."
+  },
+  {
+   "word": "repels",
+   "line": "Yet it repels moisture and won't burn easily."
+  },
+  {
+   "word": "moisture",
+   "line": "Yet it repels moisture and won't burn easily."
+  },
+  {
+   "word": "mist",
+   "line": "Built out of an extremely light wood called \"Cloud Mist Pine.\""
+  },
+  {
+   "word": "pine",
+   "line": "Built out of an extremely light wood called \"Cloud Mist Pine.\""
+  },
+  {
+   "word": "haggard",
+   "line": "Poor thing. He looks so haggard."
+  },
+  {
+   "word": "dreadful",
+   "line": "It's so dreadful!"
+  },
+  {
+   "word": "abducted",
+   "line": "When night falls, yet another young girl will be abducted!"
+  },
+  {
+   "word": "faint",
+   "line": "There's still a faint trace of demon scent,"
+  },
+  {
+   "word": "trace",
+   "line": "There's still a faint trace of demon scent."
+  },
+  {
+   "word": "flattered",
+   "line": "I'm flattered that you're so concerned for me."
+  },
+  {
+   "word": "dispersed",
+   "line": "So, one demon has dispersed into three."
+  },
+  {
+   "word": "slashing",
+   "line": "I'm going to protect these two while slashing those three demons!"
+  },
+  {
+   "word": "stale",
+   "line": "That girl's gonna go stale on me, dammit!"
+  },
+  {
+   "word": "dammit",
+   "line": "That girl's gonna go stale on me, dammit!"
+  },
+  {
+   "word": "swamp",
+   "line": "Inside a swamp..."
+  },
+  {
+   "word": "coiling",
+   "line": "The darkness coiling around your body must feel pretty heavy."
+  },
+  {
+   "word": "leaped",
+   "line": "You should've looked before you leaped in, you damn fool!"
+  },
+  {
+   "word": "generating",
+   "line": "Generating a powerful vortex..."
+  },
+  {
+   "word": "vortex",
+   "line": "Generating a powerful vortex..."
+  },
+  {
+   "word": "mastered",
+   "line": "She doesn't seem to have mastered any morphing skills yet."
+  },
+  {
+   "word": "morphing",
+   "line": "She doesn't seem to have mastered any morphing skills yet."
+  },
+  {
+   "word": "selves",
+   "line": "Both of my other selves got taken out by this guy!"
+  },
+  {
+   "word": "hardened",
+   "line": "Hardened by relentless training and so thick."
+  },
+  {
+   "word": "relentless",
+   "line": "Hardened by relentless training and so thick."
+  },
+  {
+   "word": "tortured",
+   "line": "How many people have you killed, tortured and tormented?"
+  },
+  {
+   "word": "tormented",
+   "line": "How many people have you killed, tortured and tormented?"
+  },
+  {
+   "word": "udon",
+   "line": "A bowl of udon with grated yam on top, please."
+  },
+  {
+   "word": "grated",
+   "line": "A bowl of udon with grated yam on top, please."
+  },
+  {
+   "word": "yam",
+   "line": "A bowl of udon with grated yam on top, please."
+  },
+  {
+   "word": "flustered",
+   "line": "You seem to be quite flustered."
+  },
+  {
+   "word": "consternation",
+   "line": "Much to my consternation..."
+  },
+  {
+   "word": "annihilate",
+   "line": "And I wish to annihilate that man, Kibutsuji."
+  },
+  {
+   "word": "decked",
+   "line": "Hey, look at you, decked out in those posh-looking threads!"
+  },
+  {
+   "word": "threads",
+   "line": "Hey, look at you, decked out in those posh-looking threads!"
+  },
+  {
+   "word": "pale",
+   "line": "You and your pale face..."
+  },
+  {
+   "word": "croak",
+   "line": "Hey, say something, will you? Or did you just croak?"
+  },
+  {
+   "word": "complexion",
+   "line": "Does my complexion look unhealthy to you?"
+  },
+  {
+   "word": "unhealthy",
+   "line": "Does my complexion look unhealthy to you?"
+  },
+  {
+   "word": "sickly",
+   "line": "Do I look sickly to you?"
+  },
+  {
+   "word": "flooding",
+   "line": "What do you think will happen if I keep flooding you with my blood?"
+  },
+  {
+   "word": "withstand",
+   "line": "The human body is unable to withstand the speed of transformation."
+  },
+  {
+   "word": "bamboo",
+   "line": "If you're gonna have udon, take off that bamboo thingie first!"
+  },
+  {
+   "word": "thingie",
+   "line": "If you're gonna have udon, take off that bamboo thingie first!"
+  },
+  {
+   "word": "cloaking",
+   "line": "She's in a place that's under a cloaking spell."
+  },
+  {
+   "word": "eyesore",
+   "line": "And an eyesore to boot."
+  },
+  {
+   "word": "boot",
+   "line": "And an eyesore to boot."
+  },
+  {
+   "word": "muzzle",
+   "line": "Oh, I know what it is! It's this muzzle, right?"
+  },
+  {
+   "word": "behold",
+   "line": "I'd like you to behold Nezuko without the muzzle!"
+  },
+  {
+   "word": "restrained",
+   "line": "Unfortunately, I have to keep her husband restrained in the basement."
+  },
+  {
+   "word": "basement",
+   "line": "Unfortunately, I have to keep her husband restrained in the basement."
+  },
+  {
+   "word": "choking",
+   "line": "You think demons treat humans while choking back their own drool at the smell of blood?"
+  },
+  {
+   "word": "drool",
+   "line": "You think demons treat humans while choking back their own drool at the smell of blood?"
+  },
+  {
+   "word": "tweaked",
+   "line": "Because I've tweaked my body considerably."
+  },
+  {
+   "word": "considerably",
+   "line": "Because I've tweaked my body considerably."
+  },
+  {
+   "word": "distasteful",
+   "line": "You may find it distasteful,"
+  },
+  {
+   "word": "guise",
+   "line": "...under the guise of transfusions from those unable to make ends meet."
+  },
+  {
+   "word": "transfusions",
+   "line": "...under the guise of transfusions from those unable to make ends meet."
+  },
+  {
+   "word": "ill-mannered",
+   "line": "Don't ask a lady her age, you ill-mannered scoundrel!"
+  },
+  {
+   "word": "scoundrel",
+   "line": "Don't ask a lady her age, you ill-mannered scoundrel!"
+  },
+  {
+   "word": "gravely",
+   "line": "...or those so gravely injured that they don't have long to live."
+  },
+  {
+   "word": "devoid",
+   "line": "The scent she's giving off is pure and devoid of deception."
+  },
+  {
+   "word": "deception",
+   "line": "The scent she's giving off is pure and devoid of deception."
+  },
+  {
+   "word": "slay",
+   "line": "Of course we're going to slay them vindictively."
+  },
+  {
+   "word": "vindictively",
+   "line": "Of course we're going to slay them vindictively."
+  },
+  {
+   "word": "elixir",
+   "line": "To produce such an elixir,..."
+  },
+  {
+   "word": "unquestionably",
+   "line": "...would unquestionably go berserk."
+  },
+  {
+   "word": "berserk",
+   "line": "...would unquestionably go berserk."
+  },
+  {
+   "word": "handiwork",
+   "line": "The handiwork of a Blood Demon Arts wielder adept at hiding objects."
+  },
+  {
+   "word": "wielder",
+   "line": "The handiwork of a Blood Demon Arts wielder adept at hiding objects."
+  },
+  {
+   "word": "splattered",
+   "line": "You splattered my kimono with dust!"
+  },
+  {
+   "word": "kimono",
+   "line": "You splattered my kimono with dust!"
+  },
+  {
+   "word": "minions",
+   "line": "Is she one of Kibutsuji's minions?"
+  },
+  {
+   "word": "swerve",
+   "line": "That temari will only swerve if I dodge it."
+  },
+  {
+   "word": "dodge",
+   "line": "That temari will only swerve if I dodge it."
+  },
+  {
+   "word": "thrusting",
+   "line": "The fastest thrusting technique..."
+  },
+  {
+   "word": "thrust",
+   "line": "Oh, so you thrust at the curve diagonally to soften the temari's blow."
+  },
+  {
+   "word": "curve",
+   "line": "Oh, so you thrust at the curve diagonally to soften the temari's blow."
+  },
+  {
+   "word": "diagonally",
+   "line": "Oh, so you thrust at the curve diagonally to soften the temari's blow."
+  },
+  {
+   "word": "soften",
+   "line": "Oh, so you thrust at the curve diagonally to soften the temari's blow."
+  },
+  {
+   "word": "despise",
+   "line": "I despise such people!"
+  },
+  {
+   "word": "babbling",
+   "line": "Hey, he's babbling!"
+  },
+  {
+   "word": "scheming",
+   "line": "I don't know what you're scheming,..."
+  },
+  {
+   "word": "undeniably",
+   "line": "Then they're undeniably more formidable than any other demon you've killed until now!"
+  },
+  {
+   "word": "formidable",
+   "line": "Then they're undeniably more formidable than any other demon you've killed until now!"
+  },
+  {
+   "word": "decoys",
+   "line": "Let's use those two as decoys and escape!"
+  },
+  {
+   "word": "stir",
+   "line": "Don't stir up dust like that."
+  },
+  {
+   "word": "filthy",
+   "line": "So filthy!"
+  },
+  {
+   "word": "unleash",
+   "line": "Unleash a move to blunt the attack!"
+  },
+  {
+   "word": "blunt",
+   "line": "Unleash a move to blunt the attack!"
+  },
+  {
+   "word": "fugitive",
+   "line": "Wouldn't that be Tamayo the Fugitive?"
+  },
+  {
+   "word": "souvenir",
+   "line": "What a great souvenir she'll make!"
+  },
+  {
+   "word": "eluded",
+   "line": "So, you eluded it by spinning in the same direction as the Kouketsu Arrow?"
+  },
+  {
+   "word": "spinning",
+   "line": "So, you eluded it by spinning in the same direction as the Kouketsu Arrow?"
+  },
+  {
+   "word": "arrow",
+   "line": "So, you eluded it by spinning in the same direction as the Kouketsu Arrow?"
+  },
+  {
+   "word": "lateral",
+   "line": "Lateral Water Wheel!"
+  },
+  {
+   "word": "shoving",
+   "line": "Shoving my face into this vile dirt!"
+  },
+  {
+   "word": "vile",
+   "line": "Shoving my face into this vile dirt!"
+  },
+  {
+   "word": "evade",
+   "line": "It's child's play for me to evade a linear attack like this!"
+  },
+  {
+   "word": "linear",
+   "line": "It's child's play for me to evade a linear attack like this!"
+  },
+  {
+   "word": "locating",
+   "line": "Locating you is a breeze, as well!"
+  },
+  {
+   "word": "breeze",
+   "line": "Locating you is a breeze, as well!"
+  },
+  {
+   "word": "amusing",
+   "line": "You're an amusing little girl!"
+  },
+  {
+   "word": "cannibalize",
+   "line": "The reason why demons cannibalize each other?"
+  },
+  {
+   "word": "petty",
+   "line": "No way is he that petty!"
+  },
+  {
+   "word": "wields",
+   "line": "The power he wields is mind-blowing!"
+  },
+  {
+   "word": "mind-blowing",
+   "line": "The power he wields is mind-blowing!"
+  },
+  {
+   "word": "immensely",
+   "line": "It's immensely potent, Lady Tamayo!"
+  },
+  {
+   "word": "potent",
+   "line": "It's immensely potent, Lady Tamayo!"
+  },
+  {
+   "word": "rendering",
+   "line": "...rendering that person unable to lie or keep secrets."
+  },
+  {
+   "word": "farewell",
+   "line": "Farewell."
+  },
+  {
+   "word": "momentarily",
+   "line": "She will die momentarily."
+  },
+  {
+   "word": "battles",
+   "line": "...battles between demons are futile."
+  },
+  {
+   "word": "futile",
+   "line": "battles between demons are futile"
+  },
+  {
+   "word": "inflict",
+   "line": "Because they can't inflict fatal wounds on each other."
+  },
+  {
+   "word": "fatal",
+   "line": "Because they can't inflict fatal wounds on each other."
+  },
+  {
+   "word": "medicate",
+   "line": "Not only did I medicate her, she also inhaled my spell inadvertently."
+  },
+  {
+   "word": "inhaled",
+   "line": "Not only did I medicate her, she also inhaled my spell inadvertently."
+  },
+  {
+   "word": "inadvertently",
+   "line": "Not only did I medicate her, she also inhaled my spell inadvertently."
+  },
+  {
+   "word": "deluded",
+   "line": "You were deluded into thinking you were in the Twelve Kizuki."
+  },
+  {
+   "word": "salvation",
+   "line": "There's no salvation."
+  },
+  {
+   "word": "treats",
+   "line": "This is how that man treats even those who revere him!"
+  },
+  {
+   "word": "revere",
+   "line": "This is how that man treats even those who revere him!"
+  },
+  {
+   "word": "succumb",
+   "line": "If this goes on, you will most likely succumb to your illness."
+  },
+  {
+   "word": "elderly",
+   "line": "The young and the elderly are particularly perceptive."
+  },
+  {
+   "word": "perceptive",
+   "line": "The young and the elderly are particularly perceptive."
+  },
+  {
+   "word": "crumpled",
+   "line": "You were crumpled up on the side of the road looking ill, and all I did was speak to you!"
+  },
+  {
+   "word": "distressed",
+   "line": "Was it distressed? The sparrow?"
+  },
+  {
+   "word": "sparrow",
+   "line": "Was it distressed? The sparrow?"
+  },
+  {
+   "word": "snore",
+   "line": "...and you snore so loud, he's had it!"
+  },
+  {
+   "word": "tame",
+   "line": "It's a tame sparrow!"
+  },
+  {
+   "word": "ogre",
+   "line": "Hey, come on! Why are you making that ogre face at me?"
+  },
+  {
+   "word": "yammering",
+   "line": "All this constant yammering about dying..."
+  },
+  {
+   "word": "ashamed",
+   "line": "Aren't you ashamed of yourself?"
+  },
+  {
+   "word": "meddling",
+   "line": "If it hadn't been for their meddling..."
+  },
+  {
+   "word": "shelves",
+   "line": "Step back and hide behind the shelves."
+  },
+  {
+   "word": "barging",
+   "line": "Why do they all keep barging into someone else's home?"
+  },
+  {
+   "word": "infuriating",
+   "line": "It's infuriating."
+  },
+  {
+   "word": "flipped",
+   "line": "The room's been flipped!"
+  },
+  {
+   "word": "wafting",
+   "line": "An odd scent is wafting this way."
+  },
+  {
+   "word": "battlefield",
+   "line": "Die on the battlefield and serve as my springboard!"
+  },
+  {
+   "word": "springboard",
+   "line": "Die on the battlefield and serve as my springboard!"
+  },
+  {
+   "word": "fragility",
+   "line": "No beauty, no fragility, no impact."
+  },
+  {
+   "word": "evading",
+   "line": "He's evading all of my attacks!"
+  },
+  {
+   "word": "trample",
+   "line": "He saw fit not to trample on it."
+  },
+  {
+   "word": "spun",
+   "line": "When the room spun around, we got thrown outside."
+  },
+  {
+   "word": "demonic",
+   "line": "I'm getting a demonic vibe."
+  },
+  {
+   "word": "vibe",
+   "line": "I'm getting a demonic vibe."
+  },
+  {
+   "word": "demolish",
+   "line": "In that case, I'm gonna demolish him and the box together!"
+  },
+  {
+   "word": "bluster",
+   "line": "After all that bluster,"
+  },
+  {
+   "word": "skewer",
+   "line": "I'll just have to skewer you along with that box!"
+  },
+  {
+   "word": "taboo",
+   "line": "It's because it's taboo for us to draw our swords on each other for no reason!"
+  },
+  {
+   "word": "bizarrely",
+   "line": "His attacks are bizarrely low!"
+  },
+  {
+   "word": "concussion",
+   "line": "It's probably a concussion."
+  },
+  {
+   "word": "burial",
+   "line": "It's a burial."
+  },
+  {
+   "word": "loon",
+   "line": "Man, he really is a loon."
+  },
+  {
+   "word": "threshold",
+   "line": "After all, we all have a different pain threshold."
+  },
+  {
+   "word": "smells",
+   "line": "It smells like wisteria."
+  },
+  {
+   "word": "pummeled",
+   "line": "That's not why I got pummeled and kicked by that weird wild boar, right?"
+  },
+  {
+   "word": "boar",
+   "line": "That's not why I got pummeled and kicked by that weird wild boar, right?"
+  },
+  {
+   "word": "wrath",
+   "line": "You shall feel my wrath!"
+  },
+  {
+   "word": "shivering",
+   "line": "You can follow me, shivering."
+  },
+  {
+   "word": "twisted",
+   "line": "That twisted, ominous scent I was picking up from the mountain..."
+  },
+  {
+   "word": "ominous",
+   "line": "That twisted, ominous scent I was picking up from the mountain..."
+  },
+  {
+   "word": "irritating",
+   "line": "What's this? What an irritating odor!"
+  },
+  {
+   "word": "odor",
+   "line": "What an irritating odor! Though it was just for a second!"
+  },
+  {
+   "word": "acrid",
+   "line": "That acrid smell again!"
+  },
+  {
+   "word": "piercing",
+   "line": "The bones are piercing my inner organs!"
+  },
+  {
+   "word": "organs",
+   "line": "The bones are piercing my inner organs!"
+  },
+  {
+   "word": "giddier",
+   "line": "Don't make me any giddier than I already am!"
+  },
+  {
+   "word": "agonizing",
+   "line": "It's not agonizing..."
+  },
+  {
+   "word": "dreamed",
+   "line": "I never dreamed that my end would be this tranquil."
+  },
+  {
+   "word": "tranquil",
+   "line": "I never dreamed that my end would be this tranquil."
+  },
+  {
+   "word": "showering",
+   "line": "Don't go showering me with your sensitivity and kindness!"
+  },
+  {
+   "word": "sensitivity",
+   "line": "Don't go showering me with your sensitivity and kindness!"
+  },
+  {
+   "word": "kindness",
+   "line": "Don't go showering me with your sensitivity and kindness!"
+  },
+  {
+   "word": "yearn",
+   "line": "Enough to make her yearn for death."
+  },
+  {
+   "word": "pricked",
+   "line": "Something just pricked me!"
+  },
+  {
+   "word": "spiders",
+   "line": "And this sound of spiders rustling around is so creepy!"
+  },
+  {
+   "word": "rustling",
+   "line": "And this sound of spiders rustling around is so creepy!"
+  },
+  {
+   "word": "creepy",
+   "line": "And this sound of spiders rustling around is so creepy!"
+  },
+  {
+   "word": "plow",
+   "line": "I'll even plow fields!"
+  },
+  {
+   "word": "pungent",
+   "line": "Talk about pungent!"
+  },
+  {
+   "word": "dire",
+   "line": "You already know how dire your situation is, don't you?"
+  },
+  {
+   "word": "cowering",
+   "line": "But I end up cowering, running away, sniveling."
+  },
+  {
+   "word": "sniveling",
+   "line": "But I end up cowering, running away, sniveling."
+  },
+  {
+   "word": "bald",
+   "line": "So, why do I have to end up going bald and turning into a monster?"
+  },
+  {
+   "word": "pounce",
+   "line": "Hey, you guys! Pounce on him!"
+  },
+  {
+   "word": "hone",
+   "line": "If you can only do one thing, hone it to perfection."
+  },
+  {
+   "word": "perfection",
+   "line": "If you can only do one thing, hone it to perfection."
+  },
+  {
+   "word": "utmost",
+   "line": "Hone it to the utmost limit!"
+  },
+  {
+   "word": "clobbering",
+   "line": "So that's why you keep clobbering me day in, day out?"
+  },
+  {
+   "word": "rendered",
+   "line": "Any minute now, you'll be rendered immobile by that poison."
+  },
+  {
+   "word": "immobile",
+   "line": "Any minute now, you'll be rendered immobile by that poison."
+  },
+  {
+   "word": "poison",
+   "line": "Any minute now, you'll be rendered immobile by that poison."
+  },
+  {
+   "word": "steadfastly",
+   "line": "Time and time again, he steadfastly reprimanded me."
+  },
+  {
+   "word": "reprimanded",
+   "line": "Time and time again, he steadfastly reprimanded me."
+  },
+  {
+   "word": "shreds",
+   "line": "I'm gonna tear you to shreds, you damn demon!"
+  },
+  {
+   "word": "carve",
+   "line": "Or I'll carve you up."
+  },
+  {
+   "word": "counterfeit",
+   "line": "It's counterfeit!"
+  },
+  {
+   "word": "flinching",
+   "line": "This thing isn't even flinching!"
+  },
+  {
+   "word": "flinch",
+   "line": "He doesn't flinch back in fear."
+  },
+  {
+   "word": "elder",
+   "line": "I'm your elder sister! Don't desert me!"
+  },
+  {
+   "word": "shackle",
+   "line": "Using terror to shackle someone hand and foot is not the bond of a family!"
+  },
+  {
+   "word": "relinquish",
+   "line": "Your role is to relinquish your younger sister to me and disappear."
+  },
+  {
+   "word": "disappear",
+   "line": "Your role is to relinquish your younger sister to me and disappear."
+  },
+  {
+   "word": "glittering",
+   "line": "Glittering like that..."
+  },
+  {
+   "word": "hollering",
+   "line": "Stop that hollering."
+  },
+  {
+   "word": "docile",
+   "line": "If she still doesn't learn to be docile,"
+  },
+  {
+   "word": "infernal",
+   "line": "Enough of that infernal wailing."
+  },
+  {
+   "word": "wailing",
+   "line": "Enough of that infernal wailing."
+  },
+  {
+   "word": "disasters",
+   "line": "So, to ward off injuries and disasters..."
+  },
+  {
+   "word": "repercussions",
+   "line": "It'll bring on the repercussions of forcibly switching..."
+  },
+  {
+   "word": "forcibly",
+   "line": "It'll bring on the repercussions of forcibly switching..."
+  },
+  {
+   "word": "switching",
+   "line": "It'll bring on the repercussions of forcibly switching..."
+  },
+  {
+   "word": "severed",
+   "line": "...severed by anyone!"
+  },
+  {
+   "word": "throbbing",
+   "line": "My whole body is throbbing with pain!"
+  },
+  {
+   "word": "enraged",
+   "line": "I haven't been this enraged in a long time."
+  },
+  {
+   "word": "regrets",
+   "line": "Now I can carve you up with no regrets."
+  },
+  {
+   "word": "solvent",
+   "line": "First, the solvent will melt those clothes out of the way."
+  },
+  {
+   "word": "melt",
+   "line": "First, the solvent will melt those clothes out of the way."
+  },
+  {
+   "word": "mush",
+   "line": "You'll be reduced to mush in no time."
+  },
+  {
+   "word": "defy",
+   "line": "If I defy him, I'll be slashed to shreds!"
+  },
+  {
+   "word": "slashed",
+   "line": "If I defy him, I'll be slashed to shreds!"
+  },
+  {
+   "word": "captives",
+   "line": "The human captives inside had been liquefied."
+  },
+  {
+   "word": "liquefied",
+   "line": "The human captives inside had been liquefied."
+  },
+  {
+   "word": "gouge",
+   "line": "I could gouge out your eyeballs."
+  },
+  {
+   "word": "eyeballs",
+   "line": "I could gouge out your eyeballs."
+  },
+  {
+   "word": "rot",
+   "line": "She's already dead, so if we leave her, she'll rot."
+  },
+  {
+   "word": "dissolved",
+   "line": "Your clothes did get dissolved, but your body is more or less unscathed!"
+  },
+  {
+   "word": "unscathed",
+   "line": "Your clothes did get dissolved, but your body is more or less unscathed!"
+  },
+  {
+   "word": "frail",
+   "line": "I was always very frail."
+  },
+  {
+   "word": "astounding",
+   "line": "Such astounding parental love."
+  },
+  {
+   "word": "parental",
+   "line": "Such astounding parental love."
+  },
+  {
+   "word": "atone",
+   "line": "He meant to die with me to atone for my sin of having murdered another."
+  },
+  {
+   "word": "strained",
+   "line": "no matter how I strained to get my hands on it."
+  },
+  {
+   "word": "ponder",
+   "line": "No need to ponder."
+  },
+  {
+   "word": "construed",
+   "line": "I don't believe it could be construed as a violation."
+  },
+  {
+   "word": "violation",
+   "line": "I don't believe it could be construed as a violation."
+  },
+  {
+   "word": "rambling",
+   "line": "Please don't start some long, rambling story from that far back in time."
+  },
+  {
+   "word": "spiteful",
+   "line": "Are you just being spiteful?"
+  },
+  {
+   "word": "strung",
+   "line": "Why's he strung up like this?"
+  },
+  {
+   "word": "ornament",
+   "line": "She has the same kind of hair ornament as the lady who wrapped us up."
+  },
+  {
+   "word": "wrapped",
+   "line": "She has the same kind of hair ornament as the lady who wrapped us up."
+  },
+  {
+   "word": "bummer",
+   "line": "Bummer. I heard he was a Demon Slayer with a demon in tow."
+  },
+  {
+   "word": "tow",
+   "line": "I heard he was a Demon Slayer with a demon in tow."
+  },
+  {
+   "word": "flamboyant",
+   "line": "so I was looking forward to seeing someone flamboyant,"
+  },
+  {
+   "word": "flamboyance",
+   "line": "I'm talking max flamboyance."
+  },
+  {
+   "word": "pains",
+   "line": "That pains my heart! It fills me with anguish!"
+  },
+  {
+   "word": "fills",
+   "line": "That pains my heart! It fills me with anguish!"
+  },
+  {
+   "word": "anguish",
+   "line": "LOVE HASHIRA MITSURI KANROJI That pains my heart! It fills me with anguish!"
+  },
+  {
+   "word": "nag",
+   "line": "Iguro, you're as serpent-like as ever! Such a nag!"
+  },
+  {
+   "word": "absurd",
+   "line": "Spare us your absurd ravings."
+  },
+  {
+   "word": "ravings",
+   "line": "Spare us your absurd ravings."
+  },
+  {
+   "word": "liberated",
+   "line": "Let us kill this poor child immediately so that she can be liberated!"
+  },
+  {
+   "word": "brewing",
+   "line": "Well, well, I see you have some fun brewing here."
+  },
+  {
+   "word": "interference",
+   "line": "Even though Tomioka ran interference, he still landed a blow on Shinazugawa."
+  },
+  {
+   "word": "fervently",
+   "line": "I fervently pray for your continued good fortune."
+  },
+  {
+   "word": "apologize",
+   "line": "I apologize for startling you all."
+  },
+  {
+   "word": "startling",
+   "line": "I apologize for startling you all."
+  },
+  {
+   "word": "sanctioned",
+   "line": "About Tanjiro and Nezuko... I've sanctioned their situation."
+  },
+  {
+   "word": "loathe",
+   "line": "In the first place, I loathe demons."
+  },
+  {
+   "word": "incomprehensible",
+   "line": "That's an incomprehensible notion, Master!"
+  },
+  {
+   "word": "notion",
+   "line": "Although I respect you with all my heart, that's an incomprehensible notion, Master!"
+  },
+  {
+   "word": "penalize",
+   "line": "I request that you penalize both Kamado and Tomioka!"
+  },
+  {
+   "word": "abridged",
+   "line": "I shall read you an abridged version."
+  },
+  {
+   "word": "resilient",
+   "line": "Because of her resilient mental strength..."
+  },
+  {
+   "word": "far-fetched",
+   "line": "Although the situation seems somewhat far-fetched, it is an indisputable fact."
+  },
+  {
+   "word": "indisputable",
+   "line": "Although the situation seems somewhat far-fetched, it is an indisputable fact."
+  },
+  {
+   "word": "seppuku",
+   "line": "Sakonji Urokodaki and Giyu Tomioka will atone by committing seppuku."
+  },
+  {
+   "word": "relay",
+   "line": "Also, there's something I'd like to relay to you, my children."
+  },
+  {
+   "word": "pursuers",
+   "line": "Kibutsuji has sent pursuers after Tanjiro."
+  },
+  {
+   "word": "sheer",
+   "line": "The sheer ugliness of a demon!"
+  },
+  {
+   "word": "ugliness",
+   "line": "The sheer ugliness of a demon!"
+  },
+  {
+   "word": "obliterate",
+   "line": "and ill obliterate you right here!"
+  },
+  {
+   "word": "discourtesy",
+   "line": "Please forgive this discourtesy."
+  },
+  {
+   "word": "digging",
+   "line": "Iguro, you're digging into him too hard."
+  },
+  {
+   "word": "disgust",
+   "line": "The demon girl turned her back in disgust."
+  },
+  {
+   "word": "torment",
+   "line": "Don't torment the younger ones too much."
+  },
+  {
+   "word": "assure",
+   "line": "We assure you that this boy will be severely reprimanded."
+  },
+  {
+   "word": "severely",
+   "line": "We assure you that this boy will be severely reprimanded."
+  },
+  {
+   "word": "stomped",
+   "line": "Hey, somebody's forgotten how they got stomped on by Master Kanao last night."
+  },
+  {
+   "word": "ordeal",
+   "line": "I mean it's really bitter! It's such an ordeal!"
+  },
+  {
+   "word": "commotion",
+   "line": "So, that guy is still making a commotion. What's gonna happen if I forget to take it even once? Hey!"
+  },
+  {
+   "word": "cackling",
+   "line": "Why are you cackling in that creepy way all of a sudden?"
+  },
+  {
+   "word": "roughed",
+   "line": "I really got roughed up on Mt. Natagumo."
+  },
+  {
+   "word": "carnage",
+   "line": "The demons' carnage has increased more than ever."
+  },
+  {
+   "word": "bolster",
+   "line": "We'll have to bolster the ranks of the Demon Slayers."
+  },
+  {
+   "word": "slayers",
+   "line": "We'll have to bolster the ranks of the Demon Slayers."
+  },
+  {
+   "word": "pedigree",
+   "line": "Or those of distinguished pedigree who have hunted demons for generations..."
+  },
+  {
+   "word": "hunted",
+   "line": "Those of distinguished pedigree who have hunted demons for generations..."
+  },
+  {
+   "word": "drastic",
+   "line": "But the fact that Lower Five made such a drastic move..."
+  },
+  {
+   "word": "gobble",
+   "line": "Don't worry, it's not as if I'll gobble him up, all right?"
+  },
+  {
+   "word": "favoritism",
+   "line": "I call favoritism! I call favoritism!"
+  },
+  {
+   "word": "lasting",
+   "line": "I mean, if you take this medicine and get lots of sunlight there'll be no lasting effects!"
+  },
+  {
+   "word": "rehabilitation",
+   "line": "Then, let's have you start your Rehabilitation Training, shall we?"
+  },
+  {
+   "word": "limber",
+   "line": "Those girls will make your bodies limber again."
+  },
+  {
+   "word": "ridden",
+   "line": "...after having been bedridden for so long."
+  },
+  {
+   "word": "frolic",
+   "line": "All you did was frolic with girls all day."
+  },
+  {
+   "word": "chummy",
+   "line": "Inosuke, you've never been chummy with a girl before, right?"
+  },
+  {
+   "word": "revulsion",
+   "line": "There's a revulsion that I can't fight."
+  },
+  {
+   "word": "nudge",
+   "line": "I'll give them another nudge later!"
+  },
+  {
+   "word": "bastard",
+   "line": "We're sorry! We're sorry! You bastard! Are you flaunting it?"
+  },
+  {
+   "word": "flaunting",
+   "line": "Are you flaunting it?"
+  },
+  {
+   "word": "prostrate",
+   "line": "Prostrate yourselves."
+  },
+  {
+   "word": "yourselves",
+   "line": "Prostrate yourselves."
+  },
+  {
+   "word": "refuting",
+   "line": "Are you refuting what I just said?"
+  },
+  {
+   "word": "dismantling",
+   "line": "I am now dismantling the Lower Ranks."
+  },
+  {
+   "word": "reprieve",
+   "line": "If you could give me just a short reprieve, I swear I'll be of use to you!"
+  },
+  {
+   "word": "acclimate",
+   "line": "I will acclimate without fail!"
+  },
+  {
+   "word": "hinges",
+   "line": "Everything hinges on the Master's mood."
+  },
+  {
+   "word": "mister",
+   "line": "Mister, I bet you'd really thrive if you set up shop in Ueno!"
+  },
+  {
+   "word": "thrive",
+   "line": "Mister, I bet you'd really thrive if you set up shop in Ueno!"
+  },
+  {
+   "word": "sighing",
+   "line": "Fuku, enough of that sighing."
+  },
+  {
+   "word": "bean",
+   "line": "Go on and eat your bean paste bun."
+  },
+  {
+   "word": "paste",
+   "line": "Go on and eat your bean paste bun."
+  },
+  {
+   "word": "bun",
+   "line": "Go on and eat your bean paste bun."
+  },
+  {
+   "word": "exquisite",
+   "line": "The moon is exquisite tonight, is it not?"
+  },
+  {
+   "word": "splendid",
+   "line": "That'll make a splendid gift for the other Corps members!"
+  },
+  {
+   "word": "stench",
+   "line": "Ugh! What's this stench?"
+  },
+  {
+   "word": "revolting",
+   "line": "If it's revolting, it's revolting."
+  },
+  {
+   "word": "fled",
+   "line": "Last night, we thought you'd fled because we showed up,"
+  },
+  {
+   "word": "doomed",
+   "line": "She's doomed to be consumed by fear for the rest of her life."
+  },
+  {
+   "word": "consumed",
+   "line": "She's doomed to be consumed by fear for the rest of her life."
+  },
+  {
+   "word": "stink",
+   "line": "The one who's got the stink of those bento clinging to her!"
+  },
+  {
+   "word": "bento",
+   "line": "The one who's got the stink of those bento clinging to her!"
+  },
+  {
+   "word": "clinging",
+   "line": "The one who's got the stink of those bento clinging to her!"
+  },
+  {
+   "word": "mysterious",
+   "line": "A demon who's far more powerful and mysterious is lurking somewhere."
+  },
+  {
+   "word": "lurking",
+   "line": "A demon who's far more powerful and mysterious is lurking somewhere."
+  },
+  {
+   "word": "partake",
+   "line": "Now then, let me partake of this with gratitude!"
+  },
+  {
+   "word": "gratitude",
+   "line": "Now then, let me partake of this with gratitude!"
+  },
+  {
+   "word": "doted",
+   "line": "ACCORDING TO MITSURI KANROJI He really doted on me!"
+  },
+  {
+   "word": "casualties",
+   "line": "The casualties of the Mugen Train are increasing."
+  },
+  {
+   "word": "commendable",
+   "line": "But it's truly commendable that your father was able to adapt his kagura dance to battle."
+  },
+  {
+   "word": "adapt",
+   "line": "Your father was able to adapt his kagura dance to battle."
+  },
+  {
+   "word": "fork",
+   "line": "Mist is a fork of Wind."
+  },
+  {
+   "word": "bare",
+   "line": "But if you bare your fangs at innocent people..."
+  },
+  {
+   "word": "fangs",
+   "line": "But if you bare your fangs at innocent people..."
+  },
+  {
+   "word": "slumber",
+   "line": "Their slumber will grow deeper in a little while."
+  },
+  {
+   "word": "blissful",
+   "line": "So that you can have blissful dreams."
+  },
+  {
+   "word": "fragile",
+   "line": "So fragile and weak, like glasswork."
+  },
+  {
+   "word": "glasswork",
+   "line": "So fragile and weak, like glasswork."
+  },
+  {
+   "word": "clovers",
+   "line": "And there are tons of white clovers in bloom!"
+  },
+  {
+   "word": "bloom",
+   "line": "And there are tons of white clovers in bloom!"
+  },
+  {
+   "word": "chaplet",
+   "line": "I'll make you a chaplet!"
+  },
+  {
+   "word": "expedition",
+   "line": "Were the Cave Expedition Team!"
+  },
+  {
+   "word": "sparkly",
+   "line": "Look, I'll give you these sparkly acorns!"
+  },
+  {
+   "word": "acorns",
+   "line": "Look, I'll give you these sparkly acorns!"
+  },
+  {
+   "word": "extinguish",
+   "line": "But that's not enough to extinguish my passion!"
+  },
+  {
+   "word": "caution",
+   "line": "I always fight with the utmost caution."
+  },
+  {
+   "word": "realm",
+   "line": "The realm of the subconscious exists just outside the dream."
+  },
+  {
+   "word": "subconscious",
+   "line": "The realm of the subconscious exists just outside the dream."
+  },
+  {
+   "word": "dreamer",
+   "line": "Do that, and the dreamer will become crippled."
+  },
+  {
+   "word": "crippled",
+   "line": "Do that, and the dreamer will become crippled."
+  },
+  {
+   "word": "faintly",
+   "line": "But I can smell a demon, faintly."
+  },
+  {
+   "word": "incarnations",
+   "line": "You must be the incarnations of this boy's soul."
+  },
+  {
+   "word": "grope",
+   "line": "Do I have to grope around to find his spiritual core?"
+  },
+  {
+   "word": "sever",
+   "line": "I have a feeling that I shouldn't sever this rope with my Nichirin Sword."
+  },
+  {
+   "word": "rope",
+   "line": "I have a feeling that I shouldn't sever this rope with my Nichirin Sword."
+  },
+  {
+   "word": "tuberculosis",
+   "line": "You may have tuberculosis or whatever, but if you don't do your job..."
+  },
+  {
+   "word": "distressing",
+   "line": "No, of course not. Too distressing, right?"
+  },
+  {
+   "word": "adore",
+   "line": "I just adore the sight of a distorted human face."
+  },
+  {
+   "word": "distorted",
+   "line": "I just adore the sight of a distorted human face."
+  },
+  {
+   "word": "enthralling",
+   "line": "How enthralling is it to gaze at someone shattered by misfortune?"
+  },
+  {
+   "word": "gaze",
+   "line": "How enthralling is it to gaze at someone shattered by misfortune?"
+  },
+  {
+   "word": "shattered",
+   "line": "How enthralling is it to gaze at someone shattered by misfortune?"
+  },
+  {
+   "word": "misfortune",
+   "line": "How enthralling is it to gaze at someone shattered by misfortune?"
+  },
+  {
+   "word": "flailing",
+   "line": "...someone shattered by misfortune, suffering and flailing."
+  },
+  {
+   "word": "intrude",
+   "line": "Don't you dare intrude on my soul!"
+  },
+  {
+   "word": "ecstatic",
+   "line": "Fine, since I'm feeling so ecstatic right now."
+  },
+  {
+   "word": "fused",
+   "line": "I fused with this train!"
+  },
+  {
+   "word": "fend",
+   "line": "How am I supposed to fend it off?"
+  },
+  {
+   "word": "scurrying",
+   "line": "Damn Demon Slayer, scurrying around inside me."
+  },
+  {
+   "word": "depleted",
+   "line": "And then, after all your strength is depleted..."
+  },
+  {
+   "word": "leisurely",
+   "line": "I'm going to partake of those 200 passengers in a leisurely feast."
+  },
+  {
+   "word": "feast",
+   "line": "I'm going to partake of those 200 passengers in a leisurely feast."
+  },
+  {
+   "word": "dazzled",
+   "line": "This is no time to be dazzled, idiot!"
+  },
+  {
+   "word": "atoned",
+   "line": "Then, he's already atoned for his sin."
+  },
+  {
+   "word": "minion",
+   "line": "Because my minion asked me to!"
+  },
+  {
+   "word": "disintegrating",
+   "line": "My body's disintegrating."
+  },
+  {
+   "word": "intuition",
+   "line": "But that boar thwarted me. His intuition is extraordinary."
+  },
+  {
+   "word": "honed",
+   "line": "Your fighting spirit has been honed to the hilt."
+  },
+  {
+   "word": "hilt",
+   "line": "Your fighting spirit has been honed to the hilt."
+  },
+  {
+   "word": "ephemeral",
+   "line": "Both growing old and dying are part of the beauty of being an ephemeral creature like a human."
+  },
+  {
+   "word": "creature",
+   "line": "Both growing old and dying are part of the beauty of being an ephemeral creature like a human."
+  },
+  {
+   "word": "hindrance",
+   "line": "Even if I jumped in to back him up, I'd only be a hindrance to him!"
+  },
+  {
+   "word": "ablaze",
+   "line": "Set your heart ablaze."
+  },
+  {
+   "word": "obligated",
+   "line": "...are obligated to use those gifts for the world and other people."
+  },
+  {
+   "word": "pierced",
+   "line": "I've pierced through his solar plexus with my right arm!"
+  },
+  {
+   "word": "plexus",
+   "line": "I've pierced through his solar plexus with my right arm!"
+  },
+  {
+   "word": "crouch",
+   "line": "Even if you stop and crouch down,"
+  },
+  {
+   "word": "snuggle",
+   "line": "...or snuggle you and grieve along with you."
+  },
+  {
+   "word": "grieve",
+   "line": "or snuggle you and grieve along with you"
+  },
+  {
+   "word": "rails",
+   "line": "When the train went off the rails."
+  },
+  {
+   "word": "sobbing",
+   "line": "Sobbing or sniveling won't bring them back!"
+  },
+  {
+   "word": "exterminate",
+   "line": "I'll exterminate those repulsive demons!"
+  },
+  {
+   "word": "repulsive",
+   "line": "I'll exterminate those repulsive demons!"
+  },
+  {
+   "word": "disposed",
+   "line": "So what if you disposed of one Hashira?"
+  },
+  {
+   "word": "feat",
+   "line": "So what if you disposed of one Hashira? As if that were such a feat."
+  },
+  {
+   "word": "secretly",
+   "line": "Tanjiro, I secretly snagged us some bean paste buns, so let's eat!"
+  },
+  {
+   "word": "snagged",
+   "line": "I secretly snagged us some bean paste buns, so let's eat!"
+  },
+  {
+   "word": "buns",
+   "line": "I secretly snagged us some bean paste buns, so let's eat!"
+  },
+  {
+   "word": "wiped",
+   "line": "It's high time you wiped that gloomy look off your face!"
+  },
+  {
+   "word": "gloomy",
+   "line": "It's high time you wiped that gloomy look off your face!"
+  },
+  {
+   "word": "slandering",
+   "line": "Now you're just slandering me!"
+  },
+  {
+   "word": "imitations",
+   "line": "They're just cheap imitations, retrograde versions of Sun Breathing!"
+  },
+  {
+   "word": "retrograde",
+   "line": "They're just cheap imitations, retrograde versions of Sun Breathing!"
+  },
+  {
+   "word": "valiant",
+   "line": "So, my brother was valiant until the end."
+  },
+  {
+   "word": "flame",
+   "line": "After all, the Flame Hashira Chronicles are stored very carefully."
+  },
+  {
+   "word": "chronicles",
+   "line": "After all, the Flame Hashira Chronicles are stored very carefully."
+  },
+  {
+   "word": "stored",
+   "line": "After all, the Flame Hashira Chronicles are stored very carefully."
+  },
+  {
+   "word": "grueling",
+   "line": "No matter how grueling or frustrating it may be."
+  },
+  {
+   "word": "frustrating",
+   "line": "No matter how grueling or frustrating it may be."
+  },
+  {
+   "word": "gripes",
+   "line": "It's probably just his gripes toward me."
+  },
+  {
+   "word": "veranda",
+   "line": "He's sitting on the veranda, eating rice dumplings."
+  },
+  {
+   "word": "dumplings",
+   "line": "He's sitting on the veranda, eating rice dumplings."
+  },
+  {
+   "word": "yanking",
+   "line": "Could you be more unflashy? Stop that yanking."
+  },
+  {
+   "word": "swarming",
+   "line": "Are they swarming around him?"
+  },
+  {
+   "word": "pissant",
+   "line": "Do you really think I'd fall victim to one of your pissant head-butts?"
+  },
+  {
+   "word": "head-butts",
+   "line": "Do you really think I'd fall victim to one of your pissant head-butts?"
+  },
+  {
+   "word": "dripping",
+   "line": "The number one spot in Japan that's dripping with lust and desire. A super-flashy place"
+  },
+  {
+   "word": "lust",
+   "line": "The number one spot in Japan that's dripping with lust and desire."
+  },
+  {
+   "word": "hunch",
+   "line": "Hunch over and rub your hands together."
+  },
+  {
+   "word": "rub",
+   "line": "Hunch over and rub your hands together."
+  },
+  {
+   "word": "pander",
+   "line": "Hunch over and rub your hands together, constantly pander to my every whim."
+  },
+  {
+   "word": "whim",
+   "line": "dooo Hunch over and rub your hands together, onstantly pander to my every whim"
+  },
+  {
+   "word": "sesame",
+   "line": "He's no bigger than a sesame seed now!"
+  },
+  {
+   "word": "carriage",
+   "line": "Whatever you do, don't get out of the carriage."
+  },
+  {
+   "word": "teeming",
+   "line": "It's teeming with people!"
+  },
+  {
+   "word": "sparkles",
+   "line": "At night, it sparkles and dazzles."
+  },
+  {
+   "word": "dazzles",
+   "line": "At night, it sparkles and dazzles."
+  },
+  {
+   "word": "lodging",
+   "line": "In return, they're given food, clothing and lodging."
+  },
+  {
+   "word": "breadwinner",
+   "line": "She's the breadwinner, on whom each house has lavished time and money."
+  },
+  {
+   "word": "lavished",
+   "line": "Each house has lavished time and money on her."
+  },
+  {
+   "word": "scouting",
+   "line": "All right, that's enough scouting."
+  },
+  {
+   "word": "infiltrated",
+   "line": "When you've infiltrated the Entertainment District, first look for my bride."
+  },
+  {
+   "word": "bride",
+   "line": "First look for my bride."
+  },
+  {
+   "word": "incensed",
+   "line": "Are you incensed because I made you disguise yourself as a girl?"
+  },
+  {
+   "word": "disguise",
+   "line": "Are you incensed because I made you disguise yourself as a girl?"
+  },
+  {
+   "word": "procession",
+   "line": "Oh, that's a procession of Courtesans."
+  },
+  {
+   "word": "courtesans",
+   "line": "Oh, that's a procession of courtesans."
+  },
+  {
+   "word": "infatuated",
+   "line": "There were no signs that she was infatuated with any man."
+  },
+  {
+   "word": "diary",
+   "line": "The diary was probably forged."
+  },
+  {
+   "word": "blunts",
+   "line": "Wearing this stupid outfit blunts my senses like you wouldn't believe!"
+  },
+  {
+   "word": "senses",
+   "line": "This stupid outfit blunts my senses like you wouldn't believe!"
+  },
+  {
+   "word": "sly",
+   "line": "What is it that you're doing on the sly?"
+  },
+  {
+   "word": "mouths",
+   "line": "Everyone's gloomy, and they're keeping their mouths shut."
+  },
+  {
+   "word": "pulverize",
+   "line": "Make a commotion, and l'Il pulverize all of the organs in your body."
+  },
+  {
+   "word": "attic",
+   "line": "The attic..."
+  },
+  {
+   "word": "clattering",
+   "line": "It's clattering around in the ceiling!"
+  },
+  {
+   "word": "ceiling",
+   "line": "It's clattering around in the ceiling!"
+  },
+  {
+   "word": "fleeing",
+   "line": "It's fleeing downstairs!"
+  },
+  {
+   "word": "downstairs",
+   "line": "It's fleeing downstairs!"
+  },
+  {
+   "word": "disarray",
+   "line": "The room's in such disarray, and this girl was crying..."
+  },
+  {
+   "word": "shambles",
+   "line": "This room is still in a shambles."
+  },
+  {
+   "word": "prosper",
+   "line": "Whose earnings was it that allowed this House to prosper so?"
+  },
+  {
+   "word": "hag",
+   "line": "Whose earnings was it that allowed this House to prosper so, you hag?"
+  },
+  {
+   "word": "lashed",
+   "line": "I suppose I may have lashed out at this newcomer too mercilessly."
+  },
+  {
+   "word": "newcomer",
+   "line": "I may have lashed out at this newcomer too mercilessly."
+  },
+  {
+   "word": "mercilessly",
+   "line": "I suppose I may have lashed out at this newcomer too mercilessly."
+  },
+  {
+   "word": "murky",
+   "line": "there's a murky scent in the air."
+  },
+  {
+   "word": "patrolling",
+   "line": "Uzui was patrolling outside the Houses during the night, right?"
+  },
+  {
+   "word": "prowl",
+   "line": "She must be on the prowl for humans."
+  },
+  {
+   "word": "devour",
+   "line": "I'll just gouge out your eyeballs and devour them."
+  },
+  {
+   "word": "strap",
+   "line": "Sorry, Nezuko. The shoulder strap broke."
+  },
+  {
+   "word": "rat",
+   "line": "You're like a rat on the brink of death."
+  },
+  {
+   "word": "brink",
+   "line": "You're like a rat on the brink of death."
+  },
+  {
+   "word": "rampage",
+   "line": "The demon is on a rampage."
+  },
+  {
+   "word": "reverberations",
+   "line": "I can hear it well thanks to the reverberations."
+  },
+  {
+   "word": "racket",
+   "line": "What an infernal racket, you piece of trash!"
+  },
+  {
+   "word": "nicked",
+   "line": "Then how did it get nicked, moron?"
+  },
+  {
+   "word": "moron",
+   "line": "Then how did it get nicked, moron?"
+  },
+  {
+   "word": "pesky",
+   "line": "You're a pesky one. More than I thought you'd be."
+  },
+  {
+   "word": "lair",
+   "line": "The hole leading to the demon's lair!"
+  },
+  {
+   "word": "sluggish",
+   "line": "Look how sluggish you are!"
+  },
+  {
+   "word": "infiltrate",
+   "line": "I never expected a Demon Slayer to infiltrate the food locker."
+  },
+  {
+   "word": "locker",
+   "line": "I never expected a Demon Slayer to infiltrate the food locker."
+  },
+  {
+   "word": "astute",
+   "line": "That's right! How astute you are!"
+  },
+  {
+   "word": "law-abiding",
+   "line": "Second, law-abiding citizens."
+  },
+  {
+   "word": "nerve",
+   "line": "You have a lot of nerve, brawling in front of my House!"
+  },
+  {
+   "word": "brawling",
+   "line": "You have a lot of nerve, brawling in front of my House!"
+  },
+  {
+   "word": "viable",
+   "line": "I'll have you know that this Hanamachi is viable because we and our clients all follow the rules!"
+  },
+  {
+   "word": "wronged",
+   "line": "I know that I wronged you."
+  },
+  {
+   "word": "beloved",
+   "line": "Things went from bad to worse when my beloved wife succumbed to illness."
+  },
+  {
+   "word": "succumbed",
+   "line": "My beloved wife succumbed to illness."
+  },
+  {
+   "word": "stupor",
+   "line": "I've done nothing but drink myself into a stupor and wallow."
+  },
+  {
+   "word": "wallow",
+   "line": "Since then, I've done nothing but drink myself into a stupor and wallow."
+  },
+  {
+   "word": "hint",
+   "line": "Without any hint of remorse!"
+  },
+  {
+   "word": "remorse",
+   "line": "Without any hint of remorse!"
+  },
+  {
+   "word": "tyranny",
+   "line": "that kind of tyranny..."
+  },
+  {
+   "word": "entertaining",
+   "line": "What do you find so entertaining?"
+  },
+  {
+   "word": "interweaving",
+   "line": "This interweaving attack leaves you with nowhere to run."
+  },
+  {
+   "word": "rupture",
+   "line": "Such violent moves would normally rupture his body on the spot!"
+  },
+  {
+   "word": "blunted",
+   "line": "It blunted my sword slash by bending and weaving."
+  },
+  {
+   "word": "slash",
+   "line": "It blunted my sword slash by bending and weaving."
+  },
+  {
+   "word": "bending",
+   "line": "It blunted my sword slash by bending and weaving."
+  },
+  {
+   "word": "weaving",
+   "line": "It blunted my sword slash by bending and weaving."
+  },
+  {
+   "word": "wreak",
+   "line": "If I dodge them, they might wreak even more havoc."
+  },
+  {
+   "word": "havoc",
+   "line": "If I dodge them, they miaht wreak even more havoc."
+  },
+  {
+   "word": "belts",
+   "line": "The belts he warded off with his sword ridge are now pinned in one spot!"
+  },
+  {
+   "word": "warded",
+   "line": "The belts he warded off with his sword ridge are now pinned in one spot!"
+  },
+  {
+   "word": "ridge",
+   "line": "The Belts he warded off with his sword ridge are now pinned in one spot!"
+  },
+  {
+   "word": "pinned",
+   "line": "The belts are now pinned in one spot!"
+  },
+  {
+   "word": "stamina",
+   "line": "I must've gone way past my stamina threshold!"
+  },
+  {
+   "word": "clad",
+   "line": "She's a girl clad in a kimono with a hemp leaf pattern."
+  },
+  {
+   "word": "hemp",
+   "line": "She's a girl clad in a kimono with a hemp leaf pattern."
+  },
+  {
+   "word": "checkered",
+   "line": "She's a girl clad in a kimono with a hemp leaf pattern, and a checkered belt."
+  },
+  {
+   "word": "bizarre",
+   "line": "A bizarre Blood Demon Art that only burns demons?"
+  },
+  {
+   "word": "bystanders",
+   "line": "The bystanders will get hurt again!"
+  },
+  {
+   "word": "brats",
+   "line": "Stupid brats who start acting cranky don't belong on the battlefield."
+  },
+  {
+   "word": "cranky",
+   "line": "Stupid brats who start acting cranky don't belong on the battlefield."
+  },
+  {
+   "word": "tantrum",
+   "line": "She's throwing a tantrum? You've got to be kidding me!"
+  },
+  {
+   "word": "skinned",
+   "line": "Like getting skinned alive or maybe getting your belly slit open!"
+  },
+  {
+   "word": "toiling",
+   "line": "I've been toiling away, and yet.."
+  },
+  {
+   "word": "brains",
+   "line": "My sweet little sister was doing her best with what little brains she had."
+  },
+  {
+   "word": "massacre",
+   "line": "So I'll massacre everyone who had the nerve to bully her."
+  },
+  {
+   "word": "bully",
+   "line": "So I'll massacre everyone who had the nerve to bully her."
+  },
+  {
+   "word": "inflicted",
+   "line": "I'll exact the same damage you inflicted on me for sure."
+  },
+  {
+   "word": "sickles",
+   "line": "My Blood Sickles are drenched with deadly poison."
+  },
+  {
+   "word": "drenched",
+   "line": "UPPER SIX My Blood Sickles are drenched with deadly poison,"
+  },
+  {
+   "word": "deadly",
+   "line": "My Blood Sickles are drenched with deadly poison."
+  },
+  {
+   "word": "mindset",
+   "line": "The same mindset, the same mannerisms as my father..."
+  },
+  {
+   "word": "mannerisms",
+   "line": "The same mindset, the same mannerisms as my father..."
+  },
+  {
+   "word": "resolutely",
+   "line": "Resolutely indifferent."
+  },
+  {
+   "word": "indifferent",
+   "line": "Resolutely indifferent."
+  },
+  {
+   "word": "rejecting",
+   "line": "Rejecting the values that were instilled in you during your childhood..."
+  },
+  {
+   "word": "instilled",
+   "line": "The values that were instilled in you during your childhood..."
+  },
+  {
+   "word": "quandaries",
+   "line": "Carrying all that conflict and quandaries inside yourself..."
+  },
+  {
+   "word": "botched",
+   "line": "Damn, I botched the chance to finish off this one!"
+  },
+  {
+   "word": "creeping",
+   "line": "Even as we speak, we're creeping toward victory, aren't we?"
+  },
+  {
+   "word": "flee",
+   "line": "Everyone else, please flee from here!"
+  },
+  {
+   "word": "splintered",
+   "line": "Splintered off from each other?"
+  },
+  {
+   "word": "ravaged",
+   "line": "Not when the Hashira who's your only hope is ravaged by poison!"
+  },
+  {
+   "word": "shackled",
+   "line": "I'm at the top of my game when I'm shackled by poison in my system!"
+  },
+  {
+   "word": "grit",
+   "line": "They have relentless grit!"
+  },
+  {
+   "word": "disperse",
+   "line": "Otherwise, there'd be no reason to disperse your respective skills."
+  },
+  {
+   "word": "respective",
+   "line": "There'd be no reason to disperse your respective skills."
+  },
+  {
+   "word": "assimilating",
+   "line": "...rather than assimilating your weak sister into yourself!"
+  },
+  {
+   "word": "perished",
+   "line": "All those Demon Slayers perished because they couldn't do that simple thing."
+  },
+  {
+   "word": "praying",
+   "line": "You two go defeat that praying mantis!"
+  },
+  {
+   "word": "mantis",
+   "line": "You two go defeat that praying mantis!"
+  },
+  {
+   "word": "merchandise",
+   "line": "In this city, women are merchandise."
+  },
+  {
+   "word": "screeching",
+   "line": "Shut up! Stop screeching in that damn shrill voice!"
+  },
+  {
+   "word": "shrill",
+   "line": "Shut up! Stop screeching in that damn shrill voice!"
+  },
+  {
+   "word": "misjudge",
+   "line": "Don't misjudge the flow of power!"
+  },
+  {
+   "word": "extracted",
+   "line": "Probably with something extracted from wisteria!"
+  },
+  {
+   "word": "deceased",
+   "line": "Lord Tengen, do you still think about your deceased siblings?"
+  },
+  {
+   "word": "siblings",
+   "line": "Lord Tengen, do you still think about your deceased siblings?"
+  },
+  {
+   "word": "restraint",
+   "line": "Would it kill you to show some restraint?"
+  },
+  {
+   "word": "plastered",
+   "line": "You plastered them on yourself, didn't you?"
+  },
+  {
+   "word": "petal",
+   "line": "Lord Tengen, would you mind giving me that petal?"
+  },
+  {
+   "word": "dragonfly",
+   "line": "I wish I could become a dragonfly and soar like that!"
+  },
+  {
+   "word": "soar",
+   "line": "I wish I could become a dragonfly and soar like that!"
+  },
+  {
+   "word": "modifying",
+   "line": "...and modifying them into the form that would allow them to exert maximum power!"
+  },
+  {
+   "word": "exert",
+   "line": "and modifying them into the form that would allow them to exert maximum power!"
+  },
+  {
+   "word": "racked",
+   "line": "Because they racked their brains!"
+  },
+  {
+   "word": "slithery",
+   "line": "They're slithery, but they're freaking hard!"
+  },
+  {
+   "word": "freaking",
+   "line": "Dammit! They're slithery, but they're freaking hard!"
+  },
+  {
+   "word": "practically",
+   "line": "Monichi and I are practically unscathed!"
+  },
+  {
+   "word": "freak",
+   "line": "Even if you bring another ugly freak into the fray."
+  },
+  {
+   "word": "fray",
+   "line": "Even if you bring another ugly freak into the fray."
+  },
+  {
+   "word": "lame",
+   "line": "Your attacks are pretty lame!"
+  },
+  {
+   "word": "stabbed",
+   "line": "Where's the wound? Was he stabbed in the heart?"
+  },
+  {
+   "word": "towheaded",
+   "line": "That towheaded boy's trapped under the rubble."
+  },
+  {
+   "word": "trapped",
+   "line": "That towheaded boy's trapped under the rubble, and he's flailing."
+  },
+  {
+   "word": "rubble",
+   "line": "That towheaded boy's trapped under the rubble, and he's flailing,"
+  },
+  {
+   "word": "squirming",
+   "line": "Squirming like an insect... How disgraceful is that!"
+  },
+  {
+   "word": "insect",
+   "line": "Squirming like an insect... How disgraceful is that!"
+  },
+  {
+   "word": "disgraceful",
+   "line": "Squirming like an insect... How disgraceful is that!"
+  },
+  {
+   "word": "disgrace",
+   "line": "Just as I thought! You really are a disgrace!"
+  },
+  {
+   "word": "battered",
+   "line": "With your weak sauce, battered, disgraceful human body! Let's see you cut off my head!"
+  },
+  {
+   "word": "scattering",
+   "line": "Scattering the Courtesans' sachets along with the rubble"
+  },
+  {
+   "word": "sachets",
+   "line": "Scattering the courtesans' sachets along with the rubble."
+  },
+  {
+   "word": "cremating",
+   "line": "It's way too soon to be cremating him!"
+  },
+  {
+   "word": "spank",
+   "line": "I'm going to spank you! I'm very angry with you, young lady!"
+  },
+  {
+   "word": "ignited",
+   "line": "I think Nezuko's Blood Demon Art ignited the poison, burning it away."
+  },
+  {
+   "word": "resented",
+   "line": "You'll be resented, despised and denounced by all those you've killed."
+  },
+  {
+   "word": "despised",
+   "line": "You'll be resented, despised and denounced by all those you've killed."
+  },
+  {
+   "word": "denounced",
+   "line": "You'll be resented, despised and denounced by all those you've killed."
+  },
+  {
+   "word": "withered",
+   "line": "My body was weak like a withered leaf, but I clung to life as hard as I could."
+  },
+  {
+   "word": "clung",
+   "line": "My body was weak like a withered leaf, but I clung to life as hard as I could."
+  },
+  {
+   "word": "grime",
+   "line": "Always covered in grime and dandruff from head to toe."
+  },
+  {
+   "word": "dandruff",
+   "line": "Always covered in grime and dandruff from head to toe."
+  },
+  {
+   "word": "toe",
+   "line": "Always covered in grime and dandruff from head to toe."
+  },
+  {
+   "word": "fleas",
+   "line": "Giving off the stench of fleas."
+  },
+  {
+   "word": "scythe",
+   "line": "My only toy was a scythe that a customer had left behind."
+  },
+  {
+   "word": "tender",
+   "line": "Even at a tender age, grown-ups would reel at the sight of your beautiful face."
+  },
+  {
+   "word": "reel",
+   "line": "Even at a tender age, grown-ups would reel at the sight of your beautiful face."
+  },
+  {
+   "word": "revolted",
+   "line": "I revolted everyone, and they all feared me."
+  },
+  {
+   "word": "feared",
+   "line": "I revolted everyone, and they all feared me."
+  },
+  {
+   "word": "dispelled",
+   "line": "and having a gorgeous sister like you dispelled my sense of inferiority."
+  },
+  {
+   "word": "inferiority",
+   "line": "Having a gorgeous sister like you dispelled my sense of inferiority."
+  },
+  {
+   "word": "retaliation",
+   "line": "You were bound hand and foot out of retaliation and then burned alive."
+  },
+  {
+   "word": "burnt",
+   "line": "I got home from work to find you burnt to a crisp."
+  },
+  {
+   "word": "crisp",
+   "line": "I got home from work to find you burnt to a crisp."
+  },
+  {
+   "word": "moaning",
+   "line": "Sniveling and moaning..."
+  },
+  {
+   "word": "measly",
+   "line": "...over one measly eyeball."
+  },
+  {
+   "word": "eyeball",
+   "line": "...over one measly eyeball."
+  },
+  {
+   "word": "snowing",
+   "line": "It started snowing."
+  },
+  {
+   "word": "intertwined",
+   "line": "What happened to \"fortune and misfortune are intertwined\"?"
+  },
+  {
+   "word": "impressionable",
+   "line": "Since you have such an impressionable, pliant nature..."
+  },
+  {
+   "word": "pliant",
+   "line": "Since you have such an impressionable, pliant nature..."
+  },
+  {
+   "word": "blemish",
+   "line": "You, the sole blemish on my family!"
+  },
+  {
+   "word": "omen",
+   "line": "This is an omen!"
+  },
+  {
+   "word": "intriguing",
+   "line": "But I do find it intriguing!"
+  },
+  {
+   "word": "embarrassment",
+   "line": "How can I atone for this embarrassment?"
+  },
+  {
+   "word": "wretched",
+   "line": "I have no need for your wretched eyeballs."
+  },
+  {
+   "word": "melancholic",
+   "line": "There you go again with the melancholic words."
+  },
+  {
+   "word": "degradation",
+   "line": "In most cases, change of any kind - means degradation."
+  },
+  {
+   "word": "decay",
+   "line": "It's decay."
+  },
+  {
+   "word": "sublime",
+   "line": "How sublime!"
+  },
+  {
+   "word": "wipe",
+   "line": "And wipe that smirk off of your face!"
+  },
+  {
+   "word": "smirk",
+   "line": "And wipe that smirk off of your face!"
+  },
+  {
+   "word": "disrupting",
+   "line": "Disrupting the hierarchy..."
+  },
+  {
+   "word": "hierarchy",
+   "line": "Disrupting the hierarchy..."
+  },
+  {
+   "word": "undermines",
+   "line": "Which, in turn, undermines subordination."
+  },
+  {
+   "word": "subordination",
+   "line": "Which, in turn, undermines subordination."
+  },
+  {
+   "word": "dismays",
+   "line": "That's what dismays me."
+  },
+  {
+   "word": "disgruntled",
+   "line": "If you're disgruntled..."
+  },
+  {
+   "word": "nurture",
+   "line": "This is how you nurture friendship, you know."
+  },
+  {
+   "word": "posterity",
+   "line": "Then the least I can do is to pass down your name to posterity."
+  },
+  {
+   "word": "critically",
+   "line": "All three of them were critically wounded and comatose."
+  },
+  {
+   "word": "comatose",
+   "line": "All three of them were critically wounded and comatose."
+  },
+  {
+   "word": "recoiled",
+   "line": "The Kakushi all recoiled at the sight."
+  },
+  {
+   "word": "hallucinating",
+   "line": "So, I must be hallucinating Inosuke stuck on the ceiling above me."
+  },
+  {
+   "word": "notified",
+   "line": "When we notified Mr. Goto, who was away on an expedition..."
+  },
+  {
+   "word": "hemorrhoids",
+   "line": "Cuts, burns, hemorrhoids, bleeding piles, constipation..."
+  },
+  {
+   "word": "bleeding",
+   "line": "Cuts, burns, hemorrhoids, bleeding piles, constipation..."
+  },
+  {
+   "word": "piles",
+   "line": "Cuts, burns, hemorrhoids, bleeding piles, constipation..."
+  },
+  {
+   "word": "constipation",
+   "line": "Cuts, burns, hemorrhoids, bleeding piles, constipation..."
+  },
+  {
+   "word": "nibbled",
+   "line": "I really only nibbled today!"
+  },
+  {
+   "word": "heart-wrenching",
+   "line": "That's just heart-wrenching."
+  },
+  {
+   "word": "fathom",
+   "line": "So it's hard for me to fathom."
+  },
+  {
+   "word": "honing",
+   "line": "They'll be done honing your sword soon."
+  },
+  {
+   "word": "firsthand",
+   "line": "Nothing can ever top what you've learned from firsthand experience."
+  },
+  {
+   "word": "overpowering",
+   "line": "That hot spring smell is so overpowering."
+  },
+  {
+   "word": "pestering",
+   "line": "Quit pestering me! Give it a rest!"
+  },
+  {
+   "word": "perish",
+   "line": "How many people do you think will perish while you drone on and on?"
+  },
+  {
+   "word": "drone",
+   "line": "While you drone on and on about trivial matters?"
+  },
+  {
+   "word": "trivial",
+   "line": "How many people do you think will perish while you drone on and on about trivial matters?"
+  },
+  {
+   "word": "obstruct",
+   "line": "That's what it means to obstruct a Hashira in his duty."
+  },
+  {
+   "word": "prodigy",
+   "line": "That boy is a prodigy!"
+  },
+  {
+   "word": "preposterous",
+   "line": "That's so preposterous, you make me laugh!"
+  },
+  {
+   "word": "brace",
+   "line": "So I'm going to brace myself and see it through."
+  },
+  {
+   "word": "whiff",
+   "line": "Not a whiff of malice."
+  },
+  {
+   "word": "malice",
+   "line": "Not a whiff of malice."
+  },
+  {
+   "word": "crow",
+   "line": "That crow is just oozing spite."
+  },
+  {
+   "word": "oozing",
+   "line": "That crow is just oozing spite."
+  },
+  {
+   "word": "spite",
+   "line": "That crow is just oozing spite."
+  },
+  {
+   "word": "condescending",
+   "line": "She's so condescending... toward me."
+  },
+  {
+   "word": "haircut",
+   "line": "Your hair's too long! Get a haircut, seaweed head!"
+  },
+  {
+   "word": "seaweed",
+   "line": "Your hair's too long! Get a haircut, seaweed head!"
+  },
+  {
+   "word": "denounce",
+   "line": "Well, I'm here to denounce your every weak point backward and forward!"
+  },
+  {
+   "word": "backward",
+   "line": "I'm here to denounce your every weak point backward and forward!"
+  },
+  {
+   "word": "tyrannical",
+   "line": "So tyrannical..."
+  },
+  {
+   "word": "ignorance",
+   "line": "Pure tyranny born out of ignorance!"
+  },
+  {
+   "word": "shimmering",
+   "line": "I could smell this shimmering stone even underwater."
+  },
+  {
+   "word": "underwater",
+   "line": "I could smell this shimmering stone even underwater."
+  },
+  {
+   "word": "feeble",
+   "line": "Though it was so feeble, the doll didn't even flinch!"
+  },
+  {
+   "word": "doll",
+   "line": "Though it was so feeble, the doll didn't even flinch!"
+  },
+  {
+   "word": "neglected",
+   "line": "It's been neglected for like 300 years, and no one knew about it."
+  },
+  {
+   "word": "limp",
+   "line": "Mr. Haganezuka always goes limp for a while after being tickled,"
+  },
+  {
+   "word": "tickled",
+   "line": "Mr. Haganezuka always goes limp for a while after being tickled."
+  },
+  {
+   "word": "braiding",
+   "line": "Braiding sure is hard."
+  },
+  {
+   "word": "hazard",
+   "line": "This is a hazard!"
+  },
+  {
+   "word": "vase",
+   "line": "Who would put a vase here?"
+  },
+  {
+   "word": "sensed",
+   "line": "I would've sensed it if there'd been any animosity!"
+  },
+  {
+   "word": "animosity",
+   "line": "No, no, I would've sensed it if there'd been any animosity!"
+  },
+  {
+   "word": "lumped",
+   "line": "That also goes for being lumped in with you!"
+  },
+  {
+   "word": "swordsmith",
+   "line": "As a swordsmith, the child is still unseasoned."
+  },
+  {
+   "word": "unseasoned",
+   "line": "As a swordsmith, the child is still unseasoned."
+  },
+  {
+   "word": "goner",
+   "line": "I thought I was a goner!"
+  },
+  {
+   "word": "talons",
+   "line": "How do you like my talons?"
+  },
+  {
+   "word": "devout",
+   "line": "Well, isn't he a devout one?"
+  },
+  {
+   "word": "impale",
+   "line": "You impale her with your staff."
+  },
+  {
+   "word": "ferocious",
+   "line": "What kind of a ferocious kick was that?"
+  },
+  {
+   "word": "secretive",
+   "line": "What is it that you're being so secretive about, I wonder?"
+  },
+  {
+   "word": "stationed",
+   "line": "The Demon Slayer guards who were stationed here have been killed."
+  },
+  {
+   "word": "shivers",
+   "line": "Shivers of first love!"
+  },
+  {
+   "word": "flutter",
+   "line": "My heart would never flutter for those who needlessly hurt others!"
+  },
+  {
+   "word": "needlessly",
+   "line": "My heart would never flutter for those who needlessly hurt others!"
+  },
+  {
+   "word": "gnat",
+   "line": "Like a pesky gnat!"
+  },
+  {
+   "word": "scurry",
+   "line": "now there's nowhere for you to scurry around and hide!"
+  },
+  {
+   "word": "clears",
+   "line": "Once this smoke clears, it will spell their demise."
+  },
+  {
+   "word": "demise",
+   "line": "Once this smoke clears, it will spell their demise."
+  },
+  {
+   "word": "hallmark",
+   "line": "The hallmark of a swordsmith, those thick, blister-ridden, soiled hands!"
+  },
+  {
+   "word": "soiled",
+   "line": "Those thick, blister-ridden, soiled hands!"
+  },
+  {
+   "word": "intentionally",
+   "line": "I intentionally pushed them to the forefront!"
+  },
+  {
+   "word": "forefront",
+   "line": "I intentionally pushed them to the forefront!"
+  },
+  {
+   "word": "swordsmiths",
+   "line": "For this piece, I used five swordsmiths to lavish, extravagant effect!"
+  },
+  {
+   "word": "lavish",
+   "line": "I used five swordsmiths to lavish, extravagant effect!"
+  },
+  {
+   "word": "extravagant",
+   "line": "For this piece, I used five swordsmiths to lavish, extravagant effect!"
+  },
+  {
+   "word": "vases",
+   "line": "How are those vases spawned?"
+  },
+  {
+   "word": "spawned",
+   "line": "How are those vases spawned?"
+  },
+  {
+   "word": "riddled",
+   "line": "Look at you, riddled with needles... A comical sight, indeed!"
+  },
+  {
+   "word": "needles",
+   "line": "Look at you, riddled with needles... A comical sight, indeed!"
+  },
+  {
+   "word": "comical",
+   "line": "Look at you, riddled with needles... A comical sight, indeed!"
+  },
+  {
+   "word": "cicadas",
+   "line": "Because it was too hot, the cicadas were buzzing really loud."
+  },
+  {
+   "word": "buzzing",
+   "line": "The cicadas were buzzing really loud."
+  },
+  {
+   "word": "chilling",
+   "line": "And that chilling feeling of a blade pressed against your neck..."
+  },
+  {
+   "word": "blade",
+   "line": "That chilling feeling of a blade pressed against your neck..."
+  },
+  {
+   "word": "pressed",
+   "line": "That chilling feeling of a blade pressed against your neck..."
+  },
+  {
+   "word": "obliterating",
+   "line": "Obliterating this village will be a devastating blow to you Demon Slayers."
+  },
+  {
+   "word": "devastating",
+   "line": "Obliterating this village will be a devastating blow to you Demon Slayers."
+  },
+  {
+   "word": "obsidian",
+   "line": "Even though normally, it's pitch-black like obsidian..."
+  },
+  {
+   "word": "scarred",
+   "line": "I'm only flesh and blood, so my body is scarred and battered..."
+  },
+  {
+   "word": "tricks",
+   "line": "Even if you resort to cheap tricks, you can't beat me."
+  },
+  {
+   "word": "scorching",
+   "line": "The pain is scorching me! Calm down!"
+  },
+  {
+   "word": "drooling",
+   "line": "Genya! You're drooling, okay? What's wrong?"
+  },
+  {
+   "word": "fending",
+   "line": "Genya and Nezuko are fending off the others!"
+  },
+  {
+   "word": "sulphur",
+   "line": "The sulphur smell from the hot springs is gone!"
+  },
+  {
+   "word": "excruciating",
+   "line": "Is it excruciating?"
+  },
+  {
+   "word": "stoicism",
+   "line": "That look of fake stoicism..."
+  },
+  {
+   "word": "juices",
+   "line": "My creative juices are simply gushing!"
+  },
+  {
+   "word": "gushing",
+   "line": "My creative juices are simply gushing!"
+  },
+  {
+   "word": "crucify",
+   "line": "I know! I'm going to crucify her—"
+  },
+  {
+   "word": "tooth",
+   "line": "...the brother you'd fought tooth and nail to protect denounced you..."
+  },
+  {
+   "word": "slowpoke",
+   "line": "A slowpoke like you..."
+  },
+  {
+   "word": "brutal",
+   "line": "You brutal fiends who torment the weak..."
+  },
+  {
+   "word": "fiends",
+   "line": "You brutal fiends who torment the weak..."
+  },
+  {
+   "word": "fuse",
+   "line": "Did he fuse with them?"
+  },
+  {
+   "word": "shack",
+   "line": "but first, I'll be taking a look inside this shack."
+  },
+  {
+   "word": "fiercely",
+   "line": "Now, what on earth could they be protecting so fiercely here?"
+  },
+  {
+   "word": "frantically",
+   "line": "What good will it do you to frantically defend this sorry shack?"
+  },
+  {
+   "word": "immersed",
+   "line": "He's so immersed that he's unaware of me!"
+  },
+  {
+   "word": "unaware",
+   "line": "He's so immersed that he's unaware of me!"
+  },
+  {
+   "word": "sapped",
+   "line": "is sapped."
+  },
+  {
+   "word": "spewed",
+   "line": "my brother just spewed his usual insults and drove Lady Amane away."
+  },
+  {
+   "word": "insults",
+   "line": "My brother just spewed his usual insults and drove Lady Amane away."
+  },
+  {
+   "word": "boiling",
+   "line": "...that seemed to be boiling over from the pit of my stomach."
+  },
+  {
+   "word": "imminent",
+   "line": "I thought his death was imminent, so my mind wasn't on him at all!"
+  },
+  {
+   "word": "springy",
+   "line": "How do you like how springy this octopus flesh is?"
+  },
+  {
+   "word": "octopus",
+   "line": "How do you like how springy this octopus flesh is?"
+  },
+  {
+   "word": "glove",
+   "line": "It fits like a glove."
+  },
+  {
+   "word": "virtuous",
+   "line": "No matter how virtuous a life you may lead..."
+  },
+  {
+   "word": "dung",
+   "line": "Just like a dung beetle can't read even if you show it a book!"
+  },
+  {
+   "word": "beetle",
+   "line": "Just like a dung beetle can't read even if you show it a book!"
+  },
+  {
+   "word": "vengeance",
+   "line": "No, didn't I just reach it with a vengeance?"
+  },
+  {
+   "word": "fluster",
+   "line": "Did you think that was enough to fluster me?"
+  },
+  {
+   "word": "translucent",
+   "line": "These translucent scales are even harder and stronger than diamonds!"
+  },
+  {
+   "word": "scales",
+   "line": "These translucent scales are even harder and stronger than diamonds!"
+  },
+  {
+   "word": "diamonds",
+   "line": "These translucent scales are even harder and stronger than diamonds!"
+  },
+  {
+   "word": "awe",
+   "line": "bow down in awe!"
+  },
+  {
+   "word": "jaw-dropping",
+   "line": "Even the most jaw-dropping attack is pointless if you can't land it, right?"
+  },
+  {
+   "word": "pointless",
+   "line": "Even the most jaw-dropping attack is pointless if you can't land it, right?"
+  },
+  {
+   "word": "fury",
+   "line": "that boiling fury."
+  },
+  {
+   "word": "maggots",
+   "line": "I watched as maggots infested my beloved brother's body, and he began to rot."
+  },
+  {
+   "word": "infested",
+   "line": "I watched as maggots infested my beloved brother's body."
+  },
+  {
+   "word": "abominable",
+   "line": "You abominable, low-level life-form!"
+  },
+  {
+   "word": "ilk",
+   "line": "My life is worth 100 of you and your ilk!"
+  },
+  {
+   "word": "rigid",
+   "line": "Don't be rigid about how you perceive the world."
+  },
+  {
+   "word": "perceive",
+   "line": "Don't be rigid about how you perceive the world..."
+  },
+  {
+   "word": "heaving",
+   "line": "You're heaving!"
+  },
+  {
+   "word": "trembling",
+   "line": "And you're trembling, aren't you?"
+  },
+  {
+   "word": "frothing",
+   "line": "You're frothing at the mouth!"
+  },
+  {
+   "word": "eardrums",
+   "line": "M-My eardrums just burst!"
+  },
+  {
+   "word": "burst",
+   "line": "M-My eardrums just burst!"
+  },
+  {
+   "word": "foul",
+   "line": "What a foul mouth that boy has!"
+  },
+  {
+   "word": "supple",
+   "line": "Is that because of how supple it is?"
+  },
+  {
+   "word": "shudder",
+   "line": "being passed down to my children makes me shudder."
+  },
+  {
+   "word": "lifted",
+   "line": "...and lifted up a 33-pound pickling stone."
+  },
+  {
+   "word": "pickling",
+   "line": "...and lifted up a 33-pound pickling stone."
+  },
+  {
+   "word": "treasure",
+   "line": "I promise you, I'll treasure them!"
+  },
+  {
+   "word": "crest",
+   "line": "looks a lot like a demon's crest!"
+  },
+  {
+   "word": "flames",
+   "line": "It's sluggish now thanks to the flames!"
+  },
+  {
+   "word": "masseur",
+   "line": "I've had a masseur come here to Shirasu..."
+  },
+  {
+   "word": "inept",
+   "line": "You inept doctor..."
+  },
+  {
+   "word": "crossroads",
+   "line": "Are you sure I can drop you off at the crossroads up ahead?"
+  },
+  {
+   "word": "farsighted",
+   "line": "Well, it just goes to show that the Master and the others were that farsighted."
+  },
+  {
+   "word": "gorging",
+   "line": "Are you sure you should be gorging yourself like that?"
+  },
+  {
+   "word": "unconscious",
+   "line": "...after being unconscious for seven days?"
+  },
+  {
+   "word": "outlier",
+   "line": "Well, if you ask me that one is actually something of an outlier."
+  },
+  {
+   "word": "recovering",
+   "line": "You're still recovering, so show some restraint!"
+  },
+  {
+   "word": "resign",
+   "line": "You'll just have to resign yourself to fate."
+  },
+  {
+   "word": "frenzied",
+   "line": "it's a given that Muzan Kibutsuji will make a frenzied attempt to come after her."
+  },
+  {
+   "word": "instruct",
+   "line": "Please instruct us as to what conditions you met."
+  },
+  {
+   "word": "induce",
+   "line": "...what conditions you met to induce those marks."
+  },
+  {
+   "word": "brooded",
+   "line": "There were many who brooded over not having the mark appear."
+  },
+  {
+   "word": "lore",
+   "line": "Much of the lore surrounding this mark remains vague."
+  },
+  {
+   "word": "vague",
+   "line": "Much of the lore surrounding this mark remains vague."
+  },
+  {
+   "word": "manifest",
+   "line": "Those around him also manifest marks as if resonating with him."
+  },
+  {
+   "word": "resonating",
+   "line": "...as if resonating with him."
+  },
+  {
+   "word": "culled",
+   "line": "So, I think that's the point at which we get culled."
+  },
+  {
+   "word": "sightings",
+   "line": "demon sightings have dwindled considerably."
+  },
+  {
+   "word": "dwindled",
+   "line": "Demon sightings have dwindled considerably."
+  },
+  {
+   "word": "spew",
+   "line": "If you're going to spew such positive drivel..."
+  },
+  {
+   "word": "drivel",
+   "line": "If you're going to spew such positive drivel..."
+  },
+  {
+   "word": "wary",
+   "line": "No one would ever be that wary of me."
+  },
+  {
+   "word": "deceive",
+   "line": "Is he trying to deceive me somehow?"
+  },
+  {
+   "word": "candid",
+   "line": "I can see you've learned to be much more candid about voicing your feelings."
+  },
+  {
+   "word": "voicing",
+   "line": "...more candid about voicing your feelings."
+  },
+  {
+   "word": "pondering",
+   "line": "I've been pondering myself ever since that day..."
+  },
+  {
+   "word": "harbinger",
+   "line": "might be the harbinger of a storm."
+  },
+  {
+   "word": "strain",
+   "line": "Strain to see in the dark, and what you can't see, you'll just have to sense!"
+  },
+  {
+   "word": "clobber",
+   "line": "How could you let a retired guy like me clobber you like this?"
+  },
+  {
+   "word": "jeez",
+   "line": "Jeez, can't you even show me some bravado?"
+  },
+  {
+   "word": "bravado",
+   "line": "Jeez, can't you even show me some bravado?"
+  },
+  {
+   "word": "sparingly",
+   "line": "Use that water sparingly!"
+  },
+  {
+   "word": "clue",
+   "line": "Compared to you, I have no clue how grueling battles can be."
+  },
+  {
+   "word": "mind-bogglingly",
+   "line": "Isn't it mind-bogglingly yummy?"
+  },
+  {
+   "word": "yummy",
+   "line": "Isn't it mind-bogglingly yummy?"
+  },
+  {
+   "word": "sting",
+   "line": "This is going to make our cuts sting, right?"
+  },
+  {
+   "word": "whoa",
+   "line": "Whoa! So, the old guy's on a rampage, huh?"
+  },
+  {
+   "word": "oblige",
+   "line": "And I'll be happy to oblige you!"
+  },
+  {
+   "word": "scatter",
+   "line": "Best to scatter people at odds with each other!"
+  },
+  {
+   "word": "distancing",
+   "line": "We're distancing ourselves!"
+  },
+  {
+   "word": "lunatic",
+   "line": "He's a total lunatic! I feel for you!"
+  },
+  {
+   "word": "turmoil",
+   "line": "It was all chaos and turmoil from that point on!"
+  },
+  {
+   "word": "plunging",
+   "line": "You'll start off by cold plunging in the waterfall..."
+  },
+  {
+   "word": "waterfall",
+   "line": "You'll start off by cold plunging in the waterfall..."
+  },
+  {
+   "word": "cascading",
+   "line": "Who knew that water cascading down from so high could feel that heavy?"
+  },
+  {
+   "word": "bailing",
+   "line": "We feel guilty, bailing like this now."
+  },
+  {
+   "word": "prone",
+   "line": "Theyre prone to lying and have no qualms about being cruel."
+  },
+  {
+   "word": "qualms",
+   "line": "They're prone to lying and have no qualms about being cruel."
+  },
+  {
+   "word": "cruel",
+   "line": "They have no qualms about being cruel."
+  },
+  {
+   "word": "selfishness",
+   "line": "They're selfishness personified."
+  },
+  {
+   "word": "personified",
+   "line": "They're selfishness personified."
+  },
+  {
+   "word": "clenching",
+   "line": "I was clenching my fist to throw punches with full force."
+  },
+  {
+   "word": "fist",
+   "line": "I was clenching my fist to throw punches with full force."
+  },
+  {
+   "word": "punches",
+   "line": "I was clenching my fist to throw punches with full force."
+  },
+  {
+   "word": "single-minded",
+   "line": "You were pure and single-minded."
+  },
+  {
+   "word": "stray",
+   "line": "From now on, l, too, will help you so that youll never stray from your path."
+  },
+  {
+   "word": "spar",
+   "line": "We spar with each other, Hashira versus Hashira."
+  },
+  {
+   "word": "loitering",
+   "line": "Where are they loitering anyway?"
+  },
+  {
+   "word": "damper",
+   "line": "If only that punk hadn't put a damper on things!"
+  },
+  {
+   "word": "utterly",
+   "line": "I'm feeling utterly disenchanted, Ubuyashiki."
+  },
+  {
+   "word": "disenchanted",
+   "line": "I'm feeling utterly disenchanted."
+  },
+  {
+   "word": "gall",
+   "line": "...had the gall to constantly thwart me..."
+  },
+  {
+   "word": "thwart",
+   "line": "...had the gall to constantly thwart me..."
+  },
+  {
+   "word": "deplorable",
+   "line": "...in such a deplorable state."
+  },
+  {
+   "word": "corpse",
+   "line": "Your body is already giving off the scent of a corpse, Ubuyashiki."
+  },
+  {
+   "word": "fleeting",
+   "line": "That fleeting dream of yours is about to be shattered tonight."
+  },
+  {
+   "word": "verge",
+   "line": "My family was on the verge of being wiped out..."
+  },
+  {
+   "word": "gag",
+   "line": "I'm about to gag."
+  },
+  {
+   "word": "incurred",
+   "line": "...and incurred the wrath of the dragon..."
+  },
+  {
+   "word": "hordes",
+   "line": "And then, you went on to kill hordes of humans!"
+  },
+  {
+   "word": "despair",
+   "line": "O killed scores of them out of despair!"
+  },
+  {
+   "word": "sins",
+   "line": "And to atone for my sins..."
+  },
+  {
+   "word": "demeanor",
+   "line": "that someone of his demeanor was four years younger than myself."
+  },
+  {
+   "word": "prodigious",
+   "line": "...was prodigious among the Ubuyashiki Clan."
+  },
+  {
+   "word": "clan",
+   "line": "...was prodigious among the Ubuyashiki Clan."
+  },
+  {
+   "word": "vigilant",
+   "line": "From here on in, we'll need to be even more vigilant."
+  },
+  {
+   "word": "horde",
+   "line": "That's a huge horde of demons."
+  },
+  {
+   "word": "hovering",
+   "line": "When I was hovering..."
+  },
+  {
+   "word": "lowlifes",
+   "line": "There's no end to you lowlifes."
+  },
+  {
+   "word": "boatload",
+   "line": "but there's a whole boatload of demons, so it's the perfect place..."
+  },
+  {
+   "word": "serene",
+   "line": "he speaks in a serene, gentle manner."
+  },
+  {
+   "word": "gentle",
+   "line": "He speaks in a serene, gentle manner."
+  },
+  {
+   "word": "attain",
+   "line": "My job is to attain bliss with all of my worshippers."
+  },
+  {
+   "word": "bliss",
+   "line": "My job is to attain bliss with all of my worshippers."
+  },
+  {
+   "word": "worshippers",
+   "line": "My job is to attain bliss with all of my worshippers."
+  },
+  {
+   "word": "hostile",
+   "line": "We've only just met, but you're being awfully hostile."
+  },
+  {
+   "word": "unbearable",
+   "line": "\"Unbearable\" barely even scratches the surface!"
+  },
+  {
+   "word": "scratches",
+   "line": "\"Unbearable\" barely even scratches the surface!"
+  },
+  {
+   "word": "thrusts",
+   "line": "Thrusts can't kill a demon."
+  },
+  {
+   "word": "concoction",
+   "line": "You... have been changing the concoction for each demon!"
+  },
+  {
+   "word": "sheathe",
+   "line": "The sound it makes when you sheathe it is unique."
+  },
+  {
+   "word": "poisoned",
+   "line": "Getting poisoned is so amusing!"
+  },
+  {
+   "word": "blend",
+   "line": "Do you think your next blend will work?"
+  },
+  {
+   "word": "hopelessly",
+   "line": "My parents were hopelessly obtuse."
+  },
+  {
+   "word": "obtuse",
+   "line": "My parents were hopelessly obtuse."
+  },
+  {
+   "word": "worshipping",
+   "line": "At first, I didn't know how to deal with the hordes of people worshipping me."
+  },
+  {
+   "word": "paradise",
+   "line": "Paradise doesn't even exist."
+  },
+  {
+   "word": "fairy",
+   "line": "It's just a fairy tale concocted by deluded humans."
+  },
+  {
+   "word": "concocted",
+   "line": "It's just a fairy tale concocted by deluded humans."
+  },
+  {
+   "word": "resistant",
+   "line": "The speed at which he becomes resistant is insane!"
+  },
+  {
+   "word": "sacs",
+   "line": "Well, the air sacs in your lungs are going through necrosis."
+  },
+  {
+   "word": "lungs",
+   "line": "Well, the air sacs in your lungs are going through necrosis."
+  },
+  {
+   "word": "necrosis",
+   "line": "Well, the air sacs in your lungs are going through necrosis."
+  },
+  {
+   "word": "consecutive",
+   "line": "...consecutive strikes to inject him with a massive dose of poison!"
+  },
+  {
+   "word": "inject",
+   "line": "...consecutive strikes to inject him with a massive dose of poison!"
+  },
+  {
+   "word": "petite",
+   "line": "My big sister was petite..."
+  },
+  {
+   "word": "gurgling",
+   "line": "Oh no, see? The blood is gurgling in your lungs!"
+  },
+  {
+   "word": "livid",
+   "line": "You make me so livid!"
+  },
+  {
+   "word": "foolish",
+   "line": "So foolish, you'll try to see things through to the end despite the futility!"
+  },
+  {
+   "word": "futility",
+   "line": "So foolish, you'll try to see things through to the end despite the futility!"
+  },
+  {
+   "word": "magnificent",
+   "line": "And it's what makes humans so magnificent!"
+  },
+  {
+   "word": "pulsing",
+   "line": "The buildings themselves are throbbing like they're pulsing! It's like it's alive!"
+  },
+  {
+   "word": "reconvene",
+   "line": "We have to reconvene with as many other Corps members as we can..."
+  },
+  {
+   "word": "sizes",
+   "line": "These lights of different sizes must be the potency of each demon's Blood Demon Art."
+  },
+  {
+   "word": "potency",
+   "line": "These lights of different sizes must be the potency of each demon's Blood Demon Art."
+  },
+  {
+   "word": "pulsating",
+   "line": "And these pulsating buildings in constant motion..."
+  },
+  {
+   "word": "linchpin",
+   "line": "Using Gyomei as the linchpin..."
+  },
+  {
+   "word": "positioned",
+   "line": "He had the Hashira positioned to arrive on the scene at any time..."
+  },
+  {
+   "word": "thrilled",
+   "line": "Someone seems thrilled to have made it as an Upper Rank bottom-feeder."
+  },
+  {
+   "word": "bottom-feeder",
+   "line": "Someone seems thrilled to have made it as an Upper Rank bottom-feeder."
+  },
+  {
+   "word": "stopgap",
+   "line": "Someone seems thrilled to have made it as an Upper Rank bottom-feeder as a stopgap."
+  },
+  {
+   "word": "repent",
+   "line": "To repent and atone for my ways?"
+  },
+  {
+   "word": "senile",
+   "line": "I have no use for a senile geezer!"
+  },
+  {
+   "word": "geezer",
+   "line": "I have no use for a senile geezer!"
+  },
+  {
+   "word": "grovel",
+   "line": "Whether you grovel on the ground..."
+  },
+  {
+   "word": "condemn",
+   "line": "...whether they condemn you for stealing money..."
+  },
+  {
+   "word": "par",
+   "line": "Just 'cause he's stronger doesn't mean he's on par with an Upper Rank!"
+  },
+  {
+   "word": "shred",
+   "line": "Not a shred of dignity or grit!"
+  },
+  {
+   "word": "dignity",
+   "line": "Not a shred of dignity or grit!"
+  },
+  {
+   "word": "graciously",
+   "line": "What he graciously passed down to you?"
+  },
+  {
+   "word": "discontent",
+   "line": "I always heard a sound of discontent from you."
+  },
+  {
+   "word": "lowly",
+   "line": "A lowly scrub like you..."
+  },
+  {
+   "word": "scrub",
+   "line": "A lowly scrub like you..."
+  },
+  {
+   "word": "hemostatic",
+   "line": "I'm also using a hemostatic, but the bleeding won't stop."
+  },
+  {
+   "word": "rallying",
+   "line": "Look how these children of such a tender age are rallying themselves."
+  },
+  {
+   "word": "conquer",
+   "line": "His quest to conquer the sun will be set back to square one."
+  },
+  {
+   "word": "tremble",
+   "line": "And each time, I tremble at my core, and my heart pounds."
+  },
+  {
+   "word": "cogwheel",
+   "line": "A great cogwheel of some kind seems to have started turning."
+  },
+  {
+   "word": "stagnant",
+   "line": "...is what set the stagnant situation into motion."
+  },
+  {
+   "word": "sob",
+   "line": "and sob as you begged for your sister's life."
+  },
+  {
+   "word": "begged",
+   "line": "...and sob as you begged for your sister's life."
+  },
+  {
+   "word": "graze",
+   "line": "Did it graze me?"
+  },
+  {
+   "word": "divulge",
+   "line": "I don't have a name to divulge to a demon."
+  },
+  {
+   "word": "weakling",
+   "line": "Crumpled on the ground that night, you were an absolute weakling."
+  },
+  {
+   "word": "deep-seated",
+   "line": "I have a deep-seated aversion to this guy."
+  },
+  {
+   "word": "aversion",
+   "line": "I have a deep-seated aversion to this guy."
+  },
+  {
+   "word": "faded",
+   "line": "He's stronger, but my revulsion for him hasn't faded!"
+  },
+  {
+   "word": "repulse",
+   "line": "You repulse me after all."
+  },
+  {
+   "word": "magnets",
+   "line": "It's like there are magnets pulling his blows straight to the human body's vitals!"
+  },
+  {
+   "word": "blows",
+   "line": "It's like there are magnets pulling his blows straight to the human body's vitals!"
+  },
+  {
+   "word": "vitals",
+   "line": "It's like there are magnets pulling his blows straight to the human body's vitals!"
+  },
+  {
+   "word": "wavered",
+   "line": "but the tip of your blade wavered like it was in a heat haze! I'm intrigued!"
+  },
+  {
+   "word": "haze",
+   "line": "but the tip of your blade wavered like it was in a heat haze! I'm intrigued!"
+  },
+  {
+   "word": "intrigued",
+   "line": "but the tip of your blade wavered like it was in a heat haze! I'm intrigued!"
+  },
+  {
+   "word": "hurl",
+   "line": "How dare you hurl me all that distance..."
+  },
+  {
+   "word": "sparring",
+   "line": "...and I don't enjoy sparring random passersby for amusement."
+  },
+  {
+   "word": "passersby",
+   "line": "and I don't enjoy sparring random passersby for amusement."
+  },
+  {
+   "word": "amusement",
+   "line": "...and I don't enjoy sparring random passersby for amusement."
+  },
+  {
+   "word": "dormant",
+   "line": "My dormant senses have been rudely awakened and are dragging me forward."
+  },
+  {
+   "word": "rudely",
+   "line": "My dormant senses have been rudely awakened and are dragging me forward."
+  },
+  {
+   "word": "awakened",
+   "line": "My dormant senses have been rudely awakened and are dragging me forward."
+  },
+  {
+   "word": "dragging",
+   "line": "My dormant senses have been rudely awakened and are dragging me forward."
+  },
+  {
+   "word": "hostility",
+   "line": "But the thing is, it's hard to catch onto someone without any killing intent or hostility"
+  },
+  {
+   "word": "lineage",
+   "line": "The Kagura was passed down through the Kamado Family lineage."
+  },
+  {
+   "word": "interminably",
+   "line": "It was a grueling event that went on interminably from sunset to dawn."
+  },
+  {
+   "word": "sunset",
+   "line": "It was a grueling event that went on interminably from sunset to dawn."
+  },
+  {
+   "word": "strenuous",
+   "line": "That was the truly strenuous part."
+  },
+  {
+   "word": "illuminated",
+   "line": "When that happens, a path illuminated by a bright light will open."
+  },
+  {
+   "word": "lit",
+   "line": "We lit bonfires around the house and put up ropes with bells on them."
+  },
+  {
+   "word": "bonfires",
+   "line": "We lit bonfires around the house and put up ropes with bells on them."
+  },
+  {
+   "word": "ropes",
+   "line": "We lit bonfires around the house and put up ropes with bells on them."
+  },
+  {
+   "word": "bells",
+   "line": "We lit bonfires around the house and put up ropes with bells on them."
+  },
+  {
+   "word": "disregard",
+   "line": "Disregard my warning..."
+  },
+  {
+   "word": "flaunt",
+   "line": "My father wasn't one to flaunt his strength for no reason."
+  },
+  {
+   "word": "anomaly",
+   "line": "It was like I was facing an anomaly that shouldn't be there..."
+  },
+  {
+   "word": "fainted",
+   "line": "He fainted!"
+  },
+  {
+   "word": "sensation",
+   "line": "I have no sensation in my right hand."
+  },
+  {
+   "word": "indomitable",
+   "line": "An indomitable spirit..."
+  },
+  {
+   "word": "retaliate",
+   "line": "...or I won't be able to defeat them when they retaliate!"
+  },
+  {
+   "word": "magistrate",
+   "line": "...or I'll get caught by the magistrate and lashed as punishment!"
+  },
+  {
+   "word": "tattoos",
+   "line": "You've already got three tattoos for pickpocketing on both arms!"
+  },
+  {
+   "word": "pickpocketing",
+   "line": "You've already got three tattoos for pickpocketing on both arms!"
+  },
+  {
+   "word": "offender",
+   "line": "A repeat offender at the tender age of 11..."
+  },
+  {
+   "word": "lashes",
+   "line": "And all this bravado after taking 100 lashes that would make grown men faint!"
+  },
+  {
+   "word": "jut",
+   "line": "The bones were starting to jut out of his back."
+  },
+  {
+   "word": "nutritious",
+   "line": "I want him to have something more nutritious to eat!"
+  },
+  {
+   "word": "pummeling",
+   "line": "After that pummeling I gave you, you came to in less than an hour."
+  },
+  {
+   "word": "drowned",
+   "line": "My wife drowned herself the other day due to nursing fatigue."
+  },
+  {
+   "word": "fatigue",
+   "line": "My wife drowned herself the other day due to nursing fatigue."
+  },
+  {
+   "word": "repulsed",
+   "line": "The reason you repulsed me..."
+  },
+  {
+   "word": "baseless",
+   "line": "...was spew baseless lies."
+  },
+  {
+   "word": "hassle",
+   "line": "The only time I found nursing to be a hassle..."
+  },
+  {
+   "word": "rescued",
+   "line": "...because he'd rescued an elderly man from bandits."
+  },
+  {
+   "word": "bandits",
+   "line": "was because he'd rescued an elderly man from bandits,"
+  },
+  {
+   "word": "swell",
+   "line": "began to swell uncontrollably."
+  },
+  {
+   "word": "uncontrollably",
+   "line": "...began to swell uncontrollably."
+  },
+  {
+   "word": "inkling",
+   "line": "I had no inkling that the two people I wanted to protect..."
+  },
+  {
+   "word": "goosebumps",
+   "line": "And I had goosebumps from an ominous premonition."
+  },
+  {
+   "word": "premonition",
+   "line": "And I had goosebumps from an ominous premonition."
+  },
+  {
+   "word": "mangle",
+   "line": "Not only did he smash and mangle most of the bodies beyond recognition..."
+  },
+  {
+   "word": "delicate",
+   "line": "Such delicate, fragile weaklings!"
+  },
+  {
+   "word": "weaklings",
+   "line": "Such delicate, fragile weaklings!"
+  },
+  {
+   "word": "atrocious",
+   "line": "They're atrocious!"
+  },
+  {
+   "word": "sullied",
+   "line": "I sullied my master's beloved Soryu with blood..."
+  },
+  {
+   "word": "anticipated",
+   "line": "You anticipated the enemy's movements to perfection..."
+  },
+  {
+   "word": "pivoted",
+   "line": "...pivoted at the last second..."
+  },
+  {
+   "word": "absurdly",
+   "line": "How absurdly weak!"
+  }
+ ]
+}

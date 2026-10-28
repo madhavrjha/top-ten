@@ -100,6 +100,26 @@
     }
   },
   {
+    "word": "valiant",
+    "memory": "brave",
+    "meaning": "Very brave and determined",
+    "hindi": "बहादुर, वीर",
+    "trick": "VALIANT ≈ VALOUR → full of valour",
+    "examples": [
+      "So, my brother was valiant until the end.",
+      "The team made a valiant effort but lost."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a valiant + noun / be valiant",
+      "partners": [
+        "valiant effort",
+        "valiant fighter",
+        "valiant attempt"
+      ]
+    }
+  },
+  {
     "word": "valiantly",
     "memory": "bravely",
     "meaning": "In a brave and determined way",
@@ -296,6 +316,26 @@
         "varsity team",
         "varsity squad",
         "make varsity"
+      ]
+    }
+  },
+  {
+    "word": "vase",
+    "memory": "flower pot",
+    "meaning": "A container used for holding cut flowers or as decoration",
+    "hindi": "फूलदान",
+    "trick": "Vase holds VAriouS flowers.",
+    "examples": [
+      "Who would put a vase here?",
+      "She put the roses in a glass vase."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a vase of flowers / put something in a vase",
+      "partners": [
+        "vase of flowers",
+        "glass vase",
+        "flower vase"
       ]
     }
   },
@@ -700,6 +740,26 @@
     }
   },
   {
+    "word": "veranda",
+    "memory": "open porch",
+    "meaning": "A roofed, open platform along the outside of a house",
+    "hindi": "बरामदा",
+    "trick": "VERANDA ≈ BARAMDA (बरामदा)!",
+    "examples": [
+      "He's sitting on the veranda, eating rice dumplings.",
+      "Grandpa drinks his tea on the veranda."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "on the veranda",
+      "partners": [
+        "sit on the veranda",
+        "front veranda",
+        "wide veranda"
+      ]
+    }
+  },
+  {
     "word": "verdant",
     "memory": "green, lush",
     "meaning": "Green with lots of grass and plants",
@@ -736,6 +796,26 @@
         "final verdict",
         "reach a verdict",
         "guilty verdict"
+      ]
+    }
+  },
+  {
+    "word": "verge",
+    "memory": "edge, brink",
+    "meaning": "The edge or very point of something happening (on the verge of); also the edge of a road",
+    "hindi": "कगार, किनारा",
+    "trick": "VERGE ≈ edge → on the edge of.",
+    "examples": [
+      "My family was on the verge of being wiped out...",
+      "She was on the verge of tears."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "on the verge of (doing) something",
+      "partners": [
+        "on the verge of",
+        "on the verge of tears",
+        "grass verge"
       ]
     }
   },
@@ -1000,6 +1080,26 @@
     }
   },
   {
+    "word": "vibe",
+    "memory": "feeling, atmosphere",
+    "meaning": "A feeling or atmosphere that a person or place gives (informal)",
+    "hindi": "माहौल, अहसास (बोलचाल)",
+    "trick": "VIBE — short for VIBRATIONS you feel.",
+    "examples": [
+      "I'm getting a demonic vibe.",
+      "This café has a nice, calm vibe."
+    ],
+    "usage": {
+      "pos": "noun (informal)",
+      "pattern": "get a + adjective + vibe from someone/something",
+      "partners": [
+        "good vibe",
+        "weird vibe",
+        "get a vibe"
+      ]
+    }
+  },
+  {
     "word": "vicinity",
     "memory": "nearby area",
     "meaning": "The area near or around a place or person",
@@ -1220,6 +1320,26 @@
     }
   },
   {
+    "word": "vindictively",
+    "memory": "out of revenge, spitefully",
+    "meaning": "In a way that shows a strong wish for revenge or to hurt someone",
+    "hindi": "बदले की भावना से, द्वेषपूर्वक",
+    "trick": "VINDICTIVE sounds like VENDETTA — it's all about revenge.",
+    "examples": [
+      "Of course we're going to slay them vindictively.",
+      "She vindictively deleted all his photos."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "do something vindictively",
+      "partners": [
+        "act vindictively",
+        "behave vindictively",
+        "punish vindictively"
+      ]
+    }
+  },
+  {
     "word": "vines",
     "memory": "climbing plants",
     "meaning": "Climbing plants with long stems, especially grape plants",
@@ -1260,6 +1380,26 @@
     }
   },
   {
+    "word": "violation",
+    "memory": "breaking a rule",
+    "meaning": "An act that breaks a rule, law or agreement",
+    "hindi": "उल्लंघन",
+    "trick": "VIOLATion → VIOLence against the rules.",
+    "examples": [
+      "I don't believe it could be construed as a violation.",
+      "Parking here is a traffic violation."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a violation of something / in violation of something",
+      "partners": [
+        "traffic violation",
+        "violation of rules",
+        "human rights violation"
+      ]
+    }
+  },
+  {
     "word": "virtues",
     "memory": "good qualities",
     "meaning": "Good moral qualities; also advantages or good points of something",
@@ -1276,6 +1416,26 @@
         "moral virtues",
         "virtues of patience",
         "extol the virtues"
+      ]
+    }
+  },
+  {
+    "word": "virtuous",
+    "memory": "morally good",
+    "meaning": "Having good moral qualities; living a good life",
+    "hindi": "सदाचारी, नेक",
+    "trick": "VIRTUE + ous → full of virtues.",
+    "examples": [
+      "No matter how virtuous a life you may lead...",
+      "He was a kind and virtuous man."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a virtuous + noun / be virtuous",
+      "partners": [
+        "virtuous life",
+        "virtuous man",
+        "virtuous circle"
       ]
     }
   },
@@ -1336,6 +1496,26 @@
         "vital role",
         "vital information",
         "absolutely vital"
+      ]
+    }
+  },
+  {
+    "word": "vitals",
+    "memory": "vital organs",
+    "meaning": "The important organs of the body, like the heart and brain; also vital signs (pulse, breathing)",
+    "hindi": "महत्वपूर्ण अंग; जीवन संकेत",
+    "trick": "Vital = needed for life → the vitals keep you alive.",
+    "examples": [
+      "It's like there are magnets pulling his blows straight to the human body's vitals!",
+      "The nurse checked his vitals every hour."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "someone's vitals / check the vitals",
+      "partners": [
+        "check vitals",
+        "hit the vitals",
+        "vitals are stable"
       ]
     }
   },
@@ -1420,6 +1600,26 @@
     }
   },
   {
+    "word": "voicing",
+    "memory": "expressing out loud",
+    "meaning": "Saying your feelings or opinions out loud",
+    "hindi": "व्यक्त करना, ज़ाहिर करना",
+    "trick": "VOICE → give voice to it.",
+    "examples": [
+      "...more candid about voicing your feelings.",
+      "She's not afraid of voicing her opinion."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "voice something / be voicing concerns",
+      "partners": [
+        "voicing concerns",
+        "voicing feelings",
+        "voicing an opinion"
+      ]
+    }
+  },
+  {
     "word": "volatile",
     "memory": "unstable, explosive",
     "meaning": "Likely to change suddenly, especially to anger; also (of prices) going up and down quickly",
@@ -1476,6 +1676,26 @@
         "eat voraciously",
         "read voraciously",
         "devour voraciously"
+      ]
+    }
+  },
+  {
+    "word": "vortex",
+    "memory": "whirlpool, swirl",
+    "meaning": "A mass of air or water that spins fast and pulls things into its centre",
+    "hindi": "भँवर, बवंडर",
+    "trick": "VORTEX → a 'whirl-tex' that sucks things in.",
+    "examples": [
+      "Generating a powerful vortex...",
+      "The water formed a vortex as it drained."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a vortex of something / create a vortex",
+      "partners": [
+        "powerful vortex",
+        "swirling vortex",
+        "vortex of water"
       ]
     }
   },

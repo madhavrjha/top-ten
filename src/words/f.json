@@ -20,6 +20,26 @@
     }
   },
   {
+    "word": "fabric",
+    "memory": "cloth",
+    "meaning": "Cloth or material made by weaving or knitting; also, the basic structure of something (e.g. society)",
+    "hindi": "कपड़ा; ढाँचा",
+    "trick": "FABRIC → 'fab' cloth.",
+    "examples": [
+      "The fabric is quite breathable.",
+      "This shirt is made of cotton fabric."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a fabric / the fabric of something",
+      "partners": [
+        "cotton fabric",
+        "soft fabric",
+        "the fabric of society"
+      ]
+    }
+  },
+  {
     "word": "facade",
     "memory": "false front, outward show",
     "meaning": "A false outward appearance hiding the truth; also the front of a building (also spelled 'façade')",
@@ -160,6 +180,26 @@
     }
   },
   {
+    "word": "faded",
+    "memory": "weakened, disappeared",
+    "meaning": "Became weaker or less bright and slowly disappeared",
+    "hindi": "फीका पड़ गया, धुंधला गया",
+    "trick": "Fade out → like a song getting quieter at the end.",
+    "examples": [
+      "He's stronger, but my revulsion for him hasn't faded!",
+      "My jeans have faded after many washes."
+    ],
+    "usage": {
+      "pos": "verb (past) / adjective",
+      "pattern": "something has faded / faded away",
+      "partners": [
+        "faded away",
+        "faded jeans",
+        "hope faded"
+      ]
+    }
+  },
+  {
     "word": "faggots",
     "memory": "offensive slur",
     "meaning": "Offensive slur for gay men; also (old) bundles of sticks for burning",
@@ -195,6 +235,66 @@
         "faint smile",
         "faint light",
         "faint hope"
+      ]
+    }
+  },
+  {
+    "word": "fainted",
+    "memory": "passed out",
+    "meaning": "Suddenly became unconscious for a short time",
+    "hindi": "बेहोश हो गया",
+    "trick": "Faint → so weak and faint you drop.",
+    "examples": [
+      "He fainted!",
+      "She fainted from the heat."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "faint (from something)",
+      "partners": [
+        "fainted from the heat",
+        "nearly fainted",
+        "fainted at the sight of blood"
+      ]
+    }
+  },
+  {
+    "word": "faintly",
+    "memory": "slightly, weakly",
+    "meaning": "In a slight, weak way; only just noticeable",
+    "hindi": "हल्का-सा, धीमे से",
+    "trick": "FAINT-ly → so weak you almost faint",
+    "examples": [
+      "But I can smell a demon, faintly.",
+      "I could faintly hear music next door."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "faintly + verb / faintly + adjective",
+      "partners": [
+        "faintly smell",
+        "smile faintly",
+        "faintly visible"
+      ]
+    }
+  },
+  {
+    "word": "fairy",
+    "memory": "magical tiny being",
+    "meaning": "A small imaginary creature with magic powers (fairy tale = a magical story for children, or something untrue)",
+    "hindi": "परी",
+    "trick": "Fairy = pari — both fly with wings.",
+    "examples": [
+      "It's just a fairy tale concocted by deluded humans.",
+      "My daughter wants to be a fairy for the school play."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a fairy tale / a fairy + noun",
+      "partners": [
+        "fairy tale",
+        "tooth fairy",
+        "fairy lights"
       ]
     }
   },
@@ -255,6 +355,26 @@
         "courage falters",
         "voice falters",
         "never falter"
+      ]
+    }
+  },
+  {
+    "word": "faltered",
+    "memory": "hesitated, wavered",
+    "meaning": "Hesitated or lost strength and confidence; also, (of the voice) became unsteady",
+    "hindi": "डगमगाया, हिचकिचाया",
+    "trick": "FALTER → 'fault' + 'alter': you lose your step and alter, wavering.",
+    "examples": [
+      "I faltered too long. Now the sun's coming up!",
+      "Her voice faltered when she spoke about her father."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "someone faltered / something faltered",
+      "partners": [
+        "voice faltered",
+        "faltered for a moment",
+        "never faltered"
       ]
     }
   },
@@ -359,6 +479,26 @@
     }
   },
   {
+    "word": "fangs",
+    "memory": "long sharp teeth",
+    "meaning": "Long, sharp, pointed teeth of animals like snakes, wolves or vampires",
+    "hindi": "नुकीले दाँत, विषदंत",
+    "trick": "FANGS → Dracula's FANGS",
+    "examples": [
+      "But if you bare your fangs at innocent people...",
+      "The dog showed its fangs and growled."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "bare your fangs / sink fangs into something",
+      "partners": [
+        "bare your fangs",
+        "sharp fangs",
+        "snake fangs"
+      ]
+    }
+  },
+  {
     "word": "fanned",
     "memory": "waved air at",
     "meaning": "Moved air towards something with a fan or hand to cool it",
@@ -419,6 +559,46 @@
     }
   },
   {
+    "word": "far-fetched",
+    "memory": "hard to believe",
+    "meaning": "Very unlikely and difficult to believe",
+    "hindi": "अविश्वसनीय, दूर की कौड़ी",
+    "trick": "FETCHED from FAR away → dur ki kaudi.",
+    "examples": [
+      "Although the situation seems somewhat far-fetched, it is an indisputable fact.",
+      "His excuse sounded a bit far-fetched."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "seem/sound far-fetched",
+      "partners": [
+        "sounds far-fetched",
+        "a far-fetched idea",
+        "far-fetched story"
+      ]
+    }
+  },
+  {
+    "word": "farewell",
+    "memory": "goodbye",
+    "meaning": "Goodbye; also a ceremony or party when someone leaves",
+    "hindi": "विदाई, अलविदा",
+    "trick": "FARE (go) + WELL — 'go well' as you leave.",
+    "examples": [
+      "Farewell.",
+      "We had a farewell party for our teacher."
+    ],
+    "usage": {
+      "pos": "noun / exclamation",
+      "pattern": "bid someone farewell / say farewell to someone",
+      "partners": [
+        "bid farewell",
+        "farewell party",
+        "say farewell"
+      ]
+    }
+  },
+  {
     "word": "farewells",
     "memory": "goodbyes",
     "meaning": "Acts or words of saying goodbye",
@@ -455,6 +635,26 @@
         "faring well",
         "faring better",
         "faring badly"
+      ]
+    }
+  },
+  {
+    "word": "farsighted",
+    "memory": "planning wisely ahead",
+    "meaning": "Thinking wisely about the future; also able to see far things clearly but not near things",
+    "hindi": "दूरदर्शी",
+    "trick": "FAR + SIGHTED → sees far ahead.",
+    "examples": [
+      "Well, it just goes to show that the Master and the others were that farsighted.",
+      "It was farsighted of you to save money."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be farsighted / a farsighted + noun",
+      "partners": [
+        "farsighted plan",
+        "farsighted leader",
+        "farsighted decision"
       ]
     }
   },
@@ -499,6 +699,26 @@
     }
   },
   {
+    "word": "fatal",
+    "memory": "deadly",
+    "meaning": "Causing death; also causing failure or disaster",
+    "hindi": "घातक, जानलेवा",
+    "trick": "FATAL — FATE ends in death.",
+    "examples": [
+      "Because they can't inflict fatal wounds on each other.",
+      "The accident was nearly fatal."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a fatal + wound/accident/mistake / prove fatal",
+      "partners": [
+        "fatal wounds",
+        "fatal accident",
+        "fatal mistake"
+      ]
+    }
+  },
+  {
     "word": "fatality",
     "memory": "death, accidental death",
     "meaning": "A death caused by an accident, war or disaster",
@@ -515,6 +735,46 @@
         "road fatality",
         "cause a fatality",
         "no fatalities"
+      ]
+    }
+  },
+  {
+    "word": "fathom",
+    "memory": "understand fully",
+    "meaning": "To understand something difficult after thinking about it; also a unit for measuring water depth",
+    "hindi": "समझना, थाह पाना",
+    "trick": "Fathom = how deep the sea is; to fathom = reach the bottom of an idea.",
+    "examples": [
+      "So it's hard for me to fathom.",
+      "I can't fathom why he left so suddenly."
+    ],
+    "usage": {
+      "pos": "verb (also noun)",
+      "pattern": "can't fathom something / fathom why/how...",
+      "partners": [
+        "hard to fathom",
+        "can't fathom why",
+        "fathom out"
+      ]
+    }
+  },
+  {
+    "word": "fatigue",
+    "memory": "great tiredness",
+    "meaning": "Extreme tiredness from work, stress or illness",
+    "hindi": "थकान, थकावट",
+    "trick": "Fat + i + gue → so fat and tired you can't move.",
+    "examples": [
+      "My wife drowned herself the other day due to nursing fatigue.",
+      "After the long flight, I felt great fatigue."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "suffer from fatigue / due to fatigue",
+      "partners": [
+        "extreme fatigue",
+        "mental fatigue",
+        "suffer from fatigue"
       ]
     }
   },
@@ -559,6 +819,26 @@
     }
   },
   {
+    "word": "favoritism",
+    "memory": "unfair preference",
+    "meaning": "Unfairly treating one person better than others",
+    "hindi": "पक्षपात, भेदभाव",
+    "trick": "FAVORITE → favoritism: having a favourite.",
+    "examples": [
+      "I call favoritism! I call favoritism!",
+      "The teacher was accused of favoritism."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "favoritism towards someone / show favoritism",
+      "partners": [
+        "show favoritism",
+        "accused of favoritism",
+        "blatant favoritism"
+      ]
+    }
+  },
+  {
     "word": "faze",
     "memory": "upset, disturb",
     "meaning": "To make someone worried, nervous or confused",
@@ -575,6 +855,26 @@
         "didn't faze him",
         "nothing fazes her",
         "won't faze me"
+      ]
+    }
+  },
+  {
+    "word": "feared",
+    "memory": "was afraid of",
+    "meaning": "Was afraid of someone or something",
+    "hindi": "डरते थे, भय खाया",
+    "trick": "FEAR + ed = feared.",
+    "examples": [
+      "I revolted everyone, and they all feared me.",
+      "The children feared the big dog next door."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "fear someone/something / be feared by someone",
+      "partners": [
+        "widely feared",
+        "feared the worst",
+        "feared for his life"
       ]
     }
   },
@@ -739,6 +1039,26 @@
     }
   },
   {
+    "word": "fend",
+    "memory": "push away, defend (fend off)",
+    "meaning": "\"Fend off\" = defend yourself against an attack; \"fend for yourself\" = look after yourself",
+    "hindi": "बचाव करना, रोकना; अपना ध्यान खुद रखना",
+    "trick": "FEND = deFEND → fend off the attack",
+    "examples": [
+      "How am I supposed to fend it off?",
+      "She used her umbrella to fend off the dog."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "fend off someone/something / fend for yourself",
+      "partners": [
+        "fend off an attack",
+        "fend for yourself",
+        "fend off questions"
+      ]
+    }
+  },
+  {
     "word": "fend off",
     "memory": "push away, resist",
     "meaning": "To defend yourself from someone or something unwanted",
@@ -755,6 +1075,26 @@
         "fend off attackers",
         "fend off questions",
         "fend off critics"
+      ]
+    }
+  },
+  {
+    "word": "fending",
+    "memory": "holding back, defending",
+    "meaning": "Fighting off or keeping away an attacker; also looking after yourself without help",
+    "hindi": "रोकना, बचाव करना",
+    "trick": "FEND ≈ deFEND → fending off = defending against.",
+    "examples": [
+      "Genya and Nezuko are fending off the others!",
+      "She was fending off questions from reporters."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "fend off someone/something / fend for yourself",
+      "partners": [
+        "fending off attacks",
+        "fending off questions",
+        "fend for oneself"
       ]
     }
   },
@@ -835,6 +1175,26 @@
         "fertilises the soil",
         "fertilises the land",
         "fertilises crops"
+      ]
+    }
+  },
+  {
+    "word": "fervently",
+    "memory": "passionately, sincerely",
+    "meaning": "With strong and sincere feeling",
+    "hindi": "उत्साहपूर्वक, पूरे मन से",
+    "trick": "FERVENT ≈ FEVER → feeling it with fever-like heat.",
+    "examples": [
+      "I fervently pray for your continued good fortune.",
+      "She fervently hoped her team would win."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "fervently + hope/pray/believe",
+      "partners": [
+        "fervently hope",
+        "fervently pray",
+        "fervently believe"
       ]
     }
   },
@@ -959,6 +1319,26 @@
     }
   },
   {
+    "word": "fiends",
+    "memory": "evil monsters, devils",
+    "meaning": "Very evil or cruel beings, like devils; also people who love something too much",
+    "hindi": "राक्षस, शैतान",
+    "trick": "FIEND ≈ opposite of FRIEND (no R = no heart).",
+    "examples": [
+      "You brutal fiends who torment the weak...",
+      "My kids are total sugar fiends."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "evil fiends / a (sugar/fitness) fiend",
+      "partners": [
+        "evil fiends",
+        "heartless fiends",
+        "sugar fiend"
+      ]
+    }
+  },
+  {
     "word": "fierce",
     "memory": "intense, violent",
     "meaning": "Very strong, intense or violent",
@@ -995,6 +1375,26 @@
         "fierce-looking dog",
         "fierce-looking man",
         "fierce-looking guard"
+      ]
+    }
+  },
+  {
+    "word": "fiercely",
+    "memory": "strongly, intensely",
+    "meaning": "In a very strong, intense or aggressive way",
+    "hindi": "ज़ोर से, उग्रता से",
+    "trick": "FIERCE + LY → like a fierce lion.",
+    "examples": [
+      "Now, what on earth could they be protecting so fiercely here?",
+      "She fiercely defends her little brother."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "do something fiercely / fiercely + adjective",
+      "partners": [
+        "fiercely protect",
+        "fiercely loyal",
+        "fiercely independent"
       ]
     }
   },
@@ -1119,6 +1519,26 @@
     }
   },
   {
+    "word": "fills",
+    "memory": "makes full",
+    "meaning": "Makes someone feel a strong emotion; also makes something full",
+    "hindi": "भर देता है",
+    "trick": "FILL a glass → fills you with feelings.",
+    "examples": [
+      "That pains my heart! It fills me with anguish!",
+      "Her smile fills me with joy."
+    ],
+    "usage": {
+      "pos": "verb (he/she/it form)",
+      "pattern": "fill someone with + emotion / fill something with something",
+      "partners": [
+        "fills me with joy",
+        "fills with water",
+        "fills the room"
+      ]
+    }
+  },
+  {
     "word": "filth",
     "memory": "dirt, muck",
     "meaning": "Disgusting dirt; also rude or offensive language",
@@ -1135,6 +1555,26 @@
         "covered in filth",
         "live in filth",
         "clean the filth"
+      ]
+    }
+  },
+  {
+    "word": "filthy",
+    "memory": "very dirty",
+    "meaning": "Very dirty; also rude or offensive (informal)",
+    "hindi": "बहुत गंदा, मैला",
+    "trick": "FILTH-y — full of FILTH (dirt).",
+    "examples": [
+      "So filthy!",
+      "Your shoes are filthy — take them off!"
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be filthy / a filthy + place/habit",
+      "partners": [
+        "filthy dirty",
+        "filthy clothes",
+        "filthy rich"
       ]
     }
   },
@@ -1279,6 +1719,26 @@
     }
   },
   {
+    "word": "firsthand",
+    "memory": "direct, personal",
+    "meaning": "Coming directly from your own experience, not from others",
+    "hindi": "प्रत्यक्ष, खुद का",
+    "trick": "From the FIRST HAND — your own hand, not someone else's.",
+    "examples": [
+      "Nothing can ever top what you've learned from firsthand experience.",
+      "I saw the damage firsthand."
+    ],
+    "usage": {
+      "pos": "adjective / adverb",
+      "pattern": "firsthand + experience/knowledge / see something firsthand",
+      "partners": [
+        "firsthand experience",
+        "firsthand account",
+        "see it firsthand"
+      ]
+    }
+  },
+  {
     "word": "fished",
     "memory": "pulled out",
     "meaning": "Searched for and pulled something out of a pocket or bag",
@@ -1295,6 +1755,26 @@
         "fished out",
         "fished from his pocket",
         "fished in her bag"
+      ]
+    }
+  },
+  {
+    "word": "fist",
+    "memory": "closed hand",
+    "meaning": "A hand with the fingers closed tightly",
+    "hindi": "मुट्ठी",
+    "trick": "FIST → first thing you make to punch.",
+    "examples": [
+      "I was clenching my fist to throw punches with full force.",
+      "He banged his fist on the table."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "clench/shake your fist",
+      "partners": [
+        "clenched fist",
+        "shake a fist",
+        "fist bump"
       ]
     }
   },
@@ -1459,6 +1939,26 @@
     }
   },
   {
+    "word": "flailing",
+    "memory": "waving arms wildly; struggling",
+    "meaning": "Waving the arms or legs about wildly; also struggling and failing",
+    "hindi": "हाथ-पाँव मारते हुए, छटपटाते हुए",
+    "trick": "FLAIL ≈ \"fail\" + flap → flapping and failing",
+    "examples": [
+      "...someone shattered by misfortune, suffering and flailing.",
+      "The child was flailing in the water until his dad grabbed him."
+    ],
+    "usage": {
+      "pos": "verb (-ing form)",
+      "pattern": "be flailing (about/around)",
+      "partners": [
+        "flailing arms",
+        "flailing around",
+        "a flailing economy"
+      ]
+    }
+  },
+  {
     "word": "flaked",
     "memory": "peeled off",
     "meaning": "Came off in small thin pieces",
@@ -1519,6 +2019,26 @@
     }
   },
   {
+    "word": "flamboyance",
+    "memory": "showiness, flashy style",
+    "meaning": "A confident, colourful and showy style that attracts attention",
+    "hindi": "दिखावा, तड़क-भड़क",
+    "trick": "FLAM-boyance ≈ FLAME boy → a flashy boy on fire.",
+    "examples": [
+      "I'm talking max flamboyance.",
+      "The singer was known for his flamboyance on stage."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the flamboyance of someone/something",
+      "partners": [
+        "sheer flamboyance",
+        "flamboyance and style",
+        "his flamboyance"
+      ]
+    }
+  },
+  {
     "word": "flamboyant",
     "memory": "showy, colourful",
     "meaning": "Very confident, bold and showy, attracting attention",
@@ -1535,6 +2055,46 @@
         "flamboyant style",
         "flamboyant designer",
         "flamboyant personality"
+      ]
+    }
+  },
+  {
+    "word": "flame",
+    "memory": "fire; (here) the Flame style",
+    "meaning": "The bright burning part of a fire; in the show, the name of a fighting style (Flame Breathing)",
+    "hindi": "ज्वाला, लौ",
+    "trick": "FLAME → candle FLAME",
+    "examples": [
+      "After all, the Flame Hashira Chronicles are stored very carefully.",
+      "Blow out the flame before you sleep."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a flame / burst into flames",
+      "partners": [
+        "candle flame",
+        "burst into flames",
+        "open flame"
+      ]
+    }
+  },
+  {
+    "word": "flames",
+    "memory": "fire tongues",
+    "meaning": "The hot, bright moving parts of a fire",
+    "hindi": "लपटें, आग",
+    "trick": "FLAMES → candle flames.",
+    "examples": [
+      "It's sluggish now thanks to the flames!",
+      "The flames rose high into the sky."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "burst into flames / in flames",
+      "partners": [
+        "burst into flames",
+        "go up in flames",
+        "bright flames"
       ]
     }
   },
@@ -1699,6 +2259,86 @@
     }
   },
   {
+    "word": "flattered",
+    "memory": "pleased by praise",
+    "meaning": "Pleased and honoured because someone praised or cared about you",
+    "hindi": "खुश, सम्मानित महसूस करना",
+    "trick": "FLATTER → praise that makes you float.",
+    "examples": [
+      "I'm flattered that you're so concerned for me.",
+      "I'm flattered you asked me to help."
+    ],
+    "usage": {
+      "pos": "adjective / verb (past)",
+      "pattern": "be flattered (that/by something)",
+      "partners": [
+        "feel flattered",
+        "I'm flattered",
+        "flattered by the offer"
+      ]
+    }
+  },
+  {
+    "word": "flaunt",
+    "memory": "show off",
+    "meaning": "To show something proudly so that others notice it",
+    "hindi": "दिखावा करना, शेखी बघारना",
+    "trick": "Flaunt → flaunt the flag high so all can see.",
+    "examples": [
+      "My father wasn't one to flaunt his strength for no reason.",
+      "She likes to flaunt her new phone."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "flaunt something / if you've got it, flaunt it",
+      "partners": [
+        "flaunt wealth",
+        "flaunt his strength",
+        "flaunt it"
+      ]
+    }
+  },
+  {
+    "word": "flaunting",
+    "memory": "showing off",
+    "meaning": "Showing something off proudly so that others notice and envy it",
+    "hindi": "दिखावा करते हुए, इतराते हुए",
+    "trick": "FLAUNT ≈ \"flash + vaunt\" → flashing what you've got",
+    "examples": [
+      "Are you flaunting it?",
+      "She keeps flaunting her new phone at school."
+    ],
+    "usage": {
+      "pos": "verb (-ing form)",
+      "pattern": "be flaunting something / flaunt your wealth",
+      "partners": [
+        "flaunting wealth",
+        "flaunting a new car",
+        "flaunting your success"
+      ]
+    }
+  },
+  {
+    "word": "fleas",
+    "memory": "tiny jumping bugs",
+    "meaning": "Tiny jumping insects without wings that bite and drink the blood of animals and people",
+    "hindi": "पिस्सू",
+    "trick": "Fleas FLEE by jumping away.",
+    "examples": [
+      "Giving off the stench of fleas.",
+      "Our dog had fleas, so we gave it a bath."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "have fleas / be covered in fleas",
+      "partners": [
+        "dog fleas",
+        "flea bites",
+        "get rid of fleas"
+      ]
+    }
+  },
+  {
     "word": "fled",
     "memory": "ran away",
     "meaning": "Ran away from a place or danger",
@@ -1715,6 +2355,26 @@
         "fled the scene",
         "fled the country",
         "fled in fear"
+      ]
+    }
+  },
+  {
+    "word": "flee",
+    "memory": "run away",
+    "meaning": "To run away from danger quickly",
+    "hindi": "भाग जाना, भागना",
+    "trick": "FLEE ≈ FLY away from danger.",
+    "examples": [
+      "Everyone else, please flee from here!",
+      "People had to flee the burning building."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "flee (from) something / flee to somewhere",
+      "partners": [
+        "flee the country",
+        "flee from danger",
+        "forced to flee"
       ]
     }
   },
@@ -1859,6 +2519,46 @@
     }
   },
   {
+    "word": "flinch",
+    "memory": "jerk back, shrink",
+    "meaning": "To make a quick, sudden movement back because of pain, fear or shock",
+    "hindi": "सहमना, झिझकना, पीछे हटना",
+    "trick": "FLINCH ≈ 'pinch' → you flinch when someone pinches you.",
+    "examples": [
+      "He doesn't flinch back in fear.",
+      "He didn't flinch when the dog barked."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "flinch (at/from something) / without flinching",
+      "partners": [
+        "flinch in pain",
+        "flinch from danger",
+        "didn't even flinch"
+      ]
+    }
+  },
+  {
+    "word": "flinching",
+    "memory": "jerking back, reacting",
+    "meaning": "Making a quick, sudden movement because of pain, fear or shock",
+    "hindi": "सहमना, झिझकना, पीछे हटना",
+    "trick": "FLINCH ≈ 'pinch' → you flinch when someone pinches you.",
+    "examples": [
+      "This thing isn't even flinching!",
+      "She didn't stop flinching while the nurse gave the injection."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "without flinching / flinching at/from something",
+      "partners": [
+        "without flinching",
+        "flinching in pain",
+        "isn't even flinching"
+      ]
+    }
+  },
+  {
     "word": "fling",
     "memory": "throw",
     "meaning": "To throw something hard or carelessly",
@@ -1895,6 +2595,26 @@
         "summer flings",
         "brief flings",
         "have a fling"
+      ]
+    }
+  },
+  {
+    "word": "flipped",
+    "memory": "turned over",
+    "meaning": "Turned over quickly; also suddenly got very angry (informal)",
+    "hindi": "पलट दिया, उलट गया",
+    "trick": "FLIP a coin — it turns over.",
+    "examples": [
+      "The room's been flipped!",
+      "He flipped the pancake in the pan."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "flip something (over) / flip out (informal)",
+      "partners": [
+        "flipped over",
+        "flipped a coin",
+        "flipped out"
       ]
     }
   },
@@ -1995,6 +2715,26 @@
         "open the floodgates",
         "break open the floodgates",
         "floodgates of emotion"
+      ]
+    }
+  },
+  {
+    "word": "flooding",
+    "memory": "overwhelming, pouring in",
+    "meaning": "Filling or overwhelming someone or something with a large amount; also water covering land",
+    "hindi": "भर देना, बाढ़-सी ला देना; बाढ़",
+    "trick": "Like a FLOOD of water — so much pours in that you're drowning in it.",
+    "examples": [
+      "What do you think will happen if I keep flooding you with my blood?",
+      "Heavy rain is flooding the streets of Mumbai."
+    ],
+    "usage": {
+      "pos": "verb (-ing) / noun",
+      "pattern": "flood someone/something with something",
+      "partners": [
+        "flooding with messages",
+        "flooding the market",
+        "heavy flooding"
       ]
     }
   },
@@ -2279,6 +3019,26 @@
     }
   },
   {
+    "word": "fluster",
+    "memory": "confuse, make nervous",
+    "meaning": "To make someone nervous and confused",
+    "hindi": "घबरा देना, उलझन में डालना",
+    "trick": "FLUSTER ≈ flushed + flutter → red-faced and shaky.",
+    "examples": [
+      "Did you think that was enough to fluster me?",
+      "Loud noises fluster my old dog."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "fluster someone / get flustered",
+      "partners": [
+        "easily flustered",
+        "fluster someone",
+        "get flustered"
+      ]
+    }
+  },
+  {
     "word": "flustered",
     "memory": "nervous, confused",
     "meaning": "Nervous and confused, especially because of hurry or pressure",
@@ -2295,6 +3055,26 @@
         "get flustered",
         "look flustered",
         "flustered by something"
+      ]
+    }
+  },
+  {
+    "word": "flutter",
+    "memory": "beat fast with excitement; also flap",
+    "meaning": "(of the heart) to beat fast and unevenly from excitement; also to flap wings or move lightly and quickly",
+    "hindi": "धड़कना, धक-धक करना; फड़फड़ाना",
+    "trick": "Butterfly FLUTTER — your heart flutters like a butterfly.",
+    "examples": [
+      "My heart would never flutter for those who needlessly hurt others!",
+      "The flag fluttered in the wind."
+    ],
+    "usage": {
+      "pos": "verb (also noun)",
+      "pattern": "someone's heart flutters / flutter in the wind",
+      "partners": [
+        "heart flutter",
+        "flutter in the wind",
+        "flutter its wings"
       ]
     }
   },
@@ -2479,6 +3259,26 @@
     }
   },
   {
+    "word": "foolish",
+    "memory": "silly, unwise",
+    "meaning": "Not sensible; silly or unwise",
+    "hindi": "मूर्खतापूर्ण, नासमझ",
+    "trick": "Fool + ish → acting like a fool.",
+    "examples": [
+      "So foolish, you'll try to see things through to the end despite the futility!",
+      "It was foolish of me to leave my keys in the car."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "it is foolish to do something / it was foolish of someone",
+      "partners": [
+        "foolish mistake",
+        "feel foolish",
+        "look foolish"
+      ]
+    }
+  },
+  {
     "word": "foothills",
     "memory": "low hills",
     "meaning": "Low hills at the bottom of a mountain range",
@@ -2515,6 +3315,26 @@
         "forbade him to",
         "strictly forbade",
         "forbade it"
+      ]
+    }
+  },
+  {
+    "word": "forcibly",
+    "memory": "by force",
+    "meaning": "Using force or violence; against someone's will",
+    "hindi": "ज़बरदस्ती, बलपूर्वक",
+    "trick": "FORCE → forcibly: done with force.",
+    "examples": [
+      "It'll bring on the repercussions of forcibly switching...",
+      "The guard forcibly removed the man from the hall."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "forcibly + remove/take/open something",
+      "partners": [
+        "forcibly removed",
+        "forcibly taken",
+        "forcibly opened"
       ]
     }
   },
@@ -2575,6 +3395,26 @@
         "thumb and forefinger",
         "raise a forefinger",
         "point a forefinger"
+      ]
+    }
+  },
+  {
+    "word": "forefront",
+    "memory": "most important position, front",
+    "meaning": "The most important or most noticeable position; the very front",
+    "hindi": "सबसे आगे, अग्रणी स्थान",
+    "trick": "FORE + FRONT: double front!",
+    "examples": [
+      "I intentionally pushed them to the forefront!",
+      "The company is at the forefront of new technology."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "at/to the forefront of something",
+      "partners": [
+        "at the forefront of",
+        "to the forefront",
+        "forefront of research"
       ]
     }
   },
@@ -2758,6 +3598,26 @@
     }
   },
   {
+    "word": "forged",
+    "memory": "shaped from metal",
+    "meaning": "(Of metal) shaped by heating and hammering; also, faked (a signature or document)",
+    "hindi": "गढ़ा गया; जाली बनाया",
+    "trick": "FORGE → a blacksmith's forge; also 'forged' signature = fake.",
+    "examples": [
+      "They were forged with a special kind of steel.",
+      "He forged his father's signature on the letter."
+    ],
+    "usage": {
+      "pos": "verb (past participle)",
+      "pattern": "be forged from/with something / forge something",
+      "partners": [
+        "forged steel",
+        "forged in fire",
+        "forged signature"
+      ]
+    }
+  },
+  {
     "word": "forgoes",
     "memory": "gives up",
     "meaning": "Chooses to go without something he or she wants",
@@ -2774,6 +3634,26 @@
         "forgoes his salary",
         "forgoes the chance",
         "forgoes sleep"
+      ]
+    }
+  },
+  {
+    "word": "fork",
+    "memory": "branch, offshoot; also eating tool",
+    "meaning": "A branch that splits off from a main path or style; also an eating tool with prongs",
+    "hindi": "शाखा, उपशाखा; काँटा (खाने का)",
+    "trick": "FORK in the road → one path splits into two",
+    "examples": [
+      "Mist is a fork of Wind.",
+      "Take the left fork when the road splits."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a fork of something / a fork in the road",
+      "partners": [
+        "fork in the road",
+        "a fork of something",
+        "knife and fork"
       ]
     }
   },
@@ -2818,6 +3698,26 @@
     }
   },
   {
+    "word": "formidable",
+    "memory": "powerful, fearsome",
+    "meaning": "Very strong and powerful, causing fear or respect",
+    "hindi": "भयानक, ज़बरदस्त",
+    "trick": "FORMIDABLE — 'fear-midable': its strength makes you afraid.",
+    "examples": [
+      "Then they're undeniably more formidable than any other demon you've killed until now!",
+      "India has a formidable cricket team."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a formidable + opponent/task/challenge",
+      "partners": [
+        "formidable opponent",
+        "formidable task",
+        "formidable enemy"
+      ]
+    }
+  },
+  {
     "word": "fossils",
     "memory": "stone remains",
     "meaning": "Remains of very old plants or animals that have turned to stone",
@@ -2834,6 +3734,26 @@
         "dinosaur fossils",
         "ancient fossils",
         "stiff as fossils"
+      ]
+    }
+  },
+  {
+    "word": "foul",
+    "memory": "rude, dirty; disgusting",
+    "meaning": "Rude and offensive (of language); also very unpleasant or dirty",
+    "hindi": "गंदा, अशिष्ट",
+    "trick": "FOUL → foul mouth → bad words.",
+    "examples": [
+      "What a foul mouth that boy has!",
+      "There was a foul smell coming from the bin."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a foul + noun / smell foul",
+      "partners": [
+        "foul mouth",
+        "foul smell",
+        "foul language"
       ]
     }
   },
@@ -2894,6 +3814,26 @@
         "fragile health",
         "fragile glass",
         "fragile peace"
+      ]
+    }
+  },
+  {
+    "word": "fragility",
+    "memory": "delicacy, weakness",
+    "meaning": "The quality of being easily broken or damaged",
+    "hindi": "नाज़ुकपन, कोमलता",
+    "trick": "FRAGILE + ITY — the box says 'FRAGILE'.",
+    "examples": [
+      "No beauty, no fragility, no impact.",
+      "The fragility of the glass made me nervous."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the fragility of something",
+      "partners": [
+        "fragility of life",
+        "emotional fragility",
+        "fragility of glass"
       ]
     }
   },
@@ -2998,6 +3938,26 @@
     }
   },
   {
+    "word": "fray",
+    "memory": "fight, conflict",
+    "meaning": "A fight, battle or heated argument; also (verb) wear thin at the edges",
+    "hindi": "लड़ाई, संघर्ष; घिसना",
+    "trick": "FRAY ≈ FRAY-cas → a fight; 'join the fray' = jump into the fight.",
+    "examples": [
+      "Even if you bring another ugly freak into the fray.",
+      "My old jeans have started to fray at the bottom."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "join/enter the fray / into the fray",
+      "partners": [
+        "join the fray",
+        "into the fray",
+        "above the fray"
+      ]
+    }
+  },
+  {
     "word": "frayed",
     "memory": "worn, threadbare",
     "meaning": "(Of cloth or rope) worn at the edges so threads come loose; also (of nerves) tired and tense",
@@ -3014,6 +3974,46 @@
         "frayed edges",
         "frayed rope",
         "frayed nerves"
+      ]
+    }
+  },
+  {
+    "word": "freak",
+    "memory": "weird person",
+    "meaning": "A person or thing that is strange or abnormal (rude); also someone very keen on something",
+    "hindi": "अजीब प्राणी, सनकी (अशिष्ट)",
+    "trick": "FREAK ≈ 'freaky' → weird and scary.",
+    "examples": [
+      "Even if you bring another ugly freak into the fray.",
+      "He's a fitness freak who runs every morning."
+    ],
+    "usage": {
+      "pos": "noun (rude/informal)",
+      "pattern": "a freak / a + noun + freak",
+      "partners": [
+        "ugly freak",
+        "control freak",
+        "fitness freak"
+      ]
+    }
+  },
+  {
+    "word": "freaking",
+    "memory": "very (mild swear)",
+    "meaning": "Informal word used for emphasis instead of a stronger swear word",
+    "hindi": "बहुत, बेहद (बोलचाल)",
+    "trick": "FREAKING → a polite version of the F-word.",
+    "examples": [
+      "Dammit! They're slithery, but they're freaking hard!",
+      "It's freaking cold outside today."
+    ],
+    "usage": {
+      "pos": "adverb (slang)",
+      "pattern": "freaking + adjective / freaking + noun",
+      "partners": [
+        "freaking hard",
+        "freaking cold",
+        "freaking out"
       ]
     }
   },
@@ -3298,6 +4298,26 @@
     }
   },
   {
+    "word": "frolic",
+    "memory": "play happily",
+    "meaning": "To play and move about happily and lively",
+    "hindi": "मौज-मस्ती करना, उछल-कूद करना",
+    "trick": "FROLIC ≈ FROG + LICK → a frog jumping about playfully.",
+    "examples": [
+      "All you did was frolic with girls all day.",
+      "The children frolic in the garden."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "frolic (in/with/around something)",
+      "partners": [
+        "frolic in the water",
+        "frolic around",
+        "frolic with friends"
+      ]
+    }
+  },
+  {
     "word": "frolicking",
     "memory": "playing happily",
     "meaning": "Playing and running about in a happy, lively way",
@@ -3434,6 +4454,46 @@
         "come to fruition",
         "bring to fruition",
         "reach fruition"
+      ]
+    }
+  },
+  {
+    "word": "frustrating",
+    "memory": "annoying (because you can't succeed)",
+    "meaning": "Making you feel annoyed and upset because you can't do what you want",
+    "hindi": "झुंझलाने वाला, खीज दिलाने वाला",
+    "trick": "FRUST-rating ≈ \"first rating\" was bad, again and again",
+    "examples": [
+      "No matter how grueling or frustrating it may be.",
+      "Waiting in traffic is so frustrating."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be frustrating (for someone) / it is frustrating to...",
+      "partners": [
+        "very frustrating",
+        "frustrating experience",
+        "deeply frustrating"
+      ]
+    }
+  },
+  {
+    "word": "fugitive",
+    "memory": "runaway",
+    "meaning": "A person who is running away, especially from the police or from being caught",
+    "hindi": "भगोड़ा, फ़रार",
+    "trick": "FUGI = flee (like 'refugee') — a fugitive flees.",
+    "examples": [
+      "Wouldn't that be Tamayo the Fugitive?",
+      "The fugitive was caught at the airport."
+    ],
+    "usage": {
+      "pos": "noun (also adjective)",
+      "pattern": "a fugitive from justice/the law",
+      "partners": [
+        "fugitive from justice",
+        "escaped fugitive",
+        "on the run"
       ]
     }
   },
@@ -3714,6 +4774,26 @@
         "fuse together",
         "fuse ideas",
         "fuse into one"
+      ]
+    }
+  },
+  {
+    "word": "fused",
+    "memory": "joined into one",
+    "meaning": "Joined or melted together to become one",
+    "hindi": "मिलकर एक हुआ, जुड़ गया",
+    "trick": "FUSE → FUSion → two things become one",
+    "examples": [
+      "I fused with this train!",
+      "The two bones fused after the injury."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "fuse with something / be fused together",
+      "partners": [
+        "fused together",
+        "fused with",
+        "fused into one"
       ]
     }
   },

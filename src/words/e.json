@@ -1,5 +1,45 @@
 [
   {
+    "word": "EKG",
+    "memory": "heart test",
+    "meaning": "A medical test that records the heart's electrical activity (also ECG)",
+    "hindi": "हृदय जाँच, ईसीजी",
+    "trick": "EKG = ElectroKardioGram (German 'K') - the heart's zigzag line.",
+    "examples": [
+      "It looked like an arrhythmic EKG.",
+      "The doctor ordered an EKG to check his heart."
+    ],
+    "usage": {
+      "pos": "noun (abbreviation)",
+      "pattern": "do/have an EKG",
+      "partners": [
+        "have an EKG",
+        "EKG reading",
+        "abnormal EKG"
+      ]
+    }
+  },
+  {
+    "word": "eardrums",
+    "memory": "thin skin inside the ear",
+    "meaning": "The thin skin inside the ear that vibrates so you can hear sounds",
+    "hindi": "कान के पर्दे",
+    "trick": "EAR + DRUMS → a drum inside your ear.",
+    "examples": [
+      "M-My eardrums just burst!",
+      "The music was loud enough to hurt your eardrums."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "burst/hurt someone's eardrums",
+      "partners": [
+        "burst eardrums",
+        "hurt your eardrums",
+        "damaged eardrums"
+      ]
+    }
+  },
+  {
     "word": "earflaps",
     "memory": "ear-covering flaps",
     "meaning": "Flaps on a hat that fold down to cover the ears",
@@ -340,26 +380,6 @@
     }
   },
   {
-    "word": "EKG",
-    "memory": "heart test",
-    "meaning": "A medical test that records the heart's electrical activity (also ECG)",
-    "hindi": "हृदय जाँच, ईसीजी",
-    "trick": "EKG = ElectroKardioGram (German 'K') - the heart's zigzag line.",
-    "examples": [
-      "It looked like an arrhythmic EKG.",
-      "The doctor ordered an EKG to check his heart."
-    ],
-    "usage": {
-      "pos": "noun (abbreviation)",
-      "pattern": "do/have an EKG",
-      "partners": [
-        "have an EKG",
-        "EKG reading",
-        "abnormal EKG"
-      ]
-    }
-  },
-  {
     "word": "elaborate",
     "memory": "detailed, complicated",
     "meaning": "Very detailed, long and carefully planned or worked out",
@@ -416,6 +436,46 @@
         "elated by the news",
         "feel elated",
         "absolutely elated"
+      ]
+    }
+  },
+  {
+    "word": "elder",
+    "memory": "older",
+    "meaning": "Older (of two people, especially in a family); also an older, respected person",
+    "hindi": "बड़ा, बड़ी; बुज़ुर्ग",
+    "trick": "ELDER ≈ OLDER.",
+    "examples": [
+      "I'm your elder sister! Don't desert me!",
+      "My elder brother lives in Delhi."
+    ],
+    "usage": {
+      "pos": "adjective / noun",
+      "pattern": "someone's elder brother/sister / respect your elders",
+      "partners": [
+        "elder sister",
+        "elder brother",
+        "respect your elders"
+      ]
+    }
+  },
+  {
+    "word": "elderly",
+    "memory": "old",
+    "meaning": "Old (a polite word for old people)",
+    "hindi": "बुज़ुर्ग, वृद्ध",
+    "trick": "ELDER-ly — your ELDERs.",
+    "examples": [
+      "The young and the elderly are particularly perceptive.",
+      "Please give your seat to the elderly man."
+    ],
+    "usage": {
+      "pos": "adjective (also 'the elderly' = old people)",
+      "pattern": "the elderly / an elderly + person",
+      "partners": [
+        "the elderly",
+        "elderly parents",
+        "elderly people"
       ]
     }
   },
@@ -540,6 +600,26 @@
     }
   },
   {
+    "word": "elixir",
+    "memory": "magic potion",
+    "meaning": "A magical or medicinal liquid believed to cure illness or give long life",
+    "hindi": "अमृत, जादुई दवा",
+    "trick": "ELIXIR — 'elixer' that fixes everything.",
+    "examples": [
+      "To produce such an elixir,...",
+      "Grandma says honey and ginger is her elixir for colds."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an elixir of life/youth / an elixir for something",
+      "partners": [
+        "elixir of life",
+        "magic elixir",
+        "elixir of youth"
+      ]
+    }
+  },
+  {
     "word": "elliptical",
     "memory": "oval-shaped",
     "meaning": "Shaped like an oval; (as in a gym cross-trainer whose pedals move in an oval path)",
@@ -640,6 +720,26 @@
     }
   },
   {
+    "word": "eluded",
+    "memory": "escaped, avoided",
+    "meaning": "Escaped or avoided something or someone, especially by being clever or quick",
+    "hindi": "बच निकला, चकमा दिया",
+    "trick": "E (out) + LUDE (play) — played your way OUT of it.",
+    "examples": [
+      "So, you eluded it by spinning in the same direction as the Kouketsu Arrow?",
+      "The thief eluded the police for a week."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "elude someone/something / something eludes someone",
+      "partners": [
+        "eluded capture",
+        "eluded the police",
+        "success eluded him"
+      ]
+    }
+  },
+  {
     "word": "elusive",
     "memory": "hard to catch",
     "meaning": "Difficult to find, catch, understand or achieve",
@@ -676,6 +776,26 @@
         "emaciated body",
         "look emaciated",
         "emaciated figure"
+      ]
+    }
+  },
+  {
+    "word": "embarrassment",
+    "memory": "shame, awkward feeling",
+    "meaning": "A feeling of shame or awkwardness; also something or someone that causes it",
+    "hindi": "शर्मिंदगी, झेंप",
+    "trick": "Double r, double s — embaRRaSSment, so embarrassing!",
+    "examples": [
+      "How can I atone for this embarrassment?",
+      "His face turned red with embarrassment."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "with/in embarrassment / be an embarrassment to someone",
+      "partners": [
+        "red with embarrassment",
+        "cause embarrassment",
+        "an embarrassment to the team"
       ]
     }
   },
@@ -1000,6 +1120,26 @@
     }
   },
   {
+    "word": "endeavors",
+    "memory": "efforts, attempts",
+    "meaning": "Serious attempts or efforts to achieve something",
+    "hindi": "प्रयास, कोशिशें",
+    "trick": "EN-DEAVOR → 'in-devour': put your whole self into the work.",
+    "examples": [
+      "I hope that you will take good care of yourself in your endeavors.",
+      "We wish you luck in your future endeavors."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "in someone's endeavors / endeavor to do something",
+      "partners": [
+        "future endeavors",
+        "business endeavors",
+        "all your endeavors"
+      ]
+    }
+  },
+  {
     "word": "endocrine",
     "memory": "hormone glands",
     "meaning": "Relating to the glands that make hormones and release them into the blood",
@@ -1240,6 +1380,26 @@
     }
   },
   {
+    "word": "enraged",
+    "memory": "very angry, furious",
+    "meaning": "Extremely angry",
+    "hindi": "क्रोधित, आगबबूला",
+    "trick": "EN + RAGE = put into a rage.",
+    "examples": [
+      "I haven't been this enraged in a long time.",
+      "He was enraged by the unfair decision."
+    ],
+    "usage": {
+      "pos": "adjective / verb (past)",
+      "pattern": "be enraged by/at something",
+      "partners": [
+        "enraged by",
+        "enraged crowd",
+        "became enraged"
+      ]
+    }
+  },
+  {
     "word": "ensconced",
     "memory": "settled comfortably",
     "meaning": "Settled in a safe, comfortable place",
@@ -1316,6 +1476,46 @@
         "business entanglement",
         "legal entanglement",
         "romantic entanglement"
+      ]
+    }
+  },
+  {
+    "word": "entertaining",
+    "memory": "fun, amusing",
+    "meaning": "Enjoyable and amusing to watch or do",
+    "hindi": "मनोरंजक, मज़ेदार",
+    "trick": "ENTER-TAIN → a show that holds (tain) you in.",
+    "examples": [
+      "What do you find so entertaining?",
+      "The movie was very entertaining."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "find something entertaining / an entertaining + noun",
+      "partners": [
+        "highly entertaining",
+        "entertaining show",
+        "find it entertaining"
+      ]
+    }
+  },
+  {
+    "word": "enthralling",
+    "memory": "fascinating, gripping",
+    "meaning": "So interesting that it holds all your attention",
+    "hindi": "मंत्रमुग्ध करने वाला, बेहद रोचक",
+    "trick": "EN-THRALL → makes you its THRALL (slave)",
+    "examples": [
+      "How enthralling is it to gaze at someone shattered by misfortune?",
+      "The movie was enthralling from start to end."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an enthralling + noun / be enthralling",
+      "partners": [
+        "enthralling story",
+        "enthralling game",
+        "truly enthralling"
       ]
     }
   },
@@ -1496,6 +1696,26 @@
         "eons ago",
         "for eons",
         "feels like eons"
+      ]
+    }
+  },
+  {
+    "word": "ephemeral",
+    "memory": "short-lived, brief",
+    "meaning": "Lasting for a very short time",
+    "hindi": "क्षणिक, अल्पकालिक",
+    "trick": "E-FEM-eral ≈ \"a femto moment\" → tiny time",
+    "examples": [
+      "Both growing old and dying are part of the beauty of being an ephemeral creature like a human.",
+      "Fame on social media is often ephemeral."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be ephemeral / an ephemeral + noun",
+      "partners": [
+        "ephemeral beauty",
+        "ephemeral fame",
+        "ephemeral pleasure"
       ]
     }
   },
@@ -1936,6 +2156,46 @@
         "feel euphoric",
         "euphoric mood",
         "euphoric crowd"
+      ]
+    }
+  },
+  {
+    "word": "evade",
+    "memory": "escape, avoid",
+    "meaning": "To escape or avoid someone or something, especially cleverly",
+    "hindi": "बचना, टालना",
+    "trick": "E (out) + VADE (go) — go out of the way.",
+    "examples": [
+      "It's child's play for me to evade a linear attack like this!",
+      "He tried to evade the question."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "evade someone/something (capture, a question, tax)",
+      "partners": [
+        "evade capture",
+        "evade the question",
+        "evade taxes"
+      ]
+    }
+  },
+  {
+    "word": "evading",
+    "memory": "escaping, dodging",
+    "meaning": "Escaping or avoiding something, especially cleverly",
+    "hindi": "बचना, चकमा देना",
+    "trick": "E (out) + VADE (go) — keep going out of the way.",
+    "examples": [
+      "He's evading all of my attacks!",
+      "He keeps evading my questions."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "evade someone/something",
+      "partners": [
+        "evading attacks",
+        "evading the question",
+        "evading arrest"
       ]
     }
   },
@@ -2680,6 +2940,26 @@
     }
   },
   {
+    "word": "exterminate",
+    "memory": "kill off completely",
+    "meaning": "To kill all of a group of people, animals or insects",
+    "hindi": "पूरी तरह नष्ट करना, जड़ से मिटाना",
+    "trick": "EX-TERMINATE → TERMINATE them all (Terminator!)",
+    "examples": [
+      "I'll exterminate those repulsive demons!",
+      "We called someone to exterminate the rats."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "exterminate something",
+      "partners": [
+        "exterminate pests",
+        "exterminate rats",
+        "exterminate the enemy"
+      ]
+    }
+  },
+  {
     "word": "exterminator",
     "memory": "pest killer",
     "meaning": "A person whose job is killing insects, rats and other pests",
@@ -2696,6 +2976,46 @@
         "pest exterminator",
         "call an exterminator",
         "the exterminator came"
+      ]
+    }
+  },
+  {
+    "word": "extinguish",
+    "memory": "put out, end",
+    "meaning": "To put out a fire or light; also to end something (like hope or passion)",
+    "hindi": "बुझाना; समाप्त करना",
+    "trick": "EX-TINGUISH → a fire EXtinguisher puts fire out",
+    "examples": [
+      "But that's not enough to extinguish my passion!",
+      "Firefighters took an hour to extinguish the fire."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "extinguish something",
+      "partners": [
+        "extinguish a fire",
+        "extinguish hope",
+        "extinguish a candle"
+      ]
+    }
+  },
+  {
+    "word": "extracted",
+    "memory": "taken out",
+    "meaning": "Taken out or removed from something, often with effort",
+    "hindi": "निकाला गया",
+    "trick": "EX (out) + TRACT (pull) → pulled out.",
+    "examples": [
+      "Probably with something extracted from wisteria!",
+      "The dentist extracted my bad tooth."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "extract something from something",
+      "partners": [
+        "extracted from",
+        "tooth extracted",
+        "oil extracted"
       ]
     }
   },
@@ -2880,6 +3200,26 @@
     }
   },
   {
+    "word": "eyeball",
+    "memory": "the round eye",
+    "meaning": "The round ball of the eye; (informal, verb) to look at someone or something closely",
+    "hindi": "आँख का गोला, नेत्रगोलक",
+    "trick": "Eye + ball = the ball of the eye.",
+    "examples": [
+      "...over one measly eyeball.",
+      "The doctor checked my eyeball for scratches."
+    ],
+    "usage": {
+      "pos": "noun (also verb, informal)",
+      "pattern": "an eyeball / eyeball someone (informal)",
+      "partners": [
+        "eyeball to eyeball",
+        "up to my eyeballs",
+        "eyeball someone"
+      ]
+    }
+  },
+  {
     "word": "eyeballing",
     "memory": "staring at",
     "meaning": "Looking hard at someone, often to judge or challenge them (informal)",
@@ -2896,6 +3236,46 @@
         "eyeballing me",
         "eyeballing each other",
         "eyeballing the crowd"
+      ]
+    }
+  },
+  {
+    "word": "eyeballs",
+    "memory": "eyes",
+    "meaning": "The round balls that form the eyes",
+    "hindi": "आँख की पुतलियाँ, आँखें",
+    "trick": "EYE + BALLS = balls of the eye.",
+    "examples": [
+      "I could gouge out your eyeballs.",
+      "My eyeballs hurt after staring at the screen."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "up to your eyeballs in something",
+      "partners": [
+        "up to my eyeballs",
+        "roll your eyeballs",
+        "dry eyeballs"
+      ]
+    }
+  },
+  {
+    "word": "eyesore",
+    "memory": "ugly sight",
+    "meaning": "Something very ugly to look at, especially a building or place",
+    "hindi": "आंखों में खटकने वाली चीज़, बदसूरत चीज़",
+    "trick": "EYE + SORE — so ugly it makes your eyes sore.",
+    "examples": [
+      "And an eyesore to boot.",
+      "That pile of rubbish is an eyesore."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "be an eyesore / a real eyesore",
+      "partners": [
+        "a real eyesore",
+        "an ugly eyesore",
+        "become an eyesore"
       ]
     }
   },

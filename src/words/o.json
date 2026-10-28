@@ -20,6 +20,26 @@
     }
   },
   {
+    "word": "obligated",
+    "memory": "bound by duty",
+    "meaning": "Having to do something because of a duty, rule or promise",
+    "hindi": "बाध्य, कर्तव्यबद्ध",
+    "trick": "OBLIGATE ≈ obligation → you OWE it",
+    "examples": [
+      "...are obligated to use those gifts for the world and other people.",
+      "You are not obligated to come if you're busy."
+    ],
+    "usage": {
+      "pos": "adjective (past participle)",
+      "pattern": "be obligated to do something",
+      "partners": [
+        "feel obligated",
+        "legally obligated",
+        "obligated to pay"
+      ]
+    }
+  },
+  {
     "word": "obligation",
     "memory": "duty",
     "meaning": "Something you must do because of a law, promise or moral duty",
@@ -56,6 +76,26 @@
         "obligatory questions",
         "obligatory for all",
         "the obligatory photo"
+      ]
+    }
+  },
+  {
+    "word": "oblige",
+    "memory": "do a favour; force",
+    "meaning": "To help someone by doing what they ask; also to force someone by law or duty",
+    "hindi": "मदद करना, अनुरोध पूरा करना; बाध्य करना",
+    "trick": "OBLIGE → obligation → you must help.",
+    "examples": [
+      "And I'll be happy to oblige you!",
+      "I asked for a lift, and he kindly obliged."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "oblige someone / be obliged to do something",
+      "partners": [
+        "happy to oblige",
+        "feel obliged to",
+        "be obliged to"
       ]
     }
   },
@@ -116,6 +156,26 @@
         "obliterates all traces",
         "obliterates the memory",
         "completely obliterates"
+      ]
+    }
+  },
+  {
+    "word": "obliterating",
+    "memory": "destroying completely",
+    "meaning": "Destroying something completely so that nothing is left",
+    "hindi": "पूरी तरह नष्ट करना, मिटा देना",
+    "trick": "OB + LITERA (letters): wiping out every letter.",
+    "examples": [
+      "Obliterating this village will be a devastating blow to you Demon Slayers.",
+      "The storm was obliterating everything in its path."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "obliterate something",
+      "partners": [
+        "obliterating the city",
+        "obliterating the evidence",
+        "completely obliterating"
       ]
     }
   },
@@ -259,6 +319,26 @@
     }
   },
   {
+    "word": "obsidian",
+    "memory": "black volcanic glass",
+    "meaning": "A hard, shiny black glass formed when lava cools quickly",
+    "hindi": "ज्वालामुखीय काला काँच",
+    "trick": "OBSIDIAN ≈ 'obsessed with black' → the blackest shiny stone.",
+    "examples": [
+      "Even though normally, it's pitch-black like obsidian...",
+      "The museum had a knife made of obsidian."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "made of obsidian / black as obsidian",
+      "partners": [
+        "obsidian stone",
+        "black as obsidian",
+        "an obsidian blade"
+      ]
+    }
+  },
+  {
     "word": "obstinate",
     "memory": "stubborn",
     "meaning": "Refusing to change your mind or behaviour, even when you should",
@@ -275,6 +355,46 @@
         "obstinate child",
         "obstinate refusal",
         "stubborn and obstinate"
+      ]
+    }
+  },
+  {
+    "word": "obstruct",
+    "memory": "block, get in the way",
+    "meaning": "To block a way or path, or stop something from happening or progressing",
+    "hindi": "बाधा डालना, रोकना",
+    "trick": "OB (against) + STRUCT (build): build a wall in the way.",
+    "examples": [
+      "That's what it means to obstruct a Hashira in his duty.",
+      "A fallen tree obstructed the road."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "obstruct something/someone",
+      "partners": [
+        "obstruct the view",
+        "obstruct justice",
+        "obstruct traffic"
+      ]
+    }
+  },
+  {
+    "word": "obtuse",
+    "memory": "slow-witted, dense",
+    "meaning": "Slow to understand things; also (of an angle) more than 90 degrees",
+    "hindi": "मंदबुद्धि, नासमझ; अधिक कोण",
+    "trick": "Obtuse angle is wide and blunt — an obtuse person is blunt-minded too.",
+    "examples": [
+      "My parents were hopelessly obtuse.",
+      "Don't be obtuse — you know what I mean."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be obtuse / an obtuse + noun",
+      "partners": [
+        "deliberately obtuse",
+        "obtuse angle",
+        "rather obtuse"
       ]
     }
   },
@@ -319,6 +439,26 @@
     }
   },
   {
+    "word": "octopus",
+    "memory": "eight-armed sea animal",
+    "meaning": "A soft sea animal with eight long arms",
+    "hindi": "अष्टभुज (आठ भुजाओं वाला समुद्री जीव)",
+    "trick": "OCTO = eight → eight arms.",
+    "examples": [
+      "How do you like how springy this octopus flesh is?",
+      "We saw an octopus at the aquarium."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an octopus / octopus + noun",
+      "partners": [
+        "giant octopus",
+        "grilled octopus",
+        "octopus arms"
+      ]
+    }
+  },
+  {
     "word": "ode",
     "memory": "tribute poem",
     "meaning": "Something made to praise and honour someone or something, especially a poem",
@@ -355,6 +495,26 @@
         "odious task",
         "odious man",
         "odious comparison"
+      ]
+    }
+  },
+  {
+    "word": "odor",
+    "memory": "smell (often bad)",
+    "meaning": "A smell, especially an unpleasant one (US spelling of 'odour')",
+    "hindi": "गंध, बदबू",
+    "trick": "ODOR — 'O, DOOR!' — open the door, there's a bad smell.",
+    "examples": [
+      "What an irritating odor! Though it was just for a second!",
+      "There's a strange odor in the fridge."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a + adjective + odor / body odor",
+      "partners": [
+        "bad odor",
+        "body odor",
+        "strong odor"
       ]
     }
   },
@@ -399,6 +559,26 @@
     }
   },
   {
+    "word": "offender",
+    "memory": "criminal, wrongdoer",
+    "meaning": "A person who has broken the law or done something wrong",
+    "hindi": "अपराधी, दोषी",
+    "trick": "Offend + er → the one who commits the offence.",
+    "examples": [
+      "A repeat offender at the tender age of 11...",
+      "The police caught the offender within an hour."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a (repeat/first-time) offender",
+      "partners": [
+        "repeat offender",
+        "first-time offender",
+        "young offender"
+      ]
+    }
+  },
+  {
     "word": "offing",
     "memory": "distant sea",
     "meaning": "The part of the sea far away but still visible from the shore; also (used after in the) likely to happen soon",
@@ -414,6 +594,26 @@
       "partners": [
         "in the offing",
         "ships in the offing"
+      ]
+    }
+  },
+  {
+    "word": "ogre",
+    "memory": "monster",
+    "meaning": "A big, ugly, cruel giant in stories; also a frightening or cruel person",
+    "hindi": "दैत्य, राक्षस",
+    "trick": "OGRE — Shrek is an OGRE.",
+    "examples": [
+      "Hey, come on! Why are you making that ogre face at me?",
+      "Our old math teacher was a real ogre."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a real ogre / an ogre of a + person",
+      "partners": [
+        "ogre face",
+        "a real ogre",
+        "scary ogre"
       ]
     }
   },
@@ -473,6 +673,26 @@
         "bad omen",
         "good omen",
         "omen of doom"
+      ]
+    }
+  },
+  {
+    "word": "ominous",
+    "memory": "threatening, warning of bad",
+    "meaning": "Making you feel something bad is going to happen",
+    "hindi": "अशुभ, डरावना",
+    "trick": "OMINOUS — like a bad OMEN.",
+    "examples": [
+      "That twisted, ominous scent I was picking up from the mountain...",
+      "Dark, ominous clouds filled the sky."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an ominous + sign/silence/cloud",
+      "partners": [
+        "ominous sign",
+        "ominous silence",
+        "ominous clouds"
       ]
     }
   },
@@ -855,6 +1075,26 @@
     }
   },
   {
+    "word": "ore",
+    "memory": "metal-containing rock",
+    "meaning": "Rock or earth from which metal can be taken",
+    "hindi": "अयस्क, कच्ची धातु",
+    "trick": "ORE → 'iron ore' — the raw rock of metal.",
+    "examples": [
+      "Today, we will let you choose the ore for your swords.",
+      "The miners dug iron ore from the hills."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "iron/gold ore / mine ore",
+      "partners": [
+        "iron ore",
+        "gold ore",
+        "mine ore"
+      ]
+    }
+  },
+  {
     "word": "organ",
     "memory": "body part",
     "meaning": "A part of the body that does a special job, such as the heart or a wing; also a large musical instrument",
@@ -871,6 +1111,26 @@
         "vital organ",
         "organ donor",
         "internal organs"
+      ]
+    }
+  },
+  {
+    "word": "organs",
+    "memory": "body parts",
+    "meaning": "Parts of the body that have a special job, like the heart or lungs",
+    "hindi": "अंग",
+    "trick": "ORGANS — the body's ORGANised workers.",
+    "examples": [
+      "The bones are piercing my inner organs!",
+      "The heart and lungs are vital organs."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "vital/internal organs / donate organs",
+      "partners": [
+        "internal organs",
+        "vital organs",
+        "organ donation"
       ]
     }
   },
@@ -1531,6 +1791,26 @@
         "overlooks the sea",
         "overlooks the garden",
         "overlooks the river"
+      ]
+    }
+  },
+  {
+    "word": "overpowering",
+    "memory": "very strong, overwhelming",
+    "meaning": "So strong that it is hard to bear or resist",
+    "hindi": "बहुत तेज़, असहनीय",
+    "trick": "OVER + POWER: too much power for you.",
+    "examples": [
+      "That hot spring smell is so overpowering.",
+      "The smell of paint in the room was overpowering."
+    ],
+    "usage": {
+      "pos": "adjective (also verb -ing)",
+      "pattern": "be overpowering / an overpowering + smell/feeling",
+      "partners": [
+        "overpowering smell",
+        "overpowering urge",
+        "overpowering heat"
       ]
     }
   },

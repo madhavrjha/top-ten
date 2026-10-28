@@ -117,10 +117,11 @@ brought back on request. When the stages arrived, every word was reset to New.
   🟢 Common ≥ 3.5, 🟡 Medium ≥ 2.5, 🔴 Rare below. Shown as a dot on Browse rows and a badge next to the
   meaning (`RarityBadge`). Known quirk: names inflate some scores (e.g. "bob").
 - **Practice sets / filters** (`src/sets.js`, `SetPicker.jsx`): a collapsible filter panel (summary line + word
-  count + Clear; open by default on Home, closed in Browse) with three groups — Stage, Letter, How common.
+  count + Clear; open by default on Home, closed in Browse) with four groups — Stage, Letter, How common, Source (shows, e.g. 🎬 Demon Slayer).
   **Multi-select**: any number of chips per group (none = Any), e.g. Recognise + Recall · A, B · Common.
   Each chip's count = words it covers with the other groups' choices. Set id: groups joined by "-", values by
-  ".", fixed order stage-letter-rarity: `all` | `recall` | `a.b` | `recognise.recall-a.b-common` (used in URLs and
+  ".", fixed order stage-letter-rarity-source: `all` | `recall` | `a.b` | `recognise.recall-a.b-common` |
+  `rare-demonslayer` (source id = show slug without "-") (used in URLs and
   saved progress); the last choice is saved in `vocab.practiceSet`. The user likes the dark theme — keep
   new UI on the colour tokens so dark mode stays good.
 - **Home**: filter panel → **Pick the meaning**, **Spell the word** or
@@ -141,6 +142,13 @@ brought back on request. When the stages arrived, every word was reset to New.
   `#/spell/<set>`, `#/pick/<set>`, `#/sets`, `#/set/<n>`, `#/today/review` (<set> = a set id, e.g. all, recall-b, recognise.recall-a.b-common). Browser Back/Forward move between screens; unknown routes redirect home. Set chips
   in Browse use `replace`. (A Back-button "are you sure?" guard was tried and removed at the user's
   request — don't re-add it.)
+- **Shows** (2026-10-28, `src/shows.js`, `src/shows/<slug>.json`, `Show.jsx`, `#/show/<slug>`): word lists from
+  shows the user watches. `{ title, icon, words: [{ word, line }] }` — `word` must exist in `src/words`, `line` = the
+  subtitle it came from (shown under each row). Words from a show get `sources` (in `words.js`): a 🎬 on Browse
+  rows and a "🎬 Demon Slayer" pill by Examples (+ the subtitle line if it isn't already an example). Easy / Medium / Tough tabs = 🟢 / 🟡 / 🔴 rarity; words in the order
+  they come up. A card per show on Home. **Demon Slayer**: 1,067 words OCR'd from screenshots in
+  `~/Downloads/Demon Slayer` (816 were new entries, example 1 = the subtitle line); names/series terms
+  (Tanjiro, Hashira, nichirin…) and phone-UI text were skipped.
 - **Pronunciation**: browser text-to-speech (`src/speech.js`); novelty macOS voices filtered out;
   the default is always an en-US voice (user's request; best-sounding en-US first); voice choice saved in localStorage. In Spell it's only offered after answering.
 
@@ -160,8 +168,9 @@ brought back on request. When the stages arrived, every word was reset to New.
 - `scripts/readera.py` — lists new words (with book sentences) from a ReadEra backup.
 - `src/App.jsx` — routes → screens, practice set from the URL/saved id, stage state, clear data, toast.
 - `src/router.js` — `useRoute`, `navigate(to, {replace})`, `href`.
+- `src/shows.js` + `src/shows/*.json` — show word lists (Easy/Medium/Tough by rarity).
 - `src/components/` — `Home`, `Today`, `SetStudy`, `SetList`, `Walk` (Mastered review cards), `Quiz` (Spell the word / Pick the meaning),
-  `Browse`, `WordDetails`, `SetPicker`, `StagePicker`, `RarityBadge`, `SpeakButton`, `VoicePicker`.
+  `Browse`, `Show`, `WordDetails`, `SetPicker`, `StagePicker`, `RarityBadge`, `SpeakButton`, `VoicePicker`.
 - `vite.config.js` — `base: '/top-ten/'` for builds.
 
 ## Deploy

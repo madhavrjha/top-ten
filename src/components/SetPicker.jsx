@@ -1,9 +1,10 @@
 import { useState } from 'react';
 import { STAGES } from '../stages.js';
 import { RARITIES } from '../rarity.js';
+import { SHOW_LIST } from '../shows.js';
 import { makeSetId, filterWords, setLabel, isFiltered, EMPTY_FILTER } from '../sets.js';
 
-// Filter panel: pick any number of stages, letters and how-common levels
+// Filter panel: pick any number of stages, letters, how-common levels and sources
 // (none picked in a group = all). Each chip's count is how many words it
 // would add with the other groups' choices. Collapsible to a one-line summary.
 export default function SetPicker({ words, stageOf, letters, filter, onChange, defaultOpen = true }) {
@@ -22,6 +23,7 @@ export default function SetPicker({ words, stageOf, letters, filter, onChange, d
     { id: 'stage', title: 'Stage', items: STAGES.map(s => ({ id: s.id, label: s.label, icon: s.icon, hint: s.hint })) },
     { id: 'letter', title: 'Letter', items: letters.map(l => ({ id: l, label: l.toUpperCase() })), compact: true },
     { id: 'rarity', title: 'How common', items: RARITIES.map(r => ({ id: r.id, label: r.label, icon: r.icon, hint: r.hint })) },
+    { id: 'source', title: 'Source', items: SHOW_LIST.map(s => ({ id: s.id, label: s.title, icon: s.icon, hint: `Words from ${s.title}` })) },
   ];
 
   return (

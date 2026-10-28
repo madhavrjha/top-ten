@@ -1,5 +1,45 @@
 [
   {
+    "word": "racked",
+    "memory": "strained hard",
+    "meaning": "Strained hard (racked your brains = thought very hard); also caused great pain",
+    "hindi": "ज़ोर डाला (दिमाग़ पर); पीड़ित किया",
+    "trick": "RACK → a torture rack stretches you, like stretching your brain.",
+    "examples": [
+      "Because they racked their brains!",
+      "I racked my brains but couldn't remember her name."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "rack your brains / be racked with/by something",
+      "partners": [
+        "racked my brains",
+        "racked with pain",
+        "racked by guilt"
+      ]
+    }
+  },
+  {
+    "word": "racket",
+    "memory": "loud noise",
+    "meaning": "A loud, annoying noise (informal); also a bat for tennis; also a dishonest scheme",
+    "hindi": "शोर-शराबा, हल्ला (बोलचाल); रैकेट",
+    "trick": "RACKET → hitting a tennis RACKET makes a racket (noise).",
+    "examples": [
+      "What an infernal racket, you piece of trash!",
+      "The neighbours made a racket all night."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "make a racket / what a racket",
+      "partners": [
+        "make a racket",
+        "terrible racket",
+        "tennis racket"
+      ]
+    }
+  },
+  {
     "word": "racking",
     "memory": "putting on a rack",
     "meaning": "Putting things such as weights onto a rack, or loading them; also causing great pain (as in a painful, shaking cough)",
@@ -198,6 +238,26 @@
     }
   },
   {
+    "word": "rails",
+    "memory": "tracks for trains",
+    "meaning": "The metal bars a train runs on; \"go off the rails\" = go wrong or out of control",
+    "hindi": "पटरियाँ, रेल की पटरी",
+    "trick": "RAILS → RAILway runs on rails",
+    "examples": [
+      "When the train went off the rails.",
+      "The children were told not to walk on the rails."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "go off the rails / on the rails",
+      "partners": [
+        "off the rails",
+        "train rails",
+        "metal rails"
+      ]
+    }
+  },
+  {
     "word": "rake",
     "memory": "garden tool",
     "meaning": "A garden tool with a long handle and teeth for gathering leaves; also (thin as a ...) very thin",
@@ -237,6 +297,26 @@
     }
   },
   {
+    "word": "rallying",
+    "memory": "pulling together, gathering strength",
+    "meaning": "Gathering energy or courage, or coming together to support something",
+    "hindi": "हिम्मत जुटाना, एकजुट होना",
+    "trick": "Rally → a rally where everyone gathers and cheers.",
+    "examples": [
+      "Look how these children of such a tender age are rallying themselves.",
+      "The fans are rallying behind their team."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "rally (yourself) / rally behind/around someone",
+      "partners": [
+        "rallying behind",
+        "rallying cry",
+        "rallying support"
+      ]
+    }
+  },
+  {
     "word": "rambled",
     "memory": "talked on and on",
     "meaning": "Talked for a long time in a confused way, without keeping to the point",
@@ -256,6 +336,26 @@
     }
   },
   {
+    "word": "rambling",
+    "memory": "long, wandering",
+    "meaning": "Long and confused, wandering from one topic to another; also walking for pleasure",
+    "hindi": "लंबा-चौड़ा, बेतुका",
+    "trick": "RAMBLE ≈ RAM roaming around → talk that roams everywhere.",
+    "examples": [
+      "Please don't start some long, rambling story from that far back in time.",
+      "Grandpa told a rambling story about his school days."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a rambling + story/speech/letter",
+      "partners": [
+        "a rambling story",
+        "a rambling speech",
+        "rambling on"
+      ]
+    }
+  },
+  {
     "word": "ramming",
     "memory": "forcing, pushing hard",
     "meaning": "Pushing or hitting something with great force",
@@ -271,6 +371,26 @@
       "partners": [
         "ramming into",
         "ramming home"
+      ]
+    }
+  },
+  {
+    "word": "rampage",
+    "memory": "wild violent spree",
+    "meaning": "A period of wild, violent and destructive behaviour",
+    "hindi": "उत्पात, तबाही मचाना",
+    "trick": "RAM + RAGE → ramming everything in a rage.",
+    "examples": [
+      "The demon is on a rampage.",
+      "The angry elephant went on a rampage through the village."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "go on a rampage / be on the rampage",
+      "partners": [
+        "on a rampage",
+        "go on a rampage",
+        "killing rampage"
       ]
     }
   },
@@ -562,6 +682,26 @@
         "raspy voice",
         "raspy throat",
         "raspy cough"
+      ]
+    }
+  },
+  {
+    "word": "rat",
+    "memory": "large rodent",
+    "meaning": "A large rodent like a big mouse; also an informal insult for a nasty or disloyal person",
+    "hindi": "चूहा; धोखेबाज़ (बोलचाल)",
+    "trick": "Rat → 'Raat' mein bhaagta chuha.",
+    "examples": [
+      "You're like a rat on the brink of death.",
+      "We saw a rat running near the drain."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "like a rat / a rat in a trap",
+      "partners": [
+        "drowned rat",
+        "rat in a trap",
+        "lab rat"
       ]
     }
   },
@@ -858,6 +998,26 @@
     }
   },
   {
+    "word": "ravings",
+    "memory": "wild, crazy talk",
+    "meaning": "Wild, crazy talk that makes no sense",
+    "hindi": "बकवास, प्रलाप",
+    "trick": "RAVE → ravings: raving like a madman.",
+    "examples": [
+      "Spare us your absurd ravings.",
+      "Nobody listened to the old man's ravings."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "the ravings of someone",
+      "partners": [
+        "mad ravings",
+        "the ravings of a lunatic",
+        "absurd ravings"
+      ]
+    }
+  },
+  {
     "word": "ravioli",
     "memory": "filled pasta",
     "meaning": "Small square pasta pockets filled with meat, cheese or vegetables (Italian food)",
@@ -932,6 +1092,26 @@
         "readily agree",
         "readily available",
         "readily accept"
+      ]
+    }
+  },
+  {
+    "word": "realm",
+    "memory": "world, area, domain",
+    "meaning": "A world or area of activity or thought; also a kingdom",
+    "hindi": "लोक, क्षेत्र; राज्य",
+    "trick": "REALM ≈ \"real home\" of something → its world",
+    "examples": [
+      "The realm of the subconscious exists just outside the dream.",
+      "Magic belongs to the realm of fairy tales."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the realm of something / within the realm of possibility",
+      "partners": [
+        "the realm of dreams",
+        "within the realm of possibility",
+        "the spirit realm"
       ]
     }
   },
@@ -1395,6 +1575,26 @@
     }
   },
   {
+    "word": "recoiled",
+    "memory": "pulled back in shock",
+    "meaning": "Moved back suddenly in fear, shock or disgust",
+    "hindi": "पीछे हट गए, सिहर उठे",
+    "trick": "A spring RE-COILS back when you press it.",
+    "examples": [
+      "The Kakushi all recoiled at the sight.",
+      "She recoiled when she saw the snake."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "recoil at/from something / recoil in horror",
+      "partners": [
+        "recoiled in horror",
+        "recoiled at the sight",
+        "recoiled from"
+      ]
+    }
+  },
+  {
     "word": "recoiling",
     "memory": "flinching, pulling back",
     "meaning": "Moving the body back suddenly in fear, shock or disgust",
@@ -1475,6 +1675,26 @@
     }
   },
   {
+    "word": "reconvene",
+    "memory": "meet again",
+    "meaning": "To come together again after a break",
+    "hindi": "फिर से इकट्ठा होना, दोबारा मिलना",
+    "trick": "Re (again) + convene (meet) → meet again.",
+    "examples": [
+      "We have to reconvene with as many other Corps members as we can...",
+      "Let's take a break and reconvene after lunch."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "reconvene (with someone) / reconvene after/at something",
+      "partners": [
+        "reconvene after lunch",
+        "reconvene tomorrow",
+        "reconvene with the team"
+      ]
+    }
+  },
+  {
     "word": "records",
     "memory": "results, history",
     "meaning": "Facts about someone's past results or performance; also written accounts",
@@ -1491,6 +1711,26 @@
         "academic records",
         "medical records",
         "keep records"
+      ]
+    }
+  },
+  {
+    "word": "recovering",
+    "memory": "getting better",
+    "meaning": "Getting well again after an illness or injury; also getting back something lost",
+    "hindi": "ठीक हो रहा, स्वस्थ हो रहा",
+    "trick": "RE-COVER → covering yourself again with health.",
+    "examples": [
+      "You're still recovering, so show some restraint!",
+      "She is recovering from a bad cold."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "be recovering from something",
+      "partners": [
+        "recovering from illness",
+        "slowly recovering",
+        "recovering well"
       ]
     }
   },
@@ -1674,6 +1914,26 @@
     }
   },
   {
+    "word": "reel",
+    "memory": "step back in shock; also stagger",
+    "meaning": "To be shocked or step back in surprise or disgust; also to stagger as if about to fall; also a spool for thread or film",
+    "hindi": "सदमे में पीछे हटना; लड़खड़ाना; चरखी",
+    "trick": "Reel back like a fishing line being pulled back.",
+    "examples": [
+      "Even at a tender age, grown-ups would reel at the sight of your beautiful face.",
+      "The punch made him reel backwards."
+    ],
+    "usage": {
+      "pos": "verb (also noun)",
+      "pattern": "reel at/from something / reel back",
+      "partners": [
+        "reel from the shock",
+        "reel back",
+        "still reeling"
+      ]
+    }
+  },
+  {
     "word": "reeling",
     "memory": "spinning, swaying",
     "meaning": "Seeming to spin or sway; also feeling shocked or confused",
@@ -1774,6 +2034,26 @@
     }
   },
   {
+    "word": "refuting",
+    "memory": "proving wrong, denying",
+    "meaning": "Saying or proving that a statement or claim is wrong",
+    "hindi": "खंडन करते हुए, गलत साबित करते हुए",
+    "trick": "RE-FUTE ≈ \"refuse it\" → refusing to accept what was said",
+    "examples": [
+      "Are you refuting what I just said?",
+      "He is refuting the rumours about his job."
+    ],
+    "usage": {
+      "pos": "verb (-ing form)",
+      "pattern": "refute something / refute a claim",
+      "partners": [
+        "refuting a claim",
+        "refuting the charges",
+        "refuting an argument"
+      ]
+    }
+  },
+  {
     "word": "regalia",
     "memory": "ceremonial dress",
     "meaning": "Special clothes and symbols worn on official or ceremonial occasions",
@@ -1830,6 +2110,26 @@
         "training regimen",
         "strict regimen",
         "daily regimen"
+      ]
+    }
+  },
+  {
+    "word": "regrets",
+    "memory": "sorry feelings",
+    "meaning": "Feelings of sadness about something you did or didn't do",
+    "hindi": "पछतावे, अफ़सोस",
+    "trick": "RE-GRET → 're-greet' your past mistakes and feel sorry.",
+    "examples": [
+      "Now I can carve you up with no regrets.",
+      "I have no regrets about moving to the city."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "have (no) regrets about something",
+      "partners": [
+        "no regrets",
+        "deep regrets",
+        "have regrets about"
       ]
     }
   },
@@ -1894,6 +2194,26 @@
     }
   },
   {
+    "word": "rehabilitation",
+    "memory": "recovery training",
+    "meaning": "Helping someone get healthy or back to normal life after illness, injury or prison",
+    "hindi": "पुनर्वास, स्वास्थ्य-लाभ",
+    "trick": "RE + HABIT → getting back into normal habits.",
+    "examples": [
+      "Then, let's have you start your Rehabilitation Training, shall we?",
+      "After the surgery, he needed months of rehabilitation."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "rehabilitation of someone / in rehabilitation",
+      "partners": [
+        "rehabilitation centre",
+        "physical rehabilitation",
+        "rehabilitation programme"
+      ]
+    }
+  },
+  {
     "word": "rehash",
     "memory": "go over again",
     "meaning": "Go over or discuss something old again; also reuse old ideas with little change",
@@ -1954,6 +2274,26 @@
     }
   },
   {
+    "word": "rejecting",
+    "memory": "refusing",
+    "meaning": "Refusing to accept, believe or agree to something",
+    "hindi": "अस्वीकार करना, ठुकराना",
+    "trick": "RE-JECT → throw it back (ject = throw).",
+    "examples": [
+      "Rejecting the values that were instilled in you during your childhood...",
+      "He kept rejecting every idea we gave him."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "rejecting something/someone",
+      "partners": [
+        "rejecting the offer",
+        "rejecting the idea",
+        "rejecting the values"
+      ]
+    }
+  },
+  {
     "word": "rejoice",
     "memory": "celebrate, be glad",
     "meaning": "Feel or show great happiness",
@@ -2010,6 +2350,26 @@
         "feel rejuvenated",
         "rejuvenated by",
         "completely rejuvenated"
+      ]
+    }
+  },
+  {
+    "word": "relay",
+    "memory": "pass on (a message)",
+    "meaning": "To pass a message or information on to someone; also a race in teams",
+    "hindi": "संदेश पहुँचाना, बताना; रिले दौड़",
+    "trick": "RELAY race → pass the baton (message) on.",
+    "examples": [
+      "Also, there's something I'd like to relay to you, my children.",
+      "Please relay this message to your manager."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "relay something to someone",
+      "partners": [
+        "relay a message",
+        "relay information",
+        "relay race"
       ]
     }
   },
@@ -2294,6 +2654,46 @@
     }
   },
   {
+    "word": "rendered",
+    "memory": "made, caused to be",
+    "meaning": "Caused someone or something to be in a certain state; also gave or provided (a service)",
+    "hindi": "बना दिया, कर दिया; प्रदान किया",
+    "trick": "RENDERED = turned into → the poison 'rendered' him still.",
+    "examples": [
+      "Any minute now, you'll be rendered immobile by that poison.",
+      "The news rendered her speechless."
+    ],
+    "usage": {
+      "pos": "verb (past participle)",
+      "pattern": "render someone/something + adjective / be rendered + adjective",
+      "partners": [
+        "rendered speechless",
+        "rendered useless",
+        "services rendered"
+      ]
+    }
+  },
+  {
+    "word": "rendering",
+    "memory": "making, causing to become",
+    "meaning": "Causing someone or something to be in a certain state; also a performance or drawing of something",
+    "hindi": "बना देना, कर देना",
+    "trick": "RENDER — RENDERing makes something BECOME a new state.",
+    "examples": [
+      "...rendering that person unable to lie or keep secrets.",
+      "The storm cut the power, rendering the lift useless."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "render someone/something + adjective (useless, unable, speechless)",
+      "partners": [
+        "rendering useless",
+        "rendering speechless",
+        "rendering unable"
+      ]
+    }
+  },
+  {
     "word": "renegade",
     "memory": "rebel, rule-breaker",
     "meaning": "Acting against the rules or traditions of one's group; also a person who leaves a group",
@@ -2330,6 +2730,26 @@
         "roads repaved",
         "newly repaved",
         "repaved street"
+      ]
+    }
+  },
+  {
+    "word": "repels",
+    "memory": "pushes away, keeps out",
+    "meaning": "Keeps something out or pushes it away; also, causes disgust",
+    "hindi": "दूर रखता है, रोकता है",
+    "trick": "re (back) + pel (push) = pushes back.",
+    "examples": [
+      "Yet it repels moisture and won't burn easily.",
+      "This spray repels mosquitoes."
+    ],
+    "usage": {
+      "pos": "verb (3rd person)",
+      "pattern": "something repels something",
+      "partners": [
+        "repels water",
+        "repels insects",
+        "repels moisture"
       ]
     }
   },
@@ -2390,6 +2810,26 @@
         "serious repercussions",
         "fear of repercussion",
         "without repercussion"
+      ]
+    }
+  },
+  {
+    "word": "repercussions",
+    "memory": "bad after-effects",
+    "meaning": "Effects, usually bad, that come after an action or event",
+    "hindi": "दुष्परिणाम, नतीजे",
+    "trick": "RE-PERCUSSION → a drum hit echoes back again — consequences come back.",
+    "examples": [
+      "It'll bring on the repercussions of forcibly switching...",
+      "Cheating in exams can have serious repercussions."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "repercussions of something / have repercussions for someone",
+      "partners": [
+        "serious repercussions",
+        "face the repercussions",
+        "repercussions for"
       ]
     }
   },
@@ -2554,6 +2994,26 @@
     }
   },
   {
+    "word": "reprimanded",
+    "memory": "scolded, told off",
+    "meaning": "Spoke angrily and formally to someone for doing something wrong",
+    "hindi": "डाँटा, फटकारा",
+    "trick": "RE-PRI-MAND → the 'prime' boss making a 'demand' — you got scolded.",
+    "examples": [
+      "Time and time again, he steadfastly reprimanded me.",
+      "The boy was reprimanded for being late."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "reprimand someone for (doing) something / be reprimanded",
+      "partners": [
+        "severely reprimanded",
+        "reprimanded for being late",
+        "officially reprimanded"
+      ]
+    }
+  },
+  {
     "word": "reprimanding",
     "memory": "scolding, telling off",
     "meaning": "Speaking angrily and formally to someone for doing wrong",
@@ -2634,6 +3094,66 @@
     }
   },
   {
+    "word": "repulse",
+    "memory": "disgust",
+    "meaning": "To make someone feel strong dislike or disgust; also to drive back an attack",
+    "hindi": "घृणा पैदा करना; पीछे धकेलना",
+    "trick": "Re (back) + pulse (push) → it pushes you back in disgust.",
+    "examples": [
+      "You repulse me after all.",
+      "The smell of rotten eggs repulses me."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "something repulses someone / repulse an attack",
+      "partners": [
+        "repulse an attack",
+        "repulses me",
+        "repulse the enemy"
+      ]
+    }
+  },
+  {
+    "word": "repulsed",
+    "memory": "disgusted",
+    "meaning": "Made someone feel strong dislike or disgust; also drove back an attack",
+    "hindi": "घृणा पैदा की, घिनौना लगा; पीछे धकेला",
+    "trick": "Re (back) + pulsed (pushed) → pushed back in disgust.",
+    "examples": [
+      "The reason you repulsed me...",
+      "I was repulsed by the dirty kitchen."
+    ],
+    "usage": {
+      "pos": "verb (past) / adjective",
+      "pattern": "be repulsed by something / repulse someone",
+      "partners": [
+        "repulsed by",
+        "felt repulsed",
+        "repulsed the attack"
+      ]
+    }
+  },
+  {
+    "word": "repulsive",
+    "memory": "disgusting",
+    "meaning": "Very unpleasant; causing strong dislike",
+    "hindi": "घृणित, घिनौना",
+    "trick": "RE-PULSE → pushes you back (repel) in disgust",
+    "examples": [
+      "I'll exterminate those repulsive demons!",
+      "The rotten food had a repulsive smell."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a repulsive + noun / find something repulsive",
+      "partners": [
+        "repulsive smell",
+        "repulsive creature",
+        "find it repulsive"
+      ]
+    }
+  },
+  {
     "word": "requisite",
     "memory": "needed, necessary",
     "meaning": "Needed for a particular purpose; required",
@@ -2650,6 +3170,26 @@
         "the requisite skills",
         "requisite experience",
         "requisite number"
+      ]
+    }
+  },
+  {
+    "word": "rescued",
+    "memory": "saved",
+    "meaning": "Saved someone from danger or harm",
+    "hindi": "बचाया",
+    "trick": "Rescue team → rescued the people.",
+    "examples": [
+      "...because he'd rescued an elderly man from bandits.",
+      "Firefighters rescued the cat from the tree."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "rescue someone from something",
+      "partners": [
+        "rescued from",
+        "rescued by",
+        "rescued the child"
       ]
     }
   },
@@ -2794,6 +3334,26 @@
     }
   },
   {
+    "word": "resign",
+    "memory": "accept unwillingly; quit",
+    "meaning": "To accept something bad that you cannot change (resign yourself to); also to leave a job",
+    "hindi": "स्वीकार कर लेना; इस्तीफ़ा देना",
+    "trick": "RE-SIGN → sign off and accept your fate.",
+    "examples": [
+      "You'll just have to resign yourself to fate.",
+      "He decided to resign from his job."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "resign yourself to something / resign from a job",
+      "partners": [
+        "resign yourself to",
+        "resign from",
+        "resign as captain"
+      ]
+    }
+  },
+  {
     "word": "resignation",
     "memory": "calm acceptance; quitting",
     "meaning": "Calm acceptance of something bad that cannot be changed; also leaving a job officially",
@@ -2834,6 +3394,66 @@
     }
   },
   {
+    "word": "resilient",
+    "memory": "tough, bouncing back",
+    "meaning": "Able to recover quickly from difficulties",
+    "hindi": "लचीला, जल्दी सँभलने वाला",
+    "trick": "RESILIENT ≈ RE-SLING → a rubber sling bounces back.",
+    "examples": [
+      "Because of her resilient mental strength...",
+      "Children are often very resilient."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be resilient (to something) / a resilient + noun",
+      "partners": [
+        "resilient mind",
+        "remarkably resilient",
+        "resilient economy"
+      ]
+    }
+  },
+  {
+    "word": "resistant",
+    "memory": "unaffected by, withstanding",
+    "meaning": "Not harmed or affected by something; also opposed to change",
+    "hindi": "प्रतिरोधी, असरहीन; विरोधी",
+    "trick": "Resist + ant → an ant that resists everything.",
+    "examples": [
+      "The speed at which he becomes resistant is insane!",
+      "This watch is water-resistant."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be resistant to something / something-resistant",
+      "partners": [
+        "resistant to poison",
+        "water-resistant",
+        "resistant to change"
+      ]
+    }
+  },
+  {
+    "word": "resolutely",
+    "memory": "firmly, determinedly",
+    "meaning": "In a firm and determined way, without changing your mind",
+    "hindi": "दृढ़ता से, अटल होकर",
+    "trick": "RESOLUTE ≈ RESOLVE → firmly resolved.",
+    "examples": [
+      "Resolutely indifferent.",
+      "She resolutely refused to give up."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "resolutely + adjective / refuse resolutely",
+      "partners": [
+        "resolutely refused",
+        "resolutely opposed",
+        "resolutely indifferent"
+      ]
+    }
+  },
+  {
     "word": "resolution",
     "memory": "detail, sharpness; firm decision",
     "meaning": "The amount of detail or sharpness in a picture or piece of work; also a firm decision to do something",
@@ -2850,6 +3470,26 @@
         "high resolution",
         "screen resolution",
         "New Year's resolution"
+      ]
+    }
+  },
+  {
+    "word": "resolve",
+    "memory": "determination",
+    "meaning": "Firm determination to do something; also (verb), to settle or solve a problem",
+    "hindi": "दृढ़ संकल्प; सुलझाना",
+    "trick": "RE-SOLVE → you solve to do it again and again = strong will.",
+    "examples": [
+      "It's because your resolve is too weak!",
+      "They met to resolve the problem quickly."
+    ],
+    "usage": {
+      "pos": "noun (also verb)",
+      "pattern": "someone's resolve / resolve to do something / resolve a problem",
+      "partners": [
+        "strong resolve",
+        "test someone's resolve",
+        "resolve a dispute"
       ]
     }
   },
@@ -2890,6 +3530,46 @@
         "resonated with",
         "deeply resonated",
         "resonated through"
+      ]
+    }
+  },
+  {
+    "word": "resonating",
+    "memory": "echoing, connecting with",
+    "meaning": "Matching or vibrating together with something; also connecting with someone's feelings",
+    "hindi": "गूँजता हुआ, मेल खाता हुआ",
+    "trick": "RE-SONA = sound again → echoing together.",
+    "examples": [
+      "...as if resonating with him.",
+      "Her speech was resonating with the young crowd."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "resonate with someone/something",
+      "partners": [
+        "resonating with",
+        "deeply resonating",
+        "resonating sound"
+      ]
+    }
+  },
+  {
+    "word": "respective",
+    "memory": "each one's own",
+    "meaning": "Belonging separately to each of the people or things mentioned",
+    "hindi": "अपने-अपने, संबंधित",
+    "trick": "RESPECTIVE → each gets their own RESPECT.",
+    "examples": [
+      "There'd be no reason to disperse your respective skills.",
+      "After class, the students went to their respective homes."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "their respective + noun (plural)",
+      "partners": [
+        "respective homes",
+        "respective roles",
+        "their respective fields"
       ]
     }
   },
@@ -2974,6 +3654,26 @@
     }
   },
   {
+    "word": "restraint",
+    "memory": "self-control",
+    "meaning": "Calm control over your actions or feelings",
+    "hindi": "संयम, आत्म-नियंत्रण",
+    "trick": "RE-STRAIN → hold the strain back = control yourself.",
+    "examples": [
+      "Would it kill you to show some restraint?",
+      "She showed great restraint and didn't shout."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "show restraint / with restraint",
+      "partners": [
+        "show restraint",
+        "great restraint",
+        "without restraint"
+      ]
+    }
+  },
+  {
     "word": "resuscitate",
     "memory": "bring back to life",
     "meaning": "To bring something back to life or use; also to make someone breathe again",
@@ -3014,6 +3714,26 @@
     }
   },
   {
+    "word": "retaliate",
+    "memory": "hit back",
+    "meaning": "To attack or harm someone because they attacked or harmed you",
+    "hindi": "बदला लेना, जवाबी हमला करना",
+    "trick": "Re + TALIate → tit for tat, give it back.",
+    "examples": [
+      "...or I won't be able to defeat them when they retaliate!",
+      "If you hit him, he will retaliate."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "retaliate against someone / retaliate for something",
+      "partners": [
+        "retaliate against",
+        "retaliate with force",
+        "quick to retaliate"
+      ]
+    }
+  },
+  {
     "word": "retaliating",
     "memory": "hitting back",
     "meaning": "Attacking or harming someone in return for what they did",
@@ -3030,6 +3750,26 @@
         "retaliating against",
         "retaliating for",
         "threaten retaliating"
+      ]
+    }
+  },
+  {
+    "word": "retaliation",
+    "memory": "revenge, paying back",
+    "meaning": "An action done to hurt someone because they hurt you first",
+    "hindi": "बदला, प्रतिशोध",
+    "trick": "Re-TALI-ation: one taali for another — hit back.",
+    "examples": [
+      "You were bound hand and foot out of retaliation and then burned alive.",
+      "The attack was in retaliation for the earlier raid."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in retaliation for something / out of retaliation",
+      "partners": [
+        "in retaliation for",
+        "fear of retaliation",
+        "out of retaliation"
       ]
     }
   },
@@ -3214,6 +3954,26 @@
     }
   },
   {
+    "word": "retrograde",
+    "memory": "going backward, worse",
+    "meaning": "Going back to an earlier, worse state; moving backward",
+    "hindi": "पिछड़ा हुआ, पीछे की ओर जाता",
+    "trick": "RETRO (backward) + GRADE (step) → a step back",
+    "examples": [
+      "They're just cheap imitations, retrograde versions of Sun Breathing!",
+      "Cutting the school budget would be a retrograde step."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a retrograde step/version",
+      "partners": [
+        "retrograde step",
+        "retrograde motion",
+        "retrograde version"
+      ]
+    }
+  },
+  {
     "word": "retrospect",
     "memory": "looking back",
     "meaning": "Thinking about past events, often understanding them better now",
@@ -3250,6 +4010,46 @@
         "reverberated through",
         "reverberated around",
         "reverberated with"
+      ]
+    }
+  },
+  {
+    "word": "reverberations",
+    "memory": "echoes",
+    "meaning": "Echoing sounds that repeat as they bounce off surfaces; also long-lasting effects",
+    "hindi": "गूँज, प्रतिध्वनियाँ; दूरगामी असर",
+    "trick": "RE-VERB → the sound is repeated again and again.",
+    "examples": [
+      "I can hear it well thanks to the reverberations.",
+      "The reverberations of the drum filled the hall."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "the reverberations of something",
+      "partners": [
+        "loud reverberations",
+        "reverberations of the blast",
+        "political reverberations"
+      ]
+    }
+  },
+  {
+    "word": "revere",
+    "memory": "deeply respect",
+    "meaning": "To admire and respect someone very deeply",
+    "hindi": "पूजना, आदर करना",
+    "trick": "REVERE — REVERENCE; like REVERing a guru.",
+    "examples": [
+      "This is how that man treats even those who revere him!",
+      "Many people revere Gandhi."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "revere someone as something / be revered by someone",
+      "partners": [
+        "revere as a hero",
+        "deeply revere",
+        "revered by all"
       ]
     }
   },
@@ -3374,6 +4174,46 @@
     }
   },
   {
+    "word": "revolting",
+    "memory": "disgusting",
+    "meaning": "Extremely unpleasant; disgusting; also (verb) rebelling",
+    "hindi": "घिनौना, बेहद घृणित; विद्रोह करते हुए",
+    "trick": "REVOLT-ing → so gross your stomach REVOLTS",
+    "examples": [
+      "If it's revolting, it's revolting.",
+      "The smell from the drain was revolting."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be revolting / a revolting + noun",
+      "partners": [
+        "revolting smell",
+        "revolting taste",
+        "absolutely revolting"
+      ]
+    }
+  },
+  {
+    "word": "revulsion",
+    "memory": "strong disgust",
+    "meaning": "A strong feeling of disgust or horror",
+    "hindi": "घृणा, वितृष्णा",
+    "trick": "REVULSION ≈ REVOLT → your stomach revolts.",
+    "examples": [
+      "There's a revulsion that I can't fight.",
+      "She felt revulsion at the sight of the rotten food."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "revulsion at/against something / feel revulsion",
+      "partners": [
+        "feel revulsion",
+        "a sense of revulsion",
+        "revulsion at"
+      ]
+    }
+  },
+  {
     "word": "revving",
     "memory": "speeding up, roaring",
     "meaning": "Making an engine run faster and louder",
@@ -3470,6 +4310,46 @@
         "rictus grin",
         "rictus of fear",
         "frozen rictus"
+      ]
+    }
+  },
+  {
+    "word": "ridden",
+    "memory": "stuck in, full of",
+    "meaning": "'Bed-ridden' = stuck in bed through illness; '-ridden' = full of something bad; also past participle of ride",
+    "hindi": "ग्रस्त; बिस्तर पर पड़ा",
+    "trick": "Bed-RIDDEN → riding the bed all day.",
+    "examples": [
+      "...after having been bedridden for so long.",
+      "She has ridden this bike for years."
+    ],
+    "usage": {
+      "pos": "adjective / verb (past participle)",
+      "pattern": "bed-ridden / guilt-ridden / have ridden something",
+      "partners": [
+        "bedridden",
+        "guilt-ridden",
+        "crime-ridden"
+      ]
+    }
+  },
+  {
+    "word": "riddled",
+    "memory": "full of holes, filled with",
+    "meaning": "Full of holes, or full of something bad",
+    "hindi": "छलनी, से भरा हुआ",
+    "trick": "A riddle full of puzzles — riddled with holes.",
+    "examples": [
+      "Look at you, riddled with needles... A comical sight, indeed!",
+      "The essay was riddled with mistakes."
+    ],
+    "usage": {
+      "pos": "adjective / verb (past)",
+      "pattern": "be riddled with something",
+      "partners": [
+        "riddled with bullets",
+        "riddled with errors",
+        "riddled with holes"
       ]
     }
   },
@@ -3750,6 +4630,26 @@
         "ripening fruit",
         "ripening in the sun",
         "slowly ripening"
+      ]
+    }
+  },
+  {
+    "word": "ripped",
+    "memory": "torn off",
+    "meaning": "Torn or pulled off quickly and violently; also, (informal) very muscular",
+    "hindi": "फाड़ा, नोच डाला; (बोलचाल) मांसल",
+    "trick": "RIP → the sound of paper being torn.",
+    "examples": [
+      "I ripped off her limbs, and then...",
+      "She ripped open the gift box."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "rip something off/open/apart",
+      "partners": [
+        "ripped off",
+        "ripped open",
+        "ripped apart"
       ]
     }
   },
@@ -4074,6 +4974,46 @@
     }
   },
   {
+    "word": "rope",
+    "memory": "thick strong cord",
+    "meaning": "A thick, strong cord made of twisted threads",
+    "hindi": "रस्सी",
+    "trick": "ROPE → tug-of-war rope",
+    "examples": [
+      "I have a feeling that I shouldn't sever this rope with my Nichirin Sword.",
+      "Tie the boat with a strong rope."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a rope / tie something with a rope",
+      "partners": [
+        "tie a rope",
+        "climb a rope",
+        "skipping rope"
+      ]
+    }
+  },
+  {
+    "word": "ropes",
+    "memory": "thick cords",
+    "meaning": "Strong thick cords made by twisting threads together; also (the ropes = how things work)",
+    "hindi": "रस्सियाँ",
+    "trick": "Ropes → rope pulling, tug of war.",
+    "examples": [
+      "We lit bonfires around the house and put up ropes with bells on them.",
+      "They tied the boat with ropes."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "tie something with ropes / learn the ropes",
+      "partners": [
+        "learn the ropes",
+        "on the ropes",
+        "tied with ropes"
+      ]
+    }
+  },
+  {
     "word": "rosary",
     "memory": "prayer beads",
     "meaning": "A string of beads used for counting prayers",
@@ -4130,6 +5070,26 @@
         "wear a rosette",
         "win a rosette",
         "red rosette"
+      ]
+    }
+  },
+  {
+    "word": "rot",
+    "memory": "decay, go bad",
+    "meaning": "To decay slowly and go bad",
+    "hindi": "सड़ना, गलना",
+    "trick": "ROT → rotten fruit.",
+    "examples": [
+      "She's already dead, so if we leave her, she'll rot.",
+      "Fruit will rot if you leave it out too long."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "something rots / leave something to rot",
+      "partners": [
+        "left to rot",
+        "rot away",
+        "tooth rot"
       ]
     }
   },
@@ -4210,6 +5170,26 @@
         "put on rouge",
         "wear rouge",
         "a touch of rouge"
+      ]
+    }
+  },
+  {
+    "word": "roughed",
+    "memory": "beaten up",
+    "meaning": "'Roughed up' = hurt or beaten someone (informal)",
+    "hindi": "पिटाई हुई, मार खाई (बोलचाल)",
+    "trick": "ROUGH → roughed up: treated roughly.",
+    "examples": [
+      "I really got roughed up on Mt. Natagumo.",
+      "The thugs roughed him up and took his phone."
+    ],
+    "usage": {
+      "pos": "verb (past participle, informal)",
+      "pattern": "rough someone up / get roughed up",
+      "partners": [
+        "roughed up",
+        "got roughed up",
+        "roughed him up"
       ]
     }
   },
@@ -4310,6 +5290,26 @@
         "have a row",
         "blazing row",
         "a row about"
+      ]
+    }
+  },
+  {
+    "word": "rub",
+    "memory": "press and move back and forth",
+    "meaning": "To press and move your hand or something over a surface again and again",
+    "hindi": "रगड़ना, मलना",
+    "trick": "RUB → rub your hands for warmth",
+    "examples": [
+      "Hunch over and rub your hands together.",
+      "She rubbed her eyes when she woke up."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "rub something (together) / rub something on something",
+      "partners": [
+        "rub your hands",
+        "rub your eyes",
+        "rub cream on"
       ]
     }
   },
@@ -4430,6 +5430,26 @@
         "ruddy cheeks",
         "ruddy face",
         "ruddy complexion"
+      ]
+    }
+  },
+  {
+    "word": "rudely",
+    "memory": "harshly, impolitely",
+    "meaning": "In a sudden, unpleasant way (rudely awakened); also in an impolite way",
+    "hindi": "अचानक झटके से; बदतमीज़ी से",
+    "trick": "Rude + ly → done in a rude way.",
+    "examples": [
+      "My dormant senses have been rudely awakened and are dragging me forward.",
+      "He rudely interrupted the teacher."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "rudely + verb (interrupt, awaken)",
+      "partners": [
+        "rudely awakened",
+        "rudely interrupted",
+        "spoke rudely"
       ]
     }
   },
@@ -4710,6 +5730,26 @@
         "run amok",
         "allowed to run amok",
         "imagination runs amok"
+      ]
+    }
+  },
+  {
+    "word": "rupture",
+    "memory": "burst, break",
+    "meaning": "To burst or break open suddenly (especially inside the body); also a break in a relationship",
+    "hindi": "फट जाना; दरार",
+    "trick": "RUPTURE ≈ 'rapture' → so excited something bursts.",
+    "examples": [
+      "Such violent moves would normally rupture his body on the spot!",
+      "The heavy rain caused the pipe to rupture."
+    ],
+    "usage": {
+      "pos": "verb / noun",
+      "pattern": "something ruptures / rupture something",
+      "partners": [
+        "rupture a blood vessel",
+        "pipe ruptured",
+        "ruptured appendix"
       ]
     }
   },

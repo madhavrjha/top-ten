@@ -20,6 +20,26 @@
     }
   },
   {
+    "word": "abducted",
+    "memory": "kidnapped",
+    "meaning": "Taken away illegally by force",
+    "hindi": "अपहरण किया गया, उठा ले जाया गया",
+    "trick": "AB (away) + DUCT (lead) = led away by force.",
+    "examples": [
+      "When night falls, yet another young girl will be abducted!",
+      "The child was abducted from the park."
+    ],
+    "usage": {
+      "pos": "verb (past participle)",
+      "pattern": "be abducted (by someone)",
+      "partners": [
+        "abducted by",
+        "abducted child",
+        "allegedly abducted"
+      ]
+    }
+  },
+  {
     "word": "abhors",
     "memory": "hates strongly",
     "meaning": "Hates something very strongly",
@@ -76,6 +96,26 @@
         "abiding by the rules",
         "abiding by the law",
         "law-abiding citizens"
+      ]
+    }
+  },
+  {
+    "word": "ablaze",
+    "memory": "burning; full of strong feeling",
+    "meaning": "On fire and burning strongly; also full of strong feeling or bright light",
+    "hindi": "जलता हुआ, धधकता हुआ; जोश से भरा",
+    "trick": "A-BLAZE → a BLAZE (big fire)",
+    "examples": [
+      "Set your heart ablaze.",
+      "The old house was ablaze within minutes."
+    ],
+    "usage": {
+      "pos": "adjective (after a verb)",
+      "pattern": "set something ablaze / be ablaze with something",
+      "partners": [
+        "set ablaze",
+        "ablaze with light",
+        "ablaze with anger"
       ]
     }
   },
@@ -180,6 +220,46 @@
     }
   },
   {
+    "word": "abound",
+    "memory": "be plentiful",
+    "meaning": "To exist in large numbers or amounts",
+    "hindi": "भरपूर होना, बहुतायत में होना",
+    "trick": "ABOUND → 'a bound-less' amount.",
+    "examples": [
+      "...and so demons abound.",
+      "Fish abound in this lake."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "something abounds / abound in/with something",
+      "partners": [
+        "rumours abound",
+        "abound in",
+        "opportunities abound"
+      ]
+    }
+  },
+  {
+    "word": "abridged",
+    "memory": "shortened",
+    "meaning": "Made shorter by removing some parts",
+    "hindi": "संक्षिप्त, छोटा किया हुआ",
+    "trick": "A-BRIDGE → a short bridge that skips part of the journey.",
+    "examples": [
+      "I shall read you an abridged version.",
+      "I read the abridged edition of the novel."
+    ],
+    "usage": {
+      "pos": "adjective / verb (past)",
+      "pattern": "an abridged + version/edition",
+      "partners": [
+        "abridged version",
+        "abridged edition",
+        "heavily abridged"
+      ]
+    }
+  },
+  {
     "word": "abrupt",
     "memory": "sudden, jerky",
     "meaning": "Sudden and unexpected; also short and slightly rude in manner",
@@ -196,6 +276,26 @@
         "an abrupt end",
         "an abrupt change",
         "came to an abrupt halt"
+      ]
+    }
+  },
+  {
+    "word": "abruptness",
+    "memory": "suddenness, rudeness",
+    "meaning": "The quality of being sudden and unexpected, or short and rude in manner",
+    "hindi": "अचानकपन, रूखापन",
+    "trick": "ABRUPT → 'a burp' — sudden and a bit rude!",
+    "examples": [
+      "Forgive my abruptness, Mr. Sakonji Urokodaki.",
+      "The abruptness of her reply surprised me."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the abruptness of something / forgive my abruptness",
+      "partners": [
+        "forgive my abruptness",
+        "sudden abruptness",
+        "abruptness of the ending"
       ]
     }
   },
@@ -256,6 +356,26 @@
         "abstract idea",
         "abstract art",
         "in the abstract"
+      ]
+    }
+  },
+  {
+    "word": "absurd",
+    "memory": "ridiculous, silly",
+    "meaning": "Completely silly, unreasonable or foolish",
+    "hindi": "बेतुका, हास्यास्पद",
+    "trick": "AB-SURD ≈ 'absolutely weird'.",
+    "examples": [
+      "Spare us your absurd ravings.",
+      "It's absurd to wear a coat in this heat."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be absurd / it is absurd to do something",
+      "partners": [
+        "absurd idea",
+        "absolutely absurd",
+        "absurd claim"
       ]
     }
   },
@@ -356,6 +476,26 @@
         "acacia tree",
         "acacia flowers",
         "acacia wood"
+      ]
+    }
+  },
+  {
+    "word": "acclimate",
+    "memory": "get used to",
+    "meaning": "To get used to a new place, climate or situation",
+    "hindi": "अभ्यस्त होना, ढल जाना",
+    "trick": "ac-CLIMATE → get used to a new CLIMATE",
+    "examples": [
+      "I will acclimate without fail!",
+      "It took me a week to acclimate to the cold weather."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "acclimate to something",
+      "partners": [
+        "acclimate to the cold",
+        "acclimate to a new job",
+        "slowly acclimate"
       ]
     }
   },
@@ -660,6 +800,26 @@
     }
   },
   {
+    "word": "acorns",
+    "memory": "oak tree nuts",
+    "meaning": "The small oval nuts of an oak tree",
+    "hindi": "बलूत के फल (ओक के बीज)",
+    "trick": "A-CORN → an oak's little \"corn\"; squirrels love them",
+    "examples": [
+      "Look, I'll give you these sparkly acorns!",
+      "The squirrel buried acorns for the winter."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "collect acorns / acorns fall",
+      "partners": [
+        "collect acorns",
+        "oak acorns",
+        "acorns fall"
+      ]
+    }
+  },
+  {
     "word": "acquaintance",
     "memory": "person you barely know",
     "meaning": "A person you know slightly but who is not a close friend",
@@ -720,6 +880,26 @@
     }
   },
   {
+    "word": "acrid",
+    "memory": "sharp, bitter",
+    "meaning": "(Of a smell or taste) strong, bitter and unpleasant",
+    "hindi": "तीखा, कड़वा",
+    "trick": "ACRID — ACID burns your nose.",
+    "examples": [
+      "That acrid smell again!",
+      "Acrid smoke filled the room."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "an acrid + smell/smoke/taste",
+      "partners": [
+        "acrid smell",
+        "acrid smoke",
+        "acrid taste"
+      ]
+    }
+  },
+  {
     "word": "acronyms",
     "memory": "short-form words",
     "meaning": "Words made from the first letters of other words, such as NASA or UNESCO",
@@ -756,6 +936,46 @@
         "the old adage",
         "as the adage goes",
         "the adage that time is money"
+      ]
+    }
+  },
+  {
+    "word": "adapt",
+    "memory": "change to fit, adjust",
+    "meaning": "To change something (or yourself) to suit a new use or situation",
+    "hindi": "ढालना, अनुकूल बनाना",
+    "trick": "ADAPT ≈ \"adopt + fit\" → make it fit",
+    "examples": [
+      "Your father was able to adapt his kagura dance to battle.",
+      "Kids adapt quickly to a new school."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "adapt something to/for something / adapt to something",
+      "partners": [
+        "adapt to change",
+        "adapt quickly",
+        "adapt a story for film"
+      ]
+    }
+  },
+  {
+    "word": "adept",
+    "memory": "skilled",
+    "meaning": "Very skilled or good at something",
+    "hindi": "कुशल, निपुण",
+    "trick": "ADEPT → 'a-depth' of skill.",
+    "examples": [
+      "I'm even more adept at detecting scents than before.",
+      "She is adept at solving puzzles."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be adept at something / at doing something",
+      "partners": [
+        "adept at",
+        "highly adept",
+        "adept at handling"
       ]
     }
   },
@@ -856,6 +1076,26 @@
         "during adolescence",
         "in early adolescence",
         "childhood and adolescence"
+      ]
+    }
+  },
+  {
+    "word": "adore",
+    "memory": "love very much",
+    "meaning": "To love or like someone or something very much",
+    "hindi": "बहुत प्यार करना, बेहद पसंद करना",
+    "trick": "A-DORE ≈ \"a door\" → you adore the one at your door",
+    "examples": [
+      "I just adore the sight of a distorted human face.",
+      "My kids adore their grandmother."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "adore someone / adore doing something",
+      "partners": [
+        "absolutely adore",
+        "adore children",
+        "adore chocolate"
       ]
     }
   },
@@ -1316,6 +1556,26 @@
         "agonizes over every decision",
         "agonizes about the future",
         "agonizes over what to say"
+      ]
+    }
+  },
+  {
+    "word": "agonizing",
+    "memory": "very painful",
+    "meaning": "Causing great physical or mental pain; also taking a long, painful time to decide",
+    "hindi": "बहुत दर्दनाक, कष्टदायक",
+    "trick": "AGONY → agonizing: full of agony.",
+    "examples": [
+      "It's not agonizing...",
+      "Waiting for the exam results was agonizing."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be agonizing / an agonizing + noun",
+      "partners": [
+        "agonizing pain",
+        "an agonizing wait",
+        "an agonizing decision"
       ]
     }
   },
@@ -2299,6 +2559,46 @@
     }
   },
   {
+    "word": "amusement",
+    "memory": "fun, entertainment",
+    "meaning": "The feeling of finding something funny or entertaining",
+    "hindi": "मनोरंजन, मज़ा",
+    "trick": "Amusement park → place for fun.",
+    "examples": [
+      "...and I don't enjoy sparring random passersby for amusement.",
+      "To our amusement, the dog started dancing."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "for amusement / to someone's amusement",
+      "partners": [
+        "amusement park",
+        "for amusement",
+        "much to our amusement"
+      ]
+    }
+  },
+  {
+    "word": "amusing",
+    "memory": "funny, entertaining",
+    "meaning": "Funny and enjoyable",
+    "hindi": "मज़ेदार, मनोरंजक",
+    "trick": "AMUSING — AMUSEment park fun.",
+    "examples": [
+      "You're an amusing little girl!",
+      "He told an amusing story about his dog."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "find something amusing / an amusing + story",
+      "partners": [
+        "amusing story",
+        "find it amusing",
+        "mildly amusing"
+      ]
+    }
+  },
+  {
     "word": "analogy",
     "memory": "comparison",
     "meaning": "A comparison between two things to explain or show how they are alike",
@@ -2457,6 +2757,66 @@
     }
   },
   {
+    "word": "animosity",
+    "memory": "strong dislike, hostility",
+    "meaning": "A strong feeling of dislike or hatred",
+    "hindi": "दुश्मनी, वैर",
+    "trick": "ANIMOSITY — animals with hostility.",
+    "examples": [
+      "No, no, I would've sensed it if there'd been any animosity!",
+      "There was no animosity between the two players."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "animosity towards/between someone",
+      "partners": [
+        "personal animosity",
+        "animosity towards",
+        "no animosity"
+      ]
+    }
+  },
+  {
+    "word": "annihilate",
+    "memory": "destroy completely",
+    "meaning": "To destroy completely; also, to defeat completely",
+    "hindi": "पूरी तरह नष्ट करना, सफ़ाया करना",
+    "trick": "AN-NIHIL-ATE → 'nihil' = nothing: make it nothing.",
+    "examples": [
+      "And I wish to annihilate that man, Kibutsuji.",
+      "Our team annihilated them 6–0."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "annihilate someone/something",
+      "partners": [
+        "annihilate the enemy",
+        "completely annihilate",
+        "annihilate a city"
+      ]
+    }
+  },
+  {
+    "word": "anomaly",
+    "memory": "oddity, abnormality",
+    "meaning": "Something unusual that is different from what is normal or expected",
+    "hindi": "असामान्यता, विसंगति",
+    "trick": "A-NOMaly → a (not) + nomos (normal) → not normal.",
+    "examples": [
+      "It was like I was facing an anomaly that shouldn't be there...",
+      "The low score was an anomaly; she usually does well."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "an anomaly in something",
+      "partners": [
+        "a strange anomaly",
+        "statistical anomaly",
+        "an anomaly in the data"
+      ]
+    }
+  },
+  {
     "word": "anonymity",
     "memory": "namelessness, being unknown",
     "meaning": "The state of being unknown or not having your name known",
@@ -2473,6 +2833,26 @@
         "protect anonymity",
         "in anonymity",
         "on condition of anonymity"
+      ]
+    }
+  },
+  {
+    "word": "anticipated",
+    "memory": "foresaw, expected",
+    "meaning": "Predicted something and was ready for it; also expected",
+    "hindi": "पहले से भाँप लिया, अनुमान लगाया",
+    "trick": "ANTI(before) + cipated → caught it before it came.",
+    "examples": [
+      "You anticipated the enemy's movements to perfection...",
+      "The show was more popular than we anticipated."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "anticipate something / anticipate doing something",
+      "partners": [
+        "anticipated the move",
+        "than anticipated",
+        "eagerly anticipated"
       ]
     }
   },
@@ -2573,6 +2953,26 @@
         "public apathy",
         "voter apathy",
         "apathy towards politics"
+      ]
+    }
+  },
+  {
+    "word": "apologize",
+    "memory": "say sorry",
+    "meaning": "To say you are sorry for something",
+    "hindi": "माफ़ी माँगना",
+    "trick": "APOLOGY → apologize: give an apology.",
+    "examples": [
+      "I apologize for startling you all.",
+      "I apologize for being late."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "apologize (to someone) for (doing) something",
+      "partners": [
+        "apologize for",
+        "sincerely apologize",
+        "apologize to someone"
       ]
     }
   },
@@ -3014,6 +3414,26 @@
     }
   },
   {
+    "word": "arrow",
+    "memory": "pointed shot",
+    "meaning": "A thin pointed stick shot from a bow; also a sign showing direction",
+    "hindi": "तीर, बाण",
+    "trick": "ARROW — Arjun's ARROW never misses.",
+    "examples": [
+      "So, you eluded it by spinning in the same direction as the Kouketsu Arrow?",
+      "Follow the arrow to the exit."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "shoot an arrow / follow the arrow",
+      "partners": [
+        "bow and arrow",
+        "shoot an arrow",
+        "arrow sign"
+      ]
+    }
+  },
+  {
     "word": "artery",
     "memory": "blood vessel",
     "meaning": "A blood vessel that carries blood away from the heart to the body",
@@ -3132,6 +3552,26 @@
     }
   },
   {
+    "word": "ashamed",
+    "memory": "feeling shame",
+    "meaning": "Feeling embarrassed or guilty about something you did",
+    "hindi": "शर्मिंदा, लज्जित",
+    "trick": "A + SHAME + D — full of shame.",
+    "examples": [
+      "Aren't you ashamed of yourself?",
+      "I'm ashamed that I lied to my mother."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be ashamed of something/yourself / ashamed to do something",
+      "partners": [
+        "ashamed of yourself",
+        "deeply ashamed",
+        "ashamed to admit"
+      ]
+    }
+  },
+  {
     "word": "ashen",
     "memory": "very pale",
     "meaning": "Very pale or grey, like ash (often from shock or illness)",
@@ -3212,6 +3652,26 @@
     }
   },
   {
+    "word": "assimilating",
+    "memory": "absorbing",
+    "meaning": "Taking something in and making it part of yourself; also fitting into a group",
+    "hindi": "आत्मसात करना, समाहित करना",
+    "trick": "AS-SIMILAR → making it SIMILAR to yourself.",
+    "examples": [
+      "...rather than assimilating your weak sister into yourself!",
+      "New students are slowly assimilating into the school."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "assimilating something into something / assimilating into a group",
+      "partners": [
+        "assimilating information",
+        "assimilating into society",
+        "assimilating ideas"
+      ]
+    }
+  },
+  {
     "word": "assortments",
     "memory": "mixed varieties",
     "meaning": "Collections of different kinds of things mixed together",
@@ -3248,6 +3708,26 @@
         "false assurances",
         "give assurances",
         "despite assurances"
+      ]
+    }
+  },
+  {
+    "word": "assure",
+    "memory": "promise, guarantee",
+    "meaning": "To tell someone firmly that something is true or will happen, to remove their worry",
+    "hindi": "भरोसा दिलाना, यकीन दिलाना",
+    "trick": "A-SURE → make someone sure.",
+    "examples": [
+      "We assure you that this boy will be severely reprimanded.",
+      "I assure you, the food is fresh."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "assure someone (that) + clause / assure someone of something",
+      "partners": [
+        "I assure you",
+        "assure them of",
+        "rest assured"
       ]
     }
   },
@@ -3332,6 +3812,26 @@
     }
   },
   {
+    "word": "astounding",
+    "memory": "amazing, astonishing",
+    "meaning": "So surprising that it is hard to believe",
+    "hindi": "आश्चर्यजनक, हैरतअंगेज़",
+    "trick": "A-STOUND ≈ a STUN → so amazing it stuns you.",
+    "examples": [
+      "Such astounding parental love.",
+      "She made an astounding recovery."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be astounding / an astounding + noun",
+      "partners": [
+        "astounding success",
+        "an astounding number",
+        "astounding speed"
+      ]
+    }
+  },
+  {
     "word": "astray",
     "memory": "off the right path",
     "meaning": "Away from the right path; into wrong thinking or behaviour",
@@ -3368,6 +3868,26 @@
         "astride a horse",
         "sat astride the wall",
         "astride a bike"
+      ]
+    }
+  },
+  {
+    "word": "astute",
+    "memory": "sharp, clever",
+    "meaning": "Clever at quickly understanding situations and using them to your advantage",
+    "hindi": "चतुर, होशियार",
+    "trick": "A-STUTE ≈ A-STUDENT who is sharp and smart.",
+    "examples": [
+      "That's right! How astute you are!",
+      "She made an astute decision to save money early."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be astute / an astute + noun",
+      "partners": [
+        "astute observation",
+        "astute businessman",
+        "politically astute"
       ]
     }
   },
@@ -3412,6 +3932,46 @@
     }
   },
   {
+    "word": "atone",
+    "memory": "make amends",
+    "meaning": "To do something to show you are sorry for a wrong you did",
+    "hindi": "प्रायश्चित करना",
+    "trick": "AT-ONE → to be 'at one' (at peace) again after a sin.",
+    "examples": [
+      "He meant to die with me to atone for my sin of having murdered another.",
+      "He tried to atone for his rude words by buying her flowers."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "atone for something",
+      "partners": [
+        "atone for sins",
+        "atone for mistakes",
+        "atone for the past"
+      ]
+    }
+  },
+  {
+    "word": "atoned",
+    "memory": "made up for a wrong",
+    "meaning": "Did something to show regret and make up for a wrong or sin",
+    "hindi": "प्रायश्चित किया",
+    "trick": "AT-ONE-d → made himself \"at one\" with others again",
+    "examples": [
+      "Then, he's already atoned for his sin.",
+      "He atoned for his rudeness by buying her flowers."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "atone for something",
+      "partners": [
+        "atoned for his sins",
+        "atoned for a mistake",
+        "fully atoned"
+      ]
+    }
+  },
+  {
     "word": "atop",
     "memory": "on top of",
     "meaning": "On the top of",
@@ -3452,6 +4012,46 @@
     }
   },
   {
+    "word": "atrocious",
+    "memory": "terrible, very bad",
+    "meaning": "Extremely bad or unpleasant; also very cruel",
+    "hindi": "बहुत बुरा, घटिया; क्रूर",
+    "trick": "ATROCious → atrocity, a terrible act.",
+    "examples": [
+      "They're atrocious!",
+      "The food at that hotel was atrocious."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be atrocious / an atrocious + noun",
+      "partners": [
+        "atrocious weather",
+        "atrocious behaviour",
+        "atrocious crime"
+      ]
+    }
+  },
+  {
+    "word": "attain",
+    "memory": "achieve, reach",
+    "meaning": "To succeed in getting or reaching something after effort",
+    "hindi": "प्राप्त करना",
+    "trick": "AT-TAIN ≈ 'at the top' → reach it.",
+    "examples": [
+      "My job is to attain bliss with all of my worshippers.",
+      "She attained her goal of becoming a doctor."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "attain something (a goal, a level)",
+      "partners": [
+        "attain a goal",
+        "attain success",
+        "attain bliss"
+      ]
+    }
+  },
+  {
     "word": "attainable",
     "memory": "achievable",
     "meaning": "Possible to achieve or reach",
@@ -3488,6 +4088,26 @@
         "had attempted",
         "attempted to escape",
         "attempted the question"
+      ]
+    }
+  },
+  {
+    "word": "attic",
+    "memory": "room under the roof",
+    "meaning": "A room or space just under the roof of a house",
+    "hindi": "अटारी, छत के नीचे का कमरा",
+    "trick": "ATTIC is AT the TIP of the house.",
+    "examples": [
+      "The attic...",
+      "We keep old toys in the attic."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in the attic / up in the attic",
+      "partners": [
+        "in the attic",
+        "attic room",
+        "dusty attic"
       ]
     }
   },
@@ -3730,6 +4350,26 @@
     }
   },
   {
+    "word": "awakened",
+    "memory": "woken up",
+    "meaning": "Woken up from sleep; also made active or aware again",
+    "hindi": "जगाया गया, जाग उठा",
+    "trick": "A + wake + ned → woke up.",
+    "examples": [
+      "My dormant senses have been rudely awakened and are dragging me forward.",
+      "I was awakened by the sound of rain."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "be awakened by something / awaken someone",
+      "partners": [
+        "rudely awakened",
+        "awakened by noise",
+        "newly awakened"
+      ]
+    }
+  },
+  {
     "word": "awash",
     "memory": "bathed, covered",
     "meaning": "Covered or flooded with something (light, water); also having too much of something",
@@ -3806,6 +4446,26 @@
         "awful problems",
         "awful weather",
         "feel awful"
+      ]
+    }
+  },
+  {
+    "word": "awfully",
+    "memory": "very",
+    "meaning": "(Informal) very, extremely; also, very badly",
+    "hindi": "बहुत, बेहद",
+    "trick": "AWFULLY → 'awfully nice' = very nice, not awful!",
+    "examples": [
+      "She was small and lacking in power, but she was awfully agile.",
+      "It's awfully cold today."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "awfully + adjective",
+      "partners": [
+        "awfully kind",
+        "awfully cold",
+        "awfully quiet"
       ]
     }
   },

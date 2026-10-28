@@ -1,5 +1,25 @@
 [
   {
+    "word": "nag",
+    "memory": "constant complainer",
+    "meaning": "A person who keeps complaining or telling others what to do (informal); also to keep complaining at someone",
+    "hindi": "टोकने वाला, किचकिच करने वाला (बोलचाल)",
+    "trick": "NAG → nag-nag-nag like a ticking clock.",
+    "examples": [
+      "Iguro, you're as serpent-like as ever! Such a nag!",
+      "Stop being such a nag about my homework!"
+    ],
+    "usage": {
+      "pos": "noun (informal) / verb",
+      "pattern": "be a nag / nag someone about something / nag someone to do something",
+      "partners": [
+        "such a nag",
+        "nag about",
+        "nag someone to do"
+      ]
+    }
+  },
+  {
     "word": "nagging",
     "memory": "bothering, troubling",
     "meaning": "Troubling or worrying someone again and again; also complaining to someone repeatedly",
@@ -176,6 +196,86 @@
     }
   },
   {
+    "word": "necrosis",
+    "memory": "tissue death",
+    "meaning": "The death of cells or tissue in a part of the body (medical)",
+    "hindi": "ऊतक-मृत्यु, कोशिकाओं का मरना",
+    "trick": "Necro = dead (necromancer) + osis = condition.",
+    "examples": [
+      "Well, the air sacs in your lungs are going through necrosis.",
+      "The snake bite caused necrosis in his finger."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "necrosis of something / cause necrosis",
+      "partners": [
+        "tissue necrosis",
+        "cause necrosis",
+        "signs of necrosis"
+      ]
+    }
+  },
+  {
+    "word": "needles",
+    "memory": "thin sharp pins",
+    "meaning": "Thin pointed pieces of metal, used for sewing or injections; also thin leaves of pine trees",
+    "hindi": "सुइयाँ",
+    "trick": "You NEED needles to sew.",
+    "examples": [
+      "Look at you, riddled with needles... A comical sight, indeed!",
+      "My grandmother keeps her sewing needles in a box."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "needles + noun / be afraid of needles",
+      "partners": [
+        "sewing needles",
+        "pine needles",
+        "afraid of needles"
+      ]
+    }
+  },
+  {
+    "word": "needless",
+    "memory": "unnecessary, pointless",
+    "meaning": "Not needed; unnecessary (mostly in the phrase 'needless to say' = obviously)",
+    "hindi": "अनावश्यक, बेवजह",
+    "trick": "need + less = no need for it. 'Needless to say' = no need to say it.",
+    "examples": [
+      "Needless to say, I'm going to decapitate your sister.",
+      "Needless to say, I was very tired after the long trip."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "needless to say, ... / a needless + noun",
+      "partners": [
+        "needless to say",
+        "needless worry",
+        "needless risk"
+      ]
+    }
+  },
+  {
+    "word": "needlessly",
+    "memory": "without need, pointlessly",
+    "meaning": "In a way that is not necessary",
+    "hindi": "बेवजह, बिना ज़रूरत",
+    "trick": "NEED + LESS: no need at all.",
+    "examples": [
+      "My heart would never flutter for those who needlessly hurt others!",
+      "Don't worry needlessly about small things."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "needlessly + verb / needlessly + adjective",
+      "partners": [
+        "needlessly hurt",
+        "needlessly complicated",
+        "worry needlessly"
+      ]
+    }
+  },
+  {
     "word": "negated",
     "memory": "denied, cancelled out",
     "meaning": "Denied or gave up something, so it no longer has any effect; also cancelled out the effect of something",
@@ -211,6 +311,26 @@
         "years of neglect",
         "child neglect",
         "suffer neglect"
+      ]
+    }
+  },
+  {
+    "word": "neglected",
+    "memory": "left uncared for",
+    "meaning": "Not given enough care or attention",
+    "hindi": "उपेक्षित, अनदेखा किया गया",
+    "trick": "NEG = no: no care given.",
+    "examples": [
+      "It's been neglected for like 300 years, and no one knew about it.",
+      "The old house was neglected and full of dust."
+    ],
+    "usage": {
+      "pos": "verb (past) / adjective",
+      "pattern": "be neglected (for a time) / neglect someone/something",
+      "partners": [
+        "neglected garden",
+        "badly neglected",
+        "neglected children"
       ]
     }
   },
@@ -292,6 +412,26 @@
     }
   },
   {
+    "word": "nerve",
+    "memory": "boldness, cheek",
+    "meaning": "Boldness or rudeness to do something (have the nerve to); also a fibre carrying signals in the body",
+    "hindi": "हिम्मत, गुस्ताख़ी; नस",
+    "trick": "NERVE → 'nerves of steel' = boldness.",
+    "examples": [
+      "You have a lot of nerve, brawling in front of my House!",
+      "She had the nerve to ask for more money."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "have the nerve to do something / have a lot of nerve",
+      "partners": [
+        "have the nerve",
+        "lose your nerve",
+        "a lot of nerve"
+      ]
+    }
+  },
+  {
     "word": "nestled",
     "memory": "snuggled, settled cosily",
     "meaning": "Settled into a warm, comfortable, protected position",
@@ -346,6 +486,46 @@
       "partners": [
         "high neuroticism",
         "anxiety and neuroticism"
+      ]
+    }
+  },
+  {
+    "word": "newcomer",
+    "memory": "someone new",
+    "meaning": "A person who has recently arrived somewhere or started something",
+    "hindi": "नया आने वाला, नवागंतुक",
+    "trick": "NEW + COMER → someone who just CAME, they're NEW.",
+    "examples": [
+      "I may have lashed out at this newcomer too mercilessly.",
+      "The team welcomed the newcomer with a small party."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a newcomer to something",
+      "partners": [
+        "a newcomer to the city",
+        "welcome the newcomer",
+        "relative newcomer"
+      ]
+    }
+  },
+  {
+    "word": "nibbled",
+    "memory": "ate small bites",
+    "meaning": "Ate something by taking small, gentle bites",
+    "hindi": "कुतर-कुतर कर खाया, थोड़ा-थोड़ा खाया",
+    "trick": "A rabbit NIBBLES a carrot.",
+    "examples": [
+      "I really only nibbled today!",
+      "The mouse nibbled the cheese."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "nibble (on/at) something",
+      "partners": [
+        "nibbled on a biscuit",
+        "nibbled at her food",
+        "nibbled the cheese"
       ]
     }
   },
@@ -665,6 +845,26 @@
     }
   },
   {
+    "word": "notified",
+    "memory": "informed, told",
+    "meaning": "Officially told someone about something",
+    "hindi": "सूचित किया, सूचना दी",
+    "trick": "Phone NOTIFICATION = you got notified.",
+    "examples": [
+      "When we notified Mr. Goto, who was away on an expedition...",
+      "The school notified parents about the holiday."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "notify someone of/about something / be notified",
+      "partners": [
+        "notified the police",
+        "be notified of",
+        "notified in writing"
+      ]
+    }
+  },
+  {
     "word": "notion",
     "memory": "idea, belief",
     "meaning": "An idea or belief about something",
@@ -822,6 +1022,26 @@
     }
   },
   {
+    "word": "nudge",
+    "memory": "gentle push, prod",
+    "meaning": "A gentle push or reminder to do something; also a light push with the elbow",
+    "hindi": "हल्का धक्का, इशारा",
+    "trick": "NUDGE ≈ 'nuj' → a little kohni ka push.",
+    "examples": [
+      "I'll give them another nudge later!",
+      "Give me a nudge if I fall asleep."
+    ],
+    "usage": {
+      "pos": "noun / verb",
+      "pattern": "give someone a nudge / nudge someone (to do something)",
+      "partners": [
+        "a gentle nudge",
+        "give a nudge",
+        "nudge someone towards"
+      ]
+    }
+  },
+  {
     "word": "nuggets",
     "memory": "small gold lumps",
     "meaning": "Small lumps of gold; also small valuable bits of information",
@@ -878,6 +1098,46 @@
         "nursing an injury",
         "nursing a cold",
         "nursing a grudge"
+      ]
+    }
+  },
+  {
+    "word": "nurture",
+    "memory": "care for, help grow",
+    "meaning": "To care for and help someone or something grow and develop",
+    "hindi": "पोषण करना, पालना-पोसना",
+    "trick": "NURse + NURture — a nurse cares for you.",
+    "examples": [
+      "This is how you nurture friendship, you know.",
+      "Good teachers nurture a love of reading."
+    ],
+    "usage": {
+      "pos": "verb (also noun)",
+      "pattern": "nurture someone/something",
+      "partners": [
+        "nurture talent",
+        "nurture a friendship",
+        "nature vs nurture"
+      ]
+    }
+  },
+  {
+    "word": "nutritious",
+    "memory": "healthy, nourishing",
+    "meaning": "Full of the things the body needs to be healthy",
+    "hindi": "पौष्टिक",
+    "trick": "NUTRItious → full of nutrition, like nuts.",
+    "examples": [
+      "I want him to have something more nutritious to eat!",
+      "Fruit is a nutritious snack."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "nutritious + food/meal",
+      "partners": [
+        "nutritious food",
+        "nutritious meal",
+        "healthy and nutritious"
       ]
     }
   },

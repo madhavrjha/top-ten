@@ -60,6 +60,26 @@
     }
   },
   {
+    "word": "wafting",
+    "memory": "drifting gently",
+    "meaning": "(Of a smell or sound) moving gently through the air",
+    "hindi": "हवा में तैरती, फैलती (गंध)",
+    "trick": "WAFT — like a soft 'whiff' that floats.",
+    "examples": [
+      "An odd scent is wafting this way.",
+      "The smell of samosas was wafting from the kitchen."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "something wafts from/through somewhere",
+      "partners": [
+        "wafting through",
+        "wafting from the kitchen",
+        "scent wafting"
+      ]
+    }
+  },
+  {
     "word": "wagers",
     "memory": "bets",
     "meaning": "Bets; money or things risked on a result",
@@ -380,6 +400,26 @@
     }
   },
   {
+    "word": "warded",
+    "memory": "pushed away, blocked",
+    "meaning": "Pushed away or blocked an attack or danger (warded off)",
+    "hindi": "रोक दिया, टाल दिया",
+    "trick": "WARD = guard → a guard WARDED OFF the enemy.",
+    "examples": [
+      "The belts he warded off with his sword ridge are now pinned in one spot!",
+      "She warded off the cold with a thick jacket."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "ward off something",
+      "partners": [
+        "warded off the attack",
+        "warded off evil",
+        "warded off illness"
+      ]
+    }
+  },
+  {
     "word": "warden",
     "memory": "keeper, guard",
     "meaning": "A person in charge of a place such as a prison or a home for old people",
@@ -396,6 +436,26 @@
         "prison warden",
         "hostel warden",
         "game warden"
+      ]
+    }
+  },
+  {
+    "word": "warding",
+    "memory": "protecting, keeping away",
+    "meaning": "Protecting against or keeping away danger or evil (from 'ward off')",
+    "hindi": "रक्षा करने वाला, बचाव का",
+    "trick": "WARD → a hospital ward keeps you safe; warding keeps evil away.",
+    "examples": [
+      "Warding mask.",
+      "She wore a warm coat, warding off the cold."
+    ],
+    "usage": {
+      "pos": "verb (-ing) / adjective",
+      "pattern": "ward off something (danger, evil, illness)",
+      "partners": [
+        "ward off evil",
+        "warding mask",
+        "ward off the cold"
       ]
     }
   },
@@ -600,6 +660,26 @@
     }
   },
   {
+    "word": "waterfall",
+    "memory": "falling stream",
+    "meaning": "A place where a river falls from a high place",
+    "hindi": "झरना",
+    "trick": "WATER + FALL → water falling down.",
+    "examples": [
+      "You'll start off by cold plunging in the waterfall...",
+      "We took a photo near the waterfall."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a waterfall / under the waterfall",
+      "partners": [
+        "huge waterfall",
+        "under the waterfall",
+        "waterfall trail"
+      ]
+    }
+  },
+  {
     "word": "waver",
     "memory": "doubt, hesitate",
     "meaning": "To become unsure or weaker in a belief or decision",
@@ -676,6 +756,46 @@
         "waylaid by",
         "feel waylaid",
         "got waylaid"
+      ]
+    }
+  },
+  {
+    "word": "weakling",
+    "memory": "weak person",
+    "meaning": "A person who is physically or mentally weak",
+    "hindi": "कमज़ोर व्यक्ति, दुर्बल",
+    "trick": "Weak + ling (small) → a little weak one.",
+    "examples": [
+      "Crumpled on the ground that night, you were an absolute weakling.",
+      "He was a weakling as a kid but now lifts weights."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a weakling / call someone a weakling",
+      "partners": [
+        "absolute weakling",
+        "a puny weakling",
+        "no weakling"
+      ]
+    }
+  },
+  {
+    "word": "weaklings",
+    "memory": "weak people",
+    "meaning": "People who are physically or mentally weak",
+    "hindi": "कमज़ोर लोग, दुर्बल",
+    "trick": "Weak + lings (little ones) → little weak ones.",
+    "examples": [
+      "Such delicate, fragile weaklings!",
+      "The bully called them weaklings."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "a bunch of weaklings / call someone weaklings",
+      "partners": [
+        "fragile weaklings",
+        "bunch of weaklings",
+        "pathetic weaklings"
       ]
     }
   },
@@ -776,6 +896,26 @@
         "weaved through traffic",
         "weaved between",
         "weaved in and out"
+      ]
+    }
+  },
+  {
+    "word": "weaving",
+    "memory": "moving in and out",
+    "meaning": "Moving by twisting and turning to avoid things; also making cloth from threads",
+    "hindi": "इधर-उधर बच निकलना; बुनाई",
+    "trick": "WEAVE → like a thread weaving through cloth.",
+    "examples": [
+      "It blunted my sword slash by bending and weaving.",
+      "The biker was weaving through traffic."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "weaving through/between things / weaving cloth",
+      "partners": [
+        "weaving through traffic",
+        "bobbing and weaving",
+        "weaving baskets"
       ]
     }
   },
@@ -1259,6 +1399,26 @@
     }
   },
   {
+    "word": "whine",
+    "memory": "complain, moan",
+    "meaning": "To complain in an annoying, childish way; also, to make a long high sound",
+    "hindi": "शिकायत करना, रोना-धोना",
+    "trick": "WHINE (not wine!) → kids whine for sweets.",
+    "examples": [
+      "A man shouldn't whine. It's unseemly.",
+      "Stop whining and finish your homework."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "whine about something",
+      "partners": [
+        "whine about",
+        "stop whining",
+        "dog whined"
+      ]
+    }
+  },
+  {
     "word": "whined",
     "memory": "made long sad sound",
     "meaning": "(Of a dog) made a long, high, sad sound; also complained in an annoying way",
@@ -1479,6 +1639,26 @@
     }
   },
   {
+    "word": "whoa",
+    "memory": "wow; stop",
+    "meaning": "Informal: said to show surprise; also used to tell someone (or a horse) to stop or slow down",
+    "hindi": "अरे वाह; रुको (बोलचाल)",
+    "trick": "WHOA → what a horse rider shouts to stop.",
+    "examples": [
+      "Whoa! So, the old guy's on a rampage, huh?",
+      "Whoa, slow down, you're talking too fast."
+    ],
+    "usage": {
+      "pos": "interjection (informal)",
+      "pattern": "Whoa, ...!",
+      "partners": [
+        "whoa, slow down",
+        "whoa, look at that",
+        "whoa there"
+      ]
+    }
+  },
+  {
     "word": "wholly",
     "memory": "completely",
     "meaning": "Completely; fully",
@@ -1595,6 +1775,86 @@
         "widow's peak",
         "young widow",
         "left a widow"
+      ]
+    }
+  },
+  {
+    "word": "wield",
+    "memory": "handle, use",
+    "meaning": "To hold and use a weapon or tool; also, to have and use power",
+    "hindi": "चलाना (हथियार); इस्तेमाल करना (शक्ति)",
+    "trick": "WIELD → 'wheel it': you swing and handle your weapon.",
+    "examples": [
+      "I wield my sword...",
+      "Only a few people wield real power in the company."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "wield something (a sword, power)",
+      "partners": [
+        "wield a sword",
+        "wield power",
+        "wield influence"
+      ]
+    }
+  },
+  {
+    "word": "wielded",
+    "memory": "used, handled",
+    "meaning": "(Of a weapon or tool) held and used; also, (of power) had and used",
+    "hindi": "चलाया (हथियार); इस्तेमाल किया",
+    "trick": "WIELD → 'wheel it': handle and swing.",
+    "examples": [
+      "The swords wielded by the Demon Slayer Corps...",
+      "The king wielded great power."
+    ],
+    "usage": {
+      "pos": "verb (past participle)",
+      "pattern": "wield something / something wielded by someone",
+      "partners": [
+        "wielded a sword",
+        "wielded power",
+        "wielded influence"
+      ]
+    }
+  },
+  {
+    "word": "wielder",
+    "memory": "user, handler",
+    "meaning": "A person who holds and uses a weapon, tool or power",
+    "hindi": "धारक, चलाने वाला",
+    "trick": "WIELDER — the one who WIELDS (holds and swings) the sword.",
+    "examples": [
+      "The handiwork of a Blood Demon Arts wielder adept at hiding objects.",
+      "He was a skilled wielder of the bat."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a wielder of something (a sword, power)",
+      "partners": [
+        "sword wielder",
+        "wielder of power",
+        "skilled wielder"
+      ]
+    }
+  },
+  {
+    "word": "wields",
+    "memory": "holds and uses",
+    "meaning": "Holds and uses power, a weapon or a tool",
+    "hindi": "चलाता है, रखता है (शक्ति)",
+    "trick": "WIELDS — sounds like 'wheels' — he spins power like wheels.",
+    "examples": [
+      "The power he wields is mind-blowing!",
+      "She wields a lot of power in the company."
+    ],
+    "usage": {
+      "pos": "verb (present, he/she)",
+      "pattern": "wield power/influence/a weapon",
+      "partners": [
+        "wields power",
+        "wields influence",
+        "wields a sword"
       ]
     }
   },
@@ -1898,6 +2158,46 @@
     }
   },
   {
+    "word": "wipe",
+    "memory": "rub clean",
+    "meaning": "To clean or dry something by rubbing it with a cloth or your hand",
+    "hindi": "पोंछना, साफ़ करना",
+    "trick": "Car WIPERS wipe the glass.",
+    "examples": [
+      "And wipe that smirk off of your face!",
+      "Please wipe the table after dinner."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "wipe something (off/away) / wipe something clean",
+      "partners": [
+        "wipe the table",
+        "wipe away tears",
+        "wipe that smile off your face"
+      ]
+    }
+  },
+  {
+    "word": "wiped",
+    "memory": "cleaned off, removed",
+    "meaning": "Rubbed something to clean or remove it; \"wipe that look off your face\" = stop looking like that",
+    "hindi": "पोंछा, मिटा दिया",
+    "trick": "WIPE → WIPEr cleans the glass",
+    "examples": [
+      "It's high time you wiped that gloomy look off your face!",
+      "He wiped the table after lunch."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "wipe something (off something) / wipe that smile off your face",
+      "partners": [
+        "wiped the table",
+        "wiped away tears",
+        "wiped out"
+      ]
+    }
+  },
+  {
     "word": "wiry",
     "memory": "stiff, coarse",
     "meaning": "(Of hair) stiff and rough like wire; also (of a person) thin but strong",
@@ -1934,6 +2234,26 @@
         "wisps of hair",
         "wisps of smoke",
         "wisps of cloud"
+      ]
+    }
+  },
+  {
+    "word": "wisteria",
+    "memory": "purple climbing flower",
+    "meaning": "A climbing plant with hanging bunches of purple or white flowers",
+    "hindi": "विस्टीरिया (बैंगनी लटकते फूलों वाली बेल)",
+    "trick": "WISTERIA → 'wistful' purple flowers hanging down.",
+    "examples": [
+      "Look at all these wisteria flowers.",
+      "Wisteria covered the old garden wall."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "wisteria flowers / a wisteria tree",
+      "partners": [
+        "wisteria flowers",
+        "wisteria vine",
+        "purple wisteria"
       ]
     }
   },
@@ -2013,6 +2333,26 @@
       "partners": [
         "and so, without further ado",
         "let's begin without further ado"
+      ]
+    }
+  },
+  {
+    "word": "withstand",
+    "memory": "bear, survive",
+    "meaning": "To bear or survive something strong or harmful without being damaged",
+    "hindi": "सहन करना, झेलना",
+    "trick": "WITH + STAND — you keep standing WITH the pressure on you.",
+    "examples": [
+      "The human body is unable to withstand the speed of transformation.",
+      "This old bridge can withstand heavy trucks."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "withstand something (pressure, heat, an attack)",
+      "partners": [
+        "withstand pressure",
+        "withstand the heat",
+        "withstand an attack"
       ]
     }
   },
@@ -2316,6 +2656,46 @@
     }
   },
   {
+    "word": "worshippers",
+    "memory": "devoted followers",
+    "meaning": "People who worship a god, idol or person; devoted admirers",
+    "hindi": "उपासक, भक्त, पूजा करने वाले",
+    "trick": "Worship + pers → the people who do the worship.",
+    "examples": [
+      "My job is to attain bliss with all of my worshippers.",
+      "The temple was full of worshippers on the festival day."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "the worshippers of someone/something / worshippers at a place",
+      "partners": [
+        "devoted worshippers",
+        "worshippers at the temple",
+        "crowd of worshippers"
+      ]
+    }
+  },
+  {
+    "word": "worshipping",
+    "memory": "adoring, praying to",
+    "meaning": "Showing deep respect and love to a god or a person, often by praying",
+    "hindi": "पूजा करते हुए, आराधना करना",
+    "trick": "Worship + ping → the action going on right now.",
+    "examples": [
+      "At first, I didn't know how to deal with the hordes of people worshipping me.",
+      "Fans were worshipping the singer outside the hotel."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "worship someone/something / be worshipping at somewhere",
+      "partners": [
+        "worshipping god",
+        "hero worshipping",
+        "worshipping the ground someone walks on"
+      ]
+    }
+  },
+  {
     "word": "wound",
     "memory": "tense, worked up",
     "meaning": "In \"... up\": nervous, upset or angry; also wrapped round (past of wind)",
@@ -2352,6 +2732,26 @@
         "wounded look",
         "wounded pride",
         "badly wounded"
+      ]
+    }
+  },
+  {
+    "word": "wounds",
+    "memory": "injuries",
+    "meaning": "Injuries to the body, such as cuts, where the skin is broken",
+    "hindi": "घाव, ज़ख्म",
+    "trick": "WOUND → 'wound' with a bandage wound around it.",
+    "examples": [
+      "Wounds heal in the blink of an eye.",
+      "The nurse cleaned his wounds carefully."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "heal/treat wounds / suffer wounds",
+      "partners": [
+        "deep wounds",
+        "heal wounds",
+        "old wounds"
       ]
     }
   },
@@ -2396,6 +2796,26 @@
     }
   },
   {
+    "word": "wrapped",
+    "memory": "covered, bandaged",
+    "meaning": "Covered or wound something (cloth, paper) around someone or something",
+    "hindi": "लपेटा, ढका",
+    "trick": "Gift WRAPPED → covered in paper.",
+    "examples": [
+      "She has the same kind of hair ornament as the lady who wrapped us up.",
+      "I wrapped the gift in red paper."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "wrap someone/something (up) in something",
+      "partners": [
+        "wrapped in paper",
+        "wrapped up",
+        "wrapped in a blanket"
+      ]
+    }
+  },
+  {
     "word": "wrath",
     "memory": "great anger",
     "meaning": "Very great anger",
@@ -2412,6 +2832,26 @@
         "father's wrath",
         "face the wrath",
         "incur the wrath"
+      ]
+    }
+  },
+  {
+    "word": "wreak",
+    "memory": "cause (damage)",
+    "meaning": "To cause a lot of damage or harm (used with havoc, damage)",
+    "hindi": "मचाना (तबाही), पहुँचाना (नुकसान)",
+    "trick": "WREAK ≈ WRECK → wreak havoc = wreck everything.",
+    "examples": [
+      "If I dodge them, they might wreak even more havoc.",
+      "The storm could wreak havoc on the crops."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "wreak havoc (on something) / wreak revenge",
+      "partners": [
+        "wreak havoc",
+        "wreak damage",
+        "wreak revenge"
       ]
     }
   },
@@ -2572,6 +3012,26 @@
         "writhing with",
         "writhing in pain",
         "writhing snakes"
+      ]
+    }
+  },
+  {
+    "word": "wronged",
+    "memory": "treated unfairly",
+    "meaning": "Treated someone unfairly or badly",
+    "hindi": "अन्याय किया, बुरा किया",
+    "trick": "WRONG + ed → did wrong to someone.",
+    "examples": [
+      "I know that I wronged you.",
+      "She felt wronged when he blamed her for his mistake."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "wrong someone / feel wronged",
+      "partners": [
+        "wronged you",
+        "feel wronged",
+        "the wronged party"
       ]
     }
   },

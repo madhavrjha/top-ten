@@ -99,6 +99,26 @@
     }
   },
   {
+    "word": "kimono",
+    "memory": "Japanese robe",
+    "meaning": "A long, loose traditional Japanese robe with wide sleeves, tied with a sash",
+    "hindi": "जापानी पारंपरिक लंबा चोगा",
+    "trick": "KI-MO-NO — 'key? More? No!' — no pockets for keys in a kimono.",
+    "examples": [
+      "You splattered my kimono with dust!",
+      "She wore a silk kimono at the festival."
+    ],
+    "usage": {
+      "pos": "noun (Japanese loanword)",
+      "pattern": "wear a kimono / in a kimono",
+      "partners": [
+        "silk kimono",
+        "wear a kimono",
+        "traditional kimono"
+      ]
+    }
+  },
+  {
     "word": "kindle",
     "memory": "light, start",
     "meaning": "To light a fire; also to make a feeling start",
@@ -135,6 +155,26 @@
         "dry kindling",
         "gather kindling",
         "as kindling"
+      ]
+    }
+  },
+  {
+    "word": "kindness",
+    "memory": "being kind, caring",
+    "meaning": "Being friendly, generous and caring towards others",
+    "hindi": "दयालुता, मेहरबानी",
+    "trick": "KIND + ness = the quality of being kind.",
+    "examples": [
+      "Don't go showering me with your sensitivity and kindness!",
+      "Thank you for your kindness."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "show kindness to someone / an act of kindness",
+      "partners": [
+        "an act of kindness",
+        "show kindness",
+        "out of kindness"
       ]
     }
   },

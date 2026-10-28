@@ -50,9 +50,18 @@ export default function WordDetails({ word, showTitle = true }) {
 
       {word.examples.length > 0 && (
         <section className="d-block">
-          <div className="d-head"><span className="d-kicker">Examples</span></div>
+          <div className="d-head">
+            <span className="d-kicker">Examples</span>
+            {(word.sources || []).map(src => (
+              <span key={src.slug} className="d-pos" title={`From ${src.title}`}>{src.icon} {src.title}</span>
+            ))}
+          </div>
           <ul className="d-examples">
             {word.examples.map((e, i) => <li key={i}>{highlight(e, word.lower)}</li>)}
+            {/* The show's line, when it isn't already one of the examples. */}
+            {(word.sources || []).filter(src => !word.examples.includes(src.line)).map(src => (
+              <li key={src.slug} className="d-source-line">{src.icon} {highlight(src.line, word.lower)}</li>
+            ))}
           </ul>
         </section>
       )}

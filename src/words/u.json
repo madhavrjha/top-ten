@@ -40,6 +40,46 @@
     }
   },
   {
+    "word": "udon",
+    "memory": "thick noodles",
+    "meaning": "Thick Japanese wheat noodles, often served in hot soup",
+    "hindi": "उडोन (जापानी मोटी नूडल्स)",
+    "trick": "UDON → 'oo-don' — thick Japanese noodles.",
+    "examples": [
+      "A bowl of udon with grated yam on top, please.",
+      "We had hot udon on a rainy day."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a bowl of udon",
+      "partners": [
+        "bowl of udon",
+        "udon noodles",
+        "hot udon"
+      ]
+    }
+  },
+  {
+    "word": "ugliness",
+    "memory": "being ugly",
+    "meaning": "The quality of being unpleasant to look at; also unpleasantness or nastiness",
+    "hindi": "कुरूपता, भद्दापन",
+    "trick": "UGLY + ness → ugliness.",
+    "examples": [
+      "The sheer ugliness of a demon!",
+      "The film shows the ugliness of war."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "the ugliness of something",
+      "partners": [
+        "sheer ugliness",
+        "the ugliness of war",
+        "inner ugliness"
+      ]
+    }
+  },
+  {
     "word": "ulterior",
     "memory": "hidden, secret",
     "meaning": "(Of a reason) kept hidden, not the one you say",
@@ -140,6 +180,26 @@
     }
   },
   {
+    "word": "unarmed",
+    "memory": "without weapons",
+    "meaning": "Not carrying any weapon",
+    "hindi": "निहत्था",
+    "trick": "UN + ARMED → no arms (weapons).",
+    "examples": [
+      "He was brazen enough to attack me unarmed.",
+      "The guard was unarmed but still brave."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be unarmed / an unarmed + person",
+      "partners": [
+        "unarmed man",
+        "unarmed combat",
+        "completely unarmed"
+      ]
+    }
+  },
+  {
     "word": "unassailable",
     "memory": "impossible to argue against",
     "meaning": "Too strong to be questioned or defeated",
@@ -156,6 +216,46 @@
         "unassailable logic",
         "unassailable lead",
         "unassailable position"
+      ]
+    }
+  },
+  {
+    "word": "unaware",
+    "memory": "not knowing",
+    "meaning": "Not knowing or realising something",
+    "hindi": "अनजान, बेखबर",
+    "trick": "UN + AWARE → not aware.",
+    "examples": [
+      "He's so immersed that he's unaware of me!",
+      "I was unaware that the shop had closed."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be unaware of something / unaware that...",
+      "partners": [
+        "completely unaware",
+        "unaware of the danger",
+        "blissfully unaware"
+      ]
+    }
+  },
+  {
+    "word": "unbearable",
+    "memory": "too painful, intolerable",
+    "meaning": "Too painful, bad or unpleasant to put up with",
+    "hindi": "असहनीय, बर्दाश्त से बाहर",
+    "trick": "un + bear + able → you are NOT ABLE to BEAR it.",
+    "examples": [
+      "\"Unbearable\" barely even scratches the surface!",
+      "The heat in the kitchen was unbearable."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be unbearable / an unbearable + noun / unbearable for someone",
+      "partners": [
+        "unbearable pain",
+        "unbearable heat",
+        "almost unbearable"
       ]
     }
   },
@@ -240,6 +340,46 @@
     }
   },
   {
+    "word": "unconscious",
+    "memory": "passed out",
+    "meaning": "Not awake and not aware, like being in a deep sleep after an injury; also not done on purpose",
+    "hindi": "बेहोश; अनजाने में",
+    "trick": "UN + CONSCIOUS → not awake to the world.",
+    "examples": [
+      "...after being unconscious for seven days?",
+      "He was knocked unconscious by the fall."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be/fall unconscious / knock someone unconscious",
+      "partners": [
+        "knocked unconscious",
+        "lie unconscious",
+        "unconscious bias"
+      ]
+    }
+  },
+  {
+    "word": "uncontrollably",
+    "memory": "without control",
+    "meaning": "In a way that cannot be stopped or controlled",
+    "hindi": "बेकाबू होकर, अनियंत्रित रूप से",
+    "trick": "Un + control + ably → no control at all.",
+    "examples": [
+      "...began to swell uncontrollably.",
+      "She laughed uncontrollably at the joke."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "verb + uncontrollably (shake, cry, laugh)",
+      "partners": [
+        "shake uncontrollably",
+        "cry uncontrollably",
+        "laugh uncontrollably"
+      ]
+    }
+  },
+  {
     "word": "undaunted",
     "memory": "not discouraged",
     "meaning": "Not put off or afraid despite difficulty",
@@ -256,6 +396,26 @@
         "undaunted by",
         "remain undaunted",
         "undaunted spirit"
+      ]
+    }
+  },
+  {
+    "word": "undeniably",
+    "memory": "certainly, clearly",
+    "meaning": "In a way that cannot be denied; definitely",
+    "hindi": "निस्संदेह, बेशक",
+    "trick": "UN + DENY + ABLY — you can't DENY it.",
+    "examples": [
+      "Then they're undeniably more formidable than any other demon you've killed until now!",
+      "The film was undeniably good."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "be undeniably + adjective",
+      "partners": [
+        "undeniably true",
+        "undeniably beautiful",
+        "undeniably better"
       ]
     }
   },
@@ -296,6 +456,26 @@
         "underfed animals",
         "underfed children",
         "look underfed"
+      ]
+    }
+  },
+  {
+    "word": "undermines",
+    "memory": "weakens slowly",
+    "meaning": "Gradually weakens or damages something, often secretly",
+    "hindi": "कमज़ोर करता है, खोखला करता है",
+    "trick": "Digging a mine UNDER a wall — it slowly falls.",
+    "examples": [
+      "Which, in turn, undermines subordination.",
+      "Lying undermines trust between friends."
+    ],
+    "usage": {
+      "pos": "verb (present, he/she/it)",
+      "pattern": "something undermines something",
+      "partners": [
+        "undermines trust",
+        "undermines confidence",
+        "undermines authority"
       ]
     }
   },
@@ -356,6 +536,26 @@
         "the undertaker's men",
         "local undertaker",
         "call the undertaker"
+      ]
+    }
+  },
+  {
+    "word": "underwater",
+    "memory": "below the water",
+    "meaning": "Under the surface of water",
+    "hindi": "पानी के नीचे",
+    "trick": "Under + water — easy!",
+    "examples": [
+      "I could smell this shimmering stone even underwater.",
+      "She can hold her breath underwater for a minute."
+    ],
+    "usage": {
+      "pos": "adverb / adjective",
+      "pattern": "underwater / an underwater + noun",
+      "partners": [
+        "swim underwater",
+        "underwater camera",
+        "hold your breath underwater"
       ]
     }
   },
@@ -500,6 +700,26 @@
     }
   },
   {
+    "word": "unhealthy",
+    "memory": "not healthy, sickly",
+    "meaning": "Not in good health, or bad for your health",
+    "hindi": "अस्वस्थ, बीमार-सा; सेहत के लिए हानिकारक",
+    "trick": "UN + HEALTHY = not healthy.",
+    "examples": [
+      "Does my complexion look unhealthy to you?",
+      "Eating chips every day is unhealthy."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "look unhealthy / an unhealthy + habit/diet/food",
+      "partners": [
+        "unhealthy food",
+        "unhealthy habit",
+        "look unhealthy"
+      ]
+    }
+  },
+  {
     "word": "unhindered",
     "memory": "free, unobstructed",
     "meaning": "Without anything getting in the way",
@@ -640,6 +860,26 @@
     }
   },
   {
+    "word": "unleash",
+    "memory": "release, let loose",
+    "meaning": "To suddenly release a strong force or attack",
+    "hindi": "छोड़ देना, खोल देना",
+    "trick": "UN + LEASH — take the dog off its LEASH, and it rushes out.",
+    "examples": [
+      "Unleash a move to blunt the attack!",
+      "She unleashed her anger on the waiter."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "unleash something (on someone)",
+      "partners": [
+        "unleash an attack",
+        "unleash anger",
+        "unleash power"
+      ]
+    }
+  },
+  {
     "word": "unleashed",
     "memory": "let loose, released",
     "meaning": "Suddenly let out a strong force or feeling",
@@ -715,6 +955,26 @@
       "partners": [
         "unpretzel your brain",
         "unpretzel your mind"
+      ]
+    }
+  },
+  {
+    "word": "unquestionably",
+    "memory": "without doubt, certainly",
+    "meaning": "In a way that cannot be doubted; certainly",
+    "hindi": "निस्संदेह, बेशक",
+    "trick": "UN + QUESTION + ABLY — no QUESTION about it.",
+    "examples": [
+      "...would unquestionably go berserk.",
+      "She is unquestionably the best player on the team."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "unquestionably + adjective / be unquestionably the best",
+      "partners": [
+        "unquestionably true",
+        "unquestionably the best",
+        "unquestionably important"
       ]
     }
   },
@@ -839,6 +1099,26 @@
     }
   },
   {
+    "word": "unseasoned",
+    "memory": "inexperienced, new",
+    "meaning": "Not having much experience; also (of food) without salt or spices",
+    "hindi": "अनुभवहीन, नौसिखिया; बिना मसाले का",
+    "trick": "Not SEASONED — hasn't seen many seasons yet.",
+    "examples": [
+      "As a swordsmith, the child is still unseasoned.",
+      "The team was full of unseasoned players."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be unseasoned / an unseasoned + player/worker",
+      "partners": [
+        "unseasoned player",
+        "unseasoned troops",
+        "unseasoned food"
+      ]
+    }
+  },
+  {
     "word": "unseeingly",
     "memory": "without really looking",
     "meaning": "In a way that shows someone is looking but not noticing, often lost in thought",
@@ -855,6 +1135,26 @@
         "stare unseeingly",
         "look unseeingly",
         "gaze unseeingly"
+      ]
+    }
+  },
+  {
+    "word": "unseemly",
+    "memory": "improper",
+    "meaning": "Not proper or suitable in behaviour",
+    "hindi": "अनुचित, अशोभनीय",
+    "trick": "UN + SEEMLY → it doesn't 'seem' right.",
+    "examples": [
+      "A man shouldn't whine. It's unseemly.",
+      "It is unseemly to laugh at a funeral."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be unseemly / unseemly + behaviour",
+      "partners": [
+        "unseemly behaviour",
+        "unseemly haste",
+        "unseemly conduct"
       ]
     }
   },
@@ -1234,6 +1534,46 @@
         "kitchen utensils",
         "cooking utensils",
         "wash the utensils"
+      ]
+    }
+  },
+  {
+    "word": "utmost",
+    "memory": "greatest, highest",
+    "meaning": "The greatest or highest amount or degree possible",
+    "hindi": "अत्यधिक, चरम सीमा",
+    "trick": "UT-MOST = the very MOST.",
+    "examples": [
+      "Hone it to the utmost limit!",
+      "I have the utmost respect for my teachers."
+    ],
+    "usage": {
+      "pos": "adjective / noun",
+      "pattern": "the utmost + noun / do your utmost (to do something)",
+      "partners": [
+        "utmost respect",
+        "utmost care",
+        "do your utmost"
+      ]
+    }
+  },
+  {
+    "word": "utterly",
+    "memory": "completely",
+    "meaning": "Completely, totally",
+    "hindi": "पूरी तरह, बिल्कुल",
+    "trick": "UTTERLY → utter = complete.",
+    "examples": [
+      "I'm feeling utterly disenchanted, Ubuyashiki.",
+      "I was utterly exhausted after the trip."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "utterly + adjective",
+      "partners": [
+        "utterly exhausted",
+        "utterly ridiculous",
+        "utterly alone"
       ]
     }
   }

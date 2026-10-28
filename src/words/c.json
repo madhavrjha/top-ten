@@ -1,5 +1,25 @@
 [
   {
+    "word": "Cheshire cat",
+    "memory": "huge wide grin",
+    "meaning": "A cat from 'Alice in Wonderland' famous for its huge grin; to smile like it = to smile very widely, often smugly",
+    "hindi": "मुस्कुराती बिल्ली (बहुत चौड़ी मुस्कान)",
+    "trick": "Alice's grinning cat from CHESHIRE: only the smile stays.",
+    "examples": [
+      "I smiled like the Cheshire cat.",
+      "He walked in grinning like a Cheshire cat."
+    ],
+    "usage": {
+      "pos": "noun (idiom)",
+      "pattern": "grin/smile like a Cheshire cat",
+      "partners": [
+        "grin like a Cheshire cat",
+        "smile like a Cheshire cat",
+        "Cheshire cat grin"
+      ]
+    }
+  },
+  {
     "word": "cabal",
     "memory": "secret group, clique",
     "meaning": "A small group of people who work together, often secretly, for their own aims; (playful) a close group",
@@ -300,6 +320,26 @@
     }
   },
   {
+    "word": "candid",
+    "memory": "honest, open",
+    "meaning": "Honest and open, saying what you really think",
+    "hindi": "स्पष्टवादी, खुला",
+    "trick": "CANDID camera → shows the real, honest you.",
+    "examples": [
+      "I can see you've learned to be much more candid about voicing your feelings.",
+      "Thank you for being so candid with me."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be candid with someone / about something",
+      "partners": [
+        "candid answer",
+        "candid with",
+        "candid photo"
+      ]
+    }
+  },
+  {
     "word": "candor",
     "memory": "honesty",
     "meaning": "Being honest and open in what you say",
@@ -356,6 +396,26 @@
         "gas canister",
         "metal canister",
         "oxygen canister"
+      ]
+    }
+  },
+  {
+    "word": "cannibalize",
+    "memory": "eat own kind",
+    "meaning": "To eat the flesh of your own kind; also take parts from one machine to use in another",
+    "hindi": "अपनी ही जाति को खाना",
+    "trick": "CANNIBAL + IZE — act like a cannibal.",
+    "examples": [
+      "The reason why demons cannibalize each other?",
+      "Some fish cannibalize their young."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "cannibalize each other / cannibalize something for parts",
+      "partners": [
+        "cannibalize each other",
+        "cannibalize their young",
+        "cannibalize parts"
       ]
     }
   },
@@ -580,6 +640,26 @@
     }
   },
   {
+    "word": "captives",
+    "memory": "prisoners",
+    "meaning": "People or animals kept as prisoners",
+    "hindi": "बंदी, कैदी",
+    "trick": "CAPTive → CAPTured people.",
+    "examples": [
+      "The human captives inside had been liquefied.",
+      "The soldiers freed the captives."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "hold/take someone captive / free the captives",
+      "partners": [
+        "free the captives",
+        "hold captives",
+        "release captives"
+      ]
+    }
+  },
+  {
     "word": "captors",
     "memory": "kidnappers, guards",
     "meaning": "People who have captured someone and are holding them prisoner",
@@ -780,6 +860,66 @@
     }
   },
   {
+    "word": "carve",
+    "memory": "cut up, slice",
+    "meaning": "To cut something (or someone) into pieces; also to shape wood or stone by cutting",
+    "hindi": "काटना, टुकड़े करना; तराशना",
+    "trick": "CARVE ≈ 'curve' → a knife cuts curves when you carve.",
+    "examples": [
+      "Or I'll carve you up.",
+      "Dad will carve the chicken for dinner."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "carve something (up) / carve something out of wood/stone",
+      "partners": [
+        "carve the meat",
+        "carve up",
+        "carve wood"
+      ]
+    }
+  },
+  {
+    "word": "carved",
+    "memory": "cut into shape",
+    "meaning": "Cut into a shape from wood or stone; also, cut (meat) into slices",
+    "hindi": "नक्काशी की, तराशा",
+    "trick": "CARVE → carve a pumpkin face.",
+    "examples": [
+      "I know the texture of the masks Urokodaki carved.",
+      "He carved his name into the tree."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "carve something (out of/from something)",
+      "partners": [
+        "carved wood",
+        "carved statue",
+        "carved the turkey"
+      ]
+    }
+  },
+  {
+    "word": "cascading",
+    "memory": "pouring down",
+    "meaning": "Flowing or falling down in large amounts, like a waterfall",
+    "hindi": "झरने की तरह गिरता हुआ",
+    "trick": "CASCADE → like stacked water falling step by step.",
+    "examples": [
+      "Who knew that water cascading down from so high could feel that heavy?",
+      "Her hair was cascading over her shoulders."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "something cascading down/over something",
+      "partners": [
+        "cascading down",
+        "cascading water",
+        "cascading hair"
+      ]
+    }
+  },
+  {
     "word": "cassette",
     "memory": "music tape",
     "meaning": "A small plastic box with tape for recording music or sound (old)",
@@ -856,6 +996,26 @@
         "castrate the pigs",
         "castrate a bull",
         "castrate the lambs"
+      ]
+    }
+  },
+  {
+    "word": "casualties",
+    "memory": "people killed or injured",
+    "meaning": "People killed or injured in a war, accident or attack",
+    "hindi": "हताहत लोग, मृत और घायल",
+    "trick": "CASUAL-ties → it's never CASUAL when there are casualties",
+    "examples": [
+      "The casualties of the Mugen Train are increasing.",
+      "There were no casualties in the fire."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "casualties of something / suffer heavy casualties",
+      "partners": [
+        "heavy casualties",
+        "no casualties",
+        "civilian casualties"
       ]
     }
   },
@@ -996,6 +1156,26 @@
         "witch's cauldron",
         "boiling cauldron",
         "a cauldron of pain"
+      ]
+    }
+  },
+  {
+    "word": "caution",
+    "memory": "care, carefulness",
+    "meaning": "Great care to avoid danger or mistakes; also a warning",
+    "hindi": "सावधानी, सतर्कता; चेतावनी",
+    "trick": "CAUTION tape → be careful!",
+    "examples": [
+      "I always fight with the utmost caution.",
+      "Drive with caution on wet roads."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "with caution / exercise caution",
+      "partners": [
+        "with caution",
+        "utmost caution",
+        "a word of caution"
       ]
     }
   },
@@ -1156,6 +1336,26 @@
         "cedar and pine",
         "cedar wood",
         "cedar tree"
+      ]
+    }
+  },
+  {
+    "word": "ceiling",
+    "memory": "top of a room",
+    "meaning": "The inside top surface of a room; also an upper limit",
+    "hindi": "छत (अंदर की); ऊपरी सीमा",
+    "trick": "CEILING → you SEE it above you. 'i before e except after c' — ce-I-ling.",
+    "examples": [
+      "It's clattering around in the ceiling!",
+      "There's a fan hanging from the ceiling."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "on/in the ceiling / a ceiling on something",
+      "partners": [
+        "high ceiling",
+        "ceiling fan",
+        "price ceiling"
       ]
     }
   },
@@ -1500,6 +1700,26 @@
     }
   },
   {
+    "word": "chaplet",
+    "memory": "flower crown, wreath for the head",
+    "meaning": "A wreath or ring of flowers worn on the head",
+    "hindi": "फूलों का मुकुट, सिर की माला",
+    "trick": "CHAP-LET → a little cap (French \"chapel\" = hat) of flowers",
+    "examples": [
+      "I'll make you a chaplet!",
+      "She wore a chaplet of daisies at the fair."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a chaplet of flowers",
+      "partners": [
+        "chaplet of flowers",
+        "make a chaplet",
+        "wear a chaplet"
+      ]
+    }
+  },
+  {
     "word": "charade",
     "memory": "pretence, fake show",
     "meaning": "An act or pretence that is clearly false or silly",
@@ -1680,26 +1900,6 @@
     }
   },
   {
-    "word": "Cheshire cat",
-    "memory": "huge wide grin",
-    "meaning": "A cat from 'Alice in Wonderland' famous for its huge grin; to smile like it = to smile very widely, often smugly",
-    "hindi": "मुस्कुराती बिल्ली (बहुत चौड़ी मुस्कान)",
-    "trick": "Alice's grinning cat from CHESHIRE: only the smile stays.",
-    "examples": [
-      "I smiled like the Cheshire cat.",
-      "He walked in grinning like a Cheshire cat."
-    ],
-    "usage": {
-      "pos": "noun (idiom)",
-      "pattern": "grin/smile like a Cheshire cat",
-      "partners": [
-        "grin like a Cheshire cat",
-        "smile like a Cheshire cat",
-        "Cheshire cat grin"
-      ]
-    }
-  },
-  {
     "word": "chewy",
     "memory": "needing much chewing",
     "meaning": "Needing a lot of chewing; tough or sticky",
@@ -1776,6 +1976,26 @@
         "chill in the air",
         "morning chill",
         "a sudden chill"
+      ]
+    }
+  },
+  {
+    "word": "chilling",
+    "memory": "scary, frightening; also relaxing (informal)",
+    "meaning": "Very frightening and making you feel cold with fear; also (informal) relaxing",
+    "hindi": "डरावना, रोंगटे खड़े करने वाला; (बोलचाल) आराम करना",
+    "trick": "A CHILL runs down your spine.",
+    "examples": [
+      "And that chilling feeling of a blade pressed against your neck...",
+      "He told a chilling story about a ghost."
+    ],
+    "usage": {
+      "pos": "adjective (also verb -ing)",
+      "pattern": "a chilling + story/scream / be chilling (informal)",
+      "partners": [
+        "chilling story",
+        "chilling effect",
+        "just chilling"
       ]
     }
   },
@@ -2160,6 +2380,26 @@
     }
   },
   {
+    "word": "chronicles",
+    "memory": "written historical records",
+    "meaning": "Written records of events in the order they happened",
+    "hindi": "इतिवृत्त, घटनाओं का लेखा",
+    "trick": "CHRONO (time) → events written in time order",
+    "examples": [
+      "After all, the Flame Hashira Chronicles are stored very carefully.",
+      "The old chronicles tell the story of the king."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "the chronicles of something",
+      "partners": [
+        "ancient chronicles",
+        "family chronicles",
+        "the chronicles of a war"
+      ]
+    }
+  },
+  {
     "word": "chrysanthemums",
     "memory": "big-petalled flowers",
     "meaning": "Garden flowers with many thin petals in a round head, often yellow, white or red",
@@ -2216,6 +2456,26 @@
         "chuckle at",
         "chuckle to yourself",
         "a quiet chuckle"
+      ]
+    }
+  },
+  {
+    "word": "chummy",
+    "memory": "friendly, close",
+    "meaning": "Very friendly (informal)",
+    "hindi": "घनिष्ठ, जिगरी (बोलचाल)",
+    "trick": "CHUM = buddy → chummy = buddy-buddy.",
+    "examples": [
+      "Inosuke, you've never been chummy with a girl before, right?",
+      "The two neighbours got quite chummy."
+    ],
+    "usage": {
+      "pos": "adjective (informal)",
+      "pattern": "be/get chummy with someone",
+      "partners": [
+        "chummy with",
+        "get chummy",
+        "very chummy"
       ]
     }
   },
@@ -2316,6 +2576,26 @@
         "deploy chutes",
         "open the chutes",
         "reserve chutes"
+      ]
+    }
+  },
+  {
+    "word": "cicadas",
+    "memory": "loud summer insects",
+    "meaning": "Large insects that make a loud buzzing sound in hot weather",
+    "hindi": "झींगुर जैसे कीड़े, सिकाडा",
+    "trick": "Si-KAY-da — they sing 'zee-zee' all summer.",
+    "examples": [
+      "Because it was too hot, the cicadas were buzzing really loud.",
+      "We heard cicadas singing in the trees."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "cicadas + buzz/sing/chirp",
+      "partners": [
+        "cicadas buzzing",
+        "sound of cicadas",
+        "summer cicadas"
       ]
     }
   },
@@ -2480,6 +2760,26 @@
     }
   },
   {
+    "word": "clad",
+    "memory": "dressed",
+    "meaning": "Dressed or covered in something",
+    "hindi": "पहने हुए, ढका हुआ",
+    "trick": "CLAD ≈ CLOTHED.",
+    "examples": [
+      "She's a girl clad in a kimono with a hemp leaf pattern.",
+      "The children were clad in warm coats."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "clad in something / something-clad",
+      "partners": [
+        "clad in black",
+        "ivy-clad",
+        "scantily clad"
+      ]
+    }
+  },
+  {
     "word": "clambered",
     "memory": "climbed awkwardly",
     "meaning": "Climbed with difficulty, using hands and feet (past)",
@@ -2556,6 +2856,26 @@
         "potato clamps",
         "in the clamps",
         "cover the clamps"
+      ]
+    }
+  },
+  {
+    "word": "clan",
+    "memory": "family group",
+    "meaning": "A large group of families with the same ancestor",
+    "hindi": "कुल, वंश",
+    "trick": "CLAN ≈ family plan → one big family.",
+    "examples": [
+      "...was prodigious among the Ubuyashiki Clan.",
+      "The whole clan came to the wedding."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a clan / the clan of...",
+      "partners": [
+        "family clan",
+        "clan leader",
+        "the whole clan"
       ]
     }
   },
@@ -2700,6 +3020,26 @@
     }
   },
   {
+    "word": "clattering",
+    "memory": "making loud rattling noises",
+    "meaning": "Making a series of loud, sharp knocking sounds, like hard things hitting each other",
+    "hindi": "खड़खड़ाहट करना, खटखट करना",
+    "trick": "CLATTER sounds like the noise itself: clat-clat-clat!",
+    "examples": [
+      "It's clattering around in the ceiling!",
+      "The plates went clattering to the floor."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "something clattering around/down / go clattering",
+      "partners": [
+        "clattering around",
+        "go clattering",
+        "clattering dishes"
+      ]
+    }
+  },
+  {
     "word": "claustrophobic",
     "memory": "afraid of tight spaces",
     "meaning": "Feeling scared and trapped in small or closed spaces",
@@ -2800,6 +3140,26 @@
     }
   },
   {
+    "word": "clears",
+    "memory": "goes away, lifts",
+    "meaning": "(of smoke, fog, weather) goes away so you can see; also removes things from a place",
+    "hindi": "छँटता है, साफ़ होता है; हटाता है",
+    "trick": "When the fog CLEARS, everything is CLEAR.",
+    "examples": [
+      "Once this smoke clears, it will spell their demise.",
+      "The sky usually clears by noon."
+    ],
+    "usage": {
+      "pos": "verb (present, he/she/it)",
+      "pattern": "something clears (up) / clear something away",
+      "partners": [
+        "the smoke clears",
+        "the sky clears",
+        "clears the table"
+      ]
+    }
+  },
+  {
     "word": "cleaver",
     "memory": "butcher's chopper",
     "meaning": "A heavy knife with a wide blade used to cut meat",
@@ -2836,6 +3196,26 @@
         "cleft chin",
         "cleft palate",
         "cleft lip"
+      ]
+    }
+  },
+  {
+    "word": "clenching",
+    "memory": "squeezing tight",
+    "meaning": "Closing or squeezing your hand or teeth tightly",
+    "hindi": "कसकर भींचना",
+    "trick": "CLENCH ≈ clinch → hold tight.",
+    "examples": [
+      "I was clenching my fist to throw punches with full force.",
+      "He was clenching his teeth in anger."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "clench your fist/teeth/jaw",
+      "partners": [
+        "clenching fists",
+        "clenching teeth",
+        "clenching jaw"
       ]
     }
   },
@@ -3000,6 +3380,86 @@
     }
   },
   {
+    "word": "cloaking",
+    "memory": "hiding, concealing",
+    "meaning": "Hiding or covering something so it cannot be seen or found",
+    "hindi": "छिपाने वाला, ढकने वाला",
+    "trick": "A CLOAK covers your body; a CLOAKING spell covers the whole place.",
+    "examples": [
+      "She's in a place that's under a cloaking spell.",
+      "Fog was cloaking the hills this morning."
+    ],
+    "usage": {
+      "pos": "verb (-ing) / adjective",
+      "pattern": "cloak something in something / a cloaking + spell/device",
+      "partners": [
+        "cloaking spell",
+        "cloaking device",
+        "cloaked in mystery"
+      ]
+    }
+  },
+  {
+    "word": "clobber",
+    "memory": "beat, hit hard",
+    "meaning": "Informal: to hit someone hard or defeat them badly",
+    "hindi": "पीटना, बुरी तरह हराना (बोलचाल)",
+    "trick": "CLOBBER ≈ club + rubber → hit with a club.",
+    "examples": [
+      "How could you let a retired guy like me clobber you like this?",
+      "Our team got clobbered in the final."
+    ],
+    "usage": {
+      "pos": "verb (informal)",
+      "pattern": "clobber someone / get clobbered",
+      "partners": [
+        "clobber someone",
+        "get clobbered",
+        "clobbered by"
+      ]
+    }
+  },
+  {
+    "word": "clobbered",
+    "memory": "beaten badly",
+    "meaning": "(Informal) hit very hard again and again; also, badly defeated",
+    "hindi": "बुरी तरह पीटा (बोलचाल)",
+    "trick": "CLOBBER → 'club her' — hit with a club.",
+    "examples": [
+      "...and clobbered to a pulp.",
+      "Our team got clobbered in the final."
+    ],
+    "usage": {
+      "pos": "verb (past, informal)",
+      "pattern": "clobber someone / get clobbered",
+      "partners": [
+        "got clobbered",
+        "clobbered to a pulp",
+        "clobbered by"
+      ]
+    }
+  },
+  {
+    "word": "clobbering",
+    "memory": "hitting hard, beating",
+    "meaning": "Hitting someone hard again and again (informal); also defeating badly",
+    "hindi": "पीटना, धुनाई करना (बोलचाल)",
+    "trick": "CLOBBER ≈ club + rubber → whacking someone with a club.",
+    "examples": [
+      "So that's why you keep clobbering me day in, day out?",
+      "Stop clobbering your brother with that pillow!"
+    ],
+    "usage": {
+      "pos": "verb (-ing, informal)",
+      "pattern": "clobbering someone / get clobbered",
+      "partners": [
+        "keep clobbering",
+        "clobbering the ball",
+        "get clobbered"
+      ]
+    }
+  },
+  {
     "word": "clocking",
     "memory": "timing",
     "meaning": "Measuring the time or speed of someone or something (-ing form)",
@@ -3160,6 +3620,26 @@
     }
   },
   {
+    "word": "clovers",
+    "memory": "small three-leaf plants",
+    "meaning": "Small plants with three round leaves and small white or pink flowers",
+    "hindi": "तिपतिया घास, तीन पत्तियों वाला पौधा",
+    "trick": "CLOVER → four-leaf clover = lucky",
+    "examples": [
+      "And there are tons of white clovers in bloom!",
+      "We searched the clovers for a lucky four-leaf one."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "a field of clovers / four-leaf clover",
+      "partners": [
+        "white clovers",
+        "four-leaf clover",
+        "a field of clovers"
+      ]
+    }
+  },
+  {
     "word": "clown",
     "memory": "funny circus performer",
     "meaning": "A performer with a painted face who does silly things to make people laugh; also a silly person",
@@ -3236,6 +3716,26 @@
         "tongues clucking",
         "clucking hens",
         "clucking disapprovingly"
+      ]
+    }
+  },
+  {
+    "word": "clue",
+    "memory": "idea, hint",
+    "meaning": "An idea or sign that helps you know something ('have no clue' = not know at all)",
+    "hindi": "सुराग; पता",
+    "trick": "No CLUE → detective finds no hint.",
+    "examples": [
+      "Compared to you, I have no clue how grueling battles can be.",
+      "I have no clue where I left my keys."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "have no clue (about something) / a clue to something",
+      "partners": [
+        "no clue",
+        "a vital clue",
+        "give a clue"
       ]
     }
   },
@@ -3900,6 +4400,26 @@
     }
   },
   {
+    "word": "cogwheel",
+    "memory": "toothed wheel",
+    "meaning": "A wheel with teeth around its edge that turns other wheels in a machine",
+    "hindi": "दाँतेदार पहिया, गरारी",
+    "trick": "Cog + wheel → a wheel with cogs (teeth).",
+    "examples": [
+      "A great cogwheel of some kind seems to have started turning.",
+      "The clock stopped because a cogwheel broke."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a cogwheel in something / cogwheels turn",
+      "partners": [
+        "cogwheel turning",
+        "a cogwheel in a machine",
+        "small cogwheel"
+      ]
+    }
+  },
+  {
     "word": "cohere",
     "memory": "fit together",
     "meaning": "To fit together well and make sense as a whole",
@@ -3936,6 +4456,26 @@
         "his cohorts",
         "cohorts of students",
         "loyal cohorts"
+      ]
+    }
+  },
+  {
+    "word": "coiling",
+    "memory": "winding around",
+    "meaning": "Winding into rings or spirals around something",
+    "hindi": "लिपटना, कुंडली मारना",
+    "trick": "COIL → a snake coils; a spring is a coil.",
+    "examples": [
+      "The darkness coiling around your body must feel pretty heavy.",
+      "The snake was coiling around the branch."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "coil around something",
+      "partners": [
+        "coiling around",
+        "coiling snake",
+        "coiling rope"
       ]
     }
   },
@@ -4020,6 +4560,26 @@
     }
   },
   {
+    "word": "comatose",
+    "memory": "in a coma, unconscious",
+    "meaning": "In a deep unconscious state (a coma); (informal) very tired or sleepy",
+    "hindi": "बेहोश, कोमा में",
+    "trick": "COMA + tose = comatose.",
+    "examples": [
+      "All three of them were critically wounded and comatose.",
+      "After the big lunch, I felt almost comatose."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be/lie comatose",
+      "partners": [
+        "lying comatose",
+        "comatose patient",
+        "remain comatose"
+      ]
+    }
+  },
+  {
     "word": "combative",
     "memory": "ready to fight",
     "meaning": "Ready or eager to fight or argue",
@@ -4056,6 +4616,26 @@
         "like comets",
         "comets streak",
         "watch comets"
+      ]
+    }
+  },
+  {
+    "word": "comical",
+    "memory": "funny, silly",
+    "meaning": "Funny, often in a strange or silly way",
+    "hindi": "हास्यास्पद, मज़ाकिया",
+    "trick": "COMIC + al: like a comic.",
+    "examples": [
+      "Look at you, riddled with needles... A comical sight, indeed!",
+      "The dog looked comical in its tiny hat."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a comical + sight/look / look comical",
+      "partners": [
+        "comical sight",
+        "almost comical",
+        "comical expression"
       ]
     }
   },
@@ -4116,6 +4696,26 @@
         "commend someone for",
         "highly commend",
         "commend your efforts"
+      ]
+    }
+  },
+  {
+    "word": "commendable",
+    "memory": "worthy of praise",
+    "meaning": "Deserving praise",
+    "hindi": "प्रशंसनीय, तारीफ के लायक",
+    "trick": "COMMEND = praise → commend-ABLE = able to be praised",
+    "examples": [
+      "But it's truly commendable that your father was able to adapt his kagura dance to battle.",
+      "Your honesty is commendable."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "it is commendable that... / a commendable + noun",
+      "partners": [
+        "commendable effort",
+        "truly commendable",
+        "commendable work"
       ]
     }
   },
@@ -4296,6 +4896,26 @@
         "become complacent",
         "complacent attitude",
         "grow complacent"
+      ]
+    }
+  },
+  {
+    "word": "complexion",
+    "memory": "skin colour, skin tone",
+    "meaning": "The natural colour and look of the skin, especially of the face; also the general nature of something",
+    "hindi": "रंगत, चेहरे का रंग",
+    "trick": "COMPLEXION — the COMPLETE look of your face.",
+    "examples": [
+      "Does my complexion look unhealthy to you?",
+      "She has a fair complexion and dark hair."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "have a fair/dark/pale complexion",
+      "partners": [
+        "fair complexion",
+        "healthy complexion",
+        "pale complexion"
       ]
     }
   },
@@ -4580,6 +5200,26 @@
     }
   },
   {
+    "word": "concoction",
+    "memory": "mixed brew",
+    "meaning": "A mixture of different ingredients, especially an unusual drink or medicine; also a made-up story",
+    "hindi": "मिश्रण, घोल; मनगढ़ंत बात",
+    "trick": "Con + COOK-tion → something you cook up by mixing things.",
+    "examples": [
+      "You... have been changing the concoction for each demon!",
+      "Grandma's cough concoction has honey, ginger and lemon."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a concoction of something / a strange concoction",
+      "partners": [
+        "strange concoction",
+        "herbal concoction",
+        "a concoction of lies"
+      ]
+    }
+  },
+  {
     "word": "concussion",
     "memory": "blast shock",
     "meaning": "A shock from a blast or hit; also a head injury from a hard knock",
@@ -4596,6 +5236,26 @@
         "concussion grenade",
         "suffer a concussion",
         "mild concussion"
+      ]
+    }
+  },
+  {
+    "word": "condemn",
+    "memory": "strongly blame",
+    "meaning": "To say strongly that someone or something is bad or wrong; also to give a punishment",
+    "hindi": "निंदा करना; सज़ा देना",
+    "trick": "Con + DAMN → damn someone in public.",
+    "examples": [
+      "...whether they condemn you for stealing money...",
+      "Everyone condemned the attack on the school."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "condemn someone for something / condemn someone to something",
+      "partners": [
+        "strongly condemn",
+        "condemn violence",
+        "condemned to death"
       ]
     }
   },
@@ -4980,6 +5640,26 @@
     }
   },
   {
+    "word": "conquer",
+    "memory": "defeat, overcome",
+    "meaning": "To take control of a place by force; also to overcome a problem or fear",
+    "hindi": "जीतना, विजय पाना",
+    "trick": "Con-QUER → conquer = sab pe qabza.",
+    "examples": [
+      "His quest to conquer the sun will be set back to square one.",
+      "She conquered her fear of water."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "conquer something (a land, a fear)",
+      "partners": [
+        "conquer the world",
+        "conquer your fear",
+        "divide and conquer"
+      ]
+    }
+  },
+  {
     "word": "conscientious",
     "memory": "careful, hardworking",
     "meaning": "Careful to do work well and thoroughly",
@@ -5000,6 +5680,26 @@
     }
   },
   {
+    "word": "consecutive",
+    "memory": "one after another",
+    "meaning": "Following one after another without a break",
+    "hindi": "लगातार, क्रमागत",
+    "trick": "Con + SEC → seconds in a row, one after another.",
+    "examples": [
+      "...consecutive strikes to inject him with a massive dose of poison!",
+      "It rained for five consecutive days."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "consecutive + plural noun / for X consecutive days",
+      "partners": [
+        "three consecutive days",
+        "consecutive wins",
+        "consecutive strikes"
+      ]
+    }
+  },
+  {
     "word": "consensus",
     "memory": "general agreement",
     "meaning": "Agreement among most people in a group",
@@ -5016,6 +5716,26 @@
         "reach a consensus",
         "scientific consensus",
         "consensus on"
+      ]
+    }
+  },
+  {
+    "word": "considerably",
+    "memory": "a lot, greatly",
+    "meaning": "By a large amount; much",
+    "hindi": "काफ़ी, बहुत अधिक",
+    "trick": "CONSIDERABLY — big enough to CONSIDER.",
+    "examples": [
+      "Because I've tweaked my body considerably.",
+      "Prices have gone up considerably this year."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "considerably + more/less/comparative; change considerably",
+      "partners": [
+        "considerably more",
+        "considerably better",
+        "increase considerably"
       ]
     }
   },
@@ -5080,6 +5800,26 @@
     }
   },
   {
+    "word": "consternation",
+    "memory": "shocked dismay",
+    "meaning": "A feeling of worry, shock or confusion, usually about something unexpected",
+    "hindi": "घबराहट, हैरानी",
+    "trick": "CONSTERNATION → 'con-stern-nation' — the whole nation looks stern and shocked.",
+    "examples": [
+      "Much to my consternation...",
+      "Much to our consternation, the train was cancelled."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "to someone's consternation / cause consternation",
+      "partners": [
+        "much to my consternation",
+        "cause consternation",
+        "in consternation"
+      ]
+    }
+  },
+  {
     "word": "constipated",
     "memory": "unable to poop",
     "meaning": "Unable to empty your bowels easily",
@@ -5096,6 +5836,26 @@
         "feel constipated",
         "badly constipated",
         "constipated and achy"
+      ]
+    }
+  },
+  {
+    "word": "constipation",
+    "memory": "hard to poop",
+    "meaning": "A condition where it is difficult to empty the bowels",
+    "hindi": "कब्ज़",
+    "trick": "CONSTIPATION — everything is stuck, like constant traffic.",
+    "examples": [
+      "Cuts, burns, hemorrhoids, bleeding piles, constipation...",
+      "Eating more fibre can help with constipation."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "suffer from constipation",
+      "partners": [
+        "suffer from constipation",
+        "relieve constipation",
+        "chronic constipation"
       ]
     }
   },
@@ -5160,6 +5920,26 @@
     }
   },
   {
+    "word": "construed",
+    "memory": "understood, interpreted",
+    "meaning": "Understood or explained in a particular way",
+    "hindi": "अर्थ लगाया, समझा गया",
+    "trick": "CONSTRUE ≈ CONSTRUCT a meaning.",
+    "examples": [
+      "I don't believe it could be construed as a violation.",
+      "His silence was construed as agreement."
+    ],
+    "usage": {
+      "pos": "verb (past participle)",
+      "pattern": "be construed as something",
+      "partners": [
+        "construed as",
+        "wrongly construed",
+        "could be construed"
+      ]
+    }
+  },
+  {
     "word": "consulted",
     "memory": "looked up, checked",
     "meaning": "Looked at a book, list or person for information or advice (past)",
@@ -5176,6 +5956,26 @@
         "consulted a register",
         "consulted a doctor",
         "consulted the map"
+      ]
+    }
+  },
+  {
+    "word": "consumed",
+    "memory": "completely filled (by a feeling); also eaten or used up",
+    "meaning": "Completely taken over by a strong feeling; also eaten, drunk or used up",
+    "hindi": "(भावना से) घिरा हुआ, ग्रस्त; खाया गया, खपत हुआ",
+    "trick": "CONSUMED → the feeling \"eats\" you up from inside",
+    "examples": [
+      "She's doomed to be consumed by fear for the rest of her life.",
+      "He was consumed by jealousy when he saw her new car."
+    ],
+    "usage": {
+      "pos": "verb (past participle)",
+      "pattern": "be consumed by/with something",
+      "partners": [
+        "consumed by fear",
+        "consumed with guilt",
+        "consumed by fire"
       ]
     }
   },
@@ -6260,6 +7060,26 @@
     }
   },
   {
+    "word": "counterfeit",
+    "memory": "fake, forged",
+    "meaning": "Made to look exactly like the real thing in order to trick people",
+    "hindi": "नकली, जाली",
+    "trick": "COUNTER-feit → made to counter (go against) the real one.",
+    "examples": [
+      "It's counterfeit!",
+      "The shopkeeper spotted a counterfeit note."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be counterfeit / counterfeit + money/goods",
+      "partners": [
+        "counterfeit money",
+        "counterfeit goods",
+        "counterfeit notes"
+      ]
+    }
+  },
+  {
     "word": "counterintuitive",
     "memory": "unexpected, surprising",
     "meaning": "Different from what you would naturally expect",
@@ -6400,6 +7220,26 @@
     }
   },
   {
+    "word": "courtesans",
+    "memory": "high-class paid companions",
+    "meaning": "Women in the past who were paid companions to rich or important men, often trained in arts and manners",
+    "hindi": "राजसी गणिकाएँ, वेश्याएँ (उच्च वर्ग की)",
+    "trick": "COURT-esans → women of the royal COURT entertaining rich men.",
+    "examples": [
+      "Oh, that's a procession of courtesans.",
+      "The old painting shows courtesans in silk robes."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "a procession of courtesans / courtesans of the court",
+      "partners": [
+        "famous courtesans",
+        "royal courtesans",
+        "a procession of courtesans"
+      ]
+    }
+  },
+  {
     "word": "courtship",
     "memory": "romantic pursuit",
     "meaning": "The time or act of trying to win someone's love before marriage",
@@ -6496,6 +7336,26 @@
         "cower in fear",
         "cower behind",
         "cower in the corner"
+      ]
+    }
+  },
+  {
+    "word": "cowering",
+    "memory": "shrinking in fear",
+    "meaning": "Bending down or moving back because of fear",
+    "hindi": "डर से दुबकना, सहमना",
+    "trick": "COW-ering → a scared cow crouching in the corner.",
+    "examples": [
+      "But I end up cowering, running away, sniveling.",
+      "The puppy was cowering under the bed during the storm."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "cowering in fear / cowering behind/under something",
+      "partners": [
+        "cowering in fear",
+        "cowering in a corner",
+        "cowering behind"
       ]
     }
   },
@@ -6740,6 +7600,26 @@
     }
   },
   {
+    "word": "cranky",
+    "memory": "grumpy, irritable",
+    "meaning": "Easily annoyed and in a bad mood (informal)",
+    "hindi": "चिड़चिड़ा (बोलचाल)",
+    "trick": "CRANKY → like a rusty CRANK that squeaks and complains.",
+    "examples": [
+      "Stupid brats who start acting cranky don't belong on the battlefield.",
+      "The baby gets cranky when she's tired."
+    ],
+    "usage": {
+      "pos": "adjective (informal)",
+      "pattern": "be/get/act cranky",
+      "partners": [
+        "get cranky",
+        "cranky baby",
+        "feel cranky"
+      ]
+    }
+  },
+  {
     "word": "crappy",
     "memory": "bad, awful",
     "meaning": "(Informal, a bit rude) Bad or unhappy (of how you feel); also of very bad quality",
@@ -6840,6 +7720,26 @@
     }
   },
   {
+    "word": "creature",
+    "memory": "living being, animal",
+    "meaning": "A living being, especially an animal or a strange one",
+    "hindi": "प्राणी, जीव",
+    "trick": "CREATE → CREATure = something created",
+    "examples": [
+      "Both growing old and dying are part of the beauty of being an ephemeral creature like a human.",
+      "A tiny creature was hiding under the leaf."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a creature / a + adjective + creature",
+      "partners": [
+        "living creature",
+        "strange creature",
+        "sea creature"
+      ]
+    }
+  },
+  {
     "word": "credence",
     "memory": "belief, trust",
     "meaning": "Belief that something is true; acceptance",
@@ -6936,6 +7836,66 @@
         "creep quietly",
         "creep into",
         "creep up on"
+      ]
+    }
+  },
+  {
+    "word": "creeping",
+    "memory": "moving slowly, quietly",
+    "meaning": "Moving slowly and quietly, or slowly getting closer",
+    "hindi": "धीरे-धीरे बढ़ना, रेंगना",
+    "trick": "CREEP → a creeper plant slowly crawls up the wall.",
+    "examples": [
+      "Even as we speak, we're creeping toward victory, aren't we?",
+      "The cat was creeping toward the bird."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "creeping toward/up/into something",
+      "partners": [
+        "creeping toward",
+        "creeping up",
+        "creeping in"
+      ]
+    }
+  },
+  {
+    "word": "creepy",
+    "memory": "scary, strange",
+    "meaning": "Strange and frightening in a way that makes you uneasy (informal)",
+    "hindi": "डरावना, अजीब (बोलचाल)",
+    "trick": "Creepy = makes your skin CREEP (rongte khade).",
+    "examples": [
+      "And this sound of spiders rustling around is so creepy!",
+      "That old house looks creepy at night."
+    ],
+    "usage": {
+      "pos": "adjective (informal)",
+      "pattern": "be creepy / a creepy + noun",
+      "partners": [
+        "a creepy feeling",
+        "creepy music",
+        "a creepy old house"
+      ]
+    }
+  },
+  {
+    "word": "cremating",
+    "memory": "burning a dead body",
+    "meaning": "Burning a dead person's body as a funeral rite",
+    "hindi": "दाह संस्कार करना, अंतिम संस्कार करना",
+    "trick": "Cremate → crematorium, where bodies are burned.",
+    "examples": [
+      "It's way too soon to be cremating him!",
+      "The family is cremating her tomorrow morning."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "cremate someone / be cremated",
+      "partners": [
+        "cremating the body",
+        "cremated remains",
+        "be cremated"
       ]
     }
   },
@@ -7160,6 +8120,26 @@
     }
   },
   {
+    "word": "crippled",
+    "memory": "badly disabled, damaged",
+    "meaning": "Badly injured or disabled so that one can't move or work normally (now often offensive for people); also badly damaged",
+    "hindi": "अपंग, लाचार; बुरी तरह क्षतिग्रस्त",
+    "trick": "CRIPPLE ≈ \"creep-le\" → can only creep, can't walk",
+    "examples": [
+      "Do that, and the dreamer will become crippled.",
+      "The storm left the ship crippled at sea."
+    ],
+    "usage": {
+      "pos": "adjective (past participle)",
+      "pattern": "be crippled by something / become crippled",
+      "partners": [
+        "crippled by debt",
+        "badly crippled",
+        "crippled economy"
+      ]
+    }
+  },
+  {
     "word": "cripples",
     "memory": "badly damages",
     "meaning": "Harms someone or something so badly they can't work properly; also (offensive, old) people who can't walk well",
@@ -7300,6 +8280,46 @@
     }
   },
   {
+    "word": "critically",
+    "memory": "seriously, dangerously",
+    "meaning": "In a very serious or dangerous way; also in a way that judges faults",
+    "hindi": "गंभीर रूप से; आलोचनात्मक ढंग से",
+    "trick": "Critical condition in hospital = critically ill.",
+    "examples": [
+      "All three of them were critically wounded and comatose.",
+      "She was critically ill after the accident."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "critically + injured/ill/wounded / think critically",
+      "partners": [
+        "critically injured",
+        "critically ill",
+        "think critically"
+      ]
+    }
+  },
+  {
+    "word": "croak",
+    "memory": "die; frog sound",
+    "meaning": "To die (informal slang); also make a deep, rough sound like a frog",
+    "hindi": "मर जाना (बोलचाल); टर्राना",
+    "trick": "A frog goes 'CROAK'... and then it croaks (dies). Sounds like 'crack' — life cracks.",
+    "examples": [
+      "Hey, say something, will you? Or did you just croak?",
+      "The frogs croak loudly after the rain."
+    ],
+    "usage": {
+      "pos": "verb (informal)",
+      "pattern": "someone croaks (dies) / croak something (say hoarsely)",
+      "partners": [
+        "frogs croak",
+        "croak out a word",
+        "finally croaked"
+      ]
+    }
+  },
+  {
     "word": "croaked",
     "memory": "spoke in rough voice",
     "meaning": "Spoke in a deep, rough voice, like a frog",
@@ -7360,6 +8380,26 @@
     }
   },
   {
+    "word": "crossroads",
+    "memory": "place where roads cross",
+    "meaning": "A place where two roads meet and cross; also a point where an important decision must be made",
+    "hindi": "चौराहा",
+    "trick": "CROSS + ROADS → roads crossing.",
+    "examples": [
+      "Are you sure I can drop you off at the crossroads up ahead?",
+      "Turn left at the crossroads."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "at a crossroads / at the crossroads",
+      "partners": [
+        "at the crossroads",
+        "at a crossroads in life",
+        "busy crossroads"
+      ]
+    }
+  },
+  {
     "word": "crotch",
     "memory": "between the legs",
     "meaning": "The part of the body or trousers between the legs",
@@ -7416,6 +8456,26 @@
         "crouching down",
         "crouching behind",
         "crouching tiger"
+      ]
+    }
+  },
+  {
+    "word": "crow",
+    "memory": "black bird",
+    "meaning": "A large black bird with a loud harsh cry; also (verb) to boast proudly",
+    "hindi": "कौआ; डींग मारना",
+    "trick": "A CROW CRies 'caw caw'.",
+    "examples": [
+      "That crow is just oozing spite.",
+      "A crow sat on the wall and cawed."
+    ],
+    "usage": {
+      "pos": "noun (also verb)",
+      "pattern": "a crow / crow about something (boast)",
+      "partners": [
+        "black crow",
+        "as the crow flies",
+        "crow about winning"
       ]
     }
   },
@@ -7560,6 +8620,26 @@
     }
   },
   {
+    "word": "crucify",
+    "memory": "nail to a cross; punish harshly",
+    "meaning": "To kill someone by nailing them to a cross; also to criticise or punish someone very harshly",
+    "hindi": "सूली पर चढ़ाना; कड़ी सज़ा देना",
+    "trick": "CRUCI = cross (crucifix) → put on a cross.",
+    "examples": [
+      "I know! I'm going to crucify her—",
+      "The fans will crucify me if we lose this match."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "crucify someone / be crucified (by someone)",
+      "partners": [
+        "crucify someone",
+        "be crucified by the press",
+        "publicly crucify"
+      ]
+    }
+  },
+  {
     "word": "crude",
     "memory": "rough, rude",
     "meaning": "Simple and rough; or rude and offensive",
@@ -7576,6 +8656,26 @@
         "crude joke",
         "crude oil",
         "crude drawing"
+      ]
+    }
+  },
+  {
+    "word": "cruel",
+    "memory": "heartless, mean",
+    "meaning": "Causing pain or suffering on purpose, without caring",
+    "hindi": "निर्दयी, क्रूर",
+    "trick": "CRUEL ≈ 'crew-ill' → a crew who make others ill.",
+    "examples": [
+      "They have no qualms about being cruel.",
+      "It was cruel to laugh at him."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be cruel to someone / a cruel + noun",
+      "partners": [
+        "cruel to animals",
+        "cruel joke",
+        "cruel world"
       ]
     }
   },
@@ -7676,6 +8776,26 @@
         "crumpled up the napkin",
         "crumpled the paper",
         "crumpled to the ground"
+      ]
+    }
+  },
+  {
+    "word": "crush",
+    "memory": "squash hard",
+    "meaning": "To press something so hard that it breaks or loses shape; also, to defeat completely; (informal) a short-lived love",
+    "hindi": "कुचलना, चूर-चूर करना; (बोलचाल) पसंद",
+    "trick": "CRUSH → like crushing a soda can flat.",
+    "examples": [
+      "To crush his skull and smash it completely...",
+      "Crush the garlic before you add it to the pan."
+    ],
+    "usage": {
+      "pos": "verb (also noun)",
+      "pattern": "crush something / have a crush on someone",
+      "partners": [
+        "crush a can",
+        "crush the enemy",
+        "have a crush on"
       ]
     }
   },
@@ -7956,6 +9076,26 @@
         "at the cuffs",
         "trouser cuffs",
         "roll up the cuffs"
+      ]
+    }
+  },
+  {
+    "word": "culled",
+    "memory": "killed off, weeded out",
+    "meaning": "Reduced in number by killing or removing some; also picked out from many sources",
+    "hindi": "छाँटकर मारे गए, कम किए गए",
+    "trick": "CULLED ≈ 'called' off → called out and removed.",
+    "examples": [
+      "So, I think that's the point at which we get culled.",
+      "The sick animals were culled from the herd."
+    ],
+    "usage": {
+      "pos": "verb (past participle)",
+      "pattern": "be culled / cull something from something",
+      "partners": [
+        "get culled",
+        "culled from",
+        "culled the herd"
       ]
     }
   },
@@ -8276,6 +9416,26 @@
         "curt reply",
         "curt nod",
         "curt with someone"
+      ]
+    }
+  },
+  {
+    "word": "curve",
+    "memory": "bend",
+    "meaning": "A line or path that bends smoothly; also to bend",
+    "hindi": "मोड़, घुमाव",
+    "trick": "CURVE — a road that isn't straight.",
+    "examples": [
+      "Oh, so you thrust at the curve diagonally to soften the temari's blow.",
+      "Drive slowly on the curve."
+    ],
+    "usage": {
+      "pos": "noun (also verb)",
+      "pattern": "a curve in the road / curve around something",
+      "partners": [
+        "sharp curve",
+        "curve in the road",
+        "learning curve"
       ]
     }
   },

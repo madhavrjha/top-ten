@@ -140,6 +140,26 @@
     }
   },
   {
+    "word": "dammit",
+    "memory": "damn it!",
+    "meaning": "(Rude slang) an exclamation of anger or annoyance",
+    "hindi": "धत्, लानत है (अशिष्ट)",
+    "trick": "DAMMIT = 'damn it' said fast.",
+    "examples": [
+      "That girl's gonna go stale on me, dammit!",
+      "Dammit, I missed the bus again!"
+    ],
+    "usage": {
+      "pos": "exclamation (rude slang)",
+      "pattern": "..., dammit! / Dammit, ...!",
+      "partners": [
+        "oh, dammit",
+        "dammit, not again",
+        "dammit all"
+      ]
+    }
+  },
+  {
     "word": "damnable",
     "memory": "terrible, sinful",
     "meaning": "Very bad or wicked; deserving punishment from God",
@@ -200,6 +220,26 @@
     }
   },
   {
+    "word": "damper",
+    "memory": "something that spoils fun",
+    "meaning": "Something that makes a situation less fun or exciting (put a damper on); also a device that reduces vibration or airflow",
+    "hindi": "रंग में भंग, उत्साह कम करने वाली चीज़",
+    "trick": "DAMP-er → makes things damp (wet blanket).",
+    "examples": [
+      "If only that punk hadn't put a damper on things!",
+      "The rain put a damper on our picnic."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "put a damper on something",
+      "partners": [
+        "put a damper on",
+        "a damper on things",
+        "a real damper"
+      ]
+    }
+  },
+  {
     "word": "dandling",
     "memory": "bobbing, swinging gently",
     "meaning": "Moving something gently up and down or from side to side",
@@ -216,6 +256,26 @@
         "dandling a baby",
         "dandling on her knee",
         "dandling their heads"
+      ]
+    }
+  },
+  {
+    "word": "dandruff",
+    "memory": "flakes from the scalp",
+    "meaning": "Small white flakes of dead skin from the scalp, seen in the hair",
+    "hindi": "रूसी",
+    "trick": "DAN's hair is ROUGH with dandruff.",
+    "examples": [
+      "Always covered in grime and dandruff from head to toe.",
+      "This shampoo helps get rid of dandruff."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "have dandruff / get rid of dandruff",
+      "partners": [
+        "anti-dandruff shampoo",
+        "bad dandruff",
+        "flakes of dandruff"
       ]
     }
   },
@@ -500,6 +560,46 @@
     }
   },
   {
+    "word": "dazzled",
+    "memory": "amazed; blinded by light",
+    "meaning": "Greatly impressed or amazed; also unable to see for a moment because of bright light",
+    "hindi": "चकित, चौंधियाया हुआ",
+    "trick": "DAZZLE → bright light makes you dizzy, dazed",
+    "examples": [
+      "This is no time to be dazzled, idiot!",
+      "The kids were dazzled by the fireworks."
+    ],
+    "usage": {
+      "pos": "adjective (past participle)",
+      "pattern": "be dazzled by something",
+      "partners": [
+        "dazzled by the lights",
+        "dazzled by her beauty",
+        "completely dazzled"
+      ]
+    }
+  },
+  {
+    "word": "dazzles",
+    "memory": "shines brilliantly, impresses",
+    "meaning": "Shines very brightly; also amazes or impresses people greatly",
+    "hindi": "चमचमाता है; चकित करता है",
+    "trick": "DAZZ-les ≈ 'dazzling lights' → so bright your eyes go daze.",
+    "examples": [
+      "At night, it sparkles and dazzles.",
+      "Her smile dazzles everyone in the room."
+    ],
+    "usage": {
+      "pos": "verb (he/she/it form)",
+      "pattern": "something dazzles / dazzles someone (with something)",
+      "partners": [
+        "dazzles the eye",
+        "dazzles the audience",
+        "sparkles and dazzles"
+      ]
+    }
+  },
+  {
     "word": "dazzling",
     "memory": "very bright, blinding",
     "meaning": "So bright that it hurts your eyes; also very impressive",
@@ -556,6 +656,26 @@
         "deadened the pain",
         "deadened the sound",
         "deadened our spirit"
+      ]
+    }
+  },
+  {
+    "word": "deadly",
+    "memory": "able to kill",
+    "meaning": "Able to cause death; also extremely (deadly serious)",
+    "hindi": "जानलेवा, घातक",
+    "trick": "DEAD-ly → it makes you dead.",
+    "examples": [
+      "My Blood Sickles are drenched with deadly poison.",
+      "Some snakes have a deadly bite."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "deadly + noun / deadly to someone",
+      "partners": [
+        "deadly poison",
+        "deadly disease",
+        "deadly serious"
       ]
     }
   },
@@ -639,6 +759,46 @@
     }
   },
   {
+    "word": "decapitate",
+    "memory": "cut off the head",
+    "meaning": "To cut off the head of a person or animal",
+    "hindi": "सिर काटना, सिर धड़ से अलग करना",
+    "trick": "de (off) + capit (head, like 'capital', 'captain') = head off.",
+    "examples": [
+      "Needless to say, I'm going to decapitate your sister.",
+      "In old stories, the king would decapitate traitors."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "decapitate someone/something",
+      "partners": [
+        "decapitate a demon",
+        "decapitate the enemy",
+        "be decapitated"
+      ]
+    }
+  },
+  {
+    "word": "decapitation",
+    "memory": "cutting off head",
+    "meaning": "The act of cutting off someone's head",
+    "hindi": "सिर काटना, शिरच्छेद",
+    "trick": "de (off) + capit (head) + -ation = the act of taking the head off.",
+    "examples": [
+      "They can only be killed by sunlight or by decapitation with a special sword.",
+      "Decapitation was a punishment in ancient times."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "decapitation (with/by something)",
+      "partners": [
+        "death by decapitation",
+        "decapitation with a sword",
+        "public decapitation"
+      ]
+    }
+  },
+  {
     "word": "decathlete",
     "memory": "ten-event athlete",
     "meaning": "An athlete who competes in the decathlon, an event made of ten sports",
@@ -714,6 +874,26 @@
         "deceitful wife",
         "deceitful behaviour",
         "deceitful person"
+      ]
+    }
+  },
+  {
+    "word": "deceive",
+    "memory": "trick, fool",
+    "meaning": "To make someone believe something that is not true",
+    "hindi": "धोखा देना",
+    "trick": "DE-CEIVE → de-ceive = take away the truth you receive.",
+    "examples": [
+      "Is he trying to deceive me somehow?",
+      "Don't let his smile deceive you."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "deceive someone (into doing something)",
+      "partners": [
+        "deceive someone",
+        "deceive yourself",
+        "easily deceived"
       ]
     }
   },
@@ -798,6 +978,26 @@
     }
   },
   {
+    "word": "decked",
+    "memory": "dressed up, adorned",
+    "meaning": "Dressed up in fancy clothes or decorated (usually 'decked out'); also hit someone so they fall (informal)",
+    "hindi": "सजा-धजा, सजाया; (बोलचाल) घूंसा मारकर गिराया",
+    "trick": "Decked out = dressed up like a ship's DECK on a festival day.",
+    "examples": [
+      "Hey, look at you, decked out in those posh-looking threads!",
+      "The street was decked with lights for Diwali."
+    ],
+    "usage": {
+      "pos": "verb (past / past participle)",
+      "pattern": "be decked out in something / decked with something",
+      "partners": [
+        "decked out in",
+        "decked with flowers",
+        "decked with lights"
+      ]
+    }
+  },
+  {
     "word": "decomposing",
     "memory": "rotting",
     "meaning": "Slowly rotting after death",
@@ -838,6 +1038,26 @@
     }
   },
   {
+    "word": "decoys",
+    "memory": "fake lures",
+    "meaning": "People or things used to trick someone and lead them away from the real target",
+    "hindi": "चारा, छलावा",
+    "trick": "DECOY — a fake duck that DE-COYs (lures) real ducks.",
+    "examples": [
+      "Let's use those two as decoys and escape!",
+      "The police used fake cars as decoys."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "use someone/something as a decoy / act as a decoy",
+      "partners": [
+        "use as decoys",
+        "act as decoys",
+        "decoy ducks"
+      ]
+    }
+  },
+  {
     "word": "decree",
     "memory": "official order",
     "meaning": "An official order given by a ruler or government",
@@ -854,6 +1074,26 @@
         "special decree",
         "issue a decree",
         "royal decree"
+      ]
+    }
+  },
+  {
+    "word": "deep-seated",
+    "memory": "firmly rooted",
+    "meaning": "Strong and existing for a long time, hard to change",
+    "hindi": "गहरी जमी हुई, जड़ पकड़ी हुई",
+    "trick": "Seated DEEP inside — it won't stand up and leave.",
+    "examples": [
+      "I have a deep-seated aversion to this guy.",
+      "She has a deep-seated fear of dogs."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a deep-seated + feeling/problem",
+      "partners": [
+        "deep-seated fear",
+        "deep-seated aversion",
+        "deep-seated problems"
       ]
     }
   },
@@ -1018,6 +1258,26 @@
     }
   },
   {
+    "word": "deflected",
+    "memory": "turned aside",
+    "meaning": "Made something change direction, especially an attack; also, avoided a question",
+    "hindi": "मोड़ दिया, टाल दिया",
+    "trick": "DE + FLECT (bend) → bent it away.",
+    "examples": [
+      "He deflected me!",
+      "She deflected the question with a joke."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "deflect something (off/away)",
+      "partners": [
+        "deflected the blow",
+        "deflected the ball",
+        "deflected criticism"
+      ]
+    }
+  },
+  {
     "word": "defuse",
     "memory": "calm down",
     "meaning": "To make a tense or dangerous situation calmer",
@@ -1034,6 +1294,26 @@
         "defuse tension",
         "defuse the situation",
         "defuse a bomb"
+      ]
+    }
+  },
+  {
+    "word": "defy",
+    "memory": "disobey, resist",
+    "meaning": "To refuse to obey someone or something openly",
+    "hindi": "अवज्ञा करना, विरोध करना",
+    "trick": "DE-FY ≈ 'de fight' → give a fight to the rules.",
+    "examples": [
+      "If I defy him, I'll be slashed to shreds!",
+      "Teenagers sometimes defy their parents."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "defy someone/something / defy the odds",
+      "partners": [
+        "defy orders",
+        "defy the odds",
+        "defy gravity"
       ]
     }
   },
@@ -1238,6 +1518,26 @@
     }
   },
   {
+    "word": "deluded",
+    "memory": "fooled, misled",
+    "meaning": "Made to believe something that is not true",
+    "hindi": "भ्रमित, धोखे में",
+    "trick": "DELUDED — 'de-LUDO': tricked like losing at Ludo.",
+    "examples": [
+      "You were deluded into thinking you were in the Twelve Kizuki.",
+      "He is deluded if he thinks he can pass without studying."
+    ],
+    "usage": {
+      "pos": "verb (past) / adjective",
+      "pattern": "be deluded into thinking/believing something",
+      "partners": [
+        "deluded into thinking",
+        "completely deluded",
+        "deluded fool"
+      ]
+    }
+  },
+  {
     "word": "deluge",
     "memory": "flood, huge amount",
     "meaning": "A huge amount of something arriving at once; also a great flood",
@@ -1338,6 +1638,86 @@
     }
   },
   {
+    "word": "demolish",
+    "memory": "destroy completely",
+    "meaning": "To destroy completely, especially a building; also defeat someone easily",
+    "hindi": "ध्वस्त करना, ढहा देना",
+    "trick": "DEMOLISH — DEMOn + POLISH off: wipe it out.",
+    "examples": [
+      "In that case, I'm gonna demolish him and the box together!",
+      "They will demolish the old building next week."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "demolish something/someone",
+      "partners": [
+        "demolish a building",
+        "completely demolish",
+        "demolish the argument"
+      ]
+    }
+  },
+  {
+    "word": "demon",
+    "memory": "evil spirit",
+    "meaning": "An evil spirit or monster; also, a person who is very skilled or energetic at something",
+    "hindi": "राक्षस, दानव",
+    "trick": "Demon → 'the mon(ster)' — a monster spirit.",
+    "examples": [
+      "Your sister's become a demon.",
+      "He works like a demon before every exam."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a demon / fight a demon",
+      "partners": [
+        "slay a demon",
+        "inner demons",
+        "work like a demon"
+      ]
+    }
+  },
+  {
+    "word": "demonic",
+    "memory": "evil, devil-like",
+    "meaning": "Like a demon; evil or wild",
+    "hindi": "राक्षसी, शैतानी",
+    "trick": "DEMON + IC — like a demon.",
+    "examples": [
+      "I'm getting a demonic vibe.",
+      "He gave a demonic laugh."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a demonic + laugh/presence/force",
+      "partners": [
+        "demonic laugh",
+        "demonic power",
+        "demonic presence"
+      ]
+    }
+  },
+  {
+    "word": "demons",
+    "memory": "evil spirits",
+    "meaning": "Evil spirits or monsters; also, inner fears or problems",
+    "hindi": "राक्षस, दानव",
+    "trick": "Demons → 'the monsters'.",
+    "examples": [
+      "That is because wisteria, which demons hate so much...",
+      "He is still fighting his inner demons."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "fight demons / someone's demons",
+      "partners": [
+        "fight demons",
+        "inner demons",
+        "slay demons"
+      ]
+    }
+  },
+  {
     "word": "demonstration",
     "memory": "public protest",
     "meaning": "A public meeting or march to protest; also showing how something works",
@@ -1394,6 +1774,26 @@
         "in denial",
         "flat denial",
         "state of denial"
+      ]
+    }
+  },
+  {
+    "word": "denounce",
+    "memory": "criticise publicly",
+    "meaning": "To publicly say that someone or something is wrong or bad",
+    "hindi": "खुलेआम निंदा करना",
+    "trick": "De + ANNOUNCE: announce someone is bad.",
+    "examples": [
+      "Well, I'm here to denounce your every weak point backward and forward!",
+      "Leaders were quick to denounce the attack."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "denounce someone/something (as something)",
+      "partners": [
+        "denounce violence",
+        "publicly denounce",
+        "denounce someone as a traitor"
       ]
     }
   },
@@ -1494,6 +1894,46 @@
         "powerful depiction",
         "accurate depiction",
         "depiction of life"
+      ]
+    }
+  },
+  {
+    "word": "depleted",
+    "memory": "used up, reduced",
+    "meaning": "Reduced a lot, or used up almost completely",
+    "hindi": "खत्म हो चुका, घट गया",
+    "trick": "DE-PLETE ≈ \"de-plate\" → plate emptied",
+    "examples": [
+      "And then, after all your strength is depleted...",
+      "Our savings were depleted after the trip."
+    ],
+    "usage": {
+      "pos": "adjective (past participle)",
+      "pattern": "be depleted / a depleted + noun",
+      "partners": [
+        "depleted energy",
+        "depleted stocks",
+        "badly depleted"
+      ]
+    }
+  },
+  {
+    "word": "deplorable",
+    "memory": "shockingly bad",
+    "meaning": "Very bad and deserving strong disapproval",
+    "hindi": "शोचनीय, निंदनीय",
+    "trick": "DE-PLORE → you deplore (hate) it.",
+    "examples": [
+      "...in such a deplorable state.",
+      "The hospital was in deplorable condition."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be deplorable / a deplorable + noun",
+      "partners": [
+        "deplorable state",
+        "deplorable conditions",
+        "deplorable behaviour"
       ]
     }
   },
@@ -1654,6 +2094,26 @@
         "descended on the house",
         "descended upon",
         "descended the stairs"
+      ]
+    }
+  },
+  {
+    "word": "descending",
+    "memory": "going down",
+    "meaning": "Moving or going down",
+    "hindi": "नीचे उतरना, उतरते हुए",
+    "trick": "DE-SCEND → 'de' = down; ascend up, descend down.",
+    "examples": [
+      "I'm descending the mountain again today.",
+      "The plane is descending to land."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "descend something / descend from something",
+      "partners": [
+        "descending the stairs",
+        "descending order",
+        "descending the mountain"
       ]
     }
   },
@@ -1858,6 +2318,46 @@
     }
   },
   {
+    "word": "despise",
+    "memory": "hate, look down on",
+    "meaning": "To hate and have no respect for someone or something",
+    "hindi": "घृणा करना, तुच्छ समझना",
+    "trick": "DE (down) + SPISE (look) — look down on.",
+    "examples": [
+      "I despise such people!",
+      "I despise people who lie."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "despise someone/something / despise someone for something",
+      "partners": [
+        "despise liars",
+        "despise each other",
+        "despise someone for"
+      ]
+    }
+  },
+  {
+    "word": "despised",
+    "memory": "hated, looked down on",
+    "meaning": "Strongly hated and looked down on",
+    "hindi": "घृणा की गई, तिरस्कृत",
+    "trick": "Despicable Me — the villain is despised by all.",
+    "examples": [
+      "You'll be resented, despised and denounced by all those you've killed.",
+      "He despised people who lied."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "be despised by someone / despise someone for something",
+      "partners": [
+        "widely despised",
+        "despised by everyone",
+        "deeply despised"
+      ]
+    }
+  },
+  {
     "word": "despisingly",
     "memory": "with hatred",
     "meaning": "In a way that shows strong dislike or looking down on someone",
@@ -1894,6 +2394,26 @@
         "despondent look",
         "feel despondent",
         "despondent mood"
+      ]
+    }
+  },
+  {
+    "word": "detecting",
+    "memory": "noticing, finding",
+    "meaning": "Discovering or noticing something that is hard to see, smell or find",
+    "hindi": "पता लगाना, भांपना",
+    "trick": "DETECT → a detective detects clues.",
+    "examples": [
+      "I'm even more adept at detecting scents than before.",
+      "Dogs are good at detecting drugs at airports."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "detect something / be good at detecting something",
+      "partners": [
+        "detecting smoke",
+        "detecting changes",
+        "detecting signs"
       ]
     }
   },
@@ -1998,6 +2518,26 @@
     }
   },
   {
+    "word": "devastating",
+    "memory": "very destructive, very upsetting",
+    "meaning": "Causing great damage or destruction; also making someone very sad or shocked",
+    "hindi": "विनाशकारी; बहुत दुखद",
+    "trick": "DEVAST-ating: like a DEVil destroying everything.",
+    "examples": [
+      "Obliterating this village will be a devastating blow to you Demon Slayers.",
+      "The news of his death was devastating."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a devastating + blow/effect/loss",
+      "partners": [
+        "devastating blow",
+        "devastating effect",
+        "devastating news"
+      ]
+    }
+  },
+  {
     "word": "devise",
     "memory": "plan, invent",
     "meaning": "To think up or invent a plan or method",
@@ -2054,6 +2594,26 @@
         "devoid of meaning",
         "devoid of emotion",
         "devoid of life"
+      ]
+    }
+  },
+  {
+    "word": "devour",
+    "memory": "eat hungrily",
+    "meaning": "To eat something quickly and hungrily; also to read or enjoy eagerly",
+    "hindi": "निगल जाना, भक्षण करना",
+    "trick": "DE-VOUR ≈ 'the four' → he ate all four pizzas in one go.",
+    "examples": [
+      "I'll just gouge out your eyeballs and devour them.",
+      "The kids devoured the cake in minutes."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "devour something",
+      "partners": [
+        "devour a meal",
+        "devour a book",
+        "hungrily devour"
       ]
     }
   },
@@ -2118,6 +2678,26 @@
     }
   },
   {
+    "word": "diagonally",
+    "memory": "at a slant, corner to corner",
+    "meaning": "In a slanting line, from one corner to the opposite corner",
+    "hindi": "तिरछे, विकर्ण रूप से",
+    "trick": "DIAGONAL — DIA (across) + GONAL (corner): corner to corner.",
+    "examples": [
+      "Oh, so you thrust at the curve diagonally to soften the temari's blow.",
+      "Cut the sandwich diagonally."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "cut/move/run diagonally across something",
+      "partners": [
+        "cut diagonally",
+        "diagonally opposite",
+        "diagonally across"
+      ]
+    }
+  },
+  {
     "word": "dialect",
     "memory": "local language form",
     "meaning": "A form of a language spoken in one area or by one group",
@@ -2158,6 +2738,46 @@
     }
   },
   {
+    "word": "diamonds",
+    "memory": "hardest precious stones",
+    "meaning": "Very hard, clear, valuable stones used in jewellery",
+    "hindi": "हीरे",
+    "trick": "DIAMONDS are forever → the hardest stone.",
+    "examples": [
+      "These translucent scales are even harder and stronger than diamonds!",
+      "She wore a ring with three small diamonds."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "harder than diamonds / diamonds + noun",
+      "partners": [
+        "real diamonds",
+        "diamond ring",
+        "harder than diamonds"
+      ]
+    }
+  },
+  {
+    "word": "diary",
+    "memory": "daily notebook",
+    "meaning": "A book where you write about what happens each day; also a planner for appointments",
+    "hindi": "डायरी, दैनिकी",
+    "trick": "DIARY ← 'dies' = days → a book of your days. Don't confuse with dairy (milk)!",
+    "examples": [
+      "The diary was probably forged.",
+      "She writes in her diary every night."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "keep a diary / write in a diary",
+      "partners": [
+        "keep a diary",
+        "a secret diary",
+        "diary entry"
+      ]
+    }
+  },
+  {
     "word": "dictate",
     "memory": "control, decide",
     "meaning": "To control or decide what happens; also to say words for someone to write down",
@@ -2178,6 +2798,26 @@
     }
   },
   {
+    "word": "digging",
+    "memory": "criticising, needling",
+    "meaning": "'Digging into someone' = criticising or attacking someone hard; also making a hole in the ground",
+    "hindi": "पीछे पड़ना, आड़े हाथों लेना; खोदना",
+    "trick": "DIG into someone → digging at them like a spade.",
+    "examples": [
+      "Iguro, you're digging into him too hard.",
+      "The dog is digging a hole in the garden."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "digging into someone / digging (a hole) in something",
+      "partners": [
+        "digging into him",
+        "digging a hole",
+        "digging for gold"
+      ]
+    }
+  },
+  {
     "word": "digitized",
     "memory": "made digital",
     "meaning": "Changed into a digital form for use on a computer",
@@ -2194,6 +2834,26 @@
         "digitized records",
         "fully digitized",
         "digitized photos"
+      ]
+    }
+  },
+  {
+    "word": "dignity",
+    "memory": "self-respect",
+    "meaning": "Calm, serious behaviour that earns respect; self-respect",
+    "hindi": "गरिमा, आत्मसम्मान",
+    "trick": "DIGNI-ty → dignified, keeping your head high.",
+    "examples": [
+      "Not a shred of dignity or grit!",
+      "She handled the bad news with dignity."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "with dignity / lose your dignity",
+      "partners": [
+        "with dignity",
+        "human dignity",
+        "lose your dignity"
       ]
     }
   },
@@ -2398,6 +3058,46 @@
     }
   },
   {
+    "word": "disappear",
+    "memory": "vanish, go away",
+    "meaning": "To go away so that you can no longer be seen",
+    "hindi": "गायब होना, ओझल होना",
+    "trick": "DIS (not) + APPEAR = not appear any more.",
+    "examples": [
+      "Your role is to relinquish your younger sister to me and disappear.",
+      "The sun will disappear behind the clouds."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "disappear (from somewhere / into something)",
+      "partners": [
+        "disappear completely",
+        "disappear from view",
+        "suddenly disappear"
+      ]
+    }
+  },
+  {
+    "word": "disappearing",
+    "memory": "vanishing",
+    "meaning": "Going out of sight or stopping existing",
+    "hindi": "गायब होना, लुप्त होना",
+    "trick": "DIS + APPEAR → the opposite of appearing.",
+    "examples": [
+      "My body's crumbling and disappearing.",
+      "The sun was disappearing behind the hills."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "disappear from somewhere / disappearing act",
+      "partners": [
+        "disappearing act",
+        "disappearing fast",
+        "disappearing into"
+      ]
+    }
+  },
+  {
     "word": "disarm",
     "memory": "calm, win over",
     "meaning": "To make someone less angry or suspicious; also to take weapons away",
@@ -2434,6 +3134,46 @@
         "disarming smile",
         "disarming honesty",
         "disarming charm"
+      ]
+    }
+  },
+  {
+    "word": "disarray",
+    "memory": "mess, disorder",
+    "meaning": "A state of being untidy or disorganised",
+    "hindi": "अस्तव्यस्तता, गड़बड़ी",
+    "trick": "DIS + ARRAY → the array (neat order) is broken.",
+    "examples": [
+      "The room's in such disarray, and this girl was crying...",
+      "After the party, the house was in disarray."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "be in disarray / throw something into disarray",
+      "partners": [
+        "in disarray",
+        "in complete disarray",
+        "thrown into disarray"
+      ]
+    }
+  },
+  {
+    "word": "disasters",
+    "memory": "terrible events",
+    "meaning": "Sudden events that cause great damage, loss or suffering",
+    "hindi": "आपदाएँ, विपत्तियाँ",
+    "trick": "DIS-ASTER = bad star (aster) → bad luck from the stars.",
+    "examples": [
+      "So, to ward off injuries and disasters...",
+      "Floods and earthquakes are natural disasters."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "natural disasters / prevent disasters",
+      "partners": [
+        "natural disasters",
+        "prevent disasters",
+        "major disasters"
       ]
     }
   },
@@ -2598,6 +3338,46 @@
     }
   },
   {
+    "word": "discontent",
+    "memory": "unhappiness, dissatisfaction",
+    "meaning": "A feeling of being unhappy or not satisfied",
+    "hindi": "असंतोष, नाराज़गी",
+    "trick": "Dis (not) + content (happy) → not happy.",
+    "examples": [
+      "I always heard a sound of discontent from you.",
+      "There is growing discontent among the workers."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "discontent with/over something / among people",
+      "partners": [
+        "growing discontent",
+        "public discontent",
+        "discontent among workers"
+      ]
+    }
+  },
+  {
+    "word": "discourtesy",
+    "memory": "rudeness",
+    "meaning": "Rude, impolite behaviour",
+    "hindi": "अशिष्टता, बेअदबी",
+    "trick": "DIS (not) + COURTESY (politeness) = rudeness.",
+    "examples": [
+      "Please forgive this discourtesy.",
+      "It was a discourtesy not to reply to her letter."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "forgive the discourtesy / an act of discourtesy",
+      "partners": [
+        "forgive the discourtesy",
+        "great discourtesy",
+        "act of discourtesy"
+      ]
+    }
+  },
+  {
     "word": "discreditable",
     "memory": "shameful",
     "meaning": "Bringing shame or harming someone's good name",
@@ -2698,6 +3478,26 @@
     }
   },
   {
+    "word": "disenchanted",
+    "memory": "disappointed, let down",
+    "meaning": "No longer believing in or liking something; disappointed",
+    "hindi": "मोहभंग हुआ, निराश",
+    "trick": "DIS-ENCHANTED → the magic spell is gone.",
+    "examples": [
+      "I'm feeling utterly disenchanted.",
+      "Many voters feel disenchanted with politics."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be disenchanted with someone/something",
+      "partners": [
+        "disenchanted with",
+        "feel disenchanted",
+        "disenchanted voters"
+      ]
+    }
+  },
+  {
     "word": "disgorged",
     "memory": "poured out",
     "meaning": "Let out a large number of people or things; also threw up",
@@ -2718,6 +3518,26 @@
     }
   },
   {
+    "word": "disgrace",
+    "memory": "shame, embarrassment",
+    "meaning": "A person or thing that brings shame; also loss of respect and honour",
+    "hindi": "कलंक, शर्म की बात; अपमान",
+    "trick": "Dis + grace = losing grace = shame.",
+    "examples": [
+      "Just as I thought! You really are a disgrace!",
+      "Losing to such a weak team was a disgrace."
+    ],
+    "usage": {
+      "pos": "noun (also verb)",
+      "pattern": "be a disgrace (to someone) / in disgrace",
+      "partners": [
+        "a disgrace to the family",
+        "public disgrace",
+        "leave in disgrace"
+      ]
+    }
+  },
+  {
     "word": "disgraced",
     "memory": "shamed",
     "meaning": "Brought shame on someone or yourself",
@@ -2734,6 +3554,86 @@
         "disgraced herself",
         "disgraced the family",
         "disgraced politician"
+      ]
+    }
+  },
+  {
+    "word": "disgraceful",
+    "memory": "shameful, shocking",
+    "meaning": "So bad or shocking that it brings shame",
+    "hindi": "शर्मनाक, लज्जाजनक",
+    "trick": "Dis + GRACE + ful: full of no grace = shameful.",
+    "examples": [
+      "Squirming like an insect... How disgraceful is that!",
+      "His rude behaviour at the party was disgraceful."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "it is disgraceful (that...) / disgraceful + behaviour",
+      "partners": [
+        "disgraceful behaviour",
+        "absolutely disgraceful",
+        "a disgraceful act"
+      ]
+    }
+  },
+  {
+    "word": "disgruntled",
+    "memory": "annoyed, unhappy",
+    "meaning": "Annoyed and unhappy, especially because things are not as you wanted",
+    "hindi": "नाराज़, असंतुष्ट",
+    "trick": "A GRUNTing pig — disgruntled and grumbling.",
+    "examples": [
+      "If you're disgruntled...",
+      "The disgruntled customers asked for a refund."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be disgruntled (with/about something) / a disgruntled + person",
+      "partners": [
+        "disgruntled employee",
+        "disgruntled customer",
+        "disgruntled fans"
+      ]
+    }
+  },
+  {
+    "word": "disguise",
+    "memory": "hide your identity",
+    "meaning": "To change how you look so people don't recognise you; also clothes used to do this",
+    "hindi": "भेष बदलना; भेष",
+    "trick": "DIS-GUISE → dis(not) + guys → 'not the same guy' anymore.",
+    "examples": [
+      "Are you incensed because I made you disguise yourself as a girl?",
+      "He wore glasses and a hat as a disguise."
+    ],
+    "usage": {
+      "pos": "verb / noun",
+      "pattern": "disguise yourself as someone / in disguise",
+      "partners": [
+        "in disguise",
+        "disguise yourself as",
+        "a clever disguise"
+      ]
+    }
+  },
+  {
+    "word": "disgust",
+    "memory": "strong dislike",
+    "meaning": "A strong feeling of dislike for something unpleasant",
+    "hindi": "घृणा, घिन",
+    "trick": "DIS-GUST → no taste (gusto) at all, yuck!",
+    "examples": [
+      "The demon girl turned her back in disgust.",
+      "She looked at the dirty kitchen in disgust."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "in disgust / to someone's disgust / disgust at something",
+      "partners": [
+        "in disgust",
+        "shake your head in disgust",
+        "feel disgust"
       ]
     }
   },
@@ -2818,6 +3718,26 @@
     }
   },
   {
+    "word": "disintegrating",
+    "memory": "falling apart",
+    "meaning": "Breaking into small pieces; falling apart",
+    "hindi": "बिखरते हुए, टुकड़े-टुकड़े होते हुए",
+    "trick": "DIS-INTEGRATE → losing its INTEGRITY (wholeness)",
+    "examples": [
+      "My body's disintegrating.",
+      "The old book was disintegrating in my hands."
+    ],
+    "usage": {
+      "pos": "verb (-ing form)",
+      "pattern": "be disintegrating / disintegrate into something",
+      "partners": [
+        "slowly disintegrating",
+        "disintegrating rock",
+        "disintegrating marriage"
+      ]
+    }
+  },
+  {
     "word": "disinterred",
     "memory": "dug up",
     "meaning": "Dug a buried body or thing out of the ground",
@@ -2878,6 +3798,26 @@
     }
   },
   {
+    "word": "dismantling",
+    "memory": "taking apart, breaking up",
+    "meaning": "Taking something apart piece by piece, or ending an organisation or system",
+    "hindi": "तोड़ते हुए, खत्म करते हुए",
+    "trick": "DIS-MANTLE → taking the mantle (cover) off and pulling it all apart",
+    "examples": [
+      "I am now dismantling the Lower Ranks.",
+      "The workers are dismantling the old stage."
+    ],
+    "usage": {
+      "pos": "verb (-ing form)",
+      "pattern": "be dismantling something",
+      "partners": [
+        "dismantling a machine",
+        "dismantling the system",
+        "dismantling a tent"
+      ]
+    }
+  },
+  {
     "word": "dismay",
     "memory": "shock, worry",
     "meaning": "A feeling of worry, shock and disappointment",
@@ -2934,6 +3874,26 @@
         "dismayingly familiar",
         "dismayingly high",
         "dismayingly slow"
+      ]
+    }
+  },
+  {
+    "word": "dismays",
+    "memory": "upsets, worries",
+    "meaning": "Makes someone feel worried, disappointed and upset",
+    "hindi": "निराश करता है, परेशान करता है",
+    "trick": "DIS-MAY: it takes away May sunshine — upsetting.",
+    "examples": [
+      "That's what dismays me.",
+      "His careless attitude dismays his parents."
+    ],
+    "usage": {
+      "pos": "verb (present, he/she/it)",
+      "pattern": "something dismays someone / to someone's dismay",
+      "partners": [
+        "dismays me",
+        "much to my dismay",
+        "deeply dismays"
       ]
     }
   },
@@ -3098,6 +4058,26 @@
     }
   },
   {
+    "word": "disperse",
+    "memory": "spread out, scatter",
+    "meaning": "To spread out or separate in different directions",
+    "hindi": "बिखेरना, तितर-बितर करना",
+    "trick": "DIS + PERSE ≈ dis-PERSE → people go their own ways.",
+    "examples": [
+      "Otherwise, there'd be no reason to disperse your respective skills.",
+      "The police asked the crowd to disperse."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "disperse (something) / the crowd dispersed",
+      "partners": [
+        "disperse the crowd",
+        "fog dispersed",
+        "widely dispersed"
+      ]
+    }
+  },
+  {
     "word": "dispersed",
     "memory": "scattered, went away",
     "meaning": "Went away in different directions",
@@ -3114,6 +4094,26 @@
         "crowd dispersed",
         "quickly dispersed",
         "dispersed the protesters"
+      ]
+    }
+  },
+  {
+    "word": "disposed",
+    "memory": "got rid of (dispose of); also inclined",
+    "meaning": "\"Dispose of\" = get rid of or kill/defeat; also \"disposed to\" = willing or inclined",
+    "hindi": "निपटा दिया, ठिकाने लगा दिया; इच्छुक",
+    "trick": "DISPOSE → DISPOSable cup → thrown away",
+    "examples": [
+      "So what if you disposed of one Hashira?",
+      "She disposed of the old papers in the bin."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "dispose of something/someone / be disposed to do something",
+      "partners": [
+        "disposed of the waste",
+        "disposed of the body",
+        "well disposed toward"
       ]
     }
   },
@@ -3174,6 +4174,26 @@
         "total disregard",
         "disregard for safety",
         "complete disregard"
+      ]
+    }
+  },
+  {
+    "word": "disrupting",
+    "memory": "upsetting, breaking up",
+    "meaning": "Disturbing or breaking the normal order or progress of something",
+    "hindi": "बाधित करना, बिगाड़ना",
+    "trick": "Dis + RUPT (break) — like rupture: breaking the order.",
+    "examples": [
+      "Disrupting the hierarchy...",
+      "The noise kept disrupting my sleep."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "disrupt something",
+      "partners": [
+        "disrupting the class",
+        "disrupting traffic",
+        "disrupting the peace"
       ]
     }
   },
@@ -3258,6 +4278,46 @@
     }
   },
   {
+    "word": "dissolved",
+    "memory": "melted away",
+    "meaning": "Mixed into a liquid until it disappears; also ended (a group or marriage)",
+    "hindi": "घुल गया, गल गया; भंग किया",
+    "trick": "DIS-SOLVED → sugar 'solved' itself into the tea.",
+    "examples": [
+      "Your clothes did get dissolved, but your body is more or less unscathed!",
+      "The sugar dissolved in the hot tea."
+    ],
+    "usage": {
+      "pos": "verb (past / past participle)",
+      "pattern": "something dissolved (in something) / get dissolved",
+      "partners": [
+        "dissolved in water",
+        "completely dissolved",
+        "parliament was dissolved"
+      ]
+    }
+  },
+  {
+    "word": "distancing",
+    "memory": "moving away from",
+    "meaning": "Moving or keeping away from someone or something",
+    "hindi": "दूरी बनाना",
+    "trick": "DISTANCE + -ing → making distance.",
+    "examples": [
+      "We're distancing ourselves!",
+      "She's been distancing herself from her old friends."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "distance yourself from someone/something",
+      "partners": [
+        "distancing yourself",
+        "social distancing",
+        "distancing from"
+      ]
+    }
+  },
+  {
     "word": "distaste",
     "memory": "mild disgust",
     "meaning": "A feeling of dislike or disgust",
@@ -3274,6 +4334,26 @@
         "with distaste",
         "look of distaste",
         "distaste for"
+      ]
+    }
+  },
+  {
+    "word": "distasteful",
+    "memory": "unpleasant, offensive",
+    "meaning": "Unpleasant or morally offensive",
+    "hindi": "अप्रिय, घृणित",
+    "trick": "DIS + TASTE — something not to your taste at all.",
+    "examples": [
+      "You may find it distasteful,",
+      "I found his rude jokes distasteful."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "find something distasteful / distasteful to someone",
+      "partners": [
+        "find it distasteful",
+        "distasteful joke",
+        "deeply distasteful"
       ]
     }
   },
@@ -3378,6 +4458,26 @@
     }
   },
   {
+    "word": "distorted",
+    "memory": "twisted out of shape",
+    "meaning": "Twisted or changed out of its normal shape; also changed so it is false",
+    "hindi": "विकृत, टेढ़ा-मेढ़ा; तोड़ा-मरोड़ा हुआ",
+    "trick": "DIS-TORT → TORTured into a bad shape",
+    "examples": [
+      "I just adore the sight of a distorted human face.",
+      "The mirror gave a distorted picture of my face."
+    ],
+    "usage": {
+      "pos": "adjective (past participle)",
+      "pattern": "a distorted + noun / be distorted",
+      "partners": [
+        "distorted face",
+        "distorted view",
+        "distorted sound"
+      ]
+    }
+  },
+  {
     "word": "distorting",
     "memory": "twisting",
     "meaning": "Changing something so it is no longer true or accurate",
@@ -3434,6 +4534,46 @@
         "in distress",
         "great distress",
         "cause distress"
+      ]
+    }
+  },
+  {
+    "word": "distressed",
+    "memory": "upset, worried",
+    "meaning": "Very upset or worried; also (of things) damaged or made to look old",
+    "hindi": "परेशान, व्यथित",
+    "trick": "DIS + STRESSED — full of STRESS.",
+    "examples": [
+      "Was it distressed? The sparrow?",
+      "The child was distressed after losing her toy."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be distressed by/about something",
+      "partners": [
+        "deeply distressed",
+        "distressed by the news",
+        "look distressed"
+      ]
+    }
+  },
+  {
+    "word": "distressing",
+    "memory": "upsetting",
+    "meaning": "Causing worry, sadness or pain",
+    "hindi": "परेशान करने वाला, दुखद",
+    "trick": "DI-STRESS-ing → gives you STRESS",
+    "examples": [
+      "No, of course not. Too distressing, right?",
+      "The news of the accident was very distressing."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be distressing (for someone) / a distressing + noun",
+      "partners": [
+        "distressing news",
+        "deeply distressing",
+        "a distressing experience"
       ]
     }
   },
@@ -3514,6 +4654,26 @@
         "get a divorce",
         "file for divorce",
         "messy divorce"
+      ]
+    }
+  },
+  {
+    "word": "divulge",
+    "memory": "reveal, disclose",
+    "meaning": "To tell information that is secret or private",
+    "hindi": "खुलासा करना, बताना",
+    "trick": "Di-VULGE → make it vulgar (public).",
+    "examples": [
+      "I don't have a name to divulge to a demon.",
+      "She refused to divulge her age."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "divulge something (to someone)",
+      "partners": [
+        "divulge a secret",
+        "divulge information",
+        "refuse to divulge"
       ]
     }
   },
@@ -3637,6 +4797,26 @@
     }
   },
   {
+    "word": "dodge",
+    "memory": "avoid quickly",
+    "meaning": "To move quickly to one side to avoid being hit; also avoid a duty or question",
+    "hindi": "बचना, चकमा देना",
+    "trick": "DODGE-ball — you DODGE the ball.",
+    "examples": [
+      "That temari will only swerve if I dodge it.",
+      "He dodged the question about his marks."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "dodge something (a ball, punch, question)",
+      "partners": [
+        "dodge a punch",
+        "dodge the question",
+        "dodge taxes"
+      ]
+    }
+  },
+  {
     "word": "dogma",
     "memory": "fixed beliefs",
     "meaning": "A set of beliefs that people must accept as true without question",
@@ -3692,6 +4872,26 @@
         "doled out food",
         "doled out money",
         "doled out advice"
+      ]
+    }
+  },
+  {
+    "word": "doll",
+    "memory": "toy figure of a person",
+    "meaning": "A child's toy shaped like a small person or baby",
+    "hindi": "गुड़िया",
+    "trick": "Barbie DOLL.",
+    "examples": [
+      "Though it was so feeble, the doll didn't even flinch!",
+      "My little sister plays with her doll every day."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "play with a doll",
+      "partners": [
+        "rag doll",
+        "play with dolls",
+        "doll house"
       ]
     }
   },
@@ -3791,6 +4991,26 @@
         "impending doom",
         "sense of doom",
         "doom and gloom"
+      ]
+    }
+  },
+  {
+    "word": "doomed",
+    "memory": "sure to suffer or fail",
+    "meaning": "Certain to suffer, die or fail; facing a bad fate",
+    "hindi": "अभिशप्त, बर्बाद होने को तय",
+    "trick": "DOOM-ed → your DOOM is already written",
+    "examples": [
+      "She's doomed to be consumed by fear for the rest of her life.",
+      "Without practice, the team was doomed to lose."
+    ],
+    "usage": {
+      "pos": "adjective (past participle)",
+      "pattern": "be doomed to (do) something / doomed from the start",
+      "partners": [
+        "doomed to fail",
+        "doomed from the start",
+        "a doomed love"
       ]
     }
   },
@@ -4051,6 +5271,26 @@
     }
   },
   {
+    "word": "downstairs",
+    "memory": "to a lower floor",
+    "meaning": "To or on a lower floor of a building",
+    "hindi": "नीचे की मंज़िल पर, नीचे",
+    "trick": "DOWN the STAIRS = downstairs.",
+    "examples": [
+      "It's fleeing downstairs!",
+      "Breakfast is ready, come downstairs."
+    ],
+    "usage": {
+      "pos": "adverb",
+      "pattern": "go/come/run downstairs",
+      "partners": [
+        "come downstairs",
+        "run downstairs",
+        "the downstairs bathroom"
+      ]
+    }
+  },
+  {
     "word": "doze",
     "memory": "nap lightly",
     "meaning": "To sleep lightly for a short time",
@@ -4128,6 +5368,26 @@
     }
   },
   {
+    "word": "dragging",
+    "memory": "pulling along",
+    "meaning": "Pulling something or someone along with effort; also going on too slowly",
+    "hindi": "घसीटना, खींचना",
+    "trick": "Drag → dragging a heavy bag on the floor.",
+    "examples": [
+      "My dormant senses have been rudely awakened and are dragging me forward.",
+      "She was dragging her suitcase through the station."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "drag someone/something somewhere / drag on",
+      "partners": [
+        "dragging me forward",
+        "dragging his feet",
+        "dragging on"
+      ]
+    }
+  },
+  {
     "word": "draggled",
     "memory": "wet, untidy",
     "meaning": "Wet, dirty and untidy, as if pulled through mud",
@@ -4144,6 +5404,26 @@
         "draggled hair",
         "draggled mustache",
         "draggled clothes"
+      ]
+    }
+  },
+  {
+    "word": "dragonfly",
+    "memory": "flying insect",
+    "meaning": "A long, thin insect with two pairs of clear wings that flies near water",
+    "hindi": "व्याध पतंग (पानी के पास उड़ने वाला कीड़ा)",
+    "trick": "DRAGON + FLY → a tiny flying dragon.",
+    "examples": [
+      "I wish I could become a dragonfly and soar like that!",
+      "A dragonfly landed on the pond."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a dragonfly + verb",
+      "partners": [
+        "blue dragonfly",
+        "dragonfly wings",
+        "catch a dragonfly"
       ]
     }
   },
@@ -4204,6 +5484,26 @@
         "draping the slopes",
         "draping a shawl",
         "draping over"
+      ]
+    }
+  },
+  {
+    "word": "drastic",
+    "memory": "extreme, severe",
+    "meaning": "Extreme and having a strong, sudden effect",
+    "hindi": "कठोर, भारी, आमूल",
+    "trick": "DRASTIC ≈ DRAMATIC + STICK → a big, extreme step.",
+    "examples": [
+      "But the fact that Lower Five made such a drastic move...",
+      "The company made drastic cuts to save money."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "a drastic + step/change/move",
+      "partners": [
+        "drastic measures",
+        "drastic change",
+        "drastic action"
       ]
     }
   },
@@ -4288,6 +5588,26 @@
     }
   },
   {
+    "word": "dreadful",
+    "memory": "terrible",
+    "meaning": "Very bad or unpleasant; causing fear",
+    "hindi": "भयानक, बहुत बुरा",
+    "trick": "DREAD + FUL → full of dread (fear).",
+    "examples": [
+      "It's so dreadful!",
+      "The weather was dreadful all week."
+    ],
+    "usage": {
+      "pos": "adjective",
+      "pattern": "be dreadful / a dreadful + noun",
+      "partners": [
+        "dreadful mistake",
+        "dreadful weather",
+        "feel dreadful"
+      ]
+    }
+  },
+  {
     "word": "dreading",
     "memory": "fearing, worrying about",
     "meaning": "Feeling very afraid or worried about something that may happen",
@@ -4304,6 +5624,46 @@
         "dreading the day",
         "dreading the news",
         "dreading going back"
+      ]
+    }
+  },
+  {
+    "word": "dreamed",
+    "memory": "imagined, thought possible",
+    "meaning": "Imagined or thought something possible (often 'never dreamed'); also saw pictures while sleeping",
+    "hindi": "सोचा, कल्पना की; सपना देखा",
+    "trick": "Never dreamed = not even in a sapna did I think it.",
+    "examples": [
+      "I never dreamed that my end would be this tranquil.",
+      "I dreamed about flying last night."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "never dreamed (that) + clause / dreamed of/about something",
+      "partners": [
+        "never dreamed",
+        "dreamed of becoming",
+        "dreamed about"
+      ]
+    }
+  },
+  {
+    "word": "dreamer",
+    "memory": "person who is dreaming; also an idealist",
+    "meaning": "A person who is dreaming; also someone with big ideas that may not be practical",
+    "hindi": "सपना देखने वाला; ख्याली पुलाव पकाने वाला",
+    "trick": "DREAM-er → one who dreams",
+    "examples": [
+      "Do that, and the dreamer will become crippled.",
+      "My little brother is a dreamer who wants to be an astronaut."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a dreamer / a born dreamer",
+      "partners": [
+        "a born dreamer",
+        "an idle dreamer",
+        "wake the dreamer"
       ]
     }
   },
@@ -4528,6 +5888,46 @@
     }
   },
   {
+    "word": "drivel",
+    "memory": "silly nonsense",
+    "meaning": "Silly talk or writing that makes no sense",
+    "hindi": "बकवास",
+    "trick": "DRIVEL ≈ dribble → words dribbling out without sense.",
+    "examples": [
+      "If you're going to spew such positive drivel...",
+      "Don't listen to that drivel."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "talk drivel / such drivel",
+      "partners": [
+        "talk drivel",
+        "utter drivel",
+        "sentimental drivel"
+      ]
+    }
+  },
+  {
+    "word": "drone",
+    "memory": "talk boringly on and on",
+    "meaning": "To talk for a long time in a dull, boring voice; also a low humming sound; also a flying machine without a pilot",
+    "hindi": "उबाऊ ढंग से बोलते रहना; भिनभिनाहट; ड्रोन",
+    "trick": "A drone (bee) hums the same boring note on and on.",
+    "examples": [
+      "While you drone on and on about trivial matters?",
+      "The teacher would drone on for an hour."
+    ],
+    "usage": {
+      "pos": "verb (also noun)",
+      "pattern": "drone on (and on) about something",
+      "partners": [
+        "drone on and on",
+        "the drone of traffic",
+        "fly a drone"
+      ]
+    }
+  },
+  {
     "word": "dronings-on",
     "memory": "dull boring talk",
     "meaning": "Long, dull talk in a flat voice that goes on and on",
@@ -4563,6 +5963,26 @@
         "wipe the drool",
         "drool over food",
         "covered in drool"
+      ]
+    }
+  },
+  {
+    "word": "drooling",
+    "memory": "dribbling spit",
+    "meaning": "Letting saliva run out of your mouth; also showing great desire for something",
+    "hindi": "लार टपकाना; ललचाना",
+    "trick": "DROOL ≈ 'drool-pool' → a pool of spit from the mouth.",
+    "examples": [
+      "Genya! You're drooling, okay? What's wrong?",
+      "The baby was drooling on my shirt."
+    ],
+    "usage": {
+      "pos": "verb (-ing)",
+      "pattern": "be drooling / drool over something",
+      "partners": [
+        "drooling over food",
+        "start drooling",
+        "drooling baby"
       ]
     }
   },
@@ -4643,6 +6063,26 @@
         "severe drought",
         "long drought",
         "drought-hit areas"
+      ]
+    }
+  },
+  {
+    "word": "drowned",
+    "memory": "died in water",
+    "meaning": "Died, or killed someone, by being under water and unable to breathe; also covered a sound",
+    "hindi": "डूब गया, डुबो दिया",
+    "trick": "Drown → down in the water.",
+    "examples": [
+      "My wife drowned herself the other day due to nursing fatigue.",
+      "The music drowned out their voices."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "drown (yourself) / be drowned out by something",
+      "partners": [
+        "drowned in the river",
+        "drowned out",
+        "nearly drowned"
       ]
     }
   },
@@ -4907,6 +6347,26 @@
     }
   },
   {
+    "word": "dumplings",
+    "memory": "small balls of dough",
+    "meaning": "Small balls of dough, sometimes filled with meat or vegetables, boiled or steamed",
+    "hindi": "पकौड़ी/मोमो जैसे आटे के गोले",
+    "trick": "DUMPLINGS ≈ momos",
+    "examples": [
+      "He's sitting on the veranda, eating rice dumplings.",
+      "We ate steamed dumplings at the food stall."
+    ],
+    "usage": {
+      "pos": "noun (plural)",
+      "pattern": "dumplings / steamed dumplings",
+      "partners": [
+        "rice dumplings",
+        "steamed dumplings",
+        "chicken dumplings"
+      ]
+    }
+  },
+  {
     "word": "dumpster",
     "memory": "big trash bin",
     "meaning": "A large metal container for rubbish (American)",
@@ -5143,6 +6603,26 @@
         "dwell on the past",
         "dwell on mistakes",
         "dwell in"
+      ]
+    }
+  },
+  {
+    "word": "dwindled",
+    "memory": "grew smaller",
+    "meaning": "Became gradually smaller or fewer",
+    "hindi": "घट गया, कम हो गया",
+    "trick": "DWINDLE ≈ 'dwarf + dwindle' → shrinking down.",
+    "examples": [
+      "Demon sightings have dwindled considerably.",
+      "Our savings dwindled over the year."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "something dwindled (to something)",
+      "partners": [
+        "dwindled away",
+        "dwindled to nothing",
+        "numbers dwindled"
       ]
     }
   },

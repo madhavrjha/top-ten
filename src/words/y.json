@@ -1,5 +1,45 @@
 [
   {
+    "word": "yam",
+    "memory": "starchy root vegetable",
+    "meaning": "A starchy root vegetable eaten cooked, like a large potato",
+    "hindi": "रतालू, जिमीकंद",
+    "trick": "YAM → 'yum' root vegetable.",
+    "examples": [
+      "A bowl of udon with grated yam on top, please.",
+      "She baked a sweet yam for dinner."
+    ],
+    "usage": {
+      "pos": "noun",
+      "pattern": "a yam / grated/boiled yam",
+      "partners": [
+        "sweet yam",
+        "boiled yam",
+        "grated yam"
+      ]
+    }
+  },
+  {
+    "word": "yammering",
+    "memory": "nonstop complaining talk",
+    "meaning": "Talking loudly and continuously, often complaining (informal)",
+    "hindi": "बक-बक, लगातार शिकायत (बोलचाल)",
+    "trick": "YAMMER — 'yam yam yam' — mouth never stops.",
+    "examples": [
+      "All this constant yammering about dying...",
+      "Stop yammering and help me."
+    ],
+    "usage": {
+      "pos": "noun / verb (-ing, informal)",
+      "pattern": "yammer about something / yammer on",
+      "partners": [
+        "constant yammering",
+        "yammering about",
+        "yammering on"
+      ]
+    }
+  },
+  {
     "word": "yanked",
     "memory": "pulled hard",
     "meaning": "Pulled something suddenly and hard",
@@ -140,6 +180,46 @@
     }
   },
   {
+    "word": "yearn",
+    "memory": "long for, deeply want",
+    "meaning": "To want something very strongly, especially something hard to get",
+    "hindi": "तरसना, लालसा करना",
+    "trick": "YEARN ≈ 'year' → waiting a whole year for something you long for.",
+    "examples": [
+      "Enough to make her yearn for death.",
+      "Many city people yearn for a quiet life."
+    ],
+    "usage": {
+      "pos": "verb",
+      "pattern": "yearn for something / yearn to do something",
+      "partners": [
+        "yearn for home",
+        "yearn for freedom",
+        "yearn to travel"
+      ]
+    }
+  },
+  {
+    "word": "yelled",
+    "memory": "shouted",
+    "meaning": "Shouted loudly, often in anger or excitement",
+    "hindi": "चिल्लाया, डाँटा",
+    "trick": "YELL → a loud 'yell-oh!'",
+    "examples": [
+      "I get yelled at for not bracing my stomach.",
+      "She yelled at the kids to stop running."
+    ],
+    "usage": {
+      "pos": "verb (past)",
+      "pattern": "yell at someone / get yelled at",
+      "partners": [
+        "yelled at",
+        "yelled for help",
+        "yelled loudly"
+      ]
+    }
+  },
+  {
     "word": "yelp",
     "memory": "short sharp cry",
     "meaning": "A short, sharp, high cry of pain, fear or surprise",
@@ -196,6 +276,46 @@
         "the yin and yang of life",
         "perfect yin and yang",
         "like yin and yang"
+      ]
+    }
+  },
+  {
+    "word": "yourselves",
+    "memory": "you all (yourself plural)",
+    "meaning": "The plural of \"yourself\"; used when \"you\" means more than one person",
+    "hindi": "आप लोग स्वयं, तुम सब खुद",
+    "trick": "yourSELF → many selves → yourSELVES",
+    "examples": [
+      "Prostrate yourselves.",
+      "Help yourselves to some snacks, kids."
+    ],
+    "usage": {
+      "pos": "pronoun (plural)",
+      "pattern": "help yourselves / enjoy yourselves / by yourselves",
+      "partners": [
+        "help yourselves",
+        "enjoy yourselves",
+        "by yourselves"
+      ]
+    }
+  },
+  {
+    "word": "yummy",
+    "memory": "tasty, delicious",
+    "meaning": "Informal: very tasty",
+    "hindi": "स्वादिष्ट (बोलचाल)",
+    "trick": "YUM-YUM → yummy.",
+    "examples": [
+      "Isn't it mind-bogglingly yummy?",
+      "This chocolate cake is so yummy!"
+    ],
+    "usage": {
+      "pos": "adjective (informal)",
+      "pattern": "be yummy / a yummy + noun",
+      "partners": [
+        "yummy food",
+        "so yummy",
+        "yummy treat"
       ]
     }
   }
