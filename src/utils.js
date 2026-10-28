@@ -70,3 +70,28 @@ export function clearSavedData() {
     return false;
   }
 }
+
+// Backup of every vocab.* key, as { app, version, exported, data: { key: raw string } }.
+export function exportSavedData() {
+  const data = {};
+  for (const k of Object.keys(localStorage).filter(k => k.startsWith('vocab.')).sort()) {
+    data[k] = localStorage.getItem(k);
+  }
+  return { app: 'vocab-trainer', version: 1, exported: new Date().toISOString(), data };
+}
+
+// Checks a parsed backup file; returns its vocab.* entries or throws with a readable message.
+export function readBackup(backup) {
+  if (!backup || backup.app !== 'vocab-trainer' || typeof backup.data !== 'object' || !backup.data) {
+    throw new Error("This file isn't a Vocab Trainer backup.");
+  }
+  const entries = Object.entries(backup.data).filter(([k, v]) => k.startsWith('vocab.') && typeof v === 'string');
+  if (!entries.length) throw new Error('This backup has no saved data in it.');
+  return entries;
+}
+
+// Replaces all vocab.* keys with the backup's entries (from readBackup).
+export function importSavedData(entries) {
+  clearSavedData();
+  for (const [k, v] of entries) localStorage.setItem(k, v);
+}

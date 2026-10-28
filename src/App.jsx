@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { WORDS } from './words.js';
-import { clearSavedData } from './utils.js';
+import { clearSavedData, exportSavedData, readBackup, importSavedData, today as todayDate } from './utils.js';
 import { buildSet } from './sets.js';
 import { loadStages, saveStages, setStage, gradeReview, undoReviews, isDue, reviewedToday, dueLabel } from './stages.js';
 import { loadSpell } from './spellProgress.js';
@@ -122,6 +122,43 @@ export default function App() {
     setToast('Saved data cleared.');
   };
 
+  // Downloads every vocab.* key as a JSON file.
+  const exportData = () => {
+    try {
+      const blob = new Blob([JSON.stringify(exportSavedData(), null, 2)], { type: 'application/json' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = `vocab-backup-${todayDate()}.json`;
+      a.click();
+      URL.revokeObjectURL(url);
+      setToast('Backup downloaded.');
+    } catch {
+      setToast("Couldn't export — this browser is blocking storage (private mode?).");
+    }
+  };
+
+  // Replaces this browser's saved data with a backup file, then reloads so every screen picks it up.
+  const importData = async file => {
+    let entries, backup;
+    try {
+      backup = JSON.parse(await file.text());
+      entries = readBackup(backup);
+    } catch (e) {
+      setToast(e instanceof SyntaxError ? "This file isn't valid JSON." : e.message);
+      return;
+    }
+    const when = backup.exported ? ` from ${new Date(backup.exported).toLocaleString()}` : '';
+    if (!window.confirm(`Import the backup${when}? It replaces all saved data in this browser (stages, study sets, progress, voice).`)) return;
+    try {
+      importSavedData(entries);
+    } catch {
+      setToast("Couldn't import — this browser is blocking storage (private mode?).");
+      return;
+    }
+    window.location.reload();
+  };
+
   // A practice set is a filter over stage, letter and rarity (see sets.js).
   const stageOfWord = useCallback(w => stages[w.lower]?.stage || 'new', [stages]);
   const practiceSet = useMemo(
@@ -233,6 +270,8 @@ export default function App() {
           onOpenShow={slug => navigate(`/show/${slug}`)}
           onClearToday={clearProgress}
           onClearData={clearData}
+          onExport={exportData}
+          onImport={importData}
           dataVersion={dataVersion}
           hasWords={WORDS.length > 0}
         />

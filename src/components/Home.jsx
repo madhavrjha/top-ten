@@ -1,12 +1,14 @@
+import { useRef } from 'react';
 import SetPicker from './SetPicker.jsx';
 import VoicePicker from './VoicePicker.jsx';
 import Today from './Today.jsx';
 import { stageInfo } from '../stages.js';
 
 export default function Home({
-  picker, onSetChange, practiceSet, quizSaved, onPick, today, shows, onOpenShow, onClearToday, onClearData, dataVersion,
-  hasWords,
+  picker, onSetChange, practiceSet, quizSaved, onPick, today, shows, onOpenShow, onClearToday, onClearData, onExport,
+  onImport, dataVersion, hasWords,
 }) {
+  const fileInput = useRef(null);
   const count = practiceSet.words.length;
 
   return (
@@ -61,11 +63,26 @@ export default function Home({
       <div className="saved-data">
         <p className="muted small-text">
           Word stages, review dates, today's progress, spelling progress, voice and last set are saved in this
-          browser only.
+          browser only. Export a backup to move it to another device or browser, then Import it there.
         </p>
         <div className="row-left">
           <button type="button" className="ghost" onClick={onClearToday}>Clear today's progress</button>
           <button type="button" className="ghost danger" onClick={onClearData}>Clear all saved data</button>
+        </div>
+        <div className="row-left">
+          <button type="button" className="ghost" onClick={onExport}>⬇️ Export backup</button>
+          <button type="button" className="ghost" onClick={() => fileInput.current.click()}>⬆️ Import backup</button>
+          <input
+            ref={fileInput}
+            type="file"
+            accept="application/json,.json"
+            hidden
+            onChange={e => {
+              const file = e.target.files[0];
+              e.target.value = ''; // so picking the same file again still fires
+              if (file) onImport(file);
+            }}
+          />
         </div>
       </div>
     </section>

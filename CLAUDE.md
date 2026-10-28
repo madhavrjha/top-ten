@@ -126,7 +126,9 @@ brought back on request. When the stages arrived, every word was reset to New.
   new UI on the colour tokens so dark mode stays good.
 - **Home**: filter panel → **Pick the meaning**, **Spell the word** or
   **Browse words**; voice picker; **Clear today's progress** and **Clear all saved data** (removes all
-  `vocab.*` localStorage keys after a confirm).
+  `vocab.*` localStorage keys after a confirm); **Export backup** (downloads `vocab-backup-<date>.json` =
+  `{ app: 'vocab-trainer', version, exported, data: { "vocab.*": raw string } }`) and **Import backup** (checks the
+  file, confirms, replaces all `vocab.*` keys, reloads the page). Helpers in `utils.js`.
 - **Pick the meaning** (multiple choice, `Quiz` with `mode="pick"`): see the word, choose its meaning from 4
   (wrong options have different meanings); keys 1–4, P before answering. Same requeue, stage chips and
   saved progress as Spell, stored in `vocab.spell` under `pick:<setId>`.
